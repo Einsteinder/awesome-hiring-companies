@@ -19985,3 +19985,27 @@
   - open
   sources:
   - https://jobs.lever.co/whereby
+
+- name: Whisk
+  slug: whisk
+  domain: whisk.com
+  careers_url: https://jobs.ashbyhq.com/whisk
+  category: open-source-and-platform
+  ats:
+    ashby: whisk
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/whisk
+
+- name: Zero
+  slug: zero
+  domain: zero.com
+  careers_url: https://jobs.ashbyhq.com/zero
+  category: open-source-and-platform
+  ats:
+    ashby: zero
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/zero

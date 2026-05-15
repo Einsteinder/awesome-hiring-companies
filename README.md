@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1498 companies**.
+Currently tracking **1500 companies**.
 
 This repository is designed for two uses:
 
@@ -1554,6 +1554,8 @@ Open source video player (video.js)
 - [Vitally](https://vitally.com) - Hiring via Ashby (vitally).
 - [Walrus](https://walrus.com) - Hiring via Ashby (walrus).
 - [Whereby](https://whereby.com) - Hiring via Lever (whereby).
+- [Whisk](https://whisk.com) - Hiring via Ashby (whisk).
+- [Zero](https://zero.com) - Hiring via Ashby (zero).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
