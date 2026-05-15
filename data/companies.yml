@@ -17105,3 +17105,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/mandolin
+
+- name: Metamorphic
+  slug: metamorphic
+  domain: metamorphic.com
+  careers_url: https://jobs.ashbyhq.com/metamorphic
+  category: open-source-and-platform
+  ats:
+    ashby: metamorphic
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/metamorphic
+
+- name: Mindful
+  slug: mindful
+  domain: mindful.com
+  careers_url: https://jobs.lever.co/mindful
+  category: open-source-and-platform
+  ats:
+    lever: mindful
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/mindful
+
+- name: Outsmart
+  slug: outsmart
+  domain: outsmart.com
+  careers_url: https://jobs.ashbyhq.com/outsmart
+  category: open-source-and-platform
+  ats:
+    ashby: outsmart
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/outsmart
+
+- name: Qualified
+  slug: qualified
+  domain: qualified.com
+  careers_url: https://jobs.ashbyhq.com/qualified
+  category: open-source-and-platform
+  ats:
+    ashby: qualified
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/qualified
+
+- name: Seneca
+  slug: seneca
+  domain: seneca.com
+  careers_url: https://jobs.ashbyhq.com/seneca
+  category: open-source-and-platform
+  ats:
+    ashby: seneca
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/seneca
+
+- name: Somethings
+  slug: somethings
+  domain: somethings.com
+  careers_url: https://jobs.ashbyhq.com/somethings
+  category: open-source-and-platform
+  ats:
+    ashby: somethings
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/somethings
+
+- name: Sunrise
+  slug: sunrise
+  domain: sunrise.com
+  careers_url: https://jobs.ashbyhq.com/sunrise
+  category: open-source-and-platform
+  ats:
+    ashby: sunrise
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/sunrise
+
+- name: Ideogram
+  slug: ideogram
+  domain: ideogram.com
+  careers_url: https://jobs.ashbyhq.com/ideogram
+  category: open-source-and-platform
+  ats:
+    ashby: ideogram
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/ideogram
+
+- name: Liquid
+  slug: liquid
+  domain: liquid.com
+  careers_url: https://jobs.ashbyhq.com/liquid
+  category: open-source-and-platform
+  ats:
+    ashby: liquid
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/liquid
+
+- name: Mainstay
+  slug: mainstay
+  domain: mainstay.com
+  careers_url: https://jobs.ashbyhq.com/mainstay
+  category: open-source-and-platform
+  ats:
+    ashby: mainstay
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/mainstay

@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1258 companies**.
+Currently tracking **1268 companies**.
 
 This repository is designed for two uses:
 
@@ -1314,6 +1314,16 @@ Open source video player (video.js)
 - [Virtuous](https://virtuous.com) - Hiring via Ashby (virtuous).
 - [Zilch](https://zilch.com) - Hiring via Ashby (zilch).
 - [Mandolin](https://mandolin.com) - Hiring via Ashby (mandolin).
+- [Metamorphic](https://metamorphic.com) - Hiring via Ashby (metamorphic).
+- [Mindful](https://mindful.com) - Hiring via Lever (mindful).
+- [Outsmart](https://outsmart.com) - Hiring via Ashby (outsmart).
+- [Qualified](https://qualified.com) - Hiring via Ashby (qualified).
+- [Seneca](https://seneca.com) - Hiring via Ashby (seneca).
+- [Somethings](https://somethings.com) - Hiring via Ashby (somethings).
+- [Sunrise](https://sunrise.com) - Hiring via Ashby (sunrise).
+- [Ideogram](https://ideogram.com) - Hiring via Ashby (ideogram).
+- [Liquid](https://liquid.com) - Hiring via Ashby (liquid).
+- [Mainstay](https://mainstay.com) - Hiring via Ashby (mainstay).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
