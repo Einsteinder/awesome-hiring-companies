@@ -11549,3 +11549,149 @@
   - machine-learning
   sources:
   - https://boards.greenhouse.io/medium
+
+- name: Agave
+  slug: agave
+  domain: useagave.com
+  careers_url: https://jobs.ashbyhq.com/agave
+  category: ai-and-data
+  ats:
+    ashby: agave
+  tags:
+  - b2b
+  - saas
+  - construction
+  - proptech
+  sources:
+  - https://jobs.ashbyhq.com/agave
+
+- name: Phase Biolabs
+  slug: phase-biolabs
+  domain: phasebiolabs.com
+  careers_url: https://jobs.ashbyhq.com/phasebiolabs
+  category: open-source-and-platform
+  ats:
+    ashby: phasebiolabs
+  tags:
+  - industrials
+  - industrials-climate
+  - climate
+  sources:
+  - https://jobs.ashbyhq.com/phasebiolabs
+
+- name: Strong Compute
+  slug: strong-compute
+  domain: strongcompute.com
+  careers_url: https://jobs.lever.co/strongcompute
+  category: ai-and-data
+  ats:
+    lever: strongcompute
+  tags:
+  - b2b
+  - artificial-intelligence
+  - machine-learning
+  - cloud-computing
+  sources:
+  - https://jobs.lever.co/strongcompute
+
+- name: Stream
+  slug: stream
+  domain: stream.claims
+  careers_url: https://jobs.ashbyhq.com/stream
+  category: fintech
+  ats:
+    ashby: stream
+  tags:
+  - fintech
+  - fintech-insurance
+  - saas
+  - b2b
+  sources:
+  - https://jobs.ashbyhq.com/stream
+
+- name: Boostly
+  slug: boostly
+  domain: boostly.com
+  careers_url: https://jobs.ashbyhq.com/boostly
+  category: developer-infrastructure
+  ats:
+    ashby: boostly
+  tags:
+  - b2b
+  - b2b-marketing
+  - saas
+  - messaging
+  sources:
+  - https://jobs.ashbyhq.com/boostly
+
+- name: Craze
+  slug: craze
+  domain: crazehq.com
+  careers_url: https://jobs.ashbyhq.com/craze
+  category: ai-and-data
+  ats:
+    ashby: craze
+  tags:
+  - b2b
+  - b2b-productivity
+  - ai
+  sources:
+  - https://jobs.ashbyhq.com/craze
+
+- name: Aragorn AI
+  slug: aragorn-ai
+  domain: aragorn.ai
+  careers_url: https://jobs.ashbyhq.com/aragorn
+  category: ai-and-data
+  ats:
+    ashby: aragorn
+  tags:
+  - b2b
+  - b2b-human-resources
+  sources:
+  - https://jobs.ashbyhq.com/aragorn
+
+- name: Reflex
+  slug: reflex
+  domain: reflex.dev
+  careers_url: https://boards.greenhouse.io/reflex
+  category: developer-infrastructure
+  ats:
+    greenhouse: reflex
+  tags:
+  - b2b
+  - b2b-infrastructure
+  - artificial-intelligence
+  - developer-tools
+  sources:
+  - https://boards.greenhouse.io/reflex
+
+- name: Nango
+  slug: nango
+  domain: nango.dev
+  careers_url: https://jobs.ashbyhq.com/nango
+  category: developer-infrastructure
+  ats:
+    ashby: nango
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - developer-tools
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/nango
+
+- name: Coperniq
+  slug: coperniq
+  domain: coperniq.io
+  careers_url: https://jobs.ashbyhq.com/coperniq
+  category: consumer-and-marketplace
+  ats:
+    ashby: coperniq
+  tags:
+  - b2b
+  - b2b-supply-chain-and-logistics
+  - saas
+  - solar-power
+  sources:
+  - https://jobs.ashbyhq.com/coperniq

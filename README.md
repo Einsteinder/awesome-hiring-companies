@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **800 companies**.
+Currently tracking **810 companies**.
 
 This repository is designed for two uses:
 
@@ -856,6 +856,16 @@ Open source video player (video.js)
 - [Dots 💸](https://usedots.com) - Developer friendly drop in payouts infrastructure
 - [Malga](https://malga.io) - Malga is an API to accept payments with multiple payment providers
 - [Medium Biosciences](https://medium.bio) - AI-designed Affinity Reagents
+- [Agave](https://useagave.com) - AI Financial Operations for Construction
+- [Phase Biolabs](https://phasebiolabs.com) - We make carbon negative chemicals from CO2 using fermentation
+- [Strong Compute](https://strongcompute.com) - 10x-1000x faster compute for Neural Network training
+- [Stream](https://stream.claims) - The AI Claims Workbench automating insurance claims
+- [Boostly](https://boostly.com) - Premier growth platform for restaurants
+- [Craze](https://crazehq.com) - Get anything done with all the right AI models, apps & agents for you
+- [Aragorn AI](https://aragorn.ai) - Operating system for HR in the AI era
+- [Reflex](https://reflex.dev) - The operating system for building mission-critical enterprise apps.
+- [Nango](https://nango.dev) - A single API for all your integrations
+- [Coperniq](https://coperniq.io) - Workflow software for solar & energy contractors ☀️😎
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
