@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1730 companies**.
+Currently tracking **1740 companies**.
 
 This repository is designed for two uses:
 
@@ -1786,6 +1786,16 @@ Open source video player (video.js)
 - [Visia](https://visia.com) - Hiring via Greenhouse (visia).
 - [Box](https://box.com) - Hiring via Greenhouse (boxinc).
 - [Zup Innovation](https://zupinnovation.com) - Hiring via Greenhouse (zupinnovation).
+- [Muck Rack](https://muckrack.com) - Hiring via Greenhouse (muckrack).
+- [Employment Opportunities at BuzzFeed, Inc.](https://employmentopportunitiesatbuzzfeedinc.com) - Hiring via Greenhouse (buzzfeed).
+- [ProPublica](https://propublica.com) - Hiring via Greenhouse (propublica).
+- [Cabify](https://cabify.com) - Hiring via Greenhouse (cabify).
+- [BrainStation](https://brainstation.com) - Hiring via Greenhouse (brainstation).
+- [Coursera](https://coursera.com) - Hiring via Greenhouse (coursera).
+- [PlanetScale](https://planetscale.com) - Hiring via Greenhouse (planetscale).
+- [Truffle Security](https://trufflesecurity.com) - Hiring via Greenhouse (trufflesecurity).
+- [Vast](https://vast.com) - Hiring via Greenhouse (vast).
+- [Metron](https://metron.com) - Hiring via Greenhouse (metron).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

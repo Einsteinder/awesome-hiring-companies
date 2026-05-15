@@ -22769,3 +22769,123 @@
   - open
   sources:
   - https://boards.greenhouse.io/zupinnovation
+
+- name: Muck Rack
+  slug: muck-rack
+  domain: muckrack.com
+  careers_url: https://boards.greenhouse.io/muckrack
+  category: open-source-and-platform
+  ats:
+    greenhouse: muckrack
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/muckrack
+
+- name: Employment Opportunities at BuzzFeed, Inc.
+  slug: employment-opportunities-at-buzzfeed-inc
+  domain: employmentopportunitiesatbuzzfeedinc.com
+  careers_url: https://boards.greenhouse.io/buzzfeed
+  category: open-source-and-platform
+  ats:
+    greenhouse: buzzfeed
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/buzzfeed
+
+- name: ProPublica
+  slug: propublica
+  domain: propublica.com
+  careers_url: https://boards.greenhouse.io/propublica
+  category: open-source-and-platform
+  ats:
+    greenhouse: propublica
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/propublica
+
+- name: Cabify
+  slug: cabify
+  domain: cabify.com
+  careers_url: https://boards.greenhouse.io/cabify
+  category: open-source-and-platform
+  ats:
+    greenhouse: cabify
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/cabify
+
+- name: BrainStation
+  slug: brainstation
+  domain: brainstation.com
+  careers_url: https://boards.greenhouse.io/brainstation
+  category: open-source-and-platform
+  ats:
+    greenhouse: brainstation
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/brainstation
+
+- name: Coursera
+  slug: coursera
+  domain: coursera.com
+  careers_url: https://boards.greenhouse.io/coursera
+  category: open-source-and-platform
+  ats:
+    greenhouse: coursera
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/coursera
+
+- name: PlanetScale
+  slug: planetscale
+  domain: planetscale.com
+  careers_url: https://boards.greenhouse.io/planetscale
+  category: open-source-and-platform
+  ats:
+    greenhouse: planetscale
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/planetscale
+
+- name: Truffle Security
+  slug: truffle-security
+  domain: trufflesecurity.com
+  careers_url: https://boards.greenhouse.io/trufflesecurity
+  category: open-source-and-platform
+  ats:
+    greenhouse: trufflesecurity
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/trufflesecurity
+
+- name: Vast
+  slug: vast
+  domain: vast.com
+  careers_url: https://boards.greenhouse.io/vast
+  category: open-source-and-platform
+  ats:
+    greenhouse: vast
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/vast
+
+- name: Metron
+  slug: metron
+  domain: metron.com
+  careers_url: https://boards.greenhouse.io/metron
+  category: open-source-and-platform
+  ats:
+    greenhouse: metron
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/metron
