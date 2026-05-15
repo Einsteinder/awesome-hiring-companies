@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **430 companies**.
+Currently tracking **440 companies**.
 
 This repository is designed for two uses:
 
@@ -485,6 +485,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [Embrace](https://embrace.io) - Modern mobile observability built on OpenTelemetry
 - [Blissway](https://blissway.com) - The tolling industry’s prime tech infrastructure
 - [Vitable Health](https://vitablehealth.com) - Affordable care via ICHRA and primary care with visits, meds, labs…
+- [Farel](https://farel.io) - Next-gen airline OS
+- [LiveFlow](https://liveflow.com) - The Unified AI-ERP & FP&A Platform
+- [Prospa](https://getprospa.com) - Banking for businesses
+- [Journey](https://journey.io) - No code platform for sales to tell better stories and win more deals.
+- [Lago](https://getlago.com) - The AI Native Billing Platform
+- [Tavus](https://tavus.io) - Building the human layer of AI
+- [Double](https://doublehq.com) - We make software for bookkeepers.
+- [Hubble Network](https://hubble.com) - Bluetooth to Space
+- [GovDash](https://govdash.com) - AI platform to win and run government contracts
+- [Reality Defender](https://realitydefender.com) - Enterprise Deepfake Detection
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

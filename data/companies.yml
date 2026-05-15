@@ -6200,3 +6200,151 @@
   - health-insurance
   sources:
   - https://boards.greenhouse.io/vitablehealth
+
+- name: Farel
+  slug: farel
+  domain: farel.io
+  careers_url: https://jobs.ashbyhq.com/farel
+  category: developer-infrastructure
+  ats:
+    ashby: farel
+  tags:
+  - b2b
+  - b2b-operations
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/farel
+
+- name: LiveFlow
+  slug: liveflow
+  domain: liveflow.com
+  careers_url: https://jobs.ashbyhq.com/liveflow
+  category: ai-and-data
+  ats:
+    ashby: liveflow
+  tags:
+  - b2b
+  - b2b-finance-and-accounting
+  - finance
+  - ai
+  sources:
+  - https://jobs.ashbyhq.com/liveflow
+
+- name: Prospa
+  slug: prospa
+  domain: getprospa.com
+  careers_url: https://boards.greenhouse.io/prospa
+  category: fintech
+  ats:
+    greenhouse: prospa
+  tags:
+  - fintech
+  - fintech-banking-and-exchange
+  - b2b
+  sources:
+  - https://boards.greenhouse.io/prospa
+
+- name: Journey
+  slug: journey
+  domain: journey.io
+  careers_url: https://boards.greenhouse.io/journey
+  category: developer-infrastructure
+  ats:
+    greenhouse: journey
+  tags:
+  - b2b
+  - b2b-sales
+  - saas
+  - ai
+  sources:
+  - https://boards.greenhouse.io/journey
+
+- name: Lago
+  slug: lago
+  domain: getlago.com
+  careers_url: https://jobs.ashbyhq.com/lago
+  category: fintech
+  ats:
+    ashby: lago
+  tags:
+  - b2b
+  - b2b-finance-and-accounting
+  - finops
+  - fintech
+  sources:
+  - https://jobs.ashbyhq.com/lago
+
+- name: Tavus
+  slug: tavus
+  domain: tavus.io
+  careers_url: https://jobs.ashbyhq.com/tavus
+  category: ai-and-data
+  ats:
+    ashby: tavus
+  tags:
+  - b2b
+  - generative-ai
+  - video
+  - infrastructure
+  sources:
+  - https://jobs.ashbyhq.com/tavus
+
+- name: Double
+  slug: double
+  domain: doublehq.com
+  careers_url: https://jobs.ashbyhq.com/double
+  category: fintech
+  ats:
+    ashby: double
+  tags:
+  - b2b
+  - b2b-finance-and-accounting
+  - fintech
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/double
+
+- name: Hubble Network
+  slug: hubble-network
+  domain: hubble.com
+  careers_url: https://boards.greenhouse.io/hubblenetwork
+  category: developer-infrastructure
+  ats:
+    greenhouse: hubblenetwork
+  tags:
+  - industrials
+  - industrials-aviation-and-space
+  - developer-tools
+  - hard-tech
+  sources:
+  - https://boards.greenhouse.io/hubblenetwork
+
+- name: GovDash
+  slug: govdash
+  domain: govdash.com
+  careers_url: https://jobs.ashbyhq.com/govdash
+  category: ai-and-data
+  ats:
+    ashby: govdash
+  tags:
+  - government
+  - artificial-intelligence
+  - generative-ai
+  - govtech
+  sources:
+  - https://jobs.ashbyhq.com/govdash
+
+- name: Reality Defender
+  slug: reality-defender
+  domain: realitydefender.com
+  careers_url: https://jobs.ashbyhq.com/realitydefender
+  category: developer-infrastructure
+  ats:
+    ashby: realitydefender
+  tags:
+  - b2b
+  - b2b-security
+  - artificial-intelligence
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/realitydefender
