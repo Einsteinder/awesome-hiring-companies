@@ -4759,3 +4759,148 @@
   - telehealth
   sources:
   - https://jobs.lever.co/synapticure
+
+- name: Bree
+  slug: bree
+  domain: trybree.com
+  careers_url: https://jobs.ashbyhq.com/bree
+  category: fintech
+  ats:
+    ashby: bree
+  tags:
+  - fintech
+  - fintech-consumer-finance
+  sources:
+  - https://jobs.ashbyhq.com/bree
+
+- name: Posh
+  slug: posh
+  domain: poshenergy.com
+  careers_url: https://jobs.ashbyhq.com/posh
+  category: open-source-and-platform
+  ats:
+    ashby: posh
+  tags:
+  - industrials
+  - industrials-climate
+  - energy-storage
+  sources:
+  - https://jobs.ashbyhq.com/posh
+
+- name: Concourse
+  slug: concourse
+  domain: concourse.co
+  careers_url: https://jobs.ashbyhq.com/concourse
+  category: fintech
+  ats:
+    ashby: concourse
+  tags:
+  - b2b
+  - b2b-finance-and-accounting
+  - artificial-intelligence
+  - fintech
+  sources:
+  - https://jobs.ashbyhq.com/concourse
+
+- name: PointOne
+  slug: pointone
+  domain: pointone.com
+  careers_url: https://jobs.ashbyhq.com/pointone
+  category: developer-infrastructure
+  ats:
+    ashby: pointone
+  tags:
+  - b2b
+  - b2b-infrastructure
+  - saas
+  - legal
+  sources:
+  - https://jobs.ashbyhq.com/pointone
+
+- name: Artisan
+  slug: artisan
+  domain: artisan.co
+  careers_url: https://jobs.ashbyhq.com/artisan
+  category: ai-and-data
+  ats:
+    ashby: artisan
+  tags:
+  - b2b
+  - sales
+  - automation
+  - ai
+  sources:
+  - https://jobs.ashbyhq.com/artisan
+
+- name: Sensei
+  slug: sensei
+  domain: senseirobotics.com
+  careers_url: https://boards.greenhouse.io/sensei
+  category: ai-and-data
+  ats:
+    greenhouse: sensei
+  tags:
+  - industrials
+  - industrials-manufacturing-and-robotics
+  - artificial-intelligence
+  - hard-tech
+  sources:
+  - https://boards.greenhouse.io/sensei
+
+- name: Auctor
+  slug: auctor
+  domain: getauctor.com
+  careers_url: https://jobs.ashbyhq.com/auctor
+  category: ai-and-data
+  ats:
+    ashby: auctor
+  tags:
+  - b2b
+  - generative-ai
+  - saas
+  - productivity
+  sources:
+  - https://jobs.ashbyhq.com/auctor
+
+- name: Eloquent AI
+  slug: eloquent-ai
+  domain: eloquentai.co
+  careers_url: https://jobs.ashbyhq.com/eloquentai
+  category: ai-and-data
+  ats:
+    ashby: eloquentai
+  tags:
+  - b2b
+  - fintech
+  - enterprise
+  - ai
+  sources:
+  - https://jobs.ashbyhq.com/eloquentai
+
+- name: Fulcrum
+  slug: fulcrum
+  domain: fulcrumresearch.ai
+  careers_url: https://jobs.ashbyhq.com/fulcrum
+  category: ai-and-data
+  ats:
+    ashby: fulcrum
+  tags:
+  - b2b
+  - b2b-analytics
+  sources:
+  - https://jobs.ashbyhq.com/fulcrum
+
+- name: Ginkgo Bioworks
+  slug: ginkgo-bioworks
+  domain: ginkgobioworks.com
+  careers_url: https://boards.greenhouse.io/ginkgobioworks
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: ginkgobioworks
+  tags:
+  - healthcare
+  - healthcare-industrial-bio
+  - synthetic-biology
+  - diagnostics
+  sources:
+  - https://boards.greenhouse.io/ginkgobioworks

@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **330 companies**.
+Currently tracking **340 companies**.
 
 This repository is designed for two uses:
 
@@ -385,6 +385,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [Junction](https://junction.com) - API for at-home health data
 - [AtoB](https://atob.com) - Modernizing global transportation payments.
 - [Synapticure](https://synapticure.com) - We deliver personalized medicine for neurodegenerative  patients
+- [Bree](https://trybree.com) - Chime for Canada, starting with cash advances
+- [Posh](https://poshenergy.com) - Rapidly deployable energy solutions for modern commercial and…
+- [Concourse](https://concourse.co) - AI Agents for corporate finance teams
+- [PointOne](https://pointone.com) - AI Time Platform for Law Firms
+- [Artisan](https://artisan.co) - AI employees called Artisans, starting with an AI BDR
+- [Sensei](https://senseirobotics.com) - Robotic Training Data at Scale
+- [Auctor](https://getauctor.com) - The agentic operating system for modern system integrators.
+- [Eloquent AI](https://eloquentai.co) - The AI Operator for Financial Services
+- [Fulcrum](https://fulcrumresearch.ai) - The agentic debugger for AI systems
+- [Ginkgo Bioworks](https://ginkgobioworks.com) - Our mission is to make biology easier to engineer.
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
