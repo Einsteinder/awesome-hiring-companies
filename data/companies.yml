@@ -11111,3 +11111,147 @@
   - healthcare
   sources:
   - https://boards.greenhouse.io/nucleo
+
+- name: Clerky
+  slug: clerky
+  domain: clerky.com
+  careers_url: https://jobs.ashbyhq.com/clerky
+  category: open-source-and-platform
+  ats:
+    ashby: clerky
+  tags:
+  - b2b
+  - b2b-legal
+  - documents
+  - legal
+  sources:
+  - https://jobs.ashbyhq.com/clerky
+
+- name: Plivo
+  slug: plivo
+  domain: plivo.com
+  careers_url: https://jobs.lever.co/plivo
+  category: ai-and-data
+  ats:
+    lever: plivo
+  tags:
+  - b2b
+  - sms
+  - ai
+  - ai-assistant
+  sources:
+  - https://jobs.lever.co/plivo
+
+- name: True Link
+  slug: true-link
+  domain: truelinkfinancial.com
+  careers_url: https://jobs.ashbyhq.com/truelinkfinancial
+  category: fintech
+  ats:
+    ashby: truelinkfinancial
+  tags:
+  - fintech
+  sources:
+  - https://jobs.ashbyhq.com/truelinkfinancial
+
+- name: Tesorio
+  slug: tesorio
+  domain: tesorio.com
+  careers_url: https://jobs.lever.co/tesorio
+  category: fintech
+  ats:
+    lever: tesorio
+  tags:
+  - b2b
+  - b2b-finance-and-accounting
+  - fintech
+  - saas
+  sources:
+  - https://jobs.lever.co/tesorio
+
+- name: Verge Genomics
+  slug: verge-genomics
+  domain: vergegenomics.com
+  careers_url: https://jobs.ashbyhq.com/verge-genomics
+  category: consumer-and-marketplace
+  ats:
+    ashby: verge-genomics
+  tags:
+  - healthcare
+  - healthcare-drug-discovery-and-delivery
+  sources:
+  - https://jobs.ashbyhq.com/verge-genomics
+
+- name: VergeSense
+  slug: vergesense
+  domain: vergesense.com
+  careers_url: https://jobs.lever.co/vergesense
+  category: ai-and-data
+  ats:
+    lever: vergesense
+  tags:
+  - real-estate-and-construction
+  - artificial-intelligence
+  - proptech
+  sources:
+  - https://jobs.lever.co/vergesense
+
+- name: Tesseract
+  slug: tesseract
+  domain: tesseract.space
+  careers_url: https://boards.greenhouse.io/tesseract
+  category: open-source-and-platform
+  ats:
+    greenhouse: tesseract
+  tags:
+  - industrials
+  - industrials-aviation-and-space
+  - space-exploration
+  - satellites
+  sources:
+  - https://boards.greenhouse.io/tesseract
+
+- name: Treasury Prime
+  slug: treasury-prime
+  domain: treasuryprime.com
+  careers_url: https://boards.greenhouse.io/treasuryprime
+  category: fintech
+  ats:
+    greenhouse: treasuryprime
+  tags:
+  - fintech
+  - fintech-banking-and-exchange
+  - banking-as-a-service
+  - b2b
+  sources:
+  - https://boards.greenhouse.io/treasuryprime
+
+- name: Snackpass
+  slug: snackpass
+  domain: snackpass.co
+  careers_url: https://boards.greenhouse.io/snackpass
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: snackpass
+  tags:
+  - consumer
+  - consumer-food-and-beverage
+  - marketplace
+  - e-commerce
+  sources:
+  - https://boards.greenhouse.io/snackpass
+
+- name: Meru Health
+  slug: meru-health
+  domain: meruhealth.com
+  careers_url: https://boards.greenhouse.io/meruhealth
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: meruhealth
+  tags:
+  - healthcare
+  - healthcare-consumer-health-and-wellness
+  - mental-health-tech
+  - digital-health
+  sources:
+  - https://boards.greenhouse.io/meruhealth

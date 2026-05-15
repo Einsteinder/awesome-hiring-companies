@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **770 companies**.
+Currently tracking **780 companies**.
 
 This repository is designed for two uses:
 
@@ -826,6 +826,16 @@ Open source video player (video.js)
 - [Opennote](https://opennote.com) - The notebook that thinks with you.
 - [Fleetline](https://fleetline.ai) - Optimizing fleet planning with data driven algorithms
 - [Nucleo](https://nucleoresearch.com) - The first Agentic platform for Oncology
+- [Clerky](https://clerky.com) - Makes legal paperwork easy for startups and their attorneys.
+- [Plivo](https://plivo.com) - Voice AI Agents for customer engagement, including WhatsApp, SMS &…
+- [True Link](https://truelinkfinancial.com) - Financial Services for Financial Caregivers.
+- [Tesorio](https://tesorio.com) - Tesorio is the cash flow performance platform that helps finance…
+- [Verge Genomics](https://vergegenomics.com) - We use human data and AI to develop better drugs faster.
+- [VergeSense](https://vergesense.com) - AI-Powered Building Management
+- [Tesseract](https://tesseract.space) - Tesseract builds better thrusters for modern satellites
+- [Treasury Prime](https://treasuryprime.com) - Embedded banking software platform and marketplace
+- [Snackpass](https://snackpass.co) - Order ahead at restaurants and get rewards with friends.
+- [Meru Health](https://meruhealth.com) - An online provider for greater mental health
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
