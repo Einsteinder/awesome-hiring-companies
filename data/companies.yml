@@ -20489,3 +20489,123 @@
   - open
   sources:
   - https://boards.greenhouse.io/drivewealth
+
+- name: Sezzle
+  slug: sezzle
+  domain: sezzle.com
+  careers_url: https://boards.greenhouse.io/sezzle
+  category: open-source-and-platform
+  ats:
+    greenhouse: sezzle
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/sezzle
+
+- name: Smartly
+  slug: smartly
+  domain: smartly.com
+  careers_url: https://boards.greenhouse.io/smartlyio
+  category: open-source-and-platform
+  ats:
+    greenhouse: smartlyio
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/smartlyio
+
+- name: Appian Corporation
+  slug: appian-corporation
+  domain: appiancorporation.com
+  careers_url: https://boards.greenhouse.io/appian
+  category: open-source-and-platform
+  ats:
+    greenhouse: appian
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/appian
+
+- name: DoubleVerify
+  slug: doubleverify
+  domain: doubleverify.com
+  careers_url: https://boards.greenhouse.io/doubleverify
+  category: open-source-and-platform
+  ats:
+    greenhouse: doubleverify
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/doubleverify
+
+- name: Flagship Pioneering Co-Op Program
+  slug: flagship-pioneering-co-op-program
+  domain: flagshippioneeringcoopprogram.com
+  careers_url: https://boards.greenhouse.io/fspco-op012325
+  category: open-source-and-platform
+  ats:
+    greenhouse: fspco-op012325
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/fspco-op012325
+
+- name: Scout AI
+  slug: scout-ai
+  domain: scoutai.com
+  careers_url: https://boards.greenhouse.io/scoutai
+  category: open-source-and-platform
+  ats:
+    greenhouse: scoutai
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/scoutai
+
+- name: Hone Health
+  slug: hone-health
+  domain: honehealth.com
+  careers_url: https://boards.greenhouse.io/honehealth
+  category: open-source-and-platform
+  ats:
+    greenhouse: honehealth
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/honehealth
+
+- name: Visier Solutions Inc
+  slug: visier-solutions-inc
+  domain: visiersolutionsinc.com
+  careers_url: https://boards.greenhouse.io/visiersolutionsinc
+  category: open-source-and-platform
+  ats:
+    greenhouse: visiersolutionsinc
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/visiersolutionsinc
+
+- name: Remodel Health
+  slug: remodel-health
+  domain: remodelhealth.com
+  careers_url: https://boards.greenhouse.io/remodelhealth
+  category: open-source-and-platform
+  ats:
+    greenhouse: remodelhealth
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/remodelhealth
+
+- name: QuEra Computing, Inc.
+  slug: quera-computing-inc
+  domain: queracomputinginc.com
+  careers_url: https://boards.greenhouse.io/queracomputinginc
+  category: open-source-and-platform
+  ats:
+    greenhouse: queracomputinginc
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/queracomputinginc

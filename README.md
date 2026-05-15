@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1540 companies**.
+Currently tracking **1550 companies**.
 
 This repository is designed for two uses:
 
@@ -1596,6 +1596,16 @@ Open source video player (video.js)
 - [Rackner](https://rackner.com) - Hiring via Greenhouse (rackner).
 - [Speechify](https://speechify.com) - Hiring via Greenhouse (speechify).
 - [DriveWealth](https://drivewealth.com) - Hiring via Greenhouse (drivewealth).
+- [Sezzle](https://sezzle.com) - Hiring via Greenhouse (sezzle).
+- [Smartly](https://smartly.com) - Hiring via Greenhouse (smartlyio).
+- [Appian Corporation](https://appiancorporation.com) - Hiring via Greenhouse (appian).
+- [DoubleVerify](https://doubleverify.com) - Hiring via Greenhouse (doubleverify).
+- [Flagship Pioneering Co-Op Program](https://flagshippioneeringcoopprogram.com) - Hiring via Greenhouse (fspco-op012325).
+- [Scout AI](https://scoutai.com) - Hiring via Greenhouse (scoutai).
+- [Hone Health](https://honehealth.com) - Hiring via Greenhouse (honehealth).
+- [Visier Solutions Inc](https://visiersolutionsinc.com) - Hiring via Greenhouse (visiersolutionsinc).
+- [Remodel Health](https://remodelhealth.com) - Hiring via Greenhouse (remodelhealth).
+- [QuEra Computing, Inc.](https://queracomputinginc.com) - Hiring via Greenhouse (queracomputinginc).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
