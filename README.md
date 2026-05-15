@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1630 companies**.
+Currently tracking **1640 companies**.
 
 This repository is designed for two uses:
 
@@ -1686,6 +1686,16 @@ Open source video player (video.js)
 - [Nectar Social](https://nectarsocial.com) - Hiring via Ashby (nectar-social).
 - [Parspec](https://parspec.com) - Hiring via Ashby (parspec).
 - [Compa](https://compa.com) - Hiring via Ashby (compa).
+- [Northwoodspace](https://northwoodspace.com) - Hiring via Ashby (northwoodspace).
+- [Heron Power](https://heronpower.com) - Hiring via Ashby (heron-power).
+- [Lynk](https://lynk.com) - Hiring via Ashby (lynk).
+- [Batoncorporation](https://batoncorporation.com) - Hiring via Ashby (batoncorporation).
+- [Robust Ai](https://robustai.com) - Hiring via Lever (robust-ai).
+- [Brainco](https://brainco.com) - Hiring via Ashby (brainco).
+- [Sentilink](https://sentilink.com) - Hiring via Ashby (sentilink).
+- [Sfgiants](https://sfgiants.com) - Hiring via Lever (sfgiants).
+- [Baseten](https://baseten.com) - Hiring via Ashby (baseten).
+- [Farsight](https://farsight.com) - Hiring via Ashby (farsight).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

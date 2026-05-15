@@ -21569,3 +21569,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/compa
+
+- name: Northwoodspace
+  slug: northwoodspace
+  domain: northwoodspace.com
+  careers_url: https://jobs.ashbyhq.com/northwoodspace
+  category: open-source-and-platform
+  ats:
+    ashby: northwoodspace
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/northwoodspace
+
+- name: Heron Power
+  slug: heron-power
+  domain: heronpower.com
+  careers_url: https://jobs.ashbyhq.com/heron-power
+  category: open-source-and-platform
+  ats:
+    ashby: heron-power
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/heron-power
+
+- name: Lynk
+  slug: lynk
+  domain: lynk.com
+  careers_url: https://jobs.ashbyhq.com/lynk
+  category: open-source-and-platform
+  ats:
+    ashby: lynk
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/lynk
+
+- name: Batoncorporation
+  slug: batoncorporation
+  domain: batoncorporation.com
+  careers_url: https://jobs.ashbyhq.com/batoncorporation
+  category: open-source-and-platform
+  ats:
+    ashby: batoncorporation
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/batoncorporation
+
+- name: Robust Ai
+  slug: robust-ai
+  domain: robustai.com
+  careers_url: https://jobs.lever.co/robust-ai
+  category: open-source-and-platform
+  ats:
+    lever: robust-ai
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/robust-ai
+
+- name: Brainco
+  slug: brainco
+  domain: brainco.com
+  careers_url: https://jobs.ashbyhq.com/brainco
+  category: open-source-and-platform
+  ats:
+    ashby: brainco
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/brainco
+
+- name: Sentilink
+  slug: sentilink
+  domain: sentilink.com
+  careers_url: https://jobs.ashbyhq.com/sentilink
+  category: open-source-and-platform
+  ats:
+    ashby: sentilink
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/sentilink
+
+- name: Sfgiants
+  slug: sfgiants
+  domain: sfgiants.com
+  careers_url: https://jobs.lever.co/sfgiants
+  category: open-source-and-platform
+  ats:
+    lever: sfgiants
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/sfgiants
+
+- name: Baseten
+  slug: baseten
+  domain: baseten.com
+  careers_url: https://jobs.ashbyhq.com/baseten
+  category: open-source-and-platform
+  ats:
+    ashby: baseten
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/baseten
+
+- name: Farsight
+  slug: farsight
+  domain: farsight.com
+  careers_url: https://jobs.ashbyhq.com/farsight
+  category: open-source-and-platform
+  ats:
+    ashby: farsight
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/farsight
