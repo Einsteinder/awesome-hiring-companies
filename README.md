@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1882 companies**.
+Currently tracking **1892 companies**.
 
 This repository is designed for two uses:
 
@@ -1938,6 +1938,16 @@ Open source video player (video.js)
 - [Tonkean](https://tonkean.com) - Hiring via Lever (tonkean).
 - [Ro](https://ro.com) - Hiring via Lever (ro).
 - [Kitware](https://kitware.com) - Hiring via Lever (kitware).
+- [Activecampaign](https://activecampaign.com) - Hiring via Lever (activecampaign).
+- [Brindleyengineering](https://brindleyengineering.com) - Hiring via Lever (brindleyengineering).
+- [Fieldnation](https://fieldnation.com) - Hiring via Lever (fieldnation).
+- [Pibenchmark](https://pibenchmark.com) - Hiring via Lever (pibenchmark).
+- [90Seconds](https://90seconds.com) - Hiring via Lever (90seconds).
+- [1Password](https://1password.com) - Hiring via Ashby (1password).
+- [Girlswhocode](https://girlswhocode.com) - Hiring via Lever (girlswhocode).
+- [Appen 2](https://appen2.com) - Hiring via Lever (appen-2).
+- [Jobscan 2](https://jobscan2.com) - Hiring via Lever (jobscan-2).
+- [Paytm](https://paytm.com) - Hiring via Lever (paytm).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

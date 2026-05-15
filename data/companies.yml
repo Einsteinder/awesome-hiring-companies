@@ -24593,3 +24593,123 @@
   - open
   sources:
   - https://jobs.lever.co/kitware
+
+- name: Activecampaign
+  slug: activecampaign
+  domain: activecampaign.com
+  careers_url: https://jobs.lever.co/activecampaign
+  category: open-source-and-platform
+  ats:
+    lever: activecampaign
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/activecampaign
+
+- name: Brindleyengineering
+  slug: brindleyengineering
+  domain: brindleyengineering.com
+  careers_url: https://jobs.lever.co/brindleyengineering
+  category: open-source-and-platform
+  ats:
+    lever: brindleyengineering
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/brindleyengineering
+
+- name: Fieldnation
+  slug: fieldnation
+  domain: fieldnation.com
+  careers_url: https://jobs.lever.co/fieldnation
+  category: open-source-and-platform
+  ats:
+    lever: fieldnation
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/fieldnation
+
+- name: Pibenchmark
+  slug: pibenchmark
+  domain: pibenchmark.com
+  careers_url: https://jobs.lever.co/pibenchmark
+  category: open-source-and-platform
+  ats:
+    lever: pibenchmark
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/pibenchmark
+
+- name: 90Seconds
+  slug: 90seconds
+  domain: 90seconds.com
+  careers_url: https://jobs.lever.co/90seconds
+  category: open-source-and-platform
+  ats:
+    lever: 90seconds
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/90seconds
+
+- name: 1Password
+  slug: 1password
+  domain: 1password.com
+  careers_url: https://jobs.ashbyhq.com/1password
+  category: open-source-and-platform
+  ats:
+    ashby: 1password
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/1password
+
+- name: Girlswhocode
+  slug: girlswhocode
+  domain: girlswhocode.com
+  careers_url: https://jobs.lever.co/girlswhocode
+  category: open-source-and-platform
+  ats:
+    lever: girlswhocode
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/girlswhocode
+
+- name: Appen 2
+  slug: appen-2
+  domain: appen2.com
+  careers_url: https://jobs.lever.co/appen-2
+  category: open-source-and-platform
+  ats:
+    lever: appen-2
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/appen-2
+
+- name: Jobscan 2
+  slug: jobscan-2
+  domain: jobscan2.com
+  careers_url: https://jobs.lever.co/jobscan-2
+  category: open-source-and-platform
+  ats:
+    lever: jobscan-2
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/jobscan-2
+
+- name: Paytm
+  slug: paytm
+  domain: paytm.com
+  careers_url: https://jobs.lever.co/paytm
+  category: open-source-and-platform
+  ats:
+    lever: paytm
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/paytm
