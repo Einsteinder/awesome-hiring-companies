@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1308 companies**.
+Currently tracking **1318 companies**.
 
 This repository is designed for two uses:
 
@@ -1364,6 +1364,16 @@ Open source video player (video.js)
 - [Roadrunner](https://roadrunner.com) - Hiring via Ashby (roadrunner).
 - [Shapes](https://shapes.com) - Hiring via Ashby (shapes).
 - [Simile](https://simile.com) - Hiring via Ashby (simile).
+- [Tandems](https://tandems.com) - Hiring via Lever (tandems).
+- [Vantage](https://vantage.com) - Hiring via Ashby (vantage).
+- [Vanilla](https://vanilla.com) - Hiring via Ashby (vanilla).
+- [Icon](https://icon.com) - Hiring via Ashby (icon).
+- [Indebted](https://indebted.com) - Hiring via Lever (indebted).
+- [Instrument](https://instrument.com) - Hiring via Lever (instrument).
+- [Jigsaw](https://jigsaw.com) - Hiring via Ashby (jigsaw).
+- [Jump](https://jump.com) - Hiring via Ashby (jump).
+- [Lapel](https://lapel.com) - Hiring via Ashby (lapel).
+- [Lassie](https://lassie.com) - Hiring via Ashby (lassie).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

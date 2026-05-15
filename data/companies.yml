@@ -17705,3 +17705,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/simile
+
+- name: Tandems
+  slug: tandems
+  domain: tandems.com
+  careers_url: https://jobs.lever.co/tandems
+  category: open-source-and-platform
+  ats:
+    lever: tandems
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/tandems
+
+- name: Vantage
+  slug: vantage
+  domain: vantage.com
+  careers_url: https://jobs.ashbyhq.com/vantage
+  category: open-source-and-platform
+  ats:
+    ashby: vantage
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/vantage
+
+- name: Vanilla
+  slug: vanilla
+  domain: vanilla.com
+  careers_url: https://jobs.ashbyhq.com/vanilla
+  category: open-source-and-platform
+  ats:
+    ashby: vanilla
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/vanilla
+
+- name: Icon
+  slug: icon
+  domain: icon.com
+  careers_url: https://jobs.ashbyhq.com/icon
+  category: open-source-and-platform
+  ats:
+    ashby: icon
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/icon
+
+- name: Indebted
+  slug: indebted
+  domain: indebted.com
+  careers_url: https://jobs.lever.co/indebted
+  category: open-source-and-platform
+  ats:
+    lever: indebted
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/indebted
+
+- name: Instrument
+  slug: instrument
+  domain: instrument.com
+  careers_url: https://jobs.lever.co/instrument
+  category: open-source-and-platform
+  ats:
+    lever: instrument
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/instrument
+
+- name: Jigsaw
+  slug: jigsaw
+  domain: jigsaw.com
+  careers_url: https://jobs.ashbyhq.com/jigsaw
+  category: open-source-and-platform
+  ats:
+    ashby: jigsaw
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/jigsaw
+
+- name: Jump
+  slug: jump
+  domain: jump.com
+  careers_url: https://jobs.ashbyhq.com/jump
+  category: open-source-and-platform
+  ats:
+    ashby: jump
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/jump
+
+- name: Lapel
+  slug: lapel
+  domain: lapel.com
+  careers_url: https://jobs.ashbyhq.com/lapel
+  category: open-source-and-platform
+  ats:
+    ashby: lapel
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/lapel
+
+- name: Lassie
+  slug: lassie
+  domain: lassie.com
+  careers_url: https://jobs.ashbyhq.com/lassie
+  category: open-source-and-platform
+  ats:
+    ashby: lassie
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/lassie
