@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1812 companies**.
+Currently tracking **1822 companies**.
 
 This repository is designed for two uses:
 
@@ -1868,6 +1868,16 @@ Open source video player (video.js)
 - [Virtahealth](https://virtahealth.com) - Hiring via Ashby (virtahealth).
 - [Kaizenlabs](https://kaizenlabs.com) - Hiring via Ashby (kaizenlabs).
 - [Montecarlodata](https://montecarlodata.com) - Hiring via Ashby (montecarlodata).
+- [Mindbeam](https://mindbeam.com) - Hiring via Ashby (mindbeam).
+- [Luxor](https://luxor.com) - Hiring via Ashby (luxor).
+- [Quora](https://quora.com) - Hiring via Ashby (quora).
+- [Periodic Labs](https://periodiclabs.com) - Hiring via Ashby (periodic-labs).
+- [Windranger](https://windranger.com) - Hiring via Ashby (windranger).
+- [Causaly](https://causaly.com) - Hiring via Ashby (causaly).
+- [Monarchmoney](https://monarchmoney.com) - Hiring via Ashby (monarchmoney).
+- [Nethermind](https://nethermind.com) - Hiring via Ashby (nethermind).
+- [Sourgum](https://sourgum.com) - Hiring via Ashby (sourgum).
+- [Empirical Security](https://empiricalsecurity.com) - Hiring via Ashby (empirical-security).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

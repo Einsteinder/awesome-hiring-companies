@@ -23753,3 +23753,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/montecarlodata
+
+- name: Mindbeam
+  slug: mindbeam
+  domain: mindbeam.com
+  careers_url: https://jobs.ashbyhq.com/mindbeam
+  category: open-source-and-platform
+  ats:
+    ashby: mindbeam
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/mindbeam
+
+- name: Luxor
+  slug: luxor
+  domain: luxor.com
+  careers_url: https://jobs.ashbyhq.com/luxor
+  category: open-source-and-platform
+  ats:
+    ashby: luxor
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/luxor
+
+- name: Quora
+  slug: quora
+  domain: quora.com
+  careers_url: https://jobs.ashbyhq.com/quora
+  category: open-source-and-platform
+  ats:
+    ashby: quora
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/quora
+
+- name: Periodic Labs
+  slug: periodic-labs
+  domain: periodiclabs.com
+  careers_url: https://jobs.ashbyhq.com/periodic-labs
+  category: open-source-and-platform
+  ats:
+    ashby: periodic-labs
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/periodic-labs
+
+- name: Windranger
+  slug: windranger
+  domain: windranger.com
+  careers_url: https://jobs.ashbyhq.com/windranger
+  category: open-source-and-platform
+  ats:
+    ashby: windranger
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/windranger
+
+- name: Causaly
+  slug: causaly
+  domain: causaly.com
+  careers_url: https://jobs.ashbyhq.com/causaly
+  category: open-source-and-platform
+  ats:
+    ashby: causaly
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/causaly
+
+- name: Monarchmoney
+  slug: monarchmoney
+  domain: monarchmoney.com
+  careers_url: https://jobs.ashbyhq.com/monarchmoney
+  category: open-source-and-platform
+  ats:
+    ashby: monarchmoney
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/monarchmoney
+
+- name: Nethermind
+  slug: nethermind
+  domain: nethermind.com
+  careers_url: https://jobs.ashbyhq.com/nethermind
+  category: open-source-and-platform
+  ats:
+    ashby: nethermind
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/nethermind
+
+- name: Sourgum
+  slug: sourgum
+  domain: sourgum.com
+  careers_url: https://jobs.ashbyhq.com/sourgum
+  category: open-source-and-platform
+  ats:
+    ashby: sourgum
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/sourgum
+
+- name: Empirical Security
+  slug: empirical-security
+  domain: empiricalsecurity.com
+  careers_url: https://jobs.ashbyhq.com/empirical-security
+  category: open-source-and-platform
+  ats:
+    ashby: empirical-security
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/empirical-security
