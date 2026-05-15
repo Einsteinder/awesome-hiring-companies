@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1650 companies**.
+Currently tracking **1660 companies**.
 
 This repository is designed for two uses:
 
@@ -1706,6 +1706,16 @@ Open source video player (video.js)
 - [Actian](https://actian.com) - Hiring via Lever (actian).
 - [Tri](https://tri.com) - Hiring via Lever (tri).
 - [Dodmg](https://dodmg.com) - Hiring via Lever (dodmg).
+- [Endpointclinical](https://endpointclinical.com) - Hiring via Lever (endpointclinical).
+- [Marianaminerals](https://marianaminerals.com) - Hiring via Ashby (marianaminerals).
+- [Gigaml](https://gigaml.com) - Hiring via Ashby (gigaml).
+- [Suno](https://suno.com) - Hiring via Ashby (suno).
+- [Allium](https://allium.com) - Hiring via Ashby (allium).
+- [Acceldata](https://acceldata.com) - Hiring via Lever (acceldata).
+- [Gr0](https://gr0.com) - Hiring via Lever (gr0).
+- [Windborne Systems](https://windbornesystems.com) - Hiring via Ashby (windborne-systems).
+- [Creatify](https://creatify.com) - Hiring via Ashby (creatify).
+- [Astera](https://astera.com) - Hiring via Ashby (astera).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

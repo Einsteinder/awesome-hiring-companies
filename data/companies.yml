@@ -21809,3 +21809,123 @@
   - open
   sources:
   - https://jobs.lever.co/dodmg
+
+- name: Endpointclinical
+  slug: endpointclinical
+  domain: endpointclinical.com
+  careers_url: https://jobs.lever.co/endpointclinical
+  category: open-source-and-platform
+  ats:
+    lever: endpointclinical
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/endpointclinical
+
+- name: Marianaminerals
+  slug: marianaminerals
+  domain: marianaminerals.com
+  careers_url: https://jobs.ashbyhq.com/marianaminerals
+  category: open-source-and-platform
+  ats:
+    ashby: marianaminerals
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/marianaminerals
+
+- name: Gigaml
+  slug: gigaml
+  domain: gigaml.com
+  careers_url: https://jobs.ashbyhq.com/gigaml
+  category: open-source-and-platform
+  ats:
+    ashby: gigaml
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/gigaml
+
+- name: Suno
+  slug: suno
+  domain: suno.com
+  careers_url: https://jobs.ashbyhq.com/suno
+  category: open-source-and-platform
+  ats:
+    ashby: suno
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/suno
+
+- name: Allium
+  slug: allium
+  domain: allium.com
+  careers_url: https://jobs.ashbyhq.com/allium
+  category: open-source-and-platform
+  ats:
+    ashby: allium
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/allium
+
+- name: Acceldata
+  slug: acceldata
+  domain: acceldata.com
+  careers_url: https://jobs.lever.co/acceldata
+  category: open-source-and-platform
+  ats:
+    lever: acceldata
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/acceldata
+
+- name: Gr0
+  slug: gr0
+  domain: gr0.com
+  careers_url: https://jobs.lever.co/gr0
+  category: open-source-and-platform
+  ats:
+    lever: gr0
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/gr0
+
+- name: Windborne Systems
+  slug: windborne-systems
+  domain: windbornesystems.com
+  careers_url: https://jobs.ashbyhq.com/windborne-systems
+  category: open-source-and-platform
+  ats:
+    ashby: windborne-systems
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/windborne-systems
+
+- name: Creatify
+  slug: creatify
+  domain: creatify.com
+  careers_url: https://jobs.ashbyhq.com/creatify
+  category: open-source-and-platform
+  ats:
+    ashby: creatify
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/creatify
+
+- name: Astera
+  slug: astera
+  domain: astera.com
+  careers_url: https://jobs.ashbyhq.com/astera
+  category: open-source-and-platform
+  ats:
+    ashby: astera
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/astera
