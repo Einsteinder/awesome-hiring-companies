@@ -8,8 +8,21 @@ Both Jules and OpenHands are wired up. Issues are routed automatically:
 - Issues labeled `jules` → handled by Jules (https://jules.google).
 - Issues labeled `fix-me` → handled by OpenHands (https://app.all-hands.dev).
 
-Only one agent owns a given issue. Do not pick up an issue assigned to the
-other agent.
+**One issue, one agent.** A label-exclusivity workflow
+(`enforce-agent-labels.yml`) auto-removes a duplicate agent label if both
+end up on the same issue. If you somehow see both `jules` and `fix-me` on
+an issue, **do not act on it** — the workflow will resolve the conflict
+within seconds.
+
+**Don't redo work that's already in flight.** Before starting, check if
+there's an open PR with `Closes #<this-issue>` or a branch named after
+the slug (`fix-<slug>` or `add-<slug>`). If so, the other agent or a
+human is already on it; stop and post a comment.
+
+**Always rebase before pushing.** Because `data/companies.yml` is a single
+shared file, two concurrent fix-PRs editing different slugs can still
+collide on adjacent lines or on README per-category counts. Run
+`git pull --rebase origin main` and resolve any conflict before pushing.
 
 This repository is a curated Awesome list of hiring companies. The
 machine-readable source of truth is `data/companies.yml`; `README.md` and the
