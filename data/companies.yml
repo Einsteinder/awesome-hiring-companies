@@ -17225,3 +17225,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/mainstay
+
+- name: Medal
+  slug: medal
+  domain: medal.com
+  careers_url: https://jobs.ashbyhq.com/medal
+  category: open-source-and-platform
+  ats:
+    ashby: medal
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/medal
+
+- name: Openly
+  slug: openly
+  domain: openly.com
+  careers_url: https://jobs.ashbyhq.com/openly
+  category: open-source-and-platform
+  ats:
+    ashby: openly
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/openly
+
+- name: Peek
+  slug: peek
+  domain: peek.com
+  careers_url: https://jobs.ashbyhq.com/peek
+  category: open-source-and-platform
+  ats:
+    ashby: peek
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/peek
+
+- name: Planned
+  slug: planned
+  domain: planned.com
+  careers_url: https://jobs.lever.co/planned
+  category: open-source-and-platform
+  ats:
+    lever: planned
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/planned
+
+- name: Procreate
+  slug: procreate
+  domain: procreate.com
+  careers_url: https://jobs.lever.co/procreate
+  category: open-source-and-platform
+  ats:
+    lever: procreate
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/procreate
+
+- name: Quantum
+  slug: quantum
+  domain: quantum.com
+  careers_url: https://jobs.ashbyhq.com/quantum
+  category: open-source-and-platform
+  ats:
+    ashby: quantum
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/quantum
+
+- name: Railway
+  slug: railway
+  domain: railway.com
+  careers_url: https://jobs.ashbyhq.com/railway
+  category: open-source-and-platform
+  ats:
+    ashby: railway
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/railway
+
+- name: Trenchant
+  slug: trenchant
+  domain: trenchant.com
+  careers_url: https://jobs.ashbyhq.com/trenchant
+  category: open-source-and-platform
+  ats:
+    ashby: trenchant
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/trenchant
+
+- name: Twelve
+  slug: twelve
+  domain: twelve.com
+  careers_url: https://jobs.ashbyhq.com/twelve
+  category: open-source-and-platform
+  ats:
+    ashby: twelve
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/twelve
+
+- name: Unstructured
+  slug: unstructured
+  domain: unstructured.com
+  careers_url: https://jobs.ashbyhq.com/unstructured
+  category: open-source-and-platform
+  ats:
+    ashby: unstructured
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/unstructured

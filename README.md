@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1268 companies**.
+Currently tracking **1278 companies**.
 
 This repository is designed for two uses:
 
@@ -1324,6 +1324,16 @@ Open source video player (video.js)
 - [Ideogram](https://ideogram.com) - Hiring via Ashby (ideogram).
 - [Liquid](https://liquid.com) - Hiring via Ashby (liquid).
 - [Mainstay](https://mainstay.com) - Hiring via Ashby (mainstay).
+- [Medal](https://medal.com) - Hiring via Ashby (medal).
+- [Openly](https://openly.com) - Hiring via Ashby (openly).
+- [Peek](https://peek.com) - Hiring via Ashby (peek).
+- [Planned](https://planned.com) - Hiring via Lever (planned).
+- [Procreate](https://procreate.com) - Hiring via Lever (procreate).
+- [Quantum](https://quantum.com) - Hiring via Ashby (quantum).
+- [Railway](https://railway.com) - Hiring via Ashby (railway).
+- [Trenchant](https://trenchant.com) - Hiring via Ashby (trenchant).
+- [Twelve](https://twelve.com) - Hiring via Ashby (twelve).
+- [Unstructured](https://unstructured.com) - Hiring via Ashby (unstructured).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
