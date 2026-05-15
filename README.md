@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **850 companies**.
+Currently tracking **860 companies**.
 
 This repository is designed for two uses:
 
@@ -906,6 +906,16 @@ Open source video player (video.js)
 - [Accordion](https://accordion.com) - Hiring via Greenhouse (accordion).
 - [Cognition](https://cognition.com) - Hiring via Ashby (cognition).
 - [Gamma](https://gamma.com) - Hiring via Ashby (gamma).
+- [Barnes](https://barnes.com) - Hiring via Ashby (barnes).
+- [Confluent](https://confluent.com) - Hiring via Ashby (confluent).
+- [Elliptic](https://elliptic.com) - Hiring via Ashby (elliptic).
+- [Belong](https://belong.com) - Hiring via Lever (belong).
+- [Finn](https://finn.com) - Hiring via Lever (finn).
+- [Crisp](https://crisp.com) - Hiring via Ashby (crisp).
+- [Equip](https://equip.com) - Hiring via Ashby (equip).
+- [Antithesis](https://antithesis.com) - Hiring via Ashby (antithesis).
+- [Factory](https://factory.com) - Hiring via Ashby (factory).
+- [Felix](https://felix.com) - Hiring via Ashby (felix).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

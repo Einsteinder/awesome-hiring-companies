@@ -12209,3 +12209,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/gamma
+
+- name: Barnes
+  slug: barnes
+  domain: barnes.com
+  careers_url: https://jobs.ashbyhq.com/barnes
+  category: open-source-and-platform
+  ats:
+    ashby: barnes
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/barnes
+
+- name: Confluent
+  slug: confluent
+  domain: confluent.com
+  careers_url: https://jobs.ashbyhq.com/confluent
+  category: open-source-and-platform
+  ats:
+    ashby: confluent
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/confluent
+
+- name: Elliptic
+  slug: elliptic
+  domain: elliptic.com
+  careers_url: https://jobs.ashbyhq.com/elliptic
+  category: open-source-and-platform
+  ats:
+    ashby: elliptic
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/elliptic
+
+- name: Belong
+  slug: belong
+  domain: belong.com
+  careers_url: https://jobs.lever.co/belong
+  category: open-source-and-platform
+  ats:
+    lever: belong
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/belong
+
+- name: Finn
+  slug: finn
+  domain: finn.com
+  careers_url: https://jobs.lever.co/finn
+  category: open-source-and-platform
+  ats:
+    lever: finn
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/finn
+
+- name: Crisp
+  slug: crisp
+  domain: crisp.com
+  careers_url: https://jobs.ashbyhq.com/crisp
+  category: open-source-and-platform
+  ats:
+    ashby: crisp
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/crisp
+
+- name: Equip
+  slug: equip
+  domain: equip.com
+  careers_url: https://jobs.ashbyhq.com/equip
+  category: open-source-and-platform
+  ats:
+    ashby: equip
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/equip
+
+- name: Antithesis
+  slug: antithesis
+  domain: antithesis.com
+  careers_url: https://jobs.ashbyhq.com/antithesis
+  category: open-source-and-platform
+  ats:
+    ashby: antithesis
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/antithesis
+
+- name: Factory
+  slug: factory
+  domain: factory.com
+  careers_url: https://jobs.ashbyhq.com/factory
+  category: open-source-and-platform
+  ats:
+    ashby: factory
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/factory
+
+- name: Felix
+  slug: felix
+  domain: felix.com
+  careers_url: https://jobs.ashbyhq.com/felix
+  category: open-source-and-platform
+  ats:
+    ashby: felix
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/felix
