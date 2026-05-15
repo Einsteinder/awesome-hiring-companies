@@ -9381,3 +9381,145 @@
   - analytics
   sources:
   - https://jobs.ashbyhq.com/diligencesquared
+
+- name: Lance
+  slug: lance
+  domain: lance.live
+  careers_url: https://jobs.ashbyhq.com/lance
+  category: ai-and-data
+  ats:
+    ashby: lance
+  tags:
+  - b2b
+  sources:
+  - https://jobs.ashbyhq.com/lance
+
+- name: Asimov
+  slug: asimov
+  domain: tryasimov.ai
+  careers_url: https://jobs.ashbyhq.com/asimov
+  category: ai-and-data
+  ats:
+    ashby: asimov
+  tags:
+  - industrials
+  - industrials-manufacturing-and-robotics
+  sources:
+  - https://jobs.ashbyhq.com/asimov
+
+- name: Pax Historia
+  slug: pax-historia
+  domain: paxhistoria.co
+  careers_url: https://jobs.ashbyhq.com/pax-historia
+  category: consumer-and-marketplace
+  ats:
+    ashby: pax-historia
+  tags:
+  - consumer
+  - consumer-gaming
+  sources:
+  - https://jobs.ashbyhq.com/pax-historia
+
+- name: Dispatch
+  slug: dispatch
+  domain: dispatch.space
+  careers_url: https://jobs.ashbyhq.com/dispatch
+  category: open-source-and-platform
+  ats:
+    ashby: dispatch
+  tags:
+  - industrials
+  - industrials-aviation-and-space
+  - manufacturing
+  - aerospace
+  sources:
+  - https://jobs.ashbyhq.com/dispatch
+
+- name: Juno
+  slug: juno
+  domain: juno-chat.com
+  careers_url: https://boards.greenhouse.io/juno
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: juno
+  tags:
+  - healthcare
+  - healthcare-consumer-health-and-wellness
+  - health-tech
+  - health-wellness
+  sources:
+  - https://boards.greenhouse.io/juno
+
+- name: Ark
+  slug: ark
+  domain: ark.com
+  careers_url: https://boards.greenhouse.io/ark
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: ark
+  tags:
+  - consumer
+  - consumer-content
+  - media
+  - social
+  sources:
+  - https://boards.greenhouse.io/ark
+
+- name: Quartzy
+  slug: quartzy
+  domain: quartzy.com
+  careers_url: https://jobs.lever.co/quartzy
+  category: consumer-and-marketplace
+  ats:
+    lever: quartzy
+  tags:
+  - healthcare
+  - healthcare-healthcare-it
+  - saas
+  - b2b
+  sources:
+  - https://jobs.lever.co/quartzy
+
+- name: HealthSherpa
+  slug: healthsherpa
+  domain: healthsherpa.com
+  careers_url: https://jobs.ashbyhq.com/healthsherpa
+  category: consumer-and-marketplace
+  ats:
+    ashby: healthsherpa
+  tags:
+  - healthcare
+  - healthcare-healthcare-services
+  - health-tech
+  - health-insurance
+  sources:
+  - https://jobs.ashbyhq.com/healthsherpa
+
+- name: InfluxData
+  slug: influxdata
+  domain: influxdata.com
+  careers_url: https://jobs.ashbyhq.com/influxdata
+  category: developer-infrastructure
+  ats:
+    ashby: influxdata
+  tags:
+  - b2b
+  - b2b-infrastructure
+  - analytics
+  - open-source
+  sources:
+  - https://jobs.ashbyhq.com/influxdata
+
+- name: UserGems
+  slug: usergems
+  domain: usergems.com
+  careers_url: https://boards.greenhouse.io/usergems
+  category: ai-and-data
+  ats:
+    greenhouse: usergems
+  tags:
+  - b2b
+  - b2b-sales
+  - sales
+  sources:
+  - https://boards.greenhouse.io/usergems

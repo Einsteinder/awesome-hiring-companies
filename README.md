@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **650 companies**.
+Currently tracking **660 companies**.
 
 This repository is designed for two uses:
 
@@ -706,6 +706,16 @@ Open source video player (video.js)
 - [Idler](https://idler.ai) - Reinforcement learning environments.
 - [SF Tensor](https://sf-tensor.com) - Infrastructure for AI labs to focus on research.
 - [DiligenceSquared](https://diligencesquared.com) - AI-powered market due diligence for investment decisions
+- [Lance](https://lance.live) - AI Agents That Run Hotel Operations.
+- [Asimov](https://tryasimov.ai) - Real-world human movement data for humanoid robots
+- [Pax Historia](https://paxhistoria.co) - The first AI-powered grand strategy platform
+- [Dispatch](https://dispatch.space) - Satellites for manufacturing in space
+- [Juno](https://juno-chat.com) - AI Health Assistant for Chronic Illness
+- [Ark](https://ark.com) - Ark organizes the world's social information.
+- [Quartzy](https://quartzy.com) - Marketplace for life science supplies.
+- [HealthSherpa](https://healthsherpa.com) - Private sector Healthcare.gov.
+- [InfluxData](https://influxdata.com) - The platform for building and operating time series applications.
+- [UserGems](https://usergems.com) - The AI Command Center for outbound and ABM
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
