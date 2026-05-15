@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1782 companies**.
+Currently tracking **1792 companies**.
 
 This repository is designed for two uses:
 
@@ -1838,6 +1838,16 @@ Open source video player (video.js)
 - [Textio](https://textio.com) - Hiring via Greenhouse (textio).
 - [Metropolis](https://metropolis.com) - Hiring via Greenhouse (metropolis).
 - [Vannevar](https://vannevar.com) - Hiring via Greenhouse (vannevarlabs).
+- [Gametime United](https://gametimeunited.com) - Hiring via Greenhouse (gametimeunited).
+- [Stitch Fix](https://stitchfix.com) - Hiring via Greenhouse (stitchfix).
+- [Lithic](https://lithic.com) - Hiring via Greenhouse (lithic).
+- [Headspace](https://headspace.com) - Hiring via Greenhouse (hs).
+- [Workato](https://workato.com) - Hiring via Greenhouse (workato).
+- [Contentful](https://contentful.com) - Hiring via Greenhouse (contentful).
+- [DV Trading](https://dvtrading.com) - Hiring via Greenhouse (dvtrading).
+- [GoFundMe](https://gofundme.com) - Hiring via Greenhouse (gofundme).
+- [Fastly](https://fastly.com) - Hiring via Greenhouse (fastly).
+- [ExpressVPN](https://expressvpn.com) - Hiring via Greenhouse (expressvpn).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

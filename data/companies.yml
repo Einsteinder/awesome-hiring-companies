@@ -23393,3 +23393,123 @@
   - open
   sources:
   - https://boards.greenhouse.io/vannevarlabs
+
+- name: Gametime United
+  slug: gametime-united
+  domain: gametimeunited.com
+  careers_url: https://boards.greenhouse.io/gametimeunited
+  category: open-source-and-platform
+  ats:
+    greenhouse: gametimeunited
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/gametimeunited
+
+- name: Stitch Fix
+  slug: stitch-fix
+  domain: stitchfix.com
+  careers_url: https://boards.greenhouse.io/stitchfix
+  category: open-source-and-platform
+  ats:
+    greenhouse: stitchfix
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/stitchfix
+
+- name: Lithic
+  slug: lithic
+  domain: lithic.com
+  careers_url: https://boards.greenhouse.io/lithic
+  category: open-source-and-platform
+  ats:
+    greenhouse: lithic
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/lithic
+
+- name: Headspace
+  slug: headspace
+  domain: headspace.com
+  careers_url: https://boards.greenhouse.io/hs
+  category: open-source-and-platform
+  ats:
+    greenhouse: hs
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/hs
+
+- name: Workato
+  slug: workato
+  domain: workato.com
+  careers_url: https://boards.greenhouse.io/workato
+  category: open-source-and-platform
+  ats:
+    greenhouse: workato
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/workato
+
+- name: Contentful
+  slug: contentful
+  domain: contentful.com
+  careers_url: https://boards.greenhouse.io/contentful
+  category: open-source-and-platform
+  ats:
+    greenhouse: contentful
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/contentful
+
+- name: DV Trading
+  slug: dv-trading
+  domain: dvtrading.com
+  careers_url: https://boards.greenhouse.io/dvtrading
+  category: open-source-and-platform
+  ats:
+    greenhouse: dvtrading
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/dvtrading
+
+- name: GoFundMe
+  slug: gofundme
+  domain: gofundme.com
+  careers_url: https://boards.greenhouse.io/gofundme
+  category: open-source-and-platform
+  ats:
+    greenhouse: gofundme
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/gofundme
+
+- name: Fastly
+  slug: fastly
+  domain: fastly.com
+  careers_url: https://boards.greenhouse.io/fastly
+  category: open-source-and-platform
+  ats:
+    greenhouse: fastly
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/fastly
+
+- name: ExpressVPN
+  slug: expressvpn
+  domain: expressvpn.com
+  careers_url: https://boards.greenhouse.io/expressvpn
+  category: open-source-and-platform
+  ats:
+    greenhouse: expressvpn
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/expressvpn
