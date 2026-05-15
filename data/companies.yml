@@ -19809,13 +19809,14 @@
 - name: Stuart
   slug: stuart
   domain: stuart.com
-  careers_url: https://jobs.lever.co/stuart
+  careers_url: https://stuart.com/careers/
   category: open-source-and-platform
   ats:
     lever: stuart
   tags:
   - open
   sources:
+  - https://stuart.com/careers/
   - https://jobs.lever.co/stuart
 
 - name: Subtotal
@@ -22221,13 +22222,14 @@
 - name: Veeva
   slug: veeva
   domain: veeva.com
-  careers_url: https://jobs.lever.co/veeva
+  careers_url: https://careers.veeva.com/
   category: open-source-and-platform
   ats:
     lever: veeva
   tags:
   - open
   sources:
+  - https://careers.veeva.com/
   - https://jobs.lever.co/veeva
 
 - name: Riot Games
