@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **150 companies**.
+Currently tracking **160 companies**.
 
 This repository is designed for two uses:
 
@@ -205,6 +205,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [Stellar](https://stellarapp.io) - AI-powered business goals
 - [Lio (formerly askLio)](https://lio.ai) - The World's First Multi-Agent System for Procurement
 - [Netomi](https://netomi.com) - Self-Driving Customer Care
+- [Level](https://trylevel.app) - Fast and simple fintech financing
+- [Scribe](https://tryscribe.com) - Scribe is an AI based Sales Development Representative that you can…
+- [Algolia](https://algolia.com) - A developer-friendly and enterprise-grade search API.
+- [Teleport](https://goteleport.com) - The Infrastructure Identity Company
+- [Intersect Labs](https://intersectlabs.io) - Collaborative data noteboook for business teams
+- [Curri](https://curri.com) - Construction & industrial logistics platform.
+- [Gridware](https://gridware.io) - Protecting the grid today, preparing the grid for tomorrow
+- [Alchemy](https://alchemynano.com) - Nanotechnology-enabled coatings for automotive and defence sectors
+- [Firsthand](https://shopfirsthand.com) - Firsthand makes software-enabled, self-serve retail kiosks that carry…
+- [Ditto](https://dittowords.com) - Manage the words across your team’s product from design to production.
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

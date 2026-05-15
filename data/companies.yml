@@ -2143,3 +2143,151 @@
   - customer-service
   sources:
   - https://jobs.lever.co/netomi
+
+- name: Level
+  slug: level
+  domain: trylevel.app
+  careers_url: https://jobs.ashbyhq.com/level
+  category: fintech
+  ats:
+    ashby: level
+  tags:
+  - fintech
+  - fintech-credit-and-lending
+  - lending
+  sources:
+  - https://jobs.ashbyhq.com/level
+
+- name: Scribe
+  slug: scribe
+  domain: tryscribe.com
+  careers_url: https://jobs.ashbyhq.com/scribe
+  category: ai-and-data
+  ats:
+    ashby: scribe
+  tags:
+  - b2b
+  - b2b-sales
+  - artificial-intelligence
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/scribe
+
+- name: Algolia
+  slug: algolia
+  domain: algolia.com
+  careers_url: https://boards.greenhouse.io/algolia
+  category: developer-infrastructure
+  ats:
+    greenhouse: algolia
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - developer-tools
+  - saas
+  sources:
+  - https://boards.greenhouse.io/algolia
+
+- name: Teleport
+  slug: teleport
+  domain: goteleport.com
+  careers_url: https://jobs.ashbyhq.com/goteleport
+  category: developer-infrastructure
+  ats:
+    ashby: goteleport
+  tags:
+  - b2b
+  - b2b-infrastructure
+  - developer-tools
+  - devsecops
+  sources:
+  - https://jobs.ashbyhq.com/goteleport
+
+- name: Intersect Labs
+  slug: intersect-labs
+  domain: intersectlabs.io
+  careers_url: https://jobs.lever.co/intersect
+  category: ai-and-data
+  ats:
+    lever: intersect
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - analytics
+  sources:
+  - https://jobs.lever.co/intersect
+
+- name: Curri
+  slug: curri
+  domain: curri.com
+  careers_url: https://jobs.ashbyhq.com/curri
+  category: consumer-and-marketplace
+  ats:
+    ashby: curri
+  tags:
+  - real-estate-and-construction
+  - construction
+  - b2b
+  - delivery
+  sources:
+  - https://jobs.ashbyhq.com/curri
+
+- name: Gridware
+  slug: gridware
+  domain: gridware.io
+  careers_url: https://jobs.lever.co/gridware
+  category: open-source-and-platform
+  ats:
+    lever: gridware
+  tags:
+  - industrials
+  - industrials-energy
+  - hardware
+  - climate
+  sources:
+  - https://jobs.lever.co/gridware
+
+- name: Alchemy
+  slug: alchemy
+  domain: alchemynano.com
+  careers_url: https://jobs.ashbyhq.com/alchemy
+  category: open-source-and-platform
+  ats:
+    ashby: alchemy
+  tags:
+  - industrials
+  - industrials-manufacturing-and-robotics
+  - advanced-materials
+  - automotive
+  sources:
+  - https://jobs.ashbyhq.com/alchemy
+
+- name: Firsthand
+  slug: firsthand
+  domain: shopfirsthand.com
+  careers_url: https://boards.greenhouse.io/firsthand
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: firsthand
+  tags:
+  - b2b
+  - b2b-retail
+  - hardware
+  - retail
+  sources:
+  - https://boards.greenhouse.io/firsthand
+
+- name: Ditto
+  slug: ditto
+  domain: dittowords.com
+  careers_url: https://jobs.ashbyhq.com/ditto
+  category: developer-infrastructure
+  ats:
+    ashby: ditto
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - developer-tools
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/ditto
