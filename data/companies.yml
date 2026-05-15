@@ -11695,3 +11695,139 @@
   - solar-power
   sources:
   - https://jobs.ashbyhq.com/coperniq
+
+- name: Keep
+  slug: keep
+  domain: keephq.dev
+  careers_url: https://jobs.ashbyhq.com/keep
+  category: developer-infrastructure
+  ats:
+    ashby: keep
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - saas
+  - open-source
+  sources:
+  - https://jobs.ashbyhq.com/keep
+
+- name: Shadeform
+  slug: shadeform
+  domain: shadeform.ai
+  careers_url: https://jobs.ashbyhq.com/shadeform
+  category: consumer-and-marketplace
+  ats:
+    ashby: shadeform
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  sources:
+  - https://jobs.ashbyhq.com/shadeform
+
+- name: Domu Technology Inc.
+  slug: domu-technology-inc
+  domain: domu.ai
+  careers_url: https://jobs.ashbyhq.com/domu
+  category: ai-and-data
+  ats:
+    ashby: domu
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - aiops
+  - call-center
+  sources:
+  - https://jobs.ashbyhq.com/domu
+
+- name: Pharos
+  slug: pharos
+  domain: pharos.health
+  careers_url: https://jobs.ashbyhq.com/pharos
+  category: consumer-and-marketplace
+  ats:
+    ashby: pharos
+  tags:
+  - healthcare
+  - healthcare-healthcare-it
+  - ai
+  sources:
+  - https://jobs.ashbyhq.com/pharos
+
+- name: Ryvn
+  slug: ryvn
+  domain: ryvn.ai
+  careers_url: https://jobs.ashbyhq.com/ryvn
+  category: developer-infrastructure
+  ats:
+    ashby: ryvn
+  tags:
+  - b2b
+  - b2b-infrastructure
+  - developer-tools
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/ryvn
+
+- name: Flowtel
+  slug: flowtel
+  domain: flowtel.ai
+  careers_url: https://jobs.ashbyhq.com/flowtel
+  category: developer-infrastructure
+  ats:
+    ashby: flowtel
+  tags:
+  - b2b
+  - b2b-infrastructure
+  sources:
+  - https://jobs.ashbyhq.com/flowtel
+
+- name: Bild AI
+  slug: bild-ai
+  domain: bild.ai
+  careers_url: https://jobs.ashbyhq.com/bild-ai
+  category: ai-and-data
+  ats:
+    ashby: bild-ai
+  tags:
+  - real-estate-and-construction
+  sources:
+  - https://jobs.ashbyhq.com/bild-ai
+
+- name: AthenaHQ
+  slug: athenahq
+  domain: athenahq.ai
+  careers_url: https://boards.greenhouse.io/athena
+  category: ai-and-data
+  ats:
+    greenhouse: athena
+  tags:
+  - b2b
+  - b2b-marketing
+  sources:
+  - https://boards.greenhouse.io/athena
+
+- name: Ambral
+  slug: ambral
+  domain: ambral.com
+  careers_url: https://jobs.ashbyhq.com/ambral
+  category: ai-and-data
+  ats:
+    ashby: ambral
+  tags:
+  - b2b
+  - b2b-sales
+  sources:
+  - https://jobs.ashbyhq.com/ambral
+
+- name: BootLoop
+  slug: bootloop
+  domain: bootloop.ai
+  careers_url: https://jobs.ashbyhq.com/bootloop
+  category: open-source-and-platform
+  ats:
+    ashby: bootloop
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  sources:
+  - https://jobs.ashbyhq.com/bootloop

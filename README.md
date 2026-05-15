@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **810 companies**.
+Currently tracking **820 companies**.
 
 This repository is designed for two uses:
 
@@ -866,6 +866,16 @@ Open source video player (video.js)
 - [Reflex](https://reflex.dev) - The operating system for building mission-critical enterprise apps.
 - [Nango](https://nango.dev) - A single API for all your integrations
 - [Coperniq](https://coperniq.io) - Workflow software for solar & energy contractors ☀️😎
+- [Keep](https://keephq.dev) - The open-source AIOps platform
+- [Shadeform](https://shadeform.ai) - The GPU Cloud Marketplace
+- [Domu Technology Inc.](https://domu.ai) - AI Agents for collections
+- [Pharos](https://pharos.health) - Helping hospitals identify and prevent avoidable harm using AI
+- [Ryvn](https://ryvn.ai) - Easy and secure customer cloud deployments
+- [Flowtel](https://flowtel.ai) - The AI Voice agents for hotels
+- [Bild AI](https://bild.ai) - AI that understands construction blueprints
+- [AthenaHQ](https://athenahq.ai) - Be the Answer in AI Search - AI SEO across SEO, GEO & AEO
+- [Ambral](https://ambral.com) - AI for account management and customer success
+- [BootLoop](https://bootloop.ai) - Firmware in minutes, not months - rigorously tested on real hardware
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
