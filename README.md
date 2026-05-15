@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1915 companies**.
+Currently tracking **1925 companies**.
 
 This repository is designed for two uses:
 
@@ -1971,6 +1971,16 @@ Open source video player (video.js)
 - [Schrödinger](https://schrdinger.com) - Hiring via Greenhouse (schrdinger).
 - [Moloco](https://moloco.com) - Hiring via Greenhouse (moloco).
 - [Christ Fellowship](https://christfellowship.com) - Hiring via Greenhouse (christfellowship).
+- [Greenhouse](https://greenhouse.com) - Hiring via Greenhouse (greenhouse).
+- [Cialfo](https://cialfo.com) - Hiring via Greenhouse (cialfo).
+- [Typeform](https://typeform.com) - Hiring via Greenhouse (typeform).
+- [InMobi](https://inmobi.com) - Hiring via Greenhouse (inmobi).
+- [Cribl](https://cribl.com) - Hiring via Greenhouse (cribl).
+- [Starburst](https://starburst.com) - Hiring via Greenhouse (starburst).
+- [2K](https://2k.com) - Hiring via Greenhouse (2k).
+- [Eventbrite, Inc.](https://eventbriteinc.com) - Hiring via Greenhouse (eventbriteinc).
+- [Sigmoid](https://sigmoid.com) - Hiring via Greenhouse (sigmoid).
+- [At-Bay](https://atbay.com) - Hiring via Greenhouse (atbayjobs).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

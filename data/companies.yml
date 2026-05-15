@@ -24989,3 +24989,123 @@
   - open
   sources:
   - https://boards.greenhouse.io/christfellowship
+
+- name: Greenhouse
+  slug: greenhouse
+  domain: greenhouse.com
+  careers_url: https://boards.greenhouse.io/greenhouse
+  category: open-source-and-platform
+  ats:
+    greenhouse: greenhouse
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/greenhouse
+
+- name: Cialfo
+  slug: cialfo
+  domain: cialfo.com
+  careers_url: https://boards.greenhouse.io/cialfo
+  category: open-source-and-platform
+  ats:
+    greenhouse: cialfo
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/cialfo
+
+- name: Typeform
+  slug: typeform
+  domain: typeform.com
+  careers_url: https://boards.greenhouse.io/typeform
+  category: open-source-and-platform
+  ats:
+    greenhouse: typeform
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/typeform
+
+- name: InMobi
+  slug: inmobi
+  domain: inmobi.com
+  careers_url: https://boards.greenhouse.io/inmobi
+  category: open-source-and-platform
+  ats:
+    greenhouse: inmobi
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/inmobi
+
+- name: Cribl
+  slug: cribl
+  domain: cribl.com
+  careers_url: https://boards.greenhouse.io/cribl
+  category: open-source-and-platform
+  ats:
+    greenhouse: cribl
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/cribl
+
+- name: Starburst
+  slug: starburst
+  domain: starburst.com
+  careers_url: https://boards.greenhouse.io/starburst
+  category: open-source-and-platform
+  ats:
+    greenhouse: starburst
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/starburst
+
+- name: 2K
+  slug: 2k
+  domain: 2k.com
+  careers_url: https://boards.greenhouse.io/2k
+  category: open-source-and-platform
+  ats:
+    greenhouse: 2k
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/2k
+
+- name: Eventbrite, Inc.
+  slug: eventbrite-inc
+  domain: eventbriteinc.com
+  careers_url: https://boards.greenhouse.io/eventbriteinc
+  category: open-source-and-platform
+  ats:
+    greenhouse: eventbriteinc
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/eventbriteinc
+
+- name: Sigmoid
+  slug: sigmoid
+  domain: sigmoid.com
+  careers_url: https://boards.greenhouse.io/sigmoid
+  category: open-source-and-platform
+  ats:
+    greenhouse: sigmoid
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/sigmoid
+
+- name: At-Bay
+  slug: at-bay
+  domain: atbay.com
+  careers_url: https://boards.greenhouse.io/atbayjobs
+  category: open-source-and-platform
+  ats:
+    greenhouse: atbayjobs
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/atbayjobs
