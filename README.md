@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1580 companies**.
+Currently tracking **1590 companies**.
 
 This repository is designed for two uses:
 
@@ -1636,6 +1636,16 @@ Open source video player (video.js)
 - [Planet](https://planet.com) - Hiring via Greenhouse (planetlabs).
 - [Haize Labs](https://haizelabs.com) - Hiring via Greenhouse (haizelabs).
 - [Kikoff](https://kikoff.com) - Hiring via Greenhouse (kikoff).
+- [dv01](https://dv01.com) - Hiring via Greenhouse (dv01).
+- [Five Rings LLC - Careers](https://fiveringsllccareers.com) - Hiring via Greenhouse (fiveringsllc).
+- [Freedom Technology Solutions Group](https://freedomtechnologysolutionsgroup.com) - Hiring via Greenhouse (freedomconsulting).
+- [Perpay - Career's Page](https://perpaycareerspage.com) - Hiring via Greenhouse (perpay).
+- [SharkNinja](https://sharkninja.com) - Hiring via Greenhouse (sharkninjaoperatingllc).
+- [Aquatic Capital Management](https://aquaticcapitalmanagement.com) - Hiring via Greenhouse (aquaticcapitalmanagement).
+- [Greenworks](https://greenworks.com) - Hiring via Greenhouse (greenworkssunriseglobalmarketing).
+- [Axon](https://axon.com) - Hiring via Greenhouse (axon).
+- [ClimateAi](https://climateai.com) - Hiring via Greenhouse (climateai).
+- [Attentive](https://attentive.com) - Hiring via Greenhouse (attentive).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

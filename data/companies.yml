@@ -20969,3 +20969,123 @@
   - open
   sources:
   - https://boards.greenhouse.io/kikoff
+
+- name: dv01
+  slug: dv01
+  domain: dv01.com
+  careers_url: https://boards.greenhouse.io/dv01
+  category: open-source-and-platform
+  ats:
+    greenhouse: dv01
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/dv01
+
+- name: Five Rings LLC - Careers
+  slug: five-rings-llc-careers
+  domain: fiveringsllccareers.com
+  careers_url: https://boards.greenhouse.io/fiveringsllc
+  category: open-source-and-platform
+  ats:
+    greenhouse: fiveringsllc
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/fiveringsllc
+
+- name: Freedom Technology Solutions Group
+  slug: freedom-technology-solutions-group
+  domain: freedomtechnologysolutionsgroup.com
+  careers_url: https://boards.greenhouse.io/freedomconsulting
+  category: open-source-and-platform
+  ats:
+    greenhouse: freedomconsulting
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/freedomconsulting
+
+- name: Perpay - Career's Page
+  slug: perpay-career-s-page
+  domain: perpaycareerspage.com
+  careers_url: https://boards.greenhouse.io/perpay
+  category: open-source-and-platform
+  ats:
+    greenhouse: perpay
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/perpay
+
+- name: SharkNinja
+  slug: sharkninja
+  domain: sharkninja.com
+  careers_url: https://boards.greenhouse.io/sharkninjaoperatingllc
+  category: open-source-and-platform
+  ats:
+    greenhouse: sharkninjaoperatingllc
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/sharkninjaoperatingllc
+
+- name: Aquatic Capital Management
+  slug: aquatic-capital-management
+  domain: aquaticcapitalmanagement.com
+  careers_url: https://boards.greenhouse.io/aquaticcapitalmanagement
+  category: open-source-and-platform
+  ats:
+    greenhouse: aquaticcapitalmanagement
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/aquaticcapitalmanagement
+
+- name: Greenworks
+  slug: greenworks
+  domain: greenworks.com
+  careers_url: https://boards.greenhouse.io/greenworkssunriseglobalmarketing
+  category: open-source-and-platform
+  ats:
+    greenhouse: greenworkssunriseglobalmarketing
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/greenworkssunriseglobalmarketing
+
+- name: Axon
+  slug: axon
+  domain: axon.com
+  careers_url: https://boards.greenhouse.io/axon
+  category: open-source-and-platform
+  ats:
+    greenhouse: axon
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/axon
+
+- name: ClimateAi
+  slug: climateai
+  domain: climateai.com
+  careers_url: https://boards.greenhouse.io/climateai
+  category: open-source-and-platform
+  ats:
+    greenhouse: climateai
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/climateai
+
+- name: Attentive
+  slug: attentive
+  domain: attentive.com
+  careers_url: https://boards.greenhouse.io/attentive
+  category: open-source-and-platform
+  ats:
+    greenhouse: attentive
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/attentive
