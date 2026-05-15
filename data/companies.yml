@@ -7796,3 +7796,148 @@
   - legaltech
   sources:
   - https://boards.greenhouse.io/legalist
+
+- name: Mednet
+  slug: mednet
+  domain: themednet.org
+  careers_url: https://jobs.ashbyhq.com/mednet
+  category: consumer-and-marketplace
+  ats:
+    ashby: mednet
+  tags:
+  - healthcare
+  - healthcare-healthcare-it
+  - health-tech
+  - social-network
+  sources:
+  - https://jobs.ashbyhq.com/mednet
+
+- name: Prelim
+  slug: prelim
+  domain: prelim.com
+  careers_url: https://jobs.ashbyhq.com/prelim
+  category: fintech
+  ats:
+    ashby: prelim
+  tags:
+  - fintech
+  - banking-as-a-service
+  sources:
+  - https://jobs.ashbyhq.com/prelim
+
+- name: Sixfold Bioscience
+  slug: sixfold-bioscience
+  domain: sixfold.bio
+  careers_url: https://boards.greenhouse.io/sixfold
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: sixfold
+  tags:
+  - healthcare
+  - healthcare-drug-discovery-and-delivery
+  - gene-therapy
+  - nanomedicine
+  sources:
+  - https://boards.greenhouse.io/sixfold
+
+- name: Modern Treasury
+  slug: modern-treasury
+  domain: moderntreasury.com
+  careers_url: https://jobs.ashbyhq.com/moderntreasury
+  category: fintech
+  ats:
+    ashby: moderntreasury
+  tags:
+  - b2b
+  - b2b-finance-and-accounting
+  - fintech
+  - api
+  sources:
+  - https://jobs.ashbyhq.com/moderntreasury
+
+- name: Enveritas
+  slug: enveritas
+  domain: enveritas.org
+  careers_url: https://boards.greenhouse.io/enveritas
+  category: open-source-and-platform
+  ats:
+    greenhouse: enveritas
+  tags:
+  - industrials
+  - industrials-agriculture
+  - sustainability
+  - supply-chain
+  sources:
+  - https://boards.greenhouse.io/enveritas
+
+- name: Switchboard
+  slug: switchboard
+  domain: onswitchboard.com
+  careers_url: https://jobs.ashbyhq.com/switchboard
+  category: consumer-and-marketplace
+  ats:
+    ashby: switchboard
+  tags:
+  - b2b
+  - b2b-supply-chain-and-logistics
+  - autonomous-trucking
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/switchboard
+
+- name: Compound
+  slug: compound
+  domain: withcompound.com
+  careers_url: https://jobs.ashbyhq.com/compound
+  category: fintech
+  ats:
+    ashby: compound
+  tags:
+  - fintech
+  - fintech-consumer-finance
+  sources:
+  - https://jobs.ashbyhq.com/compound
+
+- name: Deepnote
+  slug: deepnote
+  domain: deepnote.com
+  careers_url: https://jobs.ashbyhq.com/deepnote
+  category: ai-and-data
+  ats:
+    ashby: deepnote
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - developer-tools
+  - machine-learning
+  sources:
+  - https://jobs.ashbyhq.com/deepnote
+
+- name: Able
+  slug: able
+  domain: ablejobs.co
+  careers_url: https://boards.greenhouse.io/able
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: able
+  tags:
+  - consumer
+  - consumer-job-and-career-services
+  - india
+  - edtech
+  sources:
+  - https://boards.greenhouse.io/able
+
+- name: SEND
+  slug: send
+  domain: send.ng
+  careers_url: https://boards.greenhouse.io/send
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: send
+  tags:
+  - b2b
+  - b2b-supply-chain-and-logistics
+  - digital-freight-brokerage
+  sources:
+  - https://boards.greenhouse.io/send

@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **540 companies**.
+Currently tracking **550 companies**.
 
 This repository is designed for two uses:
 
@@ -595,6 +595,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [Clever](https://clever.com) - The platform that powers technology in the classroom.
 - [Submittable](https://submittable.com) - The best way to launch, manage and measure social impact programs
 - [Legalist](https://legalist.com) - Legal investment firm
+- [Mednet](https://themednet.org) - Mednet helps doctors answer their toughest clinical questions —…
+- [Prelim](https://prelim.com) - Software for banks to open bank accounts
+- [Sixfold Bioscience](https://sixfold.bio) - Delivering RNA therapies.
+- [Modern Treasury](https://moderntreasury.com) - Payment operations tools for money movement.
+- [Enveritas](https://enveritas.org) - We verify global supply chains for issues like child slavery and…
+- [Switchboard](https://onswitchboard.com) - Technology for Trucking
+- [Compound](https://withcompound.com) - Compound is a wealth manager for people who work at tech companies.
+- [Deepnote](https://deepnote.com) - A better data science notebook.
+- [Able](https://ablejobs.co) - India's Largest Placement Platform for Early Professionals
+- [SEND](https://send.ng) - Flexport for Africa - Digital Freight forwarder and Customs Broker.
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
