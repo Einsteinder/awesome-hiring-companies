@@ -8659,3 +8659,148 @@
   - marketplace
   sources:
   - https://boards.greenhouse.io/laika
+
+- name: Odin
+  slug: odin
+  domain: savewithodin.com
+  careers_url: https://jobs.ashbyhq.com/odin
+  category: consumer-and-marketplace
+  ats:
+    ashby: odin
+  tags:
+  - consumer
+  - consumer-content
+  sources:
+  - https://jobs.ashbyhq.com/odin
+
+- name: Paragon
+  slug: paragon
+  domain: useparagon.com
+  careers_url: https://jobs.ashbyhq.com/paragon
+  category: developer-infrastructure
+  ats:
+    ashby: paragon
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - developer-tools
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/paragon
+
+- name: Pulley
+  slug: pulley
+  domain: pulley.com
+  careers_url: https://boards.greenhouse.io/pulley
+  category: fintech
+  ats:
+    greenhouse: pulley
+  tags:
+  - b2b
+  - b2b-finance-and-accounting
+  sources:
+  - https://boards.greenhouse.io/pulley
+
+- name: Phonic
+  slug: phonic
+  domain: phonic.ai
+  careers_url: https://jobs.ashbyhq.com/phonic
+  category: ai-and-data
+  ats:
+    ashby: phonic
+  tags:
+  - b2b
+  - b2b-marketing
+  - artificial-intelligence
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/phonic
+
+- name: Eternal
+  slug: eternal
+  domain: eternal.gg
+  careers_url: https://jobs.lever.co/eternal
+  category: consumer-and-marketplace
+  ats:
+    lever: eternal
+  tags:
+  - consumer
+  - consumer-gaming
+  - entertainment
+  - video
+  sources:
+  - https://jobs.lever.co/eternal
+
+- name: Nimbus
+  slug: nimbus
+  domain: nimbus.green
+  careers_url: https://jobs.lever.co/nimbus
+  category: open-source-and-platform
+  ats:
+    lever: nimbus
+  tags:
+  - industrials
+  - industrials-automotive
+  - mobility
+  - electric-vehicles
+  sources:
+  - https://jobs.lever.co/nimbus
+
+- name: Ansa Biotechnologies
+  slug: ansa-biotechnologies
+  domain: ansabio.com
+  careers_url: https://boards.greenhouse.io/ansabiotechnologies
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: ansabiotechnologies
+  tags:
+  - healthcare
+  - healthcare-industrial-bio
+  - synthetic-biology
+  - biotech
+  sources:
+  - https://boards.greenhouse.io/ansabiotechnologies
+
+- name: Kernal Biologics
+  slug: kernal-biologics
+  domain: kernalbio.com
+  careers_url: https://boards.greenhouse.io/kernalbio
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: kernalbio
+  tags:
+  - healthcare
+  - healthcare-therapeutics
+  - artificial-intelligence
+  - biotech
+  sources:
+  - https://boards.greenhouse.io/kernalbio
+
+- name: Stacker
+  slug: stacker
+  domain: stackerhq.com
+  careers_url: https://jobs.ashbyhq.com/stacker
+  category: developer-infrastructure
+  ats:
+    ashby: stacker
+  tags:
+  - b2b
+  - b2b-productivity
+  - saas
+  - no-code
+  sources:
+  - https://jobs.ashbyhq.com/stacker
+
+- name: Yotta
+  slug: yotta
+  domain: withyotta.com
+  careers_url: https://jobs.ashbyhq.com/yotta
+  category: fintech
+  ats:
+    ashby: yotta
+  tags:
+  - fintech
+  - fintech-consumer-finance
+  - neobank
+  sources:
+  - https://jobs.ashbyhq.com/yotta

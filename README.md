@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **600 companies**.
+Currently tracking **610 companies**.
 
 This repository is designed for two uses:
 
@@ -656,6 +656,16 @@ Open source video player (video.js)
 - [Dex](https://getdex.com) - Dex is a personal CRM that reminds you to keep in touch with the…
 - [Sable](https://sablecard.com) - Mobile bank for credit-worthy, new-to-America internationals offering…
 - [LAIKA](https://laika.com.co) - Online pets supplies for Latin America with over 4000 products & 20…
+- [Odin](https://savewithodin.com) - Save, organize and showcase your mental dump
+- [Paragon](https://useparagon.com) - The embedded integration platform for SaaS apps.
+- [Pulley](https://pulley.com) - Pulley helps founders and finance teams manage their equity and cap…
+- [Phonic](https://phonic.ai) - The best way to collect and analyze voice and video feedback
+- [Eternal](https://eternal.gg) - Own the best moments in streaming
+- [Nimbus](https://nimbus.green) - Tesla for city dwellers
+- [Ansa Biotechnologies](https://ansabio.com) - Next-generation DNA synthesis using enzymes
+- [Kernal Biologics](https://kernalbio.com) - Kernal is creating mRNA 2.0 therapies that work in specific cells
+- [Stacker](https://stackerhq.com) - Turns spreadsheets into internal apps and customer portals
+- [Yotta](https://withyotta.com) - Save money and win prizes up to $10m through weekly number draws.
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
