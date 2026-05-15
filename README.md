@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **840 companies**.
+Currently tracking **850 companies**.
 
 This repository is designed for two uses:
 
@@ -896,6 +896,16 @@ Open source video player (video.js)
 - [Alan](https://alan.com) - Hiring via Ashby (alan).
 - [Etched](https://etched.com) - Hiring via Ashby (etched).
 - [Cursor](https://cursor.com) - Hiring via Ashby (cursor).
+- [Directive](https://directive.com) - Hiring via Ashby (directive).
+- [Headway](https://headway.com) - Hiring via Ashby (headway).
+- [Anchorage](https://anchorage.com) - Hiring via Lever (anchorage).
+- [Faculty](https://faculty.com) - Hiring via Ashby (faculty).
+- [Capital](https://capital.com) - Hiring via Lever (capital).
+- [Dandy](https://dandy.com) - Hiring via Ashby (dandy).
+- [Abridge](https://abridge.com) - Hiring via Ashby (abridge).
+- [Accordion](https://accordion.com) - Hiring via Greenhouse (accordion).
+- [Cognition](https://cognition.com) - Hiring via Ashby (cognition).
+- [Gamma](https://gamma.com) - Hiring via Ashby (gamma).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

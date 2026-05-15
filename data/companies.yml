@@ -12089,3 +12089,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/cursor
+
+- name: Directive
+  slug: directive
+  domain: directive.com
+  careers_url: https://jobs.ashbyhq.com/directive
+  category: open-source-and-platform
+  ats:
+    ashby: directive
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/directive
+
+- name: Headway
+  slug: headway
+  domain: headway.com
+  careers_url: https://jobs.ashbyhq.com/headway
+  category: open-source-and-platform
+  ats:
+    ashby: headway
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/headway
+
+- name: Anchorage
+  slug: anchorage
+  domain: anchorage.com
+  careers_url: https://jobs.lever.co/anchorage
+  category: open-source-and-platform
+  ats:
+    lever: anchorage
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/anchorage
+
+- name: Faculty
+  slug: faculty
+  domain: faculty.com
+  careers_url: https://jobs.ashbyhq.com/faculty
+  category: open-source-and-platform
+  ats:
+    ashby: faculty
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/faculty
+
+- name: Capital
+  slug: capital
+  domain: capital.com
+  careers_url: https://jobs.lever.co/capital
+  category: open-source-and-platform
+  ats:
+    lever: capital
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/capital
+
+- name: Dandy
+  slug: dandy
+  domain: dandy.com
+  careers_url: https://jobs.ashbyhq.com/dandy
+  category: open-source-and-platform
+  ats:
+    ashby: dandy
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/dandy
+
+- name: Abridge
+  slug: abridge
+  domain: abridge.com
+  careers_url: https://jobs.ashbyhq.com/abridge
+  category: open-source-and-platform
+  ats:
+    ashby: abridge
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/abridge
+
+- name: Accordion
+  slug: accordion
+  domain: accordion.com
+  careers_url: https://boards.greenhouse.io/accordion
+  category: open-source-and-platform
+  ats:
+    greenhouse: accordion
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/accordion
+
+- name: Cognition
+  slug: cognition
+  domain: cognition.com
+  careers_url: https://jobs.ashbyhq.com/cognition
+  category: open-source-and-platform
+  ats:
+    ashby: cognition
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/cognition
+
+- name: Gamma
+  slug: gamma
+  domain: gamma.com
+  careers_url: https://jobs.ashbyhq.com/gamma
+  category: open-source-and-platform
+  ats:
+    ashby: gamma
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/gamma
