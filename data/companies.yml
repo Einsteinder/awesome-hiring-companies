@@ -15545,3 +15545,123 @@
   - open
   sources:
   - https://jobs.lever.co/reply
+
+- name: Protective
+  slug: protective
+  domain: protective.com
+  careers_url: https://jobs.lever.co/protective
+  category: open-source-and-platform
+  ats:
+    lever: protective
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/protective
+
+- name: Life
+  slug: life
+  domain: life.com
+  careers_url: https://jobs.lever.co/life
+  category: open-source-and-platform
+  ats:
+    lever: life
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/life
+
+- name: Range
+  slug: range
+  domain: range.com
+  careers_url: https://jobs.ashbyhq.com/range
+  category: open-source-and-platform
+  ats:
+    ashby: range
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/range
+
+- name: Mollie
+  slug: mollie
+  domain: mollie.com
+  careers_url: https://jobs.ashbyhq.com/mollie
+  category: open-source-and-platform
+  ats:
+    ashby: mollie
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/mollie
+
+- name: Lemonade
+  slug: lemonade
+  domain: lemonade.com
+  careers_url: https://jobs.ashbyhq.com/lemonade
+  category: open-source-and-platform
+  ats:
+    ashby: lemonade
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/lemonade
+
+- name: Ideals
+  slug: ideals
+  domain: ideals.com
+  careers_url: https://jobs.ashbyhq.com/ideals
+  category: open-source-and-platform
+  ats:
+    ashby: ideals
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/ideals
+
+- name: Thumbtack
+  slug: thumbtack
+  domain: thumbtack.com
+  careers_url: https://jobs.ashbyhq.com/thumbtack
+  category: open-source-and-platform
+  ats:
+    ashby: thumbtack
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/thumbtack
+
+- name: Malt
+  slug: malt
+  domain: malt.com
+  careers_url: https://jobs.lever.co/malt
+  category: open-source-and-platform
+  ats:
+    lever: malt
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/malt
+
+- name: Rain
+  slug: rain
+  domain: rain.com
+  careers_url: https://jobs.ashbyhq.com/rain
+  category: open-source-and-platform
+  ats:
+    ashby: rain
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/rain
+
+- name: Watershed
+  slug: watershed
+  domain: watershed.com
+  careers_url: https://jobs.ashbyhq.com/watershed
+  category: open-source-and-platform
+  ats:
+    ashby: watershed
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/watershed
