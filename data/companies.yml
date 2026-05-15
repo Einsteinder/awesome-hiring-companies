@@ -22049,3 +22049,123 @@
   - open
   sources:
   - https://jobs.lever.co/go-cloudforce
+
+- name: Saviynt
+  slug: saviynt
+  domain: saviynt.com
+  careers_url: https://jobs.lever.co/saviynt
+  category: open-source-and-platform
+  ats:
+    lever: saviynt
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/saviynt
+
+- name: Weride
+  slug: weride
+  domain: weride.com
+  careers_url: https://jobs.lever.co/weride
+  category: open-source-and-platform
+  ats:
+    lever: weride
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/weride
+
+- name: Firemon
+  slug: firemon
+  domain: firemon.com
+  careers_url: https://jobs.lever.co/firemon
+  category: open-source-and-platform
+  ats:
+    lever: firemon
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/firemon
+
+- name: Illumio
+  slug: illumio
+  domain: illumio.com
+  careers_url: https://jobs.ashbyhq.com/illumio
+  category: open-source-and-platform
+  ats:
+    ashby: illumio
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/illumio
+
+- name: Levelai
+  slug: levelai
+  domain: levelai.com
+  careers_url: https://jobs.lever.co/levelai
+  category: open-source-and-platform
+  ats:
+    lever: levelai
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/levelai
+
+- name: Latitudeinc
+  slug: latitudeinc
+  domain: latitudeinc.com
+  careers_url: https://jobs.lever.co/latitudeinc
+  category: open-source-and-platform
+  ats:
+    lever: latitudeinc
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/latitudeinc
+
+- name: Webfx
+  slug: webfx
+  domain: webfx.com
+  careers_url: https://jobs.lever.co/webfx
+  category: open-source-and-platform
+  ats:
+    lever: webfx
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/webfx
+
+- name: Deliveroo
+  slug: deliveroo
+  domain: deliveroo.com
+  careers_url: https://jobs.ashbyhq.com/deliveroo
+  category: open-source-and-platform
+  ats:
+    ashby: deliveroo
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/deliveroo
+
+- name: Zoox
+  slug: zoox
+  domain: zoox.com
+  careers_url: https://jobs.lever.co/zoox
+  category: open-source-and-platform
+  ats:
+    lever: zoox
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/zoox
+
+- name: Decagon
+  slug: decagon
+  domain: decagon.com
+  careers_url: https://jobs.ashbyhq.com/decagon
+  category: open-source-and-platform
+  ats:
+    ashby: decagon
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/decagon

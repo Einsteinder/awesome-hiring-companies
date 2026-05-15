@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1670 companies**.
+Currently tracking **1680 companies**.
 
 This repository is designed for two uses:
 
@@ -1726,6 +1726,16 @@ Open source video player (video.js)
 - [Shieldai](https://shieldai.com) - Hiring via Lever (shieldai).
 - [Immuta](https://immuta.com) - Hiring via Lever (immuta).
 - [Go Cloudforce](https://gocloudforce.com) - Hiring via Lever (go-cloudforce).
+- [Saviynt](https://saviynt.com) - Hiring via Lever (saviynt).
+- [Weride](https://weride.com) - Hiring via Lever (weride).
+- [Firemon](https://firemon.com) - Hiring via Lever (firemon).
+- [Illumio](https://illumio.com) - Hiring via Ashby (illumio).
+- [Levelai](https://levelai.com) - Hiring via Lever (levelai).
+- [Latitudeinc](https://latitudeinc.com) - Hiring via Lever (latitudeinc).
+- [Webfx](https://webfx.com) - Hiring via Lever (webfx).
+- [Deliveroo](https://deliveroo.com) - Hiring via Ashby (deliveroo).
+- [Zoox](https://zoox.com) - Hiring via Lever (zoox).
+- [Decagon](https://decagon.com) - Hiring via Ashby (decagon).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
