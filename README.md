@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **900 companies**.
+Currently tracking **910 companies**.
 
 This repository is designed for two uses:
 
@@ -956,6 +956,16 @@ Open source video player (video.js)
 - [Ecosystem](https://ecosystem.com) - Hiring via Lever (ecosystem).
 - [Granola](https://granola.com) - Hiring via Ashby (granola).
 - [Bounce](https://bounce.com) - Hiring via Ashby (bounce).
+- [Collate](https://collate.com) - Hiring via Lever (collate).
+- [Acorns](https://acorns.com) - Hiring via Ashby (acorns).
+- [Biggie](https://biggie.com) - Hiring via Lever (biggie).
+- [Dandelion](https://dandelion.com) - Hiring via Ashby (dandelion).
+- [Darkroom](https://darkroom.com) - Hiring via Ashby (darkroom).
+- [Arcadia](https://arcadia.com) - Hiring via Lever (arcadia).
+- [Bestow](https://bestow.com) - Hiring via Ashby (bestow).
+- [Bureau](https://bureau.com) - Hiring via Ashby (bureau).
+- [Capable](https://capable.com) - Hiring via Ashby (capable).
+- [Console](https://console.com) - Hiring via Ashby (console).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

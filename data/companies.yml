@@ -12809,3 +12809,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/bounce
+
+- name: Collate
+  slug: collate
+  domain: collate.com
+  careers_url: https://jobs.lever.co/collate
+  category: open-source-and-platform
+  ats:
+    lever: collate
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/collate
+
+- name: Acorns
+  slug: acorns
+  domain: acorns.com
+  careers_url: https://jobs.ashbyhq.com/acorns
+  category: open-source-and-platform
+  ats:
+    ashby: acorns
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/acorns
+
+- name: Biggie
+  slug: biggie
+  domain: biggie.com
+  careers_url: https://jobs.lever.co/biggie
+  category: open-source-and-platform
+  ats:
+    lever: biggie
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/biggie
+
+- name: Dandelion
+  slug: dandelion
+  domain: dandelion.com
+  careers_url: https://jobs.ashbyhq.com/dandelion
+  category: open-source-and-platform
+  ats:
+    ashby: dandelion
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/dandelion
+
+- name: Darkroom
+  slug: darkroom
+  domain: darkroom.com
+  careers_url: https://jobs.ashbyhq.com/darkroom
+  category: open-source-and-platform
+  ats:
+    ashby: darkroom
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/darkroom
+
+- name: Arcadia
+  slug: arcadia
+  domain: arcadia.com
+  careers_url: https://jobs.lever.co/arcadia
+  category: open-source-and-platform
+  ats:
+    lever: arcadia
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/arcadia
+
+- name: Bestow
+  slug: bestow
+  domain: bestow.com
+  careers_url: https://jobs.ashbyhq.com/bestow
+  category: open-source-and-platform
+  ats:
+    ashby: bestow
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/bestow
+
+- name: Bureau
+  slug: bureau
+  domain: bureau.com
+  careers_url: https://jobs.ashbyhq.com/bureau
+  category: open-source-and-platform
+  ats:
+    ashby: bureau
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/bureau
+
+- name: Capable
+  slug: capable
+  domain: capable.com
+  careers_url: https://jobs.ashbyhq.com/capable
+  category: open-source-and-platform
+  ats:
+    ashby: capable
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/capable
+
+- name: Console
+  slug: console
+  domain: console.com
+  careers_url: https://jobs.ashbyhq.com/console
+  category: open-source-and-platform
+  ats:
+    ashby: console
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/console
