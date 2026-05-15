@@ -5049,3 +5049,143 @@
   - community
   sources:
   - https://jobs.ashbyhq.com/finary
+
+- name: Oneleet
+  slug: oneleet
+  domain: oneleet.com
+  careers_url: https://jobs.ashbyhq.com/oneleet
+  category: developer-infrastructure
+  ats:
+    ashby: oneleet
+  tags:
+  - b2b
+  - b2b-security
+  - artificial-intelligence
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/oneleet
+
+- name: Onshore
+  slug: onshore
+  domain: onshore.com
+  careers_url: https://boards.greenhouse.io/onshore
+  category: fintech
+  ats:
+    greenhouse: onshore
+  tags:
+  - b2b
+  - b2b-finance-and-accounting
+  sources:
+  - https://boards.greenhouse.io/onshore
+
+- name: Clarion
+  slug: clarion
+  domain: clarionhealth.com
+  careers_url: https://jobs.ashbyhq.com/clarion
+  category: consumer-and-marketplace
+  ats:
+    ashby: clarion
+  tags:
+  - healthcare
+  - healthcare-healthcare-it
+  - health-tech
+  - digital-health
+  sources:
+  - https://jobs.ashbyhq.com/clarion
+
+- name: Datacurve
+  slug: datacurve
+  domain: datacurve.ai
+  careers_url: https://jobs.ashbyhq.com/datacurve
+  category: ai-and-data
+  ats:
+    ashby: datacurve
+  tags:
+  - b2b
+  sources:
+  - https://jobs.ashbyhq.com/datacurve
+
+- name: Lucis
+  slug: lucis
+  domain: lucis.life
+  careers_url: https://jobs.ashbyhq.com/lucis
+  category: consumer-and-marketplace
+  ats:
+    ashby: lucis
+  tags:
+  - healthcare
+  - healthcare-consumer-health-and-wellness
+  - telehealth
+  - digital-health
+  sources:
+  - https://jobs.ashbyhq.com/lucis
+
+- name: 9 Mothers
+  slug: 9-mothers
+  domain: 9mothers.com
+  careers_url: https://jobs.ashbyhq.com/9-mothers
+  category: ai-and-data
+  ats:
+    ashby: 9-mothers
+  tags:
+  - industrials
+  - industrials-defense
+  sources:
+  - https://jobs.ashbyhq.com/9-mothers
+
+- name: Human Archive
+  slug: human-archive
+  domain: humanarchive.ai
+  careers_url: https://jobs.ashbyhq.com/humanarchive
+  category: ai-and-data
+  ats:
+    ashby: humanarchive
+  tags:
+  - industrials
+  - industrials-manufacturing-and-robotics
+  sources:
+  - https://jobs.ashbyhq.com/humanarchive
+
+- name: Zerocater
+  slug: zerocater
+  domain: zerocater.com
+  careers_url: https://boards.greenhouse.io/zerocater
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: zerocater
+  tags:
+  - b2b
+  - b2b-office-management
+  - food
+  - food-tech
+  sources:
+  - https://boards.greenhouse.io/zerocater
+
+- name: Close
+  slug: close
+  domain: close.com
+  careers_url: https://jobs.ashbyhq.com/close
+  category: developer-infrastructure
+  ats:
+    ashby: close
+  tags:
+  - b2b
+  - b2b-sales
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/close
+
+- name: Bankjoy
+  slug: bankjoy
+  domain: bankjoy.com
+  careers_url: https://jobs.ashbyhq.com/bankjoy
+  category: fintech
+  ats:
+    ashby: bankjoy
+  tags:
+  - fintech
+  - fintech-banking-and-exchange
+  - banking-as-a-service
+  - conversational-banking
+  sources:
+  - https://jobs.ashbyhq.com/bankjoy

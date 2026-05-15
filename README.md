@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **350 companies**.
+Currently tracking **360 companies**.
 
 This repository is designed for two uses:
 
@@ -405,6 +405,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [Luminai](https://luminai.com) - Luminai helps automate repetitive manual work away from your mission…
 - [doola](https://doola.com) - Business-in-a-Box™ for LLCs
 - [Finary](https://about.finary.io) - Discord for investing.
+- [Oneleet](https://oneleet.com) - YC's most popular security compliance platform (SOC 2, ISO 27001,…
+- [Onshore](https://onshore.com) - AI for corporate tax
+- [Clarion](https://clarionhealth.com) - The AI communication layer for healthcare
+- [Datacurve](https://datacurve.ai) - Frontier coding data for training and evaluating LLMs
+- [Lucis](https://lucis.life) - Function Health for Europe
+- [9 Mothers](https://9mothers.com) - AI weapon systems
+- [Human Archive](https://humanarchive.ai) - Multimodal data provider for robotics and world modeling
+- [Zerocater](https://zerocater.com) - Zerocater is revolutionizing how companies feed their employees
+- [Close](https://close.com) - CRM and sales automation tools for startups and SMBs
+- [Bankjoy](https://bankjoy.com) - An end-to-end digital banking solution for banks and credit unions
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
