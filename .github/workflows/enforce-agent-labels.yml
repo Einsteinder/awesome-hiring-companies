@@ -15,18 +15,18 @@ jobs:
   enforce:
     if: |
       contains(github.event.issue.labels.*.name, 'jules') &&
-      contains(github.event.issue.labels.*.name, 'fix-me')
+      contains(github.event.issue.labels.*.name, 'openhands')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/github-script@v7
         with:
           script: |
             const justAdded = context.payload.label && context.payload.label.name;
-            if (justAdded !== 'jules' && justAdded !== 'fix-me') {
+            if (justAdded !== 'jules' && justAdded !== 'openhands') {
               core.info(`Label added was '${justAdded}', not an agent label. Skipping.`);
               return;
             }
-            const other = justAdded === 'jules' ? 'fix-me' : 'jules';
+            const other = justAdded === 'jules' ? 'openhands' : 'jules';
             await github.rest.issues.removeLabel({
               owner: context.repo.owner,
               repo: context.repo.repo,
