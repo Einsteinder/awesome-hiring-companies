@@ -16385,3 +16385,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/passage
+
+- name: Phantom
+  slug: phantom
+  domain: phantom.com
+  careers_url: https://jobs.ashbyhq.com/phantom
+  category: open-source-and-platform
+  ats:
+    ashby: phantom
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/phantom
+
+- name: Zeta
+  slug: zeta
+  domain: zeta.com
+  careers_url: https://jobs.lever.co/zeta
+  category: open-source-and-platform
+  ats:
+    lever: zeta
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/zeta
+
+- name: Ledger
+  slug: ledger
+  domain: ledger.com
+  careers_url: https://jobs.ashbyhq.com/ledger
+  category: open-source-and-platform
+  ats:
+    ashby: ledger
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/ledger
+
+- name: Omniscient
+  slug: omniscient
+  domain: omniscient.com
+  careers_url: https://jobs.ashbyhq.com/omniscient
+  category: open-source-and-platform
+  ats:
+    ashby: omniscient
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/omniscient
+
+- name: Prelude
+  slug: prelude
+  domain: prelude.com
+  careers_url: https://jobs.ashbyhq.com/prelude
+  category: open-source-and-platform
+  ats:
+    ashby: prelude
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/prelude
+
+- name: Silhouette
+  slug: silhouette
+  domain: silhouette.com
+  careers_url: https://jobs.lever.co/silhouette
+  category: open-source-and-platform
+  ats:
+    lever: silhouette
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/silhouette
+
+- name: Inertia
+  slug: inertia
+  domain: inertia.com
+  careers_url: https://jobs.ashbyhq.com/inertia
+  category: open-source-and-platform
+  ats:
+    ashby: inertia
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/inertia
+
+- name: Orchard
+  slug: orchard
+  domain: orchard.com
+  careers_url: https://jobs.ashbyhq.com/orchard
+  category: open-source-and-platform
+  ats:
+    ashby: orchard
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/orchard
+
+- name: Plain
+  slug: plain
+  domain: plain.com
+  careers_url: https://jobs.ashbyhq.com/plain
+  category: open-source-and-platform
+  ats:
+    ashby: plain
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/plain
+
+- name: Rover
+  slug: rover
+  domain: rover.com
+  careers_url: https://jobs.lever.co/rover
+  category: open-source-and-platform
+  ats:
+    lever: rover
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/rover

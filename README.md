@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1198 companies**.
+Currently tracking **1208 companies**.
 
 This repository is designed for two uses:
 
@@ -1254,6 +1254,16 @@ Open source video player (video.js)
 - [Nelly](https://nelly.com) - Hiring via Ashby (nelly).
 - [Paradox](https://paradox.com) - Hiring via Ashby (paradox).
 - [Passage](https://passage.com) - Hiring via Ashby (passage).
+- [Phantom](https://phantom.com) - Hiring via Ashby (phantom).
+- [Zeta](https://zeta.com) - Hiring via Lever (zeta).
+- [Ledger](https://ledger.com) - Hiring via Ashby (ledger).
+- [Omniscient](https://omniscient.com) - Hiring via Ashby (omniscient).
+- [Prelude](https://prelude.com) - Hiring via Ashby (prelude).
+- [Silhouette](https://silhouette.com) - Hiring via Lever (silhouette).
+- [Inertia](https://inertia.com) - Hiring via Ashby (inertia).
+- [Orchard](https://orchard.com) - Hiring via Ashby (orchard).
+- [Plain](https://plain.com) - Hiring via Ashby (plain).
+- [Rover](https://rover.com) - Hiring via Lever (rover).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
