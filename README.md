@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **240 companies**.
+Currently tracking **250 companies**.
 
 This repository is designed for two uses:
 
@@ -295,6 +295,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [Thndr](https://thndr.app) - Investment platform for MENA individuals
 - [Toku](https://trytoku.com) - Account Receivables Platform for Latin American Enterprises
 - [Nash](https://usenash.com) - Nash is the digital logistics infrastructure for commerce
+- [HockeyStack](https://hockeystack.com) - The operating system for inbound B2B revenue
+- [RADAR](https://goradar.com) - RADAR is building technology to completely transform the in-store…
+- [Nova Credit](https://novacredit.com) - Bridging a world of consumer-permissioned credit data
+- [Pearl](https://getpearlcoffee.com) - The future of office coffee.  Keurig convenience meets cafe quality.
+- [NanoNets](https://nanonets.com) - Automatic Data Extraction
+- [Fuse](https://letsfuse.com) - Unified API for financial data aggregators.
+- [Ziina](https://ziina.com) - A digital wallet for the Middle East & North Africa
+- [Odys Aviation](https://odysaviation.com) - Vertical takeoff and landing aircraft for major airlines
+- [Turion Space](https://turionspace.com) - Moving Things Around in Space, Imaging Space Objects When We're Not
+- [Broccoli AI](https://broccoli.com) - AI-native operating system for home service businesses
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

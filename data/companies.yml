@@ -3449,3 +3449,151 @@
   - saas
   sources:
   - https://jobs.ashbyhq.com/nash
+
+- name: HockeyStack
+  slug: hockeystack
+  domain: hockeystack.com
+  careers_url: https://jobs.ashbyhq.com/hockeystack
+  category: ai-and-data
+  ats:
+    ashby: hockeystack
+  tags:
+  - b2b
+  - b2b-sales
+  - saas
+  - analytics
+  sources:
+  - https://jobs.ashbyhq.com/hockeystack
+
+- name: RADAR
+  slug: radar
+  domain: goradar.com
+  careers_url: https://jobs.ashbyhq.com/radar
+  category: ai-and-data
+  ats:
+    ashby: radar
+  tags:
+  - b2b
+  - b2b-retail
+  - artificial-intelligence
+  - retail-tech
+  sources:
+  - https://jobs.ashbyhq.com/radar
+
+- name: Nova Credit
+  slug: nova-credit
+  domain: novacredit.com
+  careers_url: https://boards.greenhouse.io/novacredit
+  category: fintech
+  ats:
+    greenhouse: novacredit
+  tags:
+  - fintech
+  - fintech-credit-and-lending
+  - data-science
+  sources:
+  - https://boards.greenhouse.io/novacredit
+
+- name: Pearl
+  slug: pearl
+  domain: getpearlcoffee.com
+  careers_url: https://jobs.ashbyhq.com/pearl
+  category: consumer-and-marketplace
+  ats:
+    ashby: pearl
+  tags:
+  - b2b
+  - b2b-office-management
+  - food-service-robots-machines
+  - hardware
+  sources:
+  - https://jobs.ashbyhq.com/pearl
+
+- name: NanoNets
+  slug: nanonets
+  domain: nanonets.com
+  careers_url: https://boards.greenhouse.io/nanonets
+  category: ai-and-data
+  ats:
+    greenhouse: nanonets
+  tags:
+  - b2b
+  - b2b-productivity
+  - developer-tools
+  - saas
+  sources:
+  - https://boards.greenhouse.io/nanonets
+
+- name: Fuse
+  slug: fuse
+  domain: letsfuse.com
+  careers_url: https://jobs.ashbyhq.com/fuse
+  category: developer-infrastructure
+  ats:
+    ashby: fuse
+  tags:
+  - fintech
+  - saas
+  - b2b
+  sources:
+  - https://jobs.ashbyhq.com/fuse
+
+- name: Ziina
+  slug: ziina
+  domain: ziina.com
+  careers_url: https://jobs.ashbyhq.com/ziina
+  category: fintech
+  ats:
+    ashby: ziina
+  tags:
+  - fintech
+  - fintech-consumer-finance
+  - payments
+  - neobank
+  sources:
+  - https://jobs.ashbyhq.com/ziina
+
+- name: Odys Aviation
+  slug: odys-aviation
+  domain: odysaviation.com
+  careers_url: https://jobs.ashbyhq.com/odys-aviation
+  category: open-source-and-platform
+  ats:
+    ashby: odys-aviation
+  tags:
+  - industrials
+  - industrials-aviation-and-space
+  - hard-tech
+  - airplanes
+  sources:
+  - https://jobs.ashbyhq.com/odys-aviation
+
+- name: Turion Space
+  slug: turion-space
+  domain: turionspace.com
+  careers_url: https://jobs.ashbyhq.com/turion-space
+  category: open-source-and-platform
+  ats:
+    ashby: turion-space
+  tags:
+  - industrials
+  - industrials-aviation-and-space
+  - space-exploration
+  - satellites
+  sources:
+  - https://jobs.ashbyhq.com/turion-space
+
+- name: Broccoli AI
+  slug: broccoli-ai
+  domain: broccoli.com
+  careers_url: https://jobs.ashbyhq.com/broccoli
+  category: ai-and-data
+  ats:
+    ashby: broccoli
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - artificial-intelligence
+  - home-services
+  sources:
+  - https://jobs.ashbyhq.com/broccoli
