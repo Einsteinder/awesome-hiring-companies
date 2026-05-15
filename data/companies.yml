@@ -6930,3 +6930,148 @@
   - workflow-automation
   sources:
   - https://jobs.ashbyhq.com/inkeep
+
+- name: Corgi Labs
+  slug: corgi-labs
+  domain: corgilabs.ai
+  careers_url: https://jobs.ashbyhq.com/corgi
+  category: ai-and-data
+  ats:
+    ashby: corgi
+  tags:
+  - fintech
+  - fintech-payments
+  - artificial-intelligence
+  - payments
+  sources:
+  - https://jobs.ashbyhq.com/corgi
+
+- name: Resend
+  slug: resend
+  domain: resend.com
+  careers_url: https://jobs.ashbyhq.com/resend
+  category: developer-infrastructure
+  ats:
+    ashby: resend
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  sources:
+  - https://jobs.ashbyhq.com/resend
+
+- name: Fern
+  slug: fern
+  domain: buildwithfern.com
+  careers_url: https://jobs.ashbyhq.com/buildwithfern
+  category: developer-infrastructure
+  ats:
+    ashby: buildwithfern
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - developer-tools
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/buildwithfern
+
+- name: Automat
+  slug: automat
+  domain: runautomat.com
+  careers_url: https://jobs.ashbyhq.com/automat
+  category: ai-and-data
+  ats:
+    ashby: automat
+  tags:
+  - b2b
+  - b2b-operations
+  - documents
+  - artificial-intelligence
+  sources:
+  - https://jobs.ashbyhq.com/automat
+
+- name: Diligent
+  slug: diligent
+  domain: godiligent.ai
+  careers_url: https://boards.greenhouse.io/diligent
+  category: ai-and-data
+  ats:
+    greenhouse: diligent
+  tags:
+  - fintech
+  - compliance
+  - fraud-prevention
+  - regtech
+  sources:
+  - https://boards.greenhouse.io/diligent
+
+- name: Poka Labs
+  slug: poka-labs
+  domain: pokalabs.com
+  careers_url: https://boards.greenhouse.io/poka
+  category: ai-and-data
+  ats:
+    greenhouse: poka
+  tags:
+  - b2b
+  - b2b-supply-chain-and-logistics
+  - saas
+  - supply-chain
+  sources:
+  - https://boards.greenhouse.io/poka
+
+- name: Greenboard
+  slug: greenboard
+  domain: greenboard.com
+  careers_url: https://jobs.ashbyhq.com/greenboard
+  category: ai-and-data
+  ats:
+    ashby: greenboard
+  tags:
+  - fintech
+  - artificial-intelligence
+  - saas
+  - compliance
+  sources:
+  - https://jobs.ashbyhq.com/greenboard
+
+- name: Aqua Voice
+  slug: aqua-voice
+  domain: aquavoice.com
+  careers_url: https://jobs.ashbyhq.com/aqua-voice
+  category: ai-and-data
+  ats:
+    ashby: aqua-voice
+  tags:
+  - consumer
+  - artificial-intelligence
+  - productivity
+  - ai
+  sources:
+  - https://jobs.ashbyhq.com/aqua-voice
+
+- name: Forge
+  slug: forge
+  domain: forgehq.com
+  careers_url: https://jobs.ashbyhq.com/forge
+  category: ai-and-data
+  ats:
+    ashby: forge
+  tags:
+  - b2b
+  - b2b-supply-chain-and-logistics
+  - logistics
+  - supply-chain
+  sources:
+  - https://jobs.ashbyhq.com/forge
+
+- name: Substrate
+  slug: substrate
+  domain: substrate.cc
+  careers_url: https://jobs.ashbyhq.com/substrate
+  category: ai-and-data
+  ats:
+    ashby: substrate
+  tags:
+  - b2b
+  sources:
+  - https://jobs.ashbyhq.com/substrate

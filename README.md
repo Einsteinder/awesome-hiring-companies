@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **480 companies**.
+Currently tracking **490 companies**.
 
 This repository is designed for two uses:
 
@@ -535,6 +535,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [Credal.ai](https://credal.ai) - The Control Plane for Enterprise Agents
 - [Suger](https://suger.io) - Salesforce for Cloud marketplaces on AWS, Azure, GCP
 - [Inkeep](https://inkeep.com) - Build AI Agent teammates and automations in code or no-code
+- [Corgi Labs](https://corgilabs.ai) - AI to increase payment acceptance and reduce fraud for businesses
+- [Resend](https://resend.com) - Email for developers
+- [Fern](https://buildwithfern.com) - Instantly offer SDKs and API Docs
+- [Automat](https://runautomat.com) - AI enabled RPA using ChatGPT and computer vision
+- [Diligent](https://godiligent.ai) - AI agents for fintech risk and compliance operations
+- [Poka Labs](https://pokalabs.com) - Helping industrial manufacturers win deals fast, at the right price.
+- [Greenboard](https://greenboard.com) - Modern OS for the financial back office.
+- [Aqua Voice](https://aquavoice.com) - Frontier Voice Input - write 4x faster than typing.
+- [Forge](https://forgehq.com) - Getting companies refunds on tariffs & duties
+- [Substrate](https://substrate.cc) - Artificial Intelligence for your medical billing team
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
