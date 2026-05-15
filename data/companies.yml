@@ -20249,3 +20249,123 @@
   - open
   sources:
   - https://boards.greenhouse.io/everlaw
+
+- name: CMTelematics
+  slug: cmtelematics
+  domain: cmtelematics.com
+  careers_url: https://boards.greenhouse.io/cmt
+  category: open-source-and-platform
+  ats:
+    greenhouse: cmt
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/cmt
+
+- name: Acrisure Innovation
+  slug: acrisure-innovation
+  domain: acrisureinnovation.com
+  careers_url: https://boards.greenhouse.io/acrisureinnovation
+  category: open-source-and-platform
+  ats:
+    greenhouse: acrisureinnovation
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/acrisureinnovation
+
+- name: Cresta
+  slug: cresta
+  domain: cresta.com
+  careers_url: https://boards.greenhouse.io/cresta
+  category: open-source-and-platform
+  ats:
+    greenhouse: cresta
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/cresta
+
+- name: Sparksoft Corporation
+  slug: sparksoft-corporation
+  domain: sparksoftcorporation.com
+  careers_url: https://boards.greenhouse.io/sparksoftcorporation
+  category: open-source-and-platform
+  ats:
+    greenhouse: sparksoftcorporation
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/sparksoftcorporation
+
+- name: G-P
+  slug: g-p
+  domain: gp.com
+  careers_url: https://boards.greenhouse.io/globalizationpartners
+  category: open-source-and-platform
+  ats:
+    greenhouse: globalizationpartners
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/globalizationpartners
+
+- name: Lunar Energy
+  slug: lunar-energy
+  domain: lunarenergy.com
+  careers_url: https://boards.greenhouse.io/lunarenergy
+  category: open-source-and-platform
+  ats:
+    greenhouse: lunarenergy
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/lunarenergy
+
+- name: Avride
+  slug: avride
+  domain: avride.com
+  careers_url: https://boards.greenhouse.io/avride
+  category: open-source-and-platform
+  ats:
+    greenhouse: avride
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/avride
+
+- name: Industrial Electric Manufacturing
+  slug: industrial-electric-manufacturing
+  domain: industrialelectricmanufacturing.com
+  careers_url: https://boards.greenhouse.io/industrialelectricmanufacturing
+  category: open-source-and-platform
+  ats:
+    greenhouse: industrialelectricmanufacturing
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/industrialelectricmanufacturing
+
+- name: TransMarket Group
+  slug: transmarket-group
+  domain: transmarketgroup.com
+  careers_url: https://boards.greenhouse.io/transmarketgroup
+  category: open-source-and-platform
+  ats:
+    greenhouse: transmarketgroup
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/transmarketgroup
+
+- name: TrueBuilt
+  slug: truebuilt
+  domain: truebuilt.com
+  careers_url: https://boards.greenhouse.io/applytotruebuilt
+  category: open-source-and-platform
+  ats:
+    greenhouse: applytotruebuilt
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/applytotruebuilt

@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1520 companies**.
+Currently tracking **1530 companies**.
 
 This repository is designed for two uses:
 
@@ -1576,6 +1576,16 @@ Open source video player (video.js)
 - [DiDi Labs](https://didilabs.com) - Hiring via Greenhouse (didi).
 - [Instabase](https://instabase.com) - Hiring via Greenhouse (instabase).
 - [Everlaw](https://everlaw.com) - Hiring via Greenhouse (everlaw).
+- [CMTelematics](https://cmtelematics.com) - Hiring via Greenhouse (cmt).
+- [Acrisure Innovation](https://acrisureinnovation.com) - Hiring via Greenhouse (acrisureinnovation).
+- [Cresta](https://cresta.com) - Hiring via Greenhouse (cresta).
+- [Sparksoft Corporation](https://sparksoftcorporation.com) - Hiring via Greenhouse (sparksoftcorporation).
+- [G-P](https://gp.com) - Hiring via Greenhouse (globalizationpartners).
+- [Lunar Energy](https://lunarenergy.com) - Hiring via Greenhouse (lunarenergy).
+- [Avride](https://avride.com) - Hiring via Greenhouse (avride).
+- [Industrial Electric Manufacturing](https://industrialelectricmanufacturing.com) - Hiring via Greenhouse (industrialelectricmanufacturing).
+- [TransMarket Group](https://transmarketgroup.com) - Hiring via Greenhouse (transmarketgroup).
+- [TrueBuilt](https://truebuilt.com) - Hiring via Greenhouse (applytotruebuilt).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
