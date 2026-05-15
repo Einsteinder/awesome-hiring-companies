@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1208 companies**.
+Currently tracking **1218 companies**.
 
 This repository is designed for two uses:
 
@@ -1264,6 +1264,16 @@ Open source video player (video.js)
 - [Orchard](https://orchard.com) - Hiring via Ashby (orchard).
 - [Plain](https://plain.com) - Hiring via Ashby (plain).
 - [Rover](https://rover.com) - Hiring via Lever (rover).
+- [Sleeper](https://sleeper.com) - Hiring via Ashby (sleeper).
+- [Snowball](https://snowball.com) - Hiring via Ashby (snowball).
+- [Magical](https://magical.com) - Hiring via Ashby (magical).
+- [Method](https://method.com) - Hiring via Ashby (method).
+- [Sequoia](https://sequoia.com) - Hiring via Ashby (sequoia).
+- [Waterworks](https://waterworks.com) - Hiring via Lever (waterworks).
+- [Leap](https://leap.com) - Hiring via Ashby (leap).
+- [Lightning](https://lightning.com) - Hiring via Ashby (lightning).
+- [Litmus](https://litmus.com) - Hiring via Ashby (litmus).
+- [Lunar](https://lunar.com) - Hiring via Ashby (lunar).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

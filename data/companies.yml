@@ -16505,3 +16505,123 @@
   - open
   sources:
   - https://jobs.lever.co/rover
+
+- name: Sleeper
+  slug: sleeper
+  domain: sleeper.com
+  careers_url: https://jobs.ashbyhq.com/sleeper
+  category: open-source-and-platform
+  ats:
+    ashby: sleeper
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/sleeper
+
+- name: Snowball
+  slug: snowball
+  domain: snowball.com
+  careers_url: https://jobs.ashbyhq.com/snowball
+  category: open-source-and-platform
+  ats:
+    ashby: snowball
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/snowball
+
+- name: Magical
+  slug: magical
+  domain: magical.com
+  careers_url: https://jobs.ashbyhq.com/magical
+  category: open-source-and-platform
+  ats:
+    ashby: magical
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/magical
+
+- name: Method
+  slug: method
+  domain: method.com
+  careers_url: https://jobs.ashbyhq.com/method
+  category: open-source-and-platform
+  ats:
+    ashby: method
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/method
+
+- name: Sequoia
+  slug: sequoia
+  domain: sequoia.com
+  careers_url: https://jobs.ashbyhq.com/sequoia
+  category: open-source-and-platform
+  ats:
+    ashby: sequoia
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/sequoia
+
+- name: Waterworks
+  slug: waterworks
+  domain: waterworks.com
+  careers_url: https://jobs.lever.co/waterworks
+  category: open-source-and-platform
+  ats:
+    lever: waterworks
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/waterworks
+
+- name: Leap
+  slug: leap
+  domain: leap.com
+  careers_url: https://jobs.ashbyhq.com/leap
+  category: open-source-and-platform
+  ats:
+    ashby: leap
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/leap
+
+- name: Lightning
+  slug: lightning
+  domain: lightning.com
+  careers_url: https://jobs.ashbyhq.com/lightning
+  category: open-source-and-platform
+  ats:
+    ashby: lightning
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/lightning
+
+- name: Litmus
+  slug: litmus
+  domain: litmus.com
+  careers_url: https://jobs.ashbyhq.com/litmus
+  category: open-source-and-platform
+  ats:
+    ashby: litmus
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/litmus
+
+- name: Lunar
+  slug: lunar
+  domain: lunar.com
+  careers_url: https://jobs.ashbyhq.com/lunar
+  category: open-source-and-platform
+  ats:
+    ashby: lunar
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/lunar
