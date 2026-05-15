@@ -14609,3 +14609,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/found
+
+- name: Hobbes
+  slug: hobbes
+  domain: hobbes.com
+  careers_url: https://jobs.ashbyhq.com/hobbes
+  category: open-source-and-platform
+  ats:
+    ashby: hobbes
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/hobbes
+
+- name: Academia
+  slug: academia
+  domain: academia.com
+  careers_url: https://jobs.ashbyhq.com/academia
+  category: open-source-and-platform
+  ats:
+    ashby: academia
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/academia
+
+- name: Administrative
+  slug: administrative
+  domain: administrative.com
+  careers_url: https://boards.greenhouse.io/administrative
+  category: open-source-and-platform
+  ats:
+    greenhouse: administrative
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/administrative
+
+- name: Ameba
+  slug: ameba
+  domain: ameba.com
+  careers_url: https://jobs.ashbyhq.com/ameba
+  category: open-source-and-platform
+  ats:
+    ashby: ameba
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/ameba
+
+- name: Antioch
+  slug: antioch
+  domain: antioch.com
+  careers_url: https://jobs.ashbyhq.com/antioch
+  category: open-source-and-platform
+  ats:
+    ashby: antioch
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/antioch
+
+- name: Arbor
+  slug: arbor
+  domain: arbor.com
+  careers_url: https://jobs.ashbyhq.com/arbor
+  category: open-source-and-platform
+  ats:
+    ashby: arbor
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/arbor
+
+- name: Arch
+  slug: arch
+  domain: arch.com
+  careers_url: https://jobs.ashbyhq.com/arch
+  category: open-source-and-platform
+  ats:
+    ashby: arch
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/arch
+
+- name: Argonaut
+  slug: argonaut
+  domain: argonaut.com
+  careers_url: https://jobs.lever.co/argonaut
+  category: open-source-and-platform
+  ats:
+    lever: argonaut
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/argonaut
+
+- name: Arthur
+  slug: arthur
+  domain: arthur.com
+  careers_url: https://jobs.ashbyhq.com/arthur
+  category: open-source-and-platform
+  ats:
+    ashby: arthur
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/arthur
+
+- name: Autonomous
+  slug: autonomous
+  domain: autonomous.com
+  careers_url: https://jobs.lever.co/autonomous
+  category: open-source-and-platform
+  ats:
+    lever: autonomous
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/autonomous

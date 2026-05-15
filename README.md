@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1050 companies**.
+Currently tracking **1060 companies**.
 
 This repository is designed for two uses:
 
@@ -1106,6 +1106,16 @@ Open source video player (video.js)
 - [Formula](https://formula.com) - Hiring via Ashby (formula).
 - [Form](https://form.com) - Hiring via Lever (form).
 - [Found](https://found.com) - Hiring via Ashby (found).
+- [Hobbes](https://hobbes.com) - Hiring via Ashby (hobbes).
+- [Academia](https://academia.com) - Hiring via Ashby (academia).
+- [Administrative](https://administrative.com) - Hiring via Greenhouse (administrative).
+- [Ameba](https://ameba.com) - Hiring via Ashby (ameba).
+- [Antioch](https://antioch.com) - Hiring via Ashby (antioch).
+- [Arbor](https://arbor.com) - Hiring via Ashby (arbor).
+- [Arch](https://arch.com) - Hiring via Ashby (arch).
+- [Argonaut](https://argonaut.com) - Hiring via Lever (argonaut).
+- [Arthur](https://arthur.com) - Hiring via Ashby (arthur).
+- [Autonomous](https://autonomous.com) - Hiring via Lever (autonomous).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
