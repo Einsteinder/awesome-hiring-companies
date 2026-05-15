@@ -25949,3 +25949,63 @@
   - open
   sources:
   - https://jobs.lever.co/collabora
+
+- name: Moo
+  slug: moo
+  domain: moo.com
+  careers_url: https://jobs.lever.co/moo
+  category: open-source-and-platform
+  ats:
+    lever: moo
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/moo
+
+- name: Quantcast
+  slug: quantcast
+  domain: quantcast.com
+  careers_url: https://jobs.lever.co/quantcast
+  category: open-source-and-platform
+  ats:
+    lever: quantcast
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/quantcast
+
+- name: Commure
+  slug: commure
+  domain: commure.com
+  careers_url: https://jobs.ashbyhq.com/commure
+  category: open-source-and-platform
+  ats:
+    ashby: commure
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/commure
+
+- name: Horizon3Ai
+  slug: horizon3ai
+  domain: horizon3ai.com
+  careers_url: https://jobs.ashbyhq.com/horizon3ai
+  category: open-source-and-platform
+  ats:
+    ashby: horizon3ai
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/horizon3ai
+
+- name: Aeratechnology
+  slug: aeratechnology
+  domain: aeratechnology.com
+  careers_url: https://jobs.lever.co/aeratechnology
+  category: open-source-and-platform
+  ats:
+    lever: aeratechnology
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/aeratechnology

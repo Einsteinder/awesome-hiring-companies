@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1995 companies**.
+Currently tracking **2000 companies**.
 
 This repository is designed for two uses:
 
@@ -2051,6 +2051,11 @@ Open source video player (video.js)
 - [Jitxinc](https://jitxinc.com) - Hiring via Lever (jitxinc).
 - [Gocatalant](https://gocatalant.com) - Hiring via Lever (gocatalant).
 - [Collabora](https://collabora.com) - Hiring via Lever (collabora).
+- [Moo](https://moo.com) - Hiring via Lever (moo).
+- [Quantcast](https://quantcast.com) - Hiring via Lever (quantcast).
+- [Commure](https://commure.com) - Hiring via Ashby (commure).
+- [Horizon3Ai](https://horizon3ai.com) - Hiring via Ashby (horizon3ai).
+- [Aeratechnology](https://aeratechnology.com) - Hiring via Lever (aeratechnology).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
