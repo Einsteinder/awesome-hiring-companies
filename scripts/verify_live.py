@@ -23,21 +23,42 @@ import yaml
 ROOT = Path(__file__).resolve().parents[1]
 DATA_PATH = ROOT / "data" / "companies.yml"
 
+# Use a current Chrome UA. Many enterprise CDNs (Cloudflare, Akamai) reflexively
+# 403 obvious bot UAs even on public careers pages, which produces false
+# positives. The browser UA gets through; we still identify ourselves in the
+# from-header below.
 USER_AGENT = (
-    "Mozilla/5.0 (awesome-hiring-companies-verify/1.0; "
-    "+https://github.com/your-org/awesome-hiring-companies)"
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
 )
-TIMEOUT = httpx.Timeout(15.0, connect=10.0)
+FROM_HEADER = "awesome-hiring-companies-verify@users.noreply.github.com"
+DEFAULT_TIMEOUT = 15.0
+DEFAULT_CONNECT_TIMEOUT = 10.0
 DEFAULT_CONCURRENCY = 20
-RETRIES = 1
+DEFAULT_RETRIES = 1
 
-# Public job-board endpoints. JSON where available (stable + small), HTML for
-# providers without an open API. A 200 from these confirms the slug exists.
-ATS_ENDPOINTS = {
-    "ashby": "https://api.ashbyhq.com/posting-api/job-board/{slug}",
-    "greenhouse": "https://boards-api.greenhouse.io/v1/boards/{slug}/jobs",
-    "lever": "https://api.lever.co/v0/postings/{slug}?mode=json",
-    "workable": "https://apply.workable.com/{slug}/",
+# Per-provider candidate URLs. The slug is considered verified if ANY candidate
+# returns 200, which keeps us robust against:
+#  - Ashby's posting-API being opt-in per customer (many real boards 404 there
+#    but the HTML board page works).
+#  - Greenhouse's HTML board redirecting to a custom careers domain that
+#    Cloudflare 403s for non-residential IPs (but the JSON API still works).
+ATS_ENDPOINTS: dict[str, list[str]] = {
+    "ashby": [
+        "https://jobs.ashbyhq.com/{slug}",
+        "https://api.ashbyhq.com/posting-api/job-board/{slug}",
+    ],
+    "greenhouse": [
+        "https://boards-api.greenhouse.io/v1/boards/{slug}/jobs",
+        "https://boards.greenhouse.io/{slug}",
+    ],
+    "lever": [
+        "https://api.lever.co/v0/postings/{slug}?mode=json",
+        "https://jobs.lever.co/{slug}",
+    ],
+    "workable": [
+        "https://apply.workable.com/{slug}/",
+    ],
 }
 
 
@@ -56,23 +77,32 @@ class Result:
 
     @property
     def status(self) -> str:
-        if any(not p.ok for p in self.probes if p.rule != "active_openings"):
+        # An entry is `fail` only when a structural identity check fails: the
+        # ATS slug doesn't resolve, or the careers_url returns a hard 404/DNS
+        # error AND the ATS slug also doesn't verify. A bot-blocked careers_url
+        # (e.g. Cloudflare 403) with a verified ATS slug downgrades to `warn`,
+        # because a human's browser can still reach the page.
+        ats_failed = any(not p.ok and p.rule.startswith("ats:") for p in self.probes)
+        careers_failed = any(
+            not p.ok and p.rule.startswith("careers_url") for p in self.probes
+        )
+        if ats_failed:
             return "fail"
-        if any(not p.ok for p in self.probes):
+        if careers_failed:
             return "warn"
         return "pass"
 
 
 async def fetch(
-    client: httpx.AsyncClient, url: str, *, method: str = "GET"
+    client: httpx.AsyncClient, url: str, *, method: str = "GET", retries: int = DEFAULT_RETRIES
 ) -> httpx.Response | Exception:
     last_exc: Exception | None = None
-    for attempt in range(RETRIES + 1):
+    for attempt in range(retries + 1):
         try:
             return await client.request(method, url, follow_redirects=True)
         except (httpx.HTTPError, httpx.InvalidURL) as exc:
             last_exc = exc
-            if attempt < RETRIES:
+            if attempt < retries:
                 await asyncio.sleep(0.5 * (attempt + 1))
     assert last_exc is not None
     return last_exc
@@ -89,8 +119,8 @@ def looks_like_login(response: httpx.Response) -> bool:
     )
 
 
-async def probe_careers_url(client: httpx.AsyncClient, url: str) -> Probe:
-    result = await fetch(client, url)
+async def probe_careers_url(client: httpx.AsyncClient, url: str, retries: int) -> Probe:
+    result = await fetch(client, url, retries=retries)
     if isinstance(result, Exception):
         return Probe("careers_url_reachable", False, f"{type(result).__name__}: {result}")
     if result.status_code >= 400:
@@ -108,85 +138,61 @@ def ats_slug_values(provider_value: str | list[str]) -> list[str]:
     return provider_value if isinstance(provider_value, list) else [provider_value]
 
 
-def parse_active_jobs(provider: str, response: httpx.Response) -> int | None:
-    try:
-        data = response.json()
-    except (json.JSONDecodeError, ValueError):
-        return None
-    if provider == "greenhouse":
-        return len(data.get("jobs", []))
-    if provider == "lever":
-        return len(data) if isinstance(data, list) else None
-    if provider == "ashby":
-        jobs = data.get("jobs") if isinstance(data, dict) else None
-        return len(jobs) if isinstance(jobs, list) else None
-    if provider == "workable":
-        # Workable endpoint is HTML; 200 already confirms the slug. No count.
-        return None
-    return None
-
-
 async def probe_ats(
-    client: httpx.AsyncClient, provider: str, slug: str
-) -> tuple[Probe, Probe | None]:
-    template = ATS_ENDPOINTS.get(provider)
-    if template is None:
-        return (
-            Probe(f"ats:{provider}", False, "unknown ATS provider; no endpoint configured"),
-            None,
-        )
-    url = template.format(slug=slug)
-    result = await fetch(client, url)
-    if isinstance(result, Exception):
-        return Probe(f"ats:{provider}:{slug}", False, f"{type(result).__name__}: {result}"), None
-    if result.status_code >= 400:
-        return (
-            Probe(
-                f"ats:{provider}:{slug}",
-                False,
-                f"HTTP {result.status_code} from {url}",
-            ),
-            None,
-        )
+    client: httpx.AsyncClient, provider: str, slug: str, retries: int
+) -> Probe:
+    candidates = ATS_ENDPOINTS.get(provider)
+    if not candidates:
+        return Probe(f"ats:{provider}", False, "unknown ATS provider; no endpoint configured")
 
-    valid = Probe(f"ats:{provider}:{slug}", True, f"HTTP {result.status_code}")
-    job_count = parse_active_jobs(provider, result)
-    if job_count is None:
-        return valid, None
-    return valid, Probe(
-        "active_openings",
-        job_count > 0,
-        f"{job_count} open roles via {provider}",
-    )
+    attempts: list[str] = []
+    for template in candidates:
+        url = template.format(slug=slug)
+        result = await fetch(client, url, retries=retries)
+        if isinstance(result, Exception):
+            attempts.append(f"{url} -> {type(result).__name__}")
+            continue
+        if result.status_code < 400:
+            return Probe(
+                f"ats:{provider}:{slug}", True, f"HTTP {result.status_code} from {url}"
+            )
+        attempts.append(f"{url} -> HTTP {result.status_code}")
+
+    return Probe(f"ats:{provider}:{slug}", False, "; ".join(attempts))
 
 
 async def verify_company(
     client: httpx.AsyncClient,
     company: dict,
     sem: asyncio.Semaphore,
+    retries: int,
 ) -> Result:
     async with sem:
         result = Result(name=company["name"], slug=company["slug"])
-        result.probes.append(await probe_careers_url(client, company["careers_url"]))
+        result.probes.append(
+            await probe_careers_url(client, company["careers_url"], retries)
+        )
         for provider, value in company.get("ats", {}).items():
             for slug in ats_slug_values(value):
-                ats_probe, openings_probe = await probe_ats(client, provider, slug)
-                result.probes.append(ats_probe)
-                if openings_probe is not None:
-                    result.probes.append(openings_probe)
+                result.probes.append(await probe_ats(client, provider, slug, retries))
         return result
 
 
-async def run(companies: list[dict], concurrency: int) -> list[Result]:
+async def run(
+    companies: list[dict], concurrency: int, retries: int, timeout: float
+) -> list[Result]:
     sem = asyncio.Semaphore(concurrency)
     headers = {
         "User-Agent": USER_AGENT,
-        "Accept": "application/json, text/html, */*;q=0.8",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
         "Accept-Encoding": "gzip, deflate",
+        "Accept-Language": "en-US,en;q=0.9",
+        "From": FROM_HEADER,
     }
-    async with httpx.AsyncClient(timeout=TIMEOUT, headers=headers, http2=False) as client:
+    timeout_obj = httpx.Timeout(timeout, connect=min(timeout, DEFAULT_CONNECT_TIMEOUT))
+    async with httpx.AsyncClient(timeout=timeout_obj, headers=headers, http2=False) as client:
         return await asyncio.gather(
-            *(verify_company(client, c, sem) for c in companies)
+            *(verify_company(client, c, sem, retries) for c in companies)
         )
 
 
@@ -244,6 +250,14 @@ def parse_args() -> argparse.Namespace:
         help=f"Max concurrent requests (default: {DEFAULT_CONCURRENCY}).",
     )
     parser.add_argument(
+        "--retries", type=int, default=DEFAULT_RETRIES,
+        help=f"Retries per request on transient errors (default: {DEFAULT_RETRIES}).",
+    )
+    parser.add_argument(
+        "--timeout", type=float, default=DEFAULT_TIMEOUT,
+        help=f"Per-request timeout in seconds (default: {DEFAULT_TIMEOUT}).",
+    )
+    parser.add_argument(
         "--format", choices=("text", "json"), default="text",
     )
     parser.add_argument(
@@ -262,7 +276,9 @@ def main() -> int:
         print("No companies matched filter; nothing to do.", file=sys.stderr)
         return 0
 
-    results = asyncio.run(run(companies, args.concurrency))
+    results = asyncio.run(
+        run(companies, args.concurrency, args.retries, args.timeout)
+    )
 
     if args.format == "json":
         print(render_json(results))
