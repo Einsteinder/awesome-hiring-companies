@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **740 companies**.
+Currently tracking **750 companies**.
 
 This repository is designed for two uses:
 
@@ -796,6 +796,16 @@ Open source video player (video.js)
 - [Atrato](https://atratopago.com) - Enabling consumers split the cost of purchases without a credit card
 - [Smartcuts](https://trysmartcuts.com) - Chrome extension to turn clicks & keystrokes into no-code automations
 - [Fathom](https://fathom.ai) - The most flexible AI meeting notetaker ever built.
+- [Noble](https://benoble.io) - Risk decisioning platform
+- [Simplify](https://simplify.jobs) - Helping a billion people build their dream career
+- [Slope](https://slopepay.com) - The B2B Payments Platform
+- [Jupe](https://jupe.com) - Just add land
+- [TAG](https://tagme.pk) - TAG is the First Digital Bank (Chime/Revolut/N26) for Pakistan
+- [MarcoPolo](https://marcopolo.com) - Alibaba for Latin America
+- [Orca](https://orca.fyi) - Banking for Gen Z, on steroids.
+- [SkyLink](https://tryskylink.com) - Travel Management Meets AI
+- [Edge](https://withedge.com) - The ultimate IP assistant.
+- [Fortuna Health](https://fortunahealth.com) - TurboTax for Medicaid
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

@@ -10682,3 +10682,146 @@
   - productivity
   sources:
   - https://jobs.ashbyhq.com/fathom
+
+- name: Noble
+  slug: noble
+  domain: benoble.io
+  careers_url: https://boards.greenhouse.io/noble
+  category: fintech
+  ats:
+    greenhouse: noble
+  tags:
+  - b2b
+  - b2b-finance-and-accounting
+  - fintech
+  - saas
+  sources:
+  - https://boards.greenhouse.io/noble
+
+- name: Simplify
+  slug: simplify
+  domain: simplify.jobs
+  careers_url: https://jobs.ashbyhq.com/simplify
+  category: ai-and-data
+  ats:
+    ashby: simplify
+  tags:
+  - consumer
+  - consumer-job-and-career-services
+  - generative-ai
+  - machine-learning
+  sources:
+  - https://jobs.ashbyhq.com/simplify
+
+- name: Slope
+  slug: slope
+  domain: slopepay.com
+  careers_url: https://jobs.ashbyhq.com/slope
+  category: ai-and-data
+  ats:
+    ashby: slope
+  tags:
+  - fintech
+  - fintech-payments
+  - artificial-intelligence
+  - machine-learning
+  sources:
+  - https://jobs.ashbyhq.com/slope
+
+- name: Jupe
+  slug: jupe
+  domain: jupe.com
+  careers_url: https://jobs.lever.co/jupe
+  category: consumer-and-marketplace
+  ats:
+    lever: jupe
+  tags:
+  - real-estate-and-construction
+  - hardware
+  - housing
+  - manufacturing
+  sources:
+  - https://jobs.lever.co/jupe
+
+- name: TAG
+  slug: tag
+  domain: tagme.pk
+  careers_url: https://jobs.lever.co/tag
+  category: fintech
+  ats:
+    lever: tag
+  tags:
+  - fintech
+  - fintech-banking-and-exchange
+  - finops
+  sources:
+  - https://jobs.lever.co/tag
+
+- name: MarcoPolo
+  slug: marcopolo
+  domain: marcopolo.com
+  careers_url: https://jobs.lever.co/marcopolo
+  category: consumer-and-marketplace
+  ats:
+    lever: marcopolo
+  tags:
+  - b2b
+  - b2b-operations
+  - marketplace
+  sources:
+  - https://jobs.lever.co/marcopolo
+
+- name: Orca
+  slug: orca
+  domain: orca.fyi
+  careers_url: https://jobs.ashbyhq.com/orca
+  category: fintech
+  ats:
+    ashby: orca
+  tags:
+  - fintech
+  - neobank
+  sources:
+  - https://jobs.ashbyhq.com/orca
+
+- name: SkyLink
+  slug: skylink
+  domain: tryskylink.com
+  careers_url: https://jobs.ashbyhq.com/skylink
+  category: ai-and-data
+  ats:
+    ashby: skylink
+  tags:
+  - b2b
+  - travel
+  - ai
+  sources:
+  - https://jobs.ashbyhq.com/skylink
+
+- name: Edge
+  slug: edge
+  domain: withedge.com
+  careers_url: https://boards.greenhouse.io/edge
+  category: open-source-and-platform
+  ats:
+    greenhouse: edge
+  tags:
+  - b2b
+  - b2b-legal
+  sources:
+  - https://boards.greenhouse.io/edge
+
+- name: Fortuna Health
+  slug: fortuna-health
+  domain: fortunahealth.com
+  careers_url: https://jobs.ashbyhq.com/fortuna-health
+  category: consumer-and-marketplace
+  ats:
+    ashby: fortuna-health
+  tags:
+  - healthcare
+  - healthcare-healthcare-it
+  - health-tech
+  - healthcare-it
+  sources:
+  - https://jobs.ashbyhq.com/fortuna-health
