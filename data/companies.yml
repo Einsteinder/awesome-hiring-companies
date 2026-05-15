@@ -21089,3 +21089,123 @@
   - open
   sources:
   - https://boards.greenhouse.io/attentive
+
+- name: Anduril Industries
+  slug: anduril-industries
+  domain: andurilindustries.com
+  careers_url: https://boards.greenhouse.io/andurilindustries
+  category: open-source-and-platform
+  ats:
+    greenhouse: andurilindustries
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/andurilindustries
+
+- name: Podium
+  slug: podium
+  domain: podium.com
+  careers_url: https://boards.greenhouse.io/podium81
+  category: open-source-and-platform
+  ats:
+    greenhouse: podium81
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/podium81
+
+- name: Torc Robotics
+  slug: torc-robotics
+  domain: torcrobotics.com
+  careers_url: https://boards.greenhouse.io/torcrobotics
+  category: open-source-and-platform
+  ats:
+    greenhouse: torcrobotics
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/torcrobotics
+
+- name: Locus Robotics
+  slug: locus-robotics
+  domain: locusrobotics.com
+  careers_url: https://boards.greenhouse.io/locusrobotics
+  category: open-source-and-platform
+  ats:
+    greenhouse: locusrobotics
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/locusrobotics
+
+- name: SpaceX
+  slug: spacex
+  domain: spacex.com
+  careers_url: https://boards.greenhouse.io/spacex
+  category: open-source-and-platform
+  ats:
+    greenhouse: spacex
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/spacex
+
+- name: Capco
+  slug: capco
+  domain: capco.com
+  careers_url: https://boards.greenhouse.io/capco
+  category: open-source-and-platform
+  ats:
+    greenhouse: capco
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/capco
+
+- name: Uare.ai
+  slug: uare-ai
+  domain: uareai.com
+  careers_url: https://boards.greenhouse.io/uareai
+  category: open-source-and-platform
+  ats:
+    greenhouse: uareai
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/uareai
+
+- name: Scout24
+  slug: scout24
+  domain: scout24.com
+  careers_url: https://boards.greenhouse.io/scout24
+  category: open-source-and-platform
+  ats:
+    greenhouse: scout24
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/scout24
+
+- name: Gelber Group
+  slug: gelber-group
+  domain: gelbergroup.com
+  careers_url: https://boards.greenhouse.io/gelbergroup
+  category: open-source-and-platform
+  ats:
+    greenhouse: gelbergroup
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/gelbergroup
+
+- name: Zone 5 Technologies
+  slug: zone-5-technologies
+  domain: zone5technologies.com
+  careers_url: https://boards.greenhouse.io/zone5technologies
+  category: open-source-and-platform
+  ats:
+    greenhouse: zone5technologies
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/zone5technologies

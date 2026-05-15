@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1590 companies**.
+Currently tracking **1600 companies**.
 
 This repository is designed for two uses:
 
@@ -1646,6 +1646,16 @@ Open source video player (video.js)
 - [Axon](https://axon.com) - Hiring via Greenhouse (axon).
 - [ClimateAi](https://climateai.com) - Hiring via Greenhouse (climateai).
 - [Attentive](https://attentive.com) - Hiring via Greenhouse (attentive).
+- [Anduril Industries](https://andurilindustries.com) - Hiring via Greenhouse (andurilindustries).
+- [Podium](https://podium.com) - Hiring via Greenhouse (podium81).
+- [Torc Robotics](https://torcrobotics.com) - Hiring via Greenhouse (torcrobotics).
+- [Locus Robotics](https://locusrobotics.com) - Hiring via Greenhouse (locusrobotics).
+- [SpaceX](https://spacex.com) - Hiring via Greenhouse (spacex).
+- [Capco](https://capco.com) - Hiring via Greenhouse (capco).
+- [Uare.ai](https://uareai.com) - Hiring via Greenhouse (uareai).
+- [Scout24](https://scout24.com) - Hiring via Greenhouse (scout24).
+- [Gelber Group](https://gelbergroup.com) - Hiring via Greenhouse (gelbergroup).
+- [Zone 5 Technologies](https://zone5technologies.com) - Hiring via Greenhouse (zone5technologies).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
