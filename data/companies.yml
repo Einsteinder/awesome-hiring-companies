@@ -12449,3 +12449,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/amber
+
+- name: Antares
+  slug: antares
+  domain: antares.com
+  careers_url: https://jobs.ashbyhq.com/antares
+  category: open-source-and-platform
+  ats:
+    ashby: antares
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/antares
+
+- name: Canals
+  slug: canals
+  domain: canals.com
+  careers_url: https://jobs.ashbyhq.com/canals
+  category: open-source-and-platform
+  ats:
+    ashby: canals
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/canals
+
+- name: Dapper
+  slug: dapper
+  domain: dapper.com
+  careers_url: https://jobs.ashbyhq.com/dapper
+  category: open-source-and-platform
+  ats:
+    ashby: dapper
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/dapper
+
+- name: Doctrine
+  slug: doctrine
+  domain: doctrine.com
+  careers_url: https://jobs.lever.co/doctrine
+  category: open-source-and-platform
+  ats:
+    lever: doctrine
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/doctrine
+
+- name: Flora
+  slug: flora
+  domain: flora.com
+  careers_url: https://jobs.ashbyhq.com/flora
+  category: open-source-and-platform
+  ats:
+    ashby: flora
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/flora
+
+- name: Hercules
+  slug: hercules
+  domain: hercules.com
+  careers_url: https://jobs.ashbyhq.com/hercules
+  category: open-source-and-platform
+  ats:
+    ashby: hercules
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/hercules
+
+- name: Augustus
+  slug: augustus
+  domain: augustus.com
+  careers_url: https://jobs.ashbyhq.com/augustus
+  category: open-source-and-platform
+  ats:
+    ashby: augustus
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/augustus
+
+- name: Bounteous
+  slug: bounteous
+  domain: bounteous.com
+  careers_url: https://jobs.lever.co/bounteous
+  category: open-source-and-platform
+  ats:
+    lever: bounteous
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/bounteous
+
+- name: Cape
+  slug: cape
+  domain: cape.com
+  careers_url: https://jobs.ashbyhq.com/cape
+  category: open-source-and-platform
+  ats:
+    ashby: cape
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/cape
+
+- name: Focused
+  slug: focused
+  domain: focused.com
+  careers_url: https://jobs.ashbyhq.com/focused
+  category: open-source-and-platform
+  ats:
+    ashby: focused
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/focused
