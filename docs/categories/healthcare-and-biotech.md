@@ -1,0 +1,120 @@
+# Healthcare and Biotech
+
+Healthcare delivery, health-tech, biotech, drug discovery, medical devices, and wellness.
+
+- [Adaptyv](https://adaptyvbio.com) - We're building fully automated labs for protein engineering
+- [Akido Labs](https://akidolabs.com) - Rebuilding healthcare with AI at the core
+- [Anima](https://animahealth.com) - The next generation care enablement platform
+- [Ansa Biotechnologies](https://ansabio.com) - Next-generation DNA synthesis using enzymes
+- [Arini](https://arini.ai) - AI receptionist for dentists
+- [Arsenalbio](https://arsenalbio.com) - Hiring via Lever (arsenalbio).
+- [Axle Health](https://axlehealth.com) - Scheduling and workforce management SaaS for home healthcare providers
+- [b12 Labs](https://b12-labs.com) - Chemical Copilot for Pharma and Biotech
+- [Benchling](https://benchling.com) - Unlocking the power of biotech with modern software for modern science
+- [BillionToOne](https://billiontoone.com) - The genetic testing platform detecting and measuring disease.
+- [Blink Health](https://blinkhealth.com) - Hiring via Greenhouse (blinkhealth).
+- [Blueberry Pediatrics](https://blueberrypediatrics.com) - 24/7 pediatric clinic in every family's living room
+- [Bunkerhill Health](https://bunkerhillhealth.com) - Bunkerhill Health is building the system of action for health systems
+- [Camber](https://camber.health) - Admin automation for healthcare
+- [Candid Health](https://joincandidhealth.com) - The revenue cycle automation platform.
+- [Career](https://career.com) - Hiring via Lever (career).
+- [Careers at Tide](https://careersattide.com) - Hiring via Greenhouse (tide).
+- [CareMessage](https://caremessage.org) - Patient engagement for low-income populations
+- [Carrot Fertility](https://get-carrot.com) - Customized fertility benefits for modern companies.
+- [Claim Health](https://claimhealth.com) - AI Revenue Platform for Post-Acute Care
+- [Clarion](https://clarionhealth.com) - The AI communication layer for healthcare
+- [Clipboard](https://clipboardworks.com) - Every shift, Covered.
+- [Codes Health](https://getcodeshealth.com) - Medical Record Retrieval with Zero Human Error
+- [Daybreak Health](https://daybreakhealth.com) - The first digital mental health system for youth
+- [Decoda Health](https://decodahealth.com) - The all-in-one EMR built for med spas and elective care
+- [eClinical Solutions](https://eclinicalsolutions.com) - Hiring via Greenhouse (eclinicalsolutions).
+- [Eight Sleep](https://eightsleep.com) - The sleep fitness company.
+- [Empirical Health](https://empirical.health) - Don't die of heart disease. Empirical is the first AI-native heart…
+- [Endpointclinical](https://endpointclinical.com) - Hiring via Lever (endpointclinical).
+- [Evry Health](https://evryhealth.com) - Better health insurance for mid-size companies
+- [Finni Health](https://finnihealth.com) - Empowering Autism Care Providers to Go Independent
+- [Five Rings LLC - Careers](https://fiveringsllccareers.com) - Hiring via Greenhouse (fiveringsllc).
+- [Flex](https://withflex.com) - Stripe for HSA/FSA payments
+- [Flint](https://withflint.com) - Securing Nurses for Your Future
+- [Fortuna Health](https://fortunahealth.com) - TurboTax for Medicaid
+- [General Proximity](https://generalproximity.bio) - The next generation of induced-proximity medicines.
+- [Ginkgo Bioworks](https://ginkgobioworks.com) - Our mission is to make biology easier to engineer.
+- [Healthcare](https://healthcare.com) - Hiring via Lever (healthcare).
+- [HealthSherpa](https://healthsherpa.com) - Private sector Healthcare.gov.
+- [Healthtech 1](https://healthtech1.uk) - Automating repetitive processes in healthcare
+- [Hive Health](https://ourhivehealth.com) - Simplified digital health insurance for Filipino SMBs
+- [Hone Health](https://honehealth.com) - Hiring via Greenhouse (honehealth).
+- [IMT Care](https://imt.care) - Disrupting Indian Insurance space by empowering distrubutors
+- [Invert](https://invertbio.com) - Data analytics software for biomanufacturing.
+- [Junction](https://junction.com) - API for at-home health data
+- [Juno](https://juno-chat.com) - AI Health Assistant for Chronic Illness
+- [Kernal Biologics](https://kernalbio.com) - Kernal is creating mRNA 2.0 therapies that work in specific cells
+- [Kingdom](https://kingdomsuperculture.com) - Natural functional ingredients that actually work
+- [Knowtex](https://knowtex.ai) - Making doctors 2x more efficient with AI note-taking & charge capture
+- [Latent](https://latenthealth.com) - Medical language models to automate healthcare operations
+- [Legion Health](https://legionhealth.com) - Autonomous medical care
+- [Living Carbon](https://livingcarbon.com) - maximizing biomass on low quality land
+- [Loula](https://joinloula.com) - Enabling birth & postpartum doulas to easily accept insurance.
+- [Lucis](https://lucis.life) - Function Health for Europe
+- [Luminate](https://luminatemed.com) - We make cancer care at home possible.
+- [Lyrahealth](https://lyrahealth.com) - Hiring via Lever (lyrahealth).
+- [Mable](https://trymable.com) - First personalized migraine clinic using genetics and telehealth.
+- [Maven Clinic](https://mavenclinic.com) - Hiring via Greenhouse (mavenclinic).
+- [Medium Biosciences](https://medium.bio) - AI-designed Affinity Reagents
+- [Mednet](https://themednet.org) - Mednet helps doctors answer their toughest clinical questions —…
+- [Meru Health](https://meruhealth.com) - An online provider for greater mental health
+- [Metriport](https://metriport.com) - Open-Source Platform for Healthcare Data Intelligence
+- [Mochi Health](https://mochihealth.com) - Hiring via Greenhouse (mochihealth).
+- [Modern Health](https://modernhealth.com) - A mental health benefits platform for employers.
+- [Mytos](https://mytos.bio) - Robotic human cell manufacturing
+- [Nabla Bio](https://nabla.bio) - We use AI to design antibodies for intractable diseases
+- [NimbleRx](https://nimblerx.com) - On-demand prescription delivery.
+- [Nomic Bio](https://nomic.bio) - Nomic is doing for proteins what Illumina has done for DNA
+- [Notable Labs](https://notablelabs.com) - Personalized drug discovery for blood cancer.
+- [Nucleo](https://nucleoresearch.com) - The first Agentic platform for Oncology
+- [Ophelia](https://ophelia.com) - Medication & support to beat opioid addiction from home
+- [Ora AI](https://oraai.com) - Med school can be simpler
+- [Pair Team](https://pairteam.com) - Building the safety net of the future
+- [Papa](https://papa.com) - One-stop-shop for flexible family care
+- [Parallel Bio](https://parallel.bio) - Using the immune system to cure disease
+- [Pelago](https://pelagohealth.com) - The world's first digital clinic for substance use management
+- [Perpay - Career's Page](https://perpaycareerspage.com) - Hiring via Greenhouse (perpay).
+- [Pharos](https://pharos.health) - Helping hospitals identify and prevent avoidable harm using AI
+- [Phoenix](https://phoenix.ca) - Canada's digital health clinic for men
+- [Pine Park Health](https://pineparkhealth.com) - We provide primary care in senior living communities.
+- [PostEra](https://postera.ai) - Medicinal Chemistry powered by Machine Learning
+- [Probably Genetic](https://probablygenetic.com) - Patient Intelligence Platform for Genetic Disease
+- [Prosper](https://getprosper.ai) - AI Phone Agents for Healthcare Operations
+- [Pulse](https://getpulse.care) - Electronic Medical Records for India
+- [Quartzy](https://quartzy.com) - Marketplace for life science supplies.
+- [Qventus](https://qventus.com) - We automate operations for hospitals and health systems
+- [Reklamehealth](https://reklamehealth.com) - Hiring via Ashby (reklamehealth).
+- [Remodel Health](https://remodelhealth.com) - Hiring via Greenhouse (remodelhealth).
+- [RVO Health](https://rvohealth.com) - Hiring via Greenhouse (rvohealth).
+- [Sage Care](https://getsagecare.com) - Get care at home for mom or dad from trusted professionals in their…
+- [Savvy](https://gosavvy.com) - Flexible stipends for employee health insurance
+- [Shasqi](https://shasqi.com) - Targeting Cancer with Click Chemistry
+- [Shift Labs](https://shiftlabs.com) - Makers of simple, affordable medical devices. Our award-winning…
+- [Shiru](https://shiru.com) - Shiru leverages ML to create proteins to feed the world sustainably.
+- [Sidecar Health](https://sidecarhealth.com) - Hiring via Greenhouse (sidecarhealth).
+- [Silver](https://scansilver.com) - Low cost consumer device for toxin detection.
+- [SIRUM](https://sirum.org) - SIRUM is a “match.com” for unused medicine. We connect institutional…
+- [Sixfold Bioscience](https://sixfold.bio) - Delivering RNA therapies.
+- [Stepful](https://stepful.com) - Online Training for Healthcare Jobs
+- [Symbiotic](https://symbiotic.com) - Hiring via Ashby (symbiotic).
+- [Synapticure](https://synapticure.com) - We deliver personalized medicine for neurodegenerative  patients
+- [Tamarind Bio](https://tamarind.bio) - AI Inference Platform for Drug Discovery
+- [Tempo](https://tempo.fit) - Live home fitness training powered by computer vision.
+- [Tennr](https://tennr.com) - Fast, Transparent Patient Experiences
+- [Trident Bioscience](https://trident.bio) - Accelerating protein engineering.
+- [Understood Care](https://understoodcare.com) - Healthcare personal assistants for Medicare patients.
+- [Vera Health](https://vera-health.ai) - AI-powered clinical decision support for healthcare providers
+- [Verge Genomics](https://vergegenomics.com) - We use human data and AI to develop better drugs faster.
+- [Verifiable](https://verifiable.com) - API for healthcare compliance
+- [Verse Medical](https://versemedical.com) - Software platform for in-home healthcare
+- [Vetcove](https://vetcove.com) - Powering the animal health supply chain.
+- [Virtahealth](https://virtahealth.com) - Hiring via Ashby (virtahealth).
+- [Vitable Health](https://vitablehealth.com) - Affordable care via ICHRA and primary care with visits, meds, labs…
+- [Vitalize](https://vitalize.care) - Transforming how health systems optimize labor
+- [Volta Labs, Inc.](https://voltalabs.com) - Unlocking the utility of genomics for the world.
+- [Zushealth](https://zushealth.com) - Hiring via Lever (zushealth).

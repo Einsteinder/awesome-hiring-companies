@@ -1,0 +1,154 @@
+# Industrials and Climate
+
+Hardware, manufacturing, robotics, climate, energy, aviation, space, supply chain, logistics, real estate, and construction.
+
+- [9 Mothers](https://9mothers.com) - AI weapon systems
+- [Agave](https://useagave.com) - AI Financial Operations for Construction
+- [Albedo](https://albedo.com) - Full-stack VLEO satellite missions
+- [Alchemy](https://alchemynano.com) - Nanotechnology-enabled coatings for automotive and defence sectors
+- [AON3D](https://aon3d.com) - Additive Manufacturing with advanced materials
+- [Apolink](https://apolink.space) - 24/7 satellite connectivity in low Earth orbit
+- [Array Labs](https://arraylabs.io) - We're building satellites to create a real-time 3D map of the world.
+- [Asimov](https://tryasimov.ai) - Real-world human movement data for humanoid robots
+- [Assembly](https://asm.co) - Advanced manufacturing and distribution solutions (for China-based…
+- [Astranis](https://astranis.com) - Advanced satellites for high orbits.
+- [Astro Mechanica](https://astromecha.co) - Supersonics for the new Jet Age
+- [AtoB](https://atob.com) - Modernizing global transportation payments.
+- [Atomic Industries](https://atomic.industries) - Software orchestrated mass production of plastics
+- [Attain](https://joinattain.com) - One-Stop Shop for Convenience Store Inventory
+- [Atum Works](https://atum.works) - Gigascale Nanomanufacturing
+- [Bild AI](https://bild.ai) - AI that understands construction blueprints
+- [Blink](https://blinklastmile.com) - Same-day delivery for e-commerce companies in Europe.
+- [Blissway](https://blissway.com) - The tolling industry’s prime tech infrastructure
+- [Blue](https://heyblue.com) - Your phone finally has someone to run it. Plug in Blue, just ask.
+- [Bluedot](https://thebluedot.co) - Bluedot is a single payment platform for EV drivers and fleets.
+- [Bolster](https://bolsterbuilt.com) - The platform for buying, selling and managing residential construction
+- [Boom](https://boomsupersonic.com) - Economically and environmentally sustainable supersonic travel
+- [burnt](https://getburnt.ai) - Agentic Operating System for Food Supply Chain
+- [Cambio](https://cambio.ai) - AI-native commercial real estate operations
+- [CarbonChain](https://carbonchain.com) - We help companies automate the accounting of their carbon emissions
+- [Castle](https://entercastle.com) - Castle manages rental homes using automation and on-demand labor.
+- [Charge Robotics](https://chargerobotics.com) - Robots that build solar farms
+- [Chestnut](https://chestnutmortgage.com) - The first AI mortgage lender
+- [Cinder](https://cindercooks.com) - The World’s First Countertop Precision Grill –  using two ceramic…
+- [CircuitHub](https://circuithub.com) - On-Demand Electronics Manufacturing
+- [ClimateAi](https://climateai.com) - Hiring via Greenhouse (climateai).
+- [CoLab](https://colabsoftware.com) - Human and AI design review for hardware
+- [Comena](https://comena.ai) - AI agents for distributors and manufacturers to automate order entry.
+- [Conduit](https://helloconduit.com) - The operating system for shipping and receiving.
+- [Coperniq](https://coperniq.io) - Workflow software for solar & energy contractors ☀️😎
+- [Corvus Robotics](https://corvus-robotics.com) - Autonomous drones to help warehouses scan inventory.
+- [Culdesac](https://culdesac.com) - We build cities for people, not cars.
+- [Curri](https://curri.com) - Construction & industrial logistics platform.
+- [Dispatch](https://dispatch.space) - Satellites for manufacturing in space
+- [Distro](https://distro.app) - The AI co-pilot for sales reps at industrial wholesale distributors.
+- [DoorDash](https://doordash.com) - Local commerce and logistics marketplace with consumer, merchant, ads, and delivery systems.
+- [Ekho](https://ekho.com) - Shopify for vehicles
+- [Electric Air](https://electricair.io) - Tech-enabled heat pump contractor that cuts costs by 60%
+- [EnergyHub](https://energyhub.com) - Hiring via Greenhouse (energyhub).
+- [Energyrecovery](https://energyrecovery.com) - Hiring via Lever (energyrecovery).
+- [Enode](https://enode.com) - An API for electric vehicles and other energy hardware (DERs)
+- [Enveritas](https://enveritas.org) - We verify global supply chains for issues like child slavery and…
+- [Epsilon3](https://epsilon3.io) - AI-Powered ERP, MES, and Test Software for Complex Operations
+- [Faction](https://faction.us) - Driverless electric vehicles at a fraction of the cost of a car.
+- [Fetch](https://fetchtruck.com) - Marketplace for self-service truck rental.
+- [Firsthand](https://shopfirsthand.com) - Firsthand makes software-enabled, self-serve retail kiosks that carry…
+- [Flai](https://useflai.com) - We Bring Customers to Your Dealership
+- [Fleetline](https://fleetline.ai) - Optimizing fleet planning with data driven algorithms
+- [FleetWorks](https://fleetworks.ai) - AI enabled marketplace matching trucks with jobs
+- [Fleetzero](https://fleetzero.com) - Making all ships robots.
+- [Flexport](https://flexport.com) - Platform for global logistics.
+- [Forerunner AI](https://tryforerunner.com) - AI that gets aircraft flying faster
+- [Forge](https://forgehq.com) - Getting companies refunds on tariffs & duties
+- [Foundation](https://buildwithfoundation.com) - Shopify for Homebuilders
+- [Framenergy](https://framenergy.com) - Hiring via Ashby (framenergy).
+- [Gecko Robotics](https://geckorobotics.com) - AI + Robotics for the Built World
+- [Gridware](https://gridware.io) - Protecting the grid today, preparing the grid for tomorrow
+- [Grin](https://ongrin.com) - Mobility and payments platform for Latin America
+- [H3X Technologies](https://h3x.tech) - The lightest electric aircraft motors in the world.
+- [Handoff](https://handoff.ai) - AI estimator & agent for remodelers.
+- [Headspace](https://headspace.com) - Hiring via Greenhouse (hs).
+- [Heart Aerospace](https://heartaerospace.com) - Heart makes electric airplanes with an all-electric range of 250 miles
+- [Hexa](https://hexaagents.com) - The OS for Manufacturers and Distributors
+- [Homebase](https://gethomebase.com) - Personalized rent-to-own real estate financing using technology in SEA
+- [Hubble Network](https://hubble.com) - Bluetooth to Space
+- [Human Archive](https://humanarchive.ai) - Multimodal data provider for robotics and world modeling
+- [Icarus](https://icarus.one) - Stratospheric birds for defense
+- [Industrial Electric Manufacturing](https://industrialelectricmanufacturing.com) - Hiring via Greenhouse (industrialelectricmanufacturing).
+- [Innate](https://innate.bot) - Personal AI Robots
+- [Instacart](https://instacart.com) - Grocery delivery marketplace with logistics, retail, and ads systems.
+- [Inversion Space](https://inversionspace.com) - Turning space into a transportation layer for Earth
+- [Jupe](https://jupe.com) - Just add land
+- [Ladder](https://meetladder.com) - Labor Marketplace for Construction
+- [Locus Robotics](https://locusrobotics.com) - Hiring via Greenhouse (locusrobotics).
+- [Lucid Bots](https://lucidbots.com) - We build robots for dull, dirty, and dangerous jobs.
+- [Lunar Energy](https://lunarenergy.com) - Hiring via Greenhouse (lunarenergy).
+- [MaverickX](https://maverickx.com) - Engineering the future of chemistry for natural resource extraction
+- [May Mobility](https://maymobility.com) - Transforming cities and rural areas through AV transit and technology
+- [Meticulous](https://meticulous.ai) - Automated e2e screenshot testing without writing or maintaining tests
+- [Momentus](https://momentus.space) - The space infrastructure services company
+- [MorphoAI](https://morpho.ai) - Software tool for designing robots and machines
+- [Multiply Labs](https://multiplylabs.com) - Robotic production capacity for the pharma manufacturing industry
+- [Nabis](https://nabis.com) - Nabis is the largest licensed cannabis wholesale platform.
+- [Nash](https://usenash.com) - Nash is the digital logistics infrastructure for commerce
+- [Navier AI](https://navier.ai) - Agent-Driven Engineering
+- [Nimbus](https://nimbus.green) - Tesla for city dwellers
+- [Nira Energy](https://niraenergy.com) - Software to find the best sites for renewables on the electrical grid
+- [Northwoodspace](https://northwoodspace.com) - Hiring via Ashby (northwoodspace).
+- [Nox Metals](https://noxmetals.co) - Supplying America's Industrial Base
+- [Octoenergy](https://octoenergy.com) - Hiring via Lever (octoenergy).
+- [Odeko](https://odeko.com) - Our operations software makes it easier to run--and grow--your cafe
+- [Odys Aviation](https://odysaviation.com) - Vertical takeoff and landing aircraft for major airlines
+- [Oklo](https://oklo.com) - Emission free, always on power from advanced fission power plants.
+- [Overview](https://overview.ai) - Reshaping industrial quality with AI, hardware, and software
+- [Pearl](https://getpearlcoffee.com) - The future of office coffee.  Keurig convenience meets cafe quality.
+- [PermitFlow](https://permitflow.com) - Construction's AI Platform
+- [Phase Biolabs](https://phasebiolabs.com) - We make carbon negative chemicals from CO2 using fermentation
+- [PickTrace](https://picktrace.com) - Workforce Management for Large Farms
+- [Pivot Robotics](https://pivotrobotics.com) - AI for Robot Arms in Factories
+- [Plume](https://plumefinder.com) - Renewable infrastructure deployment at scale.
+- [Poka Labs](https://pokalabs.com) - Helping industrial manufacturers win deals fast, at the right price.
+- [Posh](https://poshenergy.com) - Rapidly deployable energy solutions for modern commercial and…
+- [PowerX](https://powerx.co) - AI powered sensors that save energy, water and emissions
+- [Prometheus](https://prometheusfuels.com) - We use solar and wind power to make zero net carbon electrofuels
+- [Pronto](https://tuprontomx.com) - Ride-sharing for second-tier cities in Latin America.
+- [Pyka](https://flypyka.com) - Autonomous electric airplanes
+- [Quindar](https://quindar.space) - Datadog for Space
+- [Reach](https://reachpower.com) - Long range, wireless energy distribution that scales
+- [REGENT](https://regentcraft.com) - All-electric seagliders for fast, affordable regional transportation
+- [Remora](https://remoracarbon.com) - Carbon capture for vehicles
+- [Revise Robotics](https://reviserobotics.com) - Automating refurbishment of $1T in consumer electronics
+- [REZI](https://rentrezi.com) - Rent Better
+- [Rigetti Computing](https://rigetti.com) - Quantum coherent supercomputing.
+- [Rocket Lab Corporation](https://rocketlabcorporation.com) - Hiring via Greenhouse (rocketlab).
+- [Rocket Lawyer](https://rocketlawyer.com) - Hiring via Greenhouse (rocketlawyer).
+- [Roofr](https://roofr.com) - Sales software for roofers. Aerial measurements + proposals in seconds
+- [SEND](https://send.ng) - Flexport for Africa - Digital Freight forwarder and Customs Broker.
+- [Sensei](https://senseirobotics.com) - Robotic Training Data at Scale
+- [Shepherd](https://shepherdinsurance.com) - Modernizing commercial insurance
+- [Skip](https://rideskip.com) - Electric scooters for reliable last-mile transportation.
+- [SkydropX](https://skydropx.com) - Logistic Management System for E-commerce & Retail in Mexico.
+- [Skyways](https://skyways.com) - Creating a new form of air transportation to advance our civilization
+- [Snapdocs](https://snapdocs.com) - digital mortgage closing
+- [Spaceium Inc](https://spaceium.com) - In-Space Refueling
+- [SpaceX](https://spacex.com) - Hiring via Greenhouse (spacex).
+- [Spherecast](https://spherecast.ai) - AI Supply Chain Manager for CPG
+- [Spotlight Realty](https://spotlight.realty) - AI powered brokerage reducing residential rental commissions in NYC…
+- [Squarespace](https://squarespace.com) - Hiring via Greenhouse (squarespace).
+- [Starcloud](https://starcloud.com) - Data centers in space
+- [Switchboard](https://onswitchboard.com) - Technology for Trucking
+- [Sygaldry Technologies](https://sygaldry.com) - quantum-accelerated AI servers
+- [Teleo](https://teleo.ai) - Supervised Autonomous Heavy Equipment
+- [Terminal](https://withterminal.com) - Plaid for Telematics Data in Commercial Trucking
+- [Tesseract](https://tesseract.space) - Tesseract builds better thrusters for modern satellites
+- [Torc Robotics](https://torcrobotics.com) - Hiring via Greenhouse (torcrobotics).
+- [Tractian](https://tractian.com) - Physical AI for asset-heavy industries
+- [Traverse Technologies](https://traverse.ai) - AI driven professional engineering firm
+- [Turion Space](https://turionspace.com) - Moving Things Around in Space, Imaging Space Objects When We're Not
+- [Ultra](https://ultra.tech) - Practical, general-purpose robots for repetitive industrial tasks
+- [UpCodes](https://up.codes) - AI platform for unifying codes, assemblies, products, and specs
+- [Varda Space Industries](https://vardaspaceindustries.com) - Hiring via Greenhouse (vardaspace).
+- [VergeSense](https://vergesense.com) - AI-Powered Building Management
+- [Vertical Aerospace](https://verticalaerospace.com) - Hiring via Ashby (vertical-aerospace).
+- [Vooma](https://vooma.ai) - Automation platform for logistics
+- [Vorticity](https://vorticity.xyz) - The Fastest Scientific Computing Platform on the Planet

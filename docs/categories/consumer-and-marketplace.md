@@ -1,0 +1,96 @@
+# Consumer and Marketplace
+
+Consumer products, communities, marketplaces, media, travel, commerce, education, and gaming.
+
+- [A Thinking Ape](https://athinkingape.com) - We build communities through massively multiplayer mobile games
+- [Able](https://ablejobs.co) - India's Largest Placement Platform for Early Professionals
+- [Airbnb](https://airbnb.com) - Travel marketplace with large-scale consumer, marketplace, trust, and payments systems.
+- [Airgoods](https://airgoods.com) - Wholesale marketplace for food & beverage
+- [Anara](https://anara.com) - AI for researchers
+- [Ankorstore](https://ankorstore.com) - Hiring via Ashby (ankorstore).
+- [Ark](https://ark.com) - Ark organizes the world's social information.
+- [Avride](https://avride.com) - Hiring via Greenhouse (avride).
+- [Backpack](https://backpackbang.com) - Marketplace to get stuff from overseas
+- [Beacons](https://beacons.ai) - An AI-powered, all-in-one business platform for content creators
+- [Breaker](https://breaker.audio) - A podcast company.
+- [Cambly](https://cambly.com) - On-demand access to English tutors over video chat.
+- [Chicago Public Media](https://chicagopublicmedia.com) - Hiring via Greenhouse (cpm).
+- [ClassDojo](https://classdojo.com) - Communication app for K-8 teachers, kids, and families
+- [Clever](https://clever.com) - The platform that powers technology in the classroom.
+- [Cocoon](https://cocoon.com) - Bring your most important groups closer together
+- [Copia](https://gocopia.com) - Copia's a for-profit technology company that solves food waste &…
+- [Deductive](https://deductive.com) - Hiring via Ashby (deductive).
+- [Dex](https://getdex.com) - Dex is a personal CRM that reminds you to keep in touch with the…
+- [Discord](https://discord.com) - Communications platform for communities, gaming, and social products.
+- [Duolingo](https://duolingo.com) - Consumer learning platform with product, growth, ML, and mobile engineering roles.
+- [Educative](https://educative.com) - Hiring via Lever (educative).
+- [Ello](https://ello.com) - Building the world's first 1:1 AI teacher.
+- [EMARKETER](https://emarketer.com) - Hiring via Greenhouse (emarketer).
+- [Epic Games](https://epicgames.com) - Hiring via Greenhouse (epicgames).
+- [Eternal](https://eternal.gg) - Own the best moments in streaming
+- [Faire](https://faire.com) - The global online platform empowering independent retail.
+- [Fernride](https://fernride.com) - Hiring via Greenhouse (fernride).
+- [Fleek](https://joinfleek.com) - A B2B marketplace for wholesale second hand fashion
+- [Flip](https://justflip.com) - Community-driven marketplace for sneakers.
+- [Gametime United](https://gametimeunited.com) - Hiring via Greenhouse (gametimeunited).
+- [Garage](https://shopgarage.com) - Marketplace for America's most essential assets
+- [Gigs Live](https://gigs.live) - Video publishing and monetization platform for creators and artists
+- [Glimpse](https://joinglimpse.com) - A social video chat.
+- [GOAT Group](https://goatgroup.com) - Platform for the greatest products from the past, present and future.
+- [Hotplate](https://hotplate.com) - Online ordering platform for independent chefs and bakers.
+- [Hush](https://shophush.com) - Hush is the top social commerce app in the United States.
+- [Instawork](https://instawork.com) - A flexible work app that connects businesses with hourly workers.
+- [Interface](https://theinterface.com) - The world model research lab
+- [LAIKA](https://laika.com.co) - Online pets supplies for Latin America with over 4000 products & 20…
+- [MarcoPolo](https://marcopolo.com) - Alibaba for Latin America
+- [Meadow](https://getmeadow.com) - Point of Sale and Compliance SaaS for Cannabis Dispensaries
+- [Meesho](https://meesho.com) - Democratizing internet commerce for everyone in India
+- [Midstream](https://midstream.com) - Hiring via Ashby (midstream).
+- [Misfits Market](https://misfitsmarket.com) - Hiring via Greenhouse (misfitsmarket).
+- [Mosaic](https://mosaic.so) - Agentic video editing
+- [Multiverse](https://playmultiverse.com) - Multiverse is a web-based game creation system inspired by Dungeons &…
+- [Nectar Social](https://nectarsocial.com) - Hiring via Ashby (nectar-social).
+- [Odin](https://savewithodin.com) - Save, organize and showcase your mental dump
+- [Opennote](https://opennote.com) - The notebook that thinks with you.
+- [Padlet](https://padlet.com) - Papyrus → Parchment → Paper → Padlet
+- [Pantheon](https://joinpantheon.io) - A competitive community of the brightest students in the world
+- [Pax Historia](https://paxhistoria.co) - The first AI-powered grand strategy platform
+- [Pingo AI](https://pingo.ai) - AI companion that helps you learn languages
+- [Pinterest](https://pinterest.com) - Visual discovery platform with search, recommendations, ads, and creator products.
+- [Plexus](https://plexus.im) - High-performance gloves for VR and AR
+- [Postscript](https://postscript.io) - The SMS revenue platform for e-commerce merchants
+- [PowerUs](https://powerus.de) - LinkedIn for skilled blue-collar workers
+- [Prolific](https://prolific.com) - Making diverse, high-quality data easily available to anyone, anywhere
+- [Pure](https://collectpure.com) - Marketplace for Rare Coins & Precious Metals
+- [Pursuit](https://revlo.co) - Revlo helps broadcasters on Twitch engage and monetize their fan…
+- [Reddit](https://reddit.com) - Community platform with consumer, ads, moderation, and infrastructure roles.
+- [Retrofit](https://retrofit.shop) - A vintage marketplace curated by AI
+- [Revel](https://hellorevel.com) - We Deserve More in Midlife
+- [Riot Games](https://riotgames.com) - Hiring via Greenhouse (riotgames).
+- [Seer](https://helloseer.com) - Sell beyond the store.
+- [Shopmonkey](https://shopmonkey.com) - Hiring via Greenhouse (shopmonkey).
+- [Sightline Media Group](https://sightlinemediagroup.com) - Hiring via Greenhouse (sightlinemediagroup).
+- [SkyLink](https://tryskylink.com) - Travel Management Meets AI
+- [Snackpass](https://snackpass.co) - Order ahead at restaurants and get rewards with friends.
+- [Snappr](https://snappr.com) - Snappr is the one-stop-shop for visual content creation
+- [Spotify](https://spotify.com) - Audio streaming platform with consumer, personalization, creator, and ads systems.
+- [Squad](https://squadapp.io) - Squad is an app for live communities to have shared experiences…
+- [Squire Technologies](https://getsquire.com) - Platform to grow your barbershop and maximize profitability.
+- [Substack](https://substack.com) - A place for independent writing.
+- [Suger](https://suger.io) - Salesforce for Cloud marketplaces on AWS, Azure, GCP
+- [Super](https://superapp.id) - Super is the first and leading Indonesian social commerce platform
+- [Tajir](https://tajir.app) - The one-stop shop for mom-and-pop stores in Pakistan to buy inventory.
+- [The Athletic](https://theathletic.com) - Subscription sports media.
+- [Tovala](https://tovala.com) - A smart-oven-paired subscription meal service.
+- [TransMarket Group](https://transmarketgroup.com) - Hiring via Greenhouse (transmarketgroup).
+- [Twitch](https://twitch.com) - A global community creating the future of live entertainment.
+- [Unlearn](https://unlearn.com) - Hiring via Ashby (unlearn).
+- [Vori](https://vori.com) - Vori is a modern operating system for supermarkets
+- [Vox Media, LLC](https://voxmediallc.com) - Hiring via Greenhouse (voxmedia).
+- [Weride](https://weride.com) - Hiring via Lever (weride).
+- [Whatnot](https://whatnot.com) - Whatnot is the largest livestream shopping platform in the U.S.
+- [Wikimedia Foundation](https://wikimediafoundation.com) - Hiring via Greenhouse (wikimedia).
+- [Workstream](https://workstream.com) - Hiring via Greenhouse (workstream).
+- [XTX Markets](https://xtxmarkets.com) - Hiring via Greenhouse (xtxmarketstechnologies).
+- [Zerocater](https://zerocater.com) - Zerocater is revolutionizing how companies feed their employees
+- [Zipio](https://dealupa.com) - Deal search service

@@ -1,0 +1,182 @@
+# Fintech
+
+Payments, banking, investing, crypto, expense, payroll, and financial infrastructure.
+
+- [Abacum](https://abacum.ai) - The AI-native FP&A platform that helps Finance teams drive business…
+- [Abacus](https://abacus.com) - Making expense reports obsolete
+- [Affinity](https://itsaffinity.com) - A compliance training platform built for regulated industries.
+- [Affirm](https://affirm.com) - Consumer finance platform for pay-over-time products and merchant financial services.
+- [AiPrise](https://aiprise.com) - AI-powered Global Compliance Platform
+- [Aleph](https://getaleph.com) - One source of truth for financial data.
+- [Alma](https://myalmafi.com) - Gamified mobile banking app where people can win $1M every Wednesday
+- [Alpaca](https://alpaca.markets) - API-first stock and crypto brokerage platform
+- [Angle Health](https://anglehealth.com) - Health Insurance for Startups
+- [Ansatzcapital](https://ansatzcapital.com) - Hiring via Lever (ansatzcapital).
+- [Aquatic Capital Management](https://aquaticcapitalmanagement.com) - Hiring via Greenhouse (aquaticcapitalmanagement).
+- [Arc](https://joinarc.com) - Banking & Funding for Startups
+- [Archer](https://archermoney.com) - Reward. Anything.
+- [ARQ](https://arqfinance.com) - The global financial platform for affluent consumers in the Americas.
+- [Aspora](https://aspora.com) - Single account to manage money across the world
+- [Atlas](https://atlascard.com) - Modern spend management & concierge.
+- [Atomic](https://atomicvest.com) - API that lets companies embed investment accounts into their services
+- [Atrato](https://atratopago.com) - Enabling consumers split the cost of purchases without a credit card
+- [Avallon AI](https://avallon.ai) - AI agents for insurance claims operations
+- [AviaryAI](https://helloaviary.ai) - Outbound AI voice agents for the financial services industry
+- [Axle](https://axle.insure) - AI-native clearinghouse for insurance
+- [Bankjoy](https://bankjoy.com) - An end-to-end digital banking solution for banks and credit unions
+- [Baubap](https://baubap.com) - Smart micro financing for everyone
+- [Belvo](https://belvo.com) - Open Finance API platform for Latam.
+- [Ben](https://ben.co) - The easiest way to learn about, buy, and store cryptocurrency.
+- [Benepass](https://getbenepass.com) - Fintech for corporate compensation
+- [Bifrost](https://hapi.finance) - Wills and Estate Management for Crypto
+- [Bitstack](https://bitstack-app.com) - All things money, with better money
+- [Blee](https://blee.com) - Smart, fast, and collaborative compliance reviews
+- [Bloom](https://bloomapp.com) - Investing app that teaches you how to invest
+- [Bree](https://trybree.com) - Chime for Canada, starting with cash advances
+- [Bretton AI](https://bretton.com) - AI agents for financial compliance (AML, KYC and Sanctions)
+- [Brex](https://brex.com) - Spend management and corporate card platform for companies.
+- [Calendly](https://calendly.com) - Hiring via Greenhouse (calendly).
+- [Camp](https://nouns.camp) - A Nouns DAO governance client
+- [Campfire](https://campfire.ai) - The AI Native ERP for the fastest growing companies.
+- [Capi Money](https://capimoney.com) - Helping businesses in emerging markets make pay their international…
+- [Capital](https://capital.com) - Hiring via Lever (capital).
+- [Capital on Tap](https://capitalontap.com) - Hiring via Greenhouse (capitalontap).
+- [CaptivateIQ](https://captivateiq.com) - Agile commission software to design, deploy & adapt commission plans.
+- [Carbon-12 Labs](https://carbon.money) - A Global Payouts API for Startups
+- [Caribou](https://usecaribou.com) - The autonomous tax firm
+- [Casca](https://cascading.ai) - Make Banking Magical
+- [Cheddar](https://cheddar.io) - The Best Mobile Checking Account
+- [ClaimSorted](https://claimsorted.com) - Making it easy for insurance companies to process claims
+- [Clear](https://clear.in) - Fintech SaaS platform for invoices, taxes, wealth management & credit.
+- [Coinbase](https://coinbase.com) - Crypto exchange and blockchain infrastructure company.
+- [Coins](https://coins.com) - Hiring via Lever (coins).
+- [Compound](https://withcompound.com) - Compound is a wealth manager for people who work at tech companies.
+- [Concourse](https://concourse.co) - AI Agents for corporate finance teams
+- [Confido](https://confidotech.com) - AI-enabled financial automation and intelligence for CPG Brands
+- [Corgi Labs](https://corgilabs.ai) - AI to increase payment acceptance and reduce fraud for businesses
+- [Deel](https://deel.com) - Global payroll, HR, compliance, and workforce platform for distributed companies.
+- [Diligent](https://godiligent.ai) - AI agents for fintech risk and compliance operations
+- [doola](https://doola.com) - Business-in-a-Box™ for LLCs
+- [Dots 💸](https://usedots.com) - Developer friendly drop in payouts infrastructure
+- [Double](https://doublehq.com) - We make software for bookkeepers.
+- [Dyneti Technologies](https://dyneti.com) - Reduce payment fraud
+- [Eloquent AI](https://eloquentai.co) - The AI Operator for Financial Services
+- [Emburse](https://emburse.com) - Expense management and AP automation.
+- [FamPay](https://fampay.in) - India’s first neobank for teenagers
+- [Fernstone](https://fernstone.com) - AI-native insurance brokerage.
+- [Finary](https://about.finary.io) - Discord for investing.
+- [Finch](https://tryfinch.com) - Finch is the Employment Data Platform
+- [FINNY AI](https://finny.com) - The organic growth engine for financial advisors
+- [Finto](https://gofinto.com) - AI accounting for enterprise finance teams
+- [Fintual](https://fintual.com) - Wealth manager
+- [Finvest](https://getfinvest.com) - Easy way to buy US Treasury Bills
+- [Float](https://float.xyz) - Supply chain finance for consumer brands
+- [Flux](https://paywithflux.com) - Flux is building the payment network for alternative payments in…
+- [Formance](https://formance.com) - Open Source Infrastructure for the Financial Internet
+- [Fundamental](https://fundamental.com) - Hiring via Ashby (fundamental).
+- [FurtherAI](https://furtherai.com) - AI Workforce for the Insurance Industry
+- [Fuse](https://letsfuse.com) - Unified API for financial data aggregators.
+- [Garda Capital Partners](https://gardacapitalpartners.com) - Hiring via Greenhouse (gardacp).
+- [GiveCampus](https://go.givecampus.com) - The fundraising platform for schools.
+- [GoCardless](https://gocardless.com) - We’re building the world’s bank payment network.
+- [GoFundMe](https://gofundme.com) - Hiring via Greenhouse (gofundme).
+- [Greenboard](https://greenboard.com) - Modern OS for the financial back office.
+- [Groww](https://groww.in) - Making financial services simple, transparent and delightful.
+- [Gusto](https://gusto.com) - Provides growing businesses with everything to take care of their team
+- [Harper](https://harperinsure.com) - AI-native commercial insurance brokerage
+- [Haven](https://havenservicing.com) - Homeownership reimagined for the 21st century.
+- [Heron Data](https://herondata.io) - We automate document-heavy workflows in financial services and beyond
+- [Human Interest](https://humaninterest.com) - The 401(k) for small and medium-sized businesses.
+- [Hypercore](https://hypercore.ai) - Loan management software for private lenders
+- [Infinite](https://infinite.dev) - Global B2B Stablecoin Processor
+- [Invopop](https://invopop.com) - We help global software companies comply with local tax reporting
+- [Jeeves](https://tryjeeves.com) - International banking infrastructure for global startups.
+- [Kalshi](https://kalshi.com) - 1st federally regulated exchange where people can trade on events
+- [Kinter](https://kinter.ai) - A new kind of power for finance teams
+- [Lago](https://getlago.com) - The AI Native Billing Platform
+- [Legalist](https://legalist.com) - Legal investment firm
+- [LemFi](https://lemfi.com) - Fair, simple and accessible financial services
+- [Level](https://trylevel.app) - Fast and simple fintech financing
+- [LiveFlow](https://liveflow.com) - The Unified AI-ERP & FP&A Platform
+- [Long Term Stock Exchange](https://ltse.com) - LTSE is an ecosystem for visionary business.
+- [Malga](https://malga.io) - Malga is an API to accept payments with multiple payment providers
+- [Mercury](https://mercury.com) - Banking and financial workflow platform for startups and businesses.
+- [Middesk](https://middesk.com) - We make it easier for B2B companies to transact with one another
+- [Modern Treasury](https://moderntreasury.com) - Payment operations tools for money movement.
+- [Momence](https://momence.com) - Scheduling and payments for experiences
+- [Nerdwallet](https://nerdwallet.com) - Hiring via Ashby (nerdwallet).
+- [Newfront](https://newfront.com) - Modern insurance brokerage.
+- [Noble](https://benoble.io) - Risk decisioning platform
+- [Notabene](https://notabene.id) - The Notabene platform is the trust layer for global money movement.
+- [Nova Credit](https://novacredit.com) - Bridging a world of consumer-permissioned credit data
+- [Novel](https://trynovel.com) - Novel is your international business bank account
+- [Novig](https://novig.com) - America's #1 Sports Trading App
+- [Nubank](https://nubank.com) - Hiring via Greenhouse (nubank).
+- [Numeral](https://numeral.com) - The AI-native sales tax solution.
+- [OffDeal](https://offdeal.io) - AI-native investment bank for small businesses
+- [Onshore](https://onshore.com) - AI for corporate tax
+- [OpenSea](https://opensea.io) - This isn't just a marketplace; we're shaping the future of digital…
+- [Orca](https://orca.fyi) - Banking for Gen Z, on steroids.
+- [Parker](https://getparker.com) - Parker is a digital bank.
+- [PayPay India](https://paypayindia.com) - Hiring via Greenhouse (pay2dc).
+- [Paystack](https://paystack.com) - Modern payments infrastructure for Africa
+- [Paytm](https://paytm.com) - Hiring via Lever (paytm).
+- [Pivot](https://trypivot.xyz) - Your AI FP&A Analyst
+- [Plaid](https://plaid.com) - Financial data network and banking API platform.
+- [Plane](https://plane.com) - #1 easiest-to-use payroll for startups
+- [Polar](https://polarfi.com) - The smarter way to manage USD earnings globally
+- [Prelim](https://prelim.com) - Software for banks to open bank accounts
+- [Prodigal](https://prodigaltech.com) - Lending Intelligence Software
+- [Promise](https://promise-pay.com) - Better payment systems for governments and the communities they serve.
+- [Proper](https://properfinance.io) - Reconciliation and financial operations platform
+- [Prospa](https://getprospa.com) - Banking for businesses
+- [Pulley](https://pulley.com) - Pulley helps founders and finance teams manage their equity and cap…
+- [Ramp](https://ramp.com) - Finance automation platform for corporate cards, expense management, and procurement.
+- [Razorpay Software Private Limited](https://razorpaysoftwareprivatelimited.com) - Hiring via Greenhouse (razorpaysoftwareprivatelimited).
+- [Ready](https://ready.net) - Collaborative platform for optimizing regulated utilities such as…
+- [Robinhood](https://robinhood.com) - Consumer finance and investing platform.
+- [RTW Investments](https://rtwinvestments.com) - Hiring via Greenhouse (rtwinvestments).
+- [Rutter](https://rutter.com) - The Unified API for Business Financial Data
+- [Sable](https://sablecard.com) - Mobile bank for credit-worthy, new-to-America internationals offering…
+- [SafetyKit](https://safetykit.com) - AI agents for risk, compliance, and safety
+- [Salient](https://trysalient.com) - AI Servicing for Auto Lenders
+- [Saturn](https://saturnos.com) - Compliance and back office workflows for Wealth Managers.
+- [Seed](https://seed.co) - Mobile banking for small business.
+- [Sift](https://sift.com) - The Leader in Digital Trust & Safety
+- [Skio](https://skio.com) - Subscriptions for Shopify
+- [Slope](https://slopepay.com) - The B2B Payments Platform
+- [SmartAsset](https://smartasset.com) - Marketplace connecting consumers to financial advisors
+- [Solva](https://solvatechnology.com) - Automates insurance claims and stops incorrect payouts
+- [Spade](https://spade.com) - Enriched transaction data you can build on
+- [Sphinx](https://sphinxhq.com) - AI Compliance Analysts for Banks & Fintechs
+- [SpruceID](https://spruceid.com) - SpruceID lets users control their data across the web.
+- [STARK BANK](https://starkbank.com) - Challenger bank for enterprises
+- [Stream](https://stream.claims) - The AI Claims Workbench automating insurance claims
+- [Stripe](https://stripe.com) - Payments and financial infrastructure company.
+- [Sunset](https://hellosunset.com) - Find and move money after a death
+- [TAG](https://tagme.pk) - TAG is the First Digital Bank (Chime/Revolut/N26) for Pakistan
+- [Taktile](https://taktile.com) - Transform your decision-making with reliable AI agents in weeks, not…
+- [Tendo](https://tendo.app) - Enabling Africans to sell online with zero capital
+- [Tesorio](https://tesorio.com) - Tesorio is the cash flow performance platform that helps finance…
+- [Thera](https://getthera.com) - AI-Native Finance OS
+- [Thndr](https://thndr.app) - Investment platform for MENA individuals
+- [Tilt](https://tilt.com) - Mobile crowdfunding: The easiest way to collect, fundraise, and sell…
+- [Titan](https://titan.com) - Titan is an award-winning wealth manager with a mission to increase…
+- [Toku](https://trytoku.com) - Account Receivables Platform for Latin American Enterprises
+- [Treasury Prime](https://treasuryprime.com) - Embedded banking software platform and marketplace
+- [Tremendous](https://tremendous.com) - How businesses send money to people at scale. Fast, free, global.
+- [TRM Labs](https://trmlabs.com) - TRM is building a safer financial system for billions of people.
+- [True Link](https://truelinkfinancial.com) - Financial Services for Financial Caregivers.
+- [Truebill](https://truebill.com) - Live your best financial life
+- [Two Dots](https://twodots.net) - AI fraud prevention and underwriting agent
+- [Upflow](https://upflow.io) - Cash collection tech for B2B businesses
+- [Veriff](https://veriff.com) - AI-powered identity verification solution for fraud prevention.
+- [Verto](https://vertofx.com) - Cross-Border Payments and FX Simplified
+- [Village Labs](https://villagelabs.app) - Helping America's businesses become employee owned
+- [Wallbit](https://wallbit.io) - Neobank for global remote workers
+- [Warp](https://warp.co) - AI-native Employee Management Platform for High-Growth Companies
+- [Xendit](https://xendit.co) - Provides payment infrastructure for Southeast Asia
+- [Y Combinator](https://ycombinator.com) - Make something people want.
+- [Yotta](https://withyotta.com) - Save money and win prizes up to $10m through weekly number draws.
+- [Ziina](https://ziina.com) - A digital wallet for the Middle East & North Africa
+- [Zippi](https://zippi.com.br) - Payment Platform for LatAm Micro and Small Businesses
