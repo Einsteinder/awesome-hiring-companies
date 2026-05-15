@@ -9669,3 +9669,149 @@
   - health-tech
   sources:
   - https://jobs.ashbyhq.com/blueberrypediatrics
+
+- name: Grin
+  slug: grin
+  domain: ongrin.com
+  careers_url: https://boards.greenhouse.io/grin
+  category: fintech
+  ats:
+    greenhouse: grin
+  tags:
+  - consumer
+  - consumer-transportation-services
+  - payments
+  - latin-america
+  sources:
+  - https://boards.greenhouse.io/grin
+
+- name: Probably Genetic
+  slug: probably-genetic
+  domain: probablygenetic.com
+  careers_url: https://jobs.ashbyhq.com/probablygenetic
+  category: consumer-and-marketplace
+  ats:
+    ashby: probablygenetic
+  tags:
+  - healthcare
+  - healthcare-diagnostics
+  - health-tech
+  - biotech
+  sources:
+  - https://jobs.ashbyhq.com/probablygenetic
+
+- name: Doppler
+  slug: doppler
+  domain: doppler.com
+  careers_url: https://jobs.ashbyhq.com/doppler
+  category: developer-infrastructure
+  ats:
+    ashby: doppler
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - developer-tools
+  - devsecops
+  sources:
+  - https://jobs.ashbyhq.com/doppler
+
+- name: Accord
+  slug: accord
+  domain: inaccord.com
+  careers_url: https://jobs.ashbyhq.com/accord
+  category: developer-infrastructure
+  ats:
+    ashby: accord
+  tags:
+  - b2b
+  - b2b-sales
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/accord
+
+- name: Haven
+  slug: haven
+  domain: havenservicing.com
+  careers_url: https://boards.greenhouse.io/haven
+  category: fintech
+  ats:
+    greenhouse: haven
+  tags:
+  - fintech
+  - fintech-credit-and-lending
+  - proptech
+  sources:
+  - https://boards.greenhouse.io/haven
+
+- name: Nomic Bio
+  slug: nomic-bio
+  domain: nomic.bio
+  careers_url: https://jobs.ashbyhq.com/nomic
+  category: consumer-and-marketplace
+  ats:
+    ashby: nomic
+  tags:
+  - healthcare
+  - healthcare-diagnostics
+  - nanotechnology
+  sources:
+  - https://jobs.ashbyhq.com/nomic
+
+- name: Belvo
+  slug: belvo
+  domain: belvo.com
+  careers_url: https://jobs.ashbyhq.com/belvo
+  category: fintech
+  ats:
+    ashby: belvo
+  tags:
+  - fintech
+  - fintech-banking-and-exchange
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/belvo
+
+- name: Momence
+  slug: momence
+  domain: momence.com
+  careers_url: https://boards.greenhouse.io/momence
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: momence
+  tags:
+  - consumer
+  - consumer-travel-leisure-and-tourism
+  - payments
+  - scheduling
+  sources:
+  - https://boards.greenhouse.io/momence
+
+- name: Kingdom
+  slug: kingdom
+  domain: kingdomsuperculture.com
+  careers_url: https://jobs.ashbyhq.com/kingdom
+  category: consumer-and-marketplace
+  ats:
+    ashby: kingdom
+  tags:
+  - healthcare
+  - healthcare-industrial-bio
+  - health-wellness
+  - food-tech
+  sources:
+  - https://jobs.ashbyhq.com/kingdom
+
+- name: Galaxy
+  slug: galaxy
+  domain: galaxysdk.com
+  careers_url: https://boards.greenhouse.io/galaxy
+  category: developer-infrastructure
+  ats:
+    greenhouse: galaxy
+  tags:
+  - b2b
+  - b2b-infrastructure
+  - developer-tools
+  - gaming
+  sources:
+  - https://boards.greenhouse.io/galaxy

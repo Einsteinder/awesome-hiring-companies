@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **670 companies**.
+Currently tracking **680 companies**.
 
 This repository is designed for two uses:
 
@@ -726,6 +726,16 @@ Open source video player (video.js)
 - [UpKeep](https://upkeep.com) - Mobile-first software for maintenance teams.
 - [Headstart](https://headstart.io) - Headstart uses Machine Learning to help companies decide on who to…
 - [Blueberry Pediatrics](https://blueberrypediatrics.com) - 24/7 pediatric clinic in every family's living room
+- [Grin](https://ongrin.com) - Mobility and payments platform for Latin America
+- [Probably Genetic](https://probablygenetic.com) - Patient Intelligence Platform for Genetic Disease
+- [Doppler](https://doppler.com) - Secure secrets. Prevent breaches. Keep teams moving.
+- [Accord](https://inaccord.com) - The Revenue Excellence Platform
+- [Haven](https://havenservicing.com) - Homeownership reimagined for the 21st century.
+- [Nomic Bio](https://nomic.bio) - Nomic is doing for proteins what Illumina has done for DNA
+- [Belvo](https://belvo.com) - Open Finance API platform for Latam.
+- [Momence](https://momence.com) - Scheduling and payments for experiences
+- [Kingdom](https://kingdomsuperculture.com) - Natural functional ingredients that actually work
+- [Galaxy](https://galaxysdk.com) - Social SDK for games
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
