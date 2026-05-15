@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **610 companies**.
+Currently tracking **620 companies**.
 
 This repository is designed for two uses:
 
@@ -666,6 +666,16 @@ Open source video player (video.js)
 - [Kernal Biologics](https://kernalbio.com) - Kernal is creating mRNA 2.0 therapies that work in specific cells
 - [Stacker](https://stackerhq.com) - Turns spreadsheets into internal apps and customer portals
 - [Yotta](https://withyotta.com) - Save money and win prizes up to $10m through weekly number draws.
+- [Arketa](https://arketa.com) - Everything for your fitness or wellness business.
+- [Ready](https://ready.net) - Collaborative platform for optimizing regulated utilities such as…
+- [authzed](https://authzed.com) - Cloud Infrastructure for Authorization
+- [Runway](https://runway.team) - Easier and more reliable mobile app releases for teams.
+- [Remora](https://remoracarbon.com) - Carbon capture for vehicles
+- [Enode](https://enode.com) - An API for electric vehicles and other energy hardware (DERs)
+- [Seer](https://helloseer.com) - Sell beyond the store.
+- [FlutterFlow](https://flutterflow.io) - Application Development Platform (Native Mobile + Web Apps)
+- [Svix](https://svix.com) - Enterprise ready webhooks service, open-source and in the cloud
+- [Hypercore](https://hypercore.ai) - Loan management software for private lenders
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

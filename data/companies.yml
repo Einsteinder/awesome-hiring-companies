@@ -8804,3 +8804,149 @@
   - neobank
   sources:
   - https://jobs.ashbyhq.com/yotta
+
+- name: Arketa
+  slug: arketa
+  domain: arketa.com
+  careers_url: https://jobs.ashbyhq.com/arketa
+  category: consumer-and-marketplace
+  ats:
+    ashby: arketa
+  tags:
+  - b2b
+  - b2b-operations
+  - saas
+  - fitness
+  sources:
+  - https://jobs.ashbyhq.com/arketa
+
+- name: Ready
+  slug: ready
+  domain: ready.net
+  careers_url: https://jobs.ashbyhq.com/ready
+  category: developer-infrastructure
+  ats:
+    ashby: ready
+  tags:
+  - b2b
+  - fintech
+  - saas
+  - telecommunications
+  sources:
+  - https://jobs.ashbyhq.com/ready
+
+- name: authzed
+  slug: authzed
+  domain: authzed.com
+  careers_url: https://jobs.ashbyhq.com/authzed
+  category: developer-infrastructure
+  ats:
+    ashby: authzed
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - developer-tools
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/authzed
+
+- name: Runway
+  slug: runway
+  domain: runway.team
+  careers_url: https://jobs.ashbyhq.com/runway
+  category: developer-infrastructure
+  ats:
+    ashby: runway
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/runway
+
+- name: Remora
+  slug: remora
+  domain: remoracarbon.com
+  careers_url: https://boards.greenhouse.io/remoracarbon
+  category: open-source-and-platform
+  ats:
+    greenhouse: remoracarbon
+  tags:
+  - industrials
+  - industrials-climate
+  - carbon-capture-and-removal
+  - climate
+  sources:
+  - https://boards.greenhouse.io/remoracarbon
+
+- name: Enode
+  slug: enode
+  domain: enode.com
+  careers_url: https://jobs.ashbyhq.com/enode
+  category: developer-infrastructure
+  ats:
+    ashby: enode
+  tags:
+  - industrials
+  - industrials-energy
+  - climate
+  - api
+  sources:
+  - https://jobs.ashbyhq.com/enode
+
+- name: Seer
+  slug: seer
+  domain: helloseer.com
+  careers_url: https://boards.greenhouse.io/seer
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: seer
+  tags:
+  - b2b
+  - b2b-retail
+  - saas
+  sources:
+  - https://boards.greenhouse.io/seer
+
+- name: FlutterFlow
+  slug: flutterflow
+  domain: flutterflow.io
+  careers_url: https://jobs.ashbyhq.com/flutterflow
+  category: developer-infrastructure
+  ats:
+    ashby: flutterflow
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  sources:
+  - https://jobs.ashbyhq.com/flutterflow
+
+- name: Svix
+  slug: svix
+  domain: svix.com
+  careers_url: https://jobs.ashbyhq.com/svix
+  category: developer-infrastructure
+  ats:
+    ashby: svix
+  tags:
+  - b2b
+  - b2b-infrastructure
+  - developer-tools
+  - open-source
+  sources:
+  - https://jobs.ashbyhq.com/svix
+
+- name: Hypercore
+  slug: hypercore
+  domain: hypercore.ai
+  careers_url: https://jobs.ashbyhq.com/hypercore
+  category: fintech
+  ats:
+    ashby: hypercore
+  tags:
+  - fintech
+  - fintech-credit-and-lending
+  - saas
+  - b2b
+  sources:
+  - https://jobs.ashbyhq.com/hypercore
