@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **300 companies**.
+Currently tracking **310 companies**.
 
 This repository is designed for two uses:
 
@@ -355,6 +355,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [Salt Security](https://salt.security) - Protects organizations from getting breached through their APIs.
 - [Modern Health](https://modernhealth.com) - A mental health benefits platform for employers.
 - [Groww](https://groww.in) - Making financial services simple, transparent and delightful.
+- [Prodigal](https://prodigaltech.com) - Lending Intelligence Software
+- [Parker](https://getparker.com) - Parker is a digital bank.
+- [Middesk](https://middesk.com) - We make it easier for B2B companies to transact with one another
+- [Short Story](https://shortstorybox.com) - Modern ecommerce for petite women
+- [Tovala](https://tovala.com) - A smart-oven-paired subscription meal service.
+- [Teleo](https://teleo.ai) - Supervised Autonomous Heavy Equipment
+- [Vori](https://vori.com) - Vori is a modern operating system for supermarkets
+- [Nabla Bio](https://nabla.bio) - We use AI to design antibodies for intractable diseases
+- [SigNoz](https://signoz.io) - Open source alternative to DataDog
+- [REGENT](https://regentcraft.com) - All-electric seagliders for fast, affordable regional transportation
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

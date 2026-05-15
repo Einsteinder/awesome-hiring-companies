@@ -4329,3 +4329,150 @@
   - investing
   sources:
   - https://boards.greenhouse.io/groww
+
+- name: Prodigal
+  slug: prodigal
+  domain: prodigaltech.com
+  careers_url: https://boards.greenhouse.io/prodigal
+  category: fintech
+  ats:
+    greenhouse: prodigal
+  tags:
+  - fintech
+  - fintech-credit-and-lending
+  - saas
+  - consumer-finance
+  sources:
+  - https://boards.greenhouse.io/prodigal
+
+- name: Parker
+  slug: parker
+  domain: getparker.com
+  careers_url: https://jobs.ashbyhq.com/parker
+  category: fintech
+  ats:
+    ashby: parker
+  tags:
+  - fintech
+  - fintech-banking-and-exchange
+  - banking-as-a-service
+  sources:
+  - https://jobs.ashbyhq.com/parker
+
+- name: Middesk
+  slug: middesk
+  domain: middesk.com
+  careers_url: https://jobs.ashbyhq.com/middesk
+  category: fintech
+  ats:
+    ashby: middesk
+  tags:
+  - b2b
+  - b2b-operations
+  - fintech
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/middesk
+
+- name: Short Story
+  slug: short-story
+  domain: shortstorybox.com
+  careers_url: https://jobs.ashbyhq.com/shortstory
+  category: consumer-and-marketplace
+  ats:
+    ashby: shortstory
+  tags:
+  - consumer
+  - consumer-apparel-and-cosmetics
+  - machine-learning
+  - marketplace
+  sources:
+  - https://jobs.ashbyhq.com/shortstory
+
+- name: Tovala
+  slug: tovala
+  domain: tovala.com
+  careers_url: https://jobs.lever.co/tovala
+  category: consumer-and-marketplace
+  ats:
+    lever: tovala
+  tags:
+  - consumer
+  - consumer-home-and-personal
+  - food-beverage
+  sources:
+  - https://jobs.lever.co/tovala
+
+- name: Teleo
+  slug: teleo
+  domain: teleo.ai
+  careers_url: https://jobs.lever.co/teleo
+  category: open-source-and-platform
+  ats:
+    lever: teleo
+  tags:
+  - industrials
+  - industrials-manufacturing-and-robotics
+  - autonomous-trucking
+  - hard-tech
+  sources:
+  - https://jobs.lever.co/teleo
+
+- name: Vori
+  slug: vori
+  domain: vori.com
+  careers_url: https://jobs.ashbyhq.com/vori
+  category: consumer-and-marketplace
+  ats:
+    ashby: vori
+  tags:
+  - b2b
+  - b2b-retail
+  - grocery
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/vori
+
+- name: Nabla Bio
+  slug: nabla-bio
+  domain: nabla.bio
+  careers_url: https://jobs.ashbyhq.com/nabla
+  category: consumer-and-marketplace
+  ats:
+    ashby: nabla
+  tags:
+  - healthcare
+  - healthcare-drug-discovery-and-delivery
+  - ai-powered-drug-discovery
+  sources:
+  - https://jobs.ashbyhq.com/nabla
+
+- name: SigNoz
+  slug: signoz
+  domain: signoz.io
+  careers_url: https://jobs.ashbyhq.com/signoz
+  category: developer-infrastructure
+  ats:
+    ashby: signoz
+  tags:
+  - b2b
+  - b2b-infrastructure
+  - developer-tools
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/signoz
+
+- name: REGENT
+  slug: regent
+  domain: regentcraft.com
+  careers_url: https://boards.greenhouse.io/regent
+  category: open-source-and-platform
+  ats:
+    greenhouse: regent
+  tags:
+  - industrials
+  - industrials-aviation-and-space
+  - climate
+  - electric-vehicles
+  sources:
+  - https://boards.greenhouse.io/regent
