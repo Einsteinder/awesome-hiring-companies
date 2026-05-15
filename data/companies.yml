@@ -23249,3 +23249,27 @@
   - open
   sources:
   - https://boards.greenhouse.io/nubank
+
+- name: Green Thumb
+  slug: green-thumb
+  domain: greenthumb.com
+  careers_url: https://boards.greenhouse.io/greenthumbindustries
+  category: open-source-and-platform
+  ats:
+    greenhouse: greenthumbindustries
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/greenthumbindustries
+
+- name: Wikimedia Foundation
+  slug: wikimedia-foundation
+  domain: wikimediafoundation.com
+  careers_url: https://boards.greenhouse.io/wikimedia
+  category: open-source-and-platform
+  ats:
+    greenhouse: wikimedia
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/wikimedia

@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1770 companies**.
+Currently tracking **1772 companies**.
 
 This repository is designed for two uses:
 
@@ -1826,6 +1826,8 @@ Open source video player (video.js)
 - [Udemy](https://udemy.com) - Hiring via Greenhouse (udemy).
 - [DeepMind](https://deepmind.com) - Hiring via Greenhouse (deepmind).
 - [Nubank](https://nubank.com) - Hiring via Greenhouse (nubank).
+- [Green Thumb](https://greenthumb.com) - Hiring via Greenhouse (greenthumbindustries).
+- [Wikimedia Foundation](https://wikimediafoundation.com) - Hiring via Greenhouse (wikimedia).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
