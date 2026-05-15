@@ -5478,3 +5478,145 @@
   - b2b
   sources:
   - https://jobs.ashbyhq.com/telli
+
+- name: Osmosis
+  slug: osmosis
+  domain: osmosis.ai
+  careers_url: https://boards.greenhouse.io/osmosis
+  category: ai-and-data
+  ats:
+    greenhouse: osmosis
+  tags:
+  - b2b
+  - artificial-intelligence
+  - machine-learning
+  - reinforcement-learning
+  sources:
+  - https://boards.greenhouse.io/osmosis
+
+- name: Sygaldry Technologies
+  slug: sygaldry-technologies
+  domain: sygaldry.com
+  careers_url: https://jobs.ashbyhq.com/sygaldry-technologies
+  category: ai-and-data
+  ats:
+    ashby: sygaldry-technologies
+  tags:
+  - industrials
+  sources:
+  - https://jobs.ashbyhq.com/sygaldry-technologies
+
+- name: MorphoAI
+  slug: morphoai
+  domain: morpho.ai
+  careers_url: https://jobs.ashbyhq.com/morpho
+  category: ai-and-data
+  ats:
+    ashby: morpho
+  tags:
+  - industrials
+  - industrials-manufacturing-and-robotics
+  - robotics
+  - manufacturing
+  sources:
+  - https://jobs.ashbyhq.com/morpho
+
+- name: Reacher
+  slug: reacher
+  domain: reacherapp.com
+  careers_url: https://jobs.ashbyhq.com/reacher
+  category: ai-and-data
+  ats:
+    ashby: reacher
+  tags:
+  - b2b
+  - artificial-intelligence
+  - e-commerce
+  - creator-economy
+  sources:
+  - https://jobs.ashbyhq.com/reacher
+
+- name: Tilt
+  slug: tilt
+  domain: tilt.com
+  careers_url: https://jobs.ashbyhq.com/tilt
+  category: fintech
+  ats:
+    ashby: tilt
+  tags:
+  - fintech
+  - fintech-consumer-finance
+  - crowdfunding
+  sources:
+  - https://jobs.ashbyhq.com/tilt
+
+- name: Cambly
+  slug: cambly
+  domain: cambly.com
+  careers_url: https://jobs.ashbyhq.com/cambly
+  category: consumer-and-marketplace
+  ats:
+    ashby: cambly
+  tags:
+  - education
+  sources:
+  - https://jobs.ashbyhq.com/cambly
+
+- name: Focal Systems
+  slug: focal-systems
+  domain: focal.systems
+  careers_url: https://boards.greenhouse.io/focalsystems
+  category: ai-and-data
+  ats:
+    greenhouse: focalsystems
+  tags:
+  - b2b
+  - b2b-retail
+  - deep-learning
+  - grocery
+  sources:
+  - https://boards.greenhouse.io/focalsystems
+
+- name: The Athletic
+  slug: the-athletic
+  domain: theathletic.com
+  careers_url: https://jobs.lever.co/theathletic
+  category: consumer-and-marketplace
+  ats:
+    lever: theathletic
+  tags:
+  - consumer
+  - consumer-content
+  - media
+  sources:
+  - https://jobs.lever.co/theathletic
+
+- name: Momentus
+  slug: momentus
+  domain: momentus.space
+  careers_url: https://boards.greenhouse.io/momentus
+  category: developer-infrastructure
+  ats:
+    greenhouse: momentus
+  tags:
+  - industrials
+  - industrials-aviation-and-space
+  - commercial-space-launch
+  - solar-power
+  sources:
+  - https://boards.greenhouse.io/momentus
+
+- name: Duffel
+  slug: duffel
+  domain: duffel.com
+  careers_url: https://jobs.ashbyhq.com/duffel
+  category: consumer-and-marketplace
+  ats:
+    ashby: duffel
+  tags:
+  - consumer
+  - consumer-travel-leisure-and-tourism
+  - developer-tools
+  - airplanes
+  sources:
+  - https://jobs.ashbyhq.com/duffel

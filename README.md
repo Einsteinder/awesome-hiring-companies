@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **380 companies**.
+Currently tracking **390 companies**.
 
 This repository is designed for two uses:
 
@@ -435,6 +435,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [Vera Health](https://vera-health.ai) - AI-powered clinical decision support for healthcare providers
 - [Abundant](https://abundant.ai) - Agent simulation and RL for researchers
 - [telli](https://telli.com) - AI phone agents that convert
+- [Osmosis](https://osmosis.ai) - Reinforcement Learning (RL) for AI Agents
+- [Sygaldry Technologies](https://sygaldry.com) - quantum-accelerated AI servers
+- [MorphoAI](https://morpho.ai) - Software tool for designing robots and machines
+- [Reacher](https://reacherapp.com) - We automate creator marketing for the world's largest brands
+- [Tilt](https://tilt.com) - Mobile crowdfunding: The easiest way to collect, fundraise, and sell…
+- [Cambly](https://cambly.com) - On-demand access to English tutors over video chat.
+- [Focal Systems](https://focal.systems) - Building the Operating System for B&M Retail using Deep Learning
+- [The Athletic](https://theathletic.com) - Subscription sports media.
+- [Momentus](https://momentus.space) - The space infrastructure services company
+- [Duffel](https://duffel.com) - The complete toolkit to sell travel.
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
