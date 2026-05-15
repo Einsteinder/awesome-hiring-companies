@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1772 companies**.
+Currently tracking **1782 companies**.
 
 This repository is designed for two uses:
 
@@ -1828,6 +1828,16 @@ Open source video player (video.js)
 - [Nubank](https://nubank.com) - Hiring via Greenhouse (nubank).
 - [Green Thumb](https://greenthumb.com) - Hiring via Greenhouse (greenthumbindustries).
 - [Wikimedia Foundation](https://wikimediafoundation.com) - Hiring via Greenhouse (wikimedia).
+- [Xantium](https://xantium.com) - Hiring via Greenhouse (xantium).
+- [HPR](https://hpr.com) - Hiring via Greenhouse (hyannisportresearch).
+- [Hudl](https://hudl.com) - Hiring via Greenhouse (hudl).
+- [Epic Games](https://epicgames.com) - Hiring via Greenhouse (epicgames).
+- [Misfits Market](https://misfitsmarket.com) - Hiring via Greenhouse (misfitsmarket).
+- [iSpot](https://ispot.com) - Hiring via Greenhouse (ispottv).
+- [CoreWeave Europe](https://coreweaveeurope.com) - Hiring via Greenhouse (coreweaveu).
+- [Textio](https://textio.com) - Hiring via Greenhouse (textio).
+- [Metropolis](https://metropolis.com) - Hiring via Greenhouse (metropolis).
+- [Vannevar](https://vannevar.com) - Hiring via Greenhouse (vannevarlabs).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

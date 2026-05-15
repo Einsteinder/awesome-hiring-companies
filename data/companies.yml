@@ -23273,3 +23273,123 @@
   - open
   sources:
   - https://boards.greenhouse.io/wikimedia
+
+- name: Xantium
+  slug: xantium
+  domain: xantium.com
+  careers_url: https://boards.greenhouse.io/xantium
+  category: open-source-and-platform
+  ats:
+    greenhouse: xantium
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/xantium
+
+- name: HPR
+  slug: hpr
+  domain: hpr.com
+  careers_url: https://boards.greenhouse.io/hyannisportresearch
+  category: open-source-and-platform
+  ats:
+    greenhouse: hyannisportresearch
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/hyannisportresearch
+
+- name: Hudl
+  slug: hudl
+  domain: hudl.com
+  careers_url: https://boards.greenhouse.io/hudl
+  category: open-source-and-platform
+  ats:
+    greenhouse: hudl
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/hudl
+
+- name: Epic Games
+  slug: epic-games
+  domain: epicgames.com
+  careers_url: https://boards.greenhouse.io/epicgames
+  category: open-source-and-platform
+  ats:
+    greenhouse: epicgames
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/epicgames
+
+- name: Misfits Market
+  slug: misfits-market
+  domain: misfitsmarket.com
+  careers_url: https://boards.greenhouse.io/misfitsmarket
+  category: open-source-and-platform
+  ats:
+    greenhouse: misfitsmarket
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/misfitsmarket
+
+- name: iSpot
+  slug: ispot
+  domain: ispot.com
+  careers_url: https://boards.greenhouse.io/ispottv
+  category: open-source-and-platform
+  ats:
+    greenhouse: ispottv
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/ispottv
+
+- name: CoreWeave Europe
+  slug: coreweave-europe
+  domain: coreweaveeurope.com
+  careers_url: https://boards.greenhouse.io/coreweaveu
+  category: open-source-and-platform
+  ats:
+    greenhouse: coreweaveu
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/coreweaveu
+
+- name: Textio
+  slug: textio
+  domain: textio.com
+  careers_url: https://boards.greenhouse.io/textio
+  category: open-source-and-platform
+  ats:
+    greenhouse: textio
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/textio
+
+- name: Metropolis
+  slug: metropolis
+  domain: metropolis.com
+  careers_url: https://boards.greenhouse.io/metropolis
+  category: open-source-and-platform
+  ats:
+    greenhouse: metropolis
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/metropolis
+
+- name: Vannevar
+  slug: vannevar
+  domain: vannevar.com
+  careers_url: https://boards.greenhouse.io/vannevarlabs
+  category: open-source-and-platform
+  ats:
+    greenhouse: vannevarlabs
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/vannevarlabs
