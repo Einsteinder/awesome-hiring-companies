@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1892 companies**.
+Currently tracking **1902 companies**.
 
 This repository is designed for two uses:
 
@@ -1948,6 +1948,16 @@ Open source video player (video.js)
 - [Appen 2](https://appen2.com) - Hiring via Lever (appen-2).
 - [Jobscan 2](https://jobscan2.com) - Hiring via Lever (jobscan-2).
 - [Paytm](https://paytm.com) - Hiring via Lever (paytm).
+- [Extremenetworks](https://extremenetworks.com) - Hiring via Lever (extremenetworks).
+- [Energyrecovery](https://energyrecovery.com) - Hiring via Lever (energyrecovery).
+- [Binance](https://binance.com) - Hiring via Lever (binance).
+- [Penumbrainc](https://penumbrainc.com) - Hiring via Lever (penumbrainc).
+- [Insiderone](https://insiderone.com) - Hiring via Lever (insiderone).
+- [Lyrahealth](https://lyrahealth.com) - Hiring via Lever (lyrahealth).
+- [Cimgroup](https://cimgroup.com) - Hiring via Lever (cimgroup).
+- [Octoenergy](https://octoenergy.com) - Hiring via Lever (octoenergy).
+- [Leverdemo 8](https://leverdemo8.com) - Hiring via Lever (leverdemo-8).
+- [D Fendsolutions](https://dfendsolutions.com) - Hiring via Lever (d-fendsolutions).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
