@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1925 companies**.
+Currently tracking **1935 companies**.
 
 This repository is designed for two uses:
 
@@ -1981,6 +1981,16 @@ Open source video player (video.js)
 - [Eventbrite, Inc.](https://eventbriteinc.com) - Hiring via Greenhouse (eventbriteinc).
 - [Sigmoid](https://sigmoid.com) - Hiring via Greenhouse (sigmoid).
 - [At-Bay](https://atbay.com) - Hiring via Greenhouse (atbayjobs).
+- [Goodway Group](https://goodwaygroup.com) - Hiring via Greenhouse (goodwaygroup).
+- [Aperia Technologies, Inc](https://aperiatechnologiesinc.com) - Hiring via Greenhouse (aperiatechnologies).
+- [FlowFuse](https://flowfuse.com) - Hiring via Greenhouse (flowfuse).
+- [EBANX](https://ebanx.com) - Hiring via Greenhouse (ebanx).
+- [Squarespace](https://squarespace.com) - Hiring via Greenhouse (squarespace).
+- [ResortPass](https://resortpass.com) - Hiring via Greenhouse (resortpass).
+- [Telnyx](https://telnyx.com) - Hiring via Greenhouse (telnyx54).
+- [Dimagi](https://dimagi.com) - Hiring via Greenhouse (dimagi).
+- [Business Insider](https://businessinsider.com) - Hiring via Greenhouse (insider).
+- [Netlify](https://netlify.com) - Hiring via Greenhouse (netlify).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

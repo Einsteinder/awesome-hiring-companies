@@ -25109,3 +25109,123 @@
   - open
   sources:
   - https://boards.greenhouse.io/atbayjobs
+
+- name: Goodway Group
+  slug: goodway-group
+  domain: goodwaygroup.com
+  careers_url: https://boards.greenhouse.io/goodwaygroup
+  category: open-source-and-platform
+  ats:
+    greenhouse: goodwaygroup
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/goodwaygroup
+
+- name: Aperia Technologies, Inc
+  slug: aperia-technologies-inc
+  domain: aperiatechnologiesinc.com
+  careers_url: https://boards.greenhouse.io/aperiatechnologies
+  category: open-source-and-platform
+  ats:
+    greenhouse: aperiatechnologies
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/aperiatechnologies
+
+- name: FlowFuse
+  slug: flowfuse
+  domain: flowfuse.com
+  careers_url: https://boards.greenhouse.io/flowfuse
+  category: open-source-and-platform
+  ats:
+    greenhouse: flowfuse
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/flowfuse
+
+- name: EBANX
+  slug: ebanx
+  domain: ebanx.com
+  careers_url: https://boards.greenhouse.io/ebanx
+  category: open-source-and-platform
+  ats:
+    greenhouse: ebanx
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/ebanx
+
+- name: Squarespace
+  slug: squarespace
+  domain: squarespace.com
+  careers_url: https://boards.greenhouse.io/squarespace
+  category: open-source-and-platform
+  ats:
+    greenhouse: squarespace
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/squarespace
+
+- name: ResortPass
+  slug: resortpass
+  domain: resortpass.com
+  careers_url: https://boards.greenhouse.io/resortpass
+  category: open-source-and-platform
+  ats:
+    greenhouse: resortpass
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/resortpass
+
+- name: Telnyx
+  slug: telnyx
+  domain: telnyx.com
+  careers_url: https://boards.greenhouse.io/telnyx54
+  category: open-source-and-platform
+  ats:
+    greenhouse: telnyx54
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/telnyx54
+
+- name: Dimagi
+  slug: dimagi
+  domain: dimagi.com
+  careers_url: https://boards.greenhouse.io/dimagi
+  category: open-source-and-platform
+  ats:
+    greenhouse: dimagi
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/dimagi
+
+- name: Business Insider
+  slug: business-insider
+  domain: businessinsider.com
+  careers_url: https://boards.greenhouse.io/insider
+  category: open-source-and-platform
+  ats:
+    greenhouse: insider
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/insider
+
+- name: Netlify
+  slug: netlify
+  domain: netlify.com
+  careers_url: https://boards.greenhouse.io/netlify
+  category: open-source-and-platform
+  ats:
+    greenhouse: netlify
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/netlify
