@@ -1709,3 +1709,150 @@
   - payments
   sources:
   - https://boards.greenhouse.io/gocardless
+
+- name: ACLU
+  slug: aclu
+  domain: aclu.org
+  careers_url: https://boards.greenhouse.io/aclu
+  category: open-source-and-platform
+  ats:
+    greenhouse: aclu
+  tags:
+  - unspecified
+  - nonprofit
+  - legal
+  sources:
+  - https://boards.greenhouse.io/aclu
+
+- name: Weave
+  slug: weave
+  domain: getweave.com
+  careers_url: https://jobs.ashbyhq.com/weave
+  category: developer-infrastructure
+  ats:
+    ashby: weave
+  tags:
+  - b2b
+  - b2b-office-management
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/weave
+
+- name: Apollo.io
+  slug: apollo-io
+  domain: apollo.io
+  careers_url: https://boards.greenhouse.io/apolloio
+  category: open-source-and-platform
+  ats:
+    greenhouse: apolloio
+  tags:
+  - b2b
+  - b2b-marketing
+  - sales
+  - marketing
+  sources:
+  - https://boards.greenhouse.io/apolloio
+
+- name: Taktile
+  slug: taktile
+  domain: taktile.com
+  careers_url: https://jobs.ashbyhq.com/taktile
+  category: ai-and-data
+  ats:
+    ashby: taktile
+  tags:
+  - b2b
+  - artificial-intelligence
+  - fintech
+  - machine-learning
+  sources:
+  - https://jobs.ashbyhq.com/taktile
+
+- name: Encord
+  slug: encord
+  domain: encord.com
+  careers_url: https://jobs.ashbyhq.com/encord
+  category: ai-and-data
+  ats:
+    ashby: encord
+  tags:
+  - b2b
+  - b2b-infrastructure
+  - artificial-intelligence
+  - machine-learning
+  sources:
+  - https://jobs.ashbyhq.com/encord
+
+- name: Moss
+  slug: moss
+  domain: moss.dev
+  careers_url: https://jobs.ashbyhq.com/moss
+  category: developer-infrastructure
+  ats:
+    ashby: moss
+  tags:
+  - b2b
+  - developer-tools
+  - saas
+  - ai
+  sources:
+  - https://jobs.ashbyhq.com/moss
+
+- name: Bird
+  slug: bird
+  domain: bird.com
+  careers_url: https://boards.greenhouse.io/bird
+  category: developer-infrastructure
+  ats:
+    greenhouse: bird
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - messaging
+  - api
+  sources:
+  - https://boards.greenhouse.io/bird
+
+- name: MarqVision
+  slug: marqvision
+  domain: marqvision.com
+  careers_url: https://boards.greenhouse.io/marqvision
+  category: ai-and-data
+  ats:
+    greenhouse: marqvision
+  tags:
+  - b2b
+  - artificial-intelligence
+  - saas
+  - computer-vision
+  sources:
+  - https://boards.greenhouse.io/marqvision
+
+- name: GOAT Group
+  slug: goat-group
+  domain: goatgroup.com
+  careers_url: https://boards.greenhouse.io/goatgroup
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: goatgroup
+  tags:
+  - consumer
+  - consumer-apparel-and-cosmetics
+  - marketplace
+  sources:
+  - https://boards.greenhouse.io/goatgroup
+
+- name: Mixpanel
+  slug: mixpanel
+  domain: mixpanel.com
+  careers_url: https://boards.greenhouse.io/mixpanel
+  category: ai-and-data
+  ats:
+    greenhouse: mixpanel
+  tags:
+  - b2b
+  - b2b-analytics
+  - analytics
+  - data-visualization
+  sources:
+  - https://boards.greenhouse.io/mixpanel

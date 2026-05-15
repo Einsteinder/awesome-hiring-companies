@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **120 companies**.
+Currently tracking **130 companies**.
 
 This repository is designed for two uses:
 
@@ -175,6 +175,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [PagerDuty](https://pagerduty.com) - Real-time visibility into critical apps and services all in one place.
 - [Docker](https://docker.com) - Software development platform.
 - [GoCardless](https://gocardless.com) - We’re building the world’s bank payment network.
+- [ACLU](https://aclu.org) - Defender of rights and liberties
+- [Weave](https://getweave.com) - Customer communication and payments platform.
+- [Apollo.io](https://apollo.io) - Apollo is the foundation of your entire go-to-market strategy.
+- [Taktile](https://taktile.com) - Transform your decision-making with reliable AI agents in weeks, not…
+- [Encord](https://encord.com) - The data layer for physical AI
+- [Moss](https://moss.dev) - Real-time semantic search for Conversational AI
+- [Bird](https://bird.com) - The world’s largest omnichannel communications platform
+- [MarqVision](https://marqvision.com) - IP operating software for brands and content companies
+- [GOAT Group](https://goatgroup.com) - Platform for the greatest products from the past, present and future.
+- [Mixpanel](https://mixpanel.com) - Mixpanel is event analytics for builders that need answers.
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
