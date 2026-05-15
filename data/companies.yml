@@ -9815,3 +9815,150 @@
   - gaming
   sources:
   - https://boards.greenhouse.io/galaxy
+
+- name: Epsilon3
+  slug: epsilon3
+  domain: epsilon3.io
+  careers_url: https://jobs.lever.co/epsilon3
+  category: ai-and-data
+  ats:
+    lever: epsilon3
+  tags:
+  - b2b
+  - b2b-operations
+  - commercial-space-launch
+  - saas
+  sources:
+  - https://jobs.lever.co/epsilon3
+
+- name: OneSchema
+  slug: oneschema
+  domain: oneschema.co
+  careers_url: https://jobs.ashbyhq.com/oneschema
+  category: ai-and-data
+  ats:
+    ashby: oneschema
+  tags:
+  - b2b
+  - b2b-operations
+  - artificial-intelligence
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/oneschema
+
+- name: Formance
+  slug: formance
+  domain: formance.com
+  careers_url: https://jobs.ashbyhq.com/formance
+  category: developer-infrastructure
+  ats:
+    ashby: formance
+  tags:
+  - b2b
+  - developer-tools
+  - fintech
+  - payments
+  sources:
+  - https://jobs.ashbyhq.com/formance
+
+- name: Bolster
+  slug: bolster
+  domain: bolsterbuilt.com
+  careers_url: https://jobs.lever.co/bolster
+  category: consumer-and-marketplace
+  ats:
+    lever: bolster
+  tags:
+  - real-estate-and-construction
+  - fintech
+  - marketplace
+  - proptech
+  sources:
+  - https://jobs.lever.co/bolster
+
+- name: IMT Care
+  slug: imt-care
+  domain: imt.care
+  careers_url: https://boards.greenhouse.io/imt
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: imt
+  tags:
+  - healthcare
+  - healthcare-consumer-health-and-wellness
+  - insurance
+  - india
+  sources:
+  - https://boards.greenhouse.io/imt
+
+- name: Eventual
+  slug: eventual
+  domain: daft.ai
+  careers_url: https://jobs.ashbyhq.com/eventual
+  category: ai-and-data
+  ats:
+    ashby: eventual
+  tags:
+  - b2b
+  - b2b-infrastructure
+  - computer-vision
+  sources:
+  - https://jobs.ashbyhq.com/eventual
+
+- name: Windmill
+  slug: windmill
+  domain: windmill.dev
+  careers_url: https://jobs.ashbyhq.com/windmill
+  category: developer-infrastructure
+  ats:
+    ashby: windmill
+  tags:
+  - b2b
+  - b2b-infrastructure
+  - developer-tools
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/windmill
+
+- name: Cambio
+  slug: cambio
+  domain: cambio.ai
+  careers_url: https://jobs.ashbyhq.com/cambio
+  category: ai-and-data
+  ats:
+    ashby: cambio
+  tags:
+  - real-estate-and-construction
+  - artificial-intelligence
+  - real-estate
+  - b2b
+  sources:
+  - https://jobs.ashbyhq.com/cambio
+
+- name: Cosine
+  slug: cosine
+  domain: cosine.sh
+  careers_url: https://jobs.ashbyhq.com/cosine
+  category: ai-and-data
+  ats:
+    ashby: cosine
+  tags:
+  - b2b
+  - artificial-intelligence
+  - developer-tools
+  - generative-ai
+  sources:
+  - https://jobs.ashbyhq.com/cosine
+
+- name: Pirros
+  slug: pirros
+  domain: pirros.com
+  careers_url: https://jobs.ashbyhq.com/pirros
+  category: open-source-and-platform
+  ats:
+    ashby: pirros
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  sources:
+  - https://jobs.ashbyhq.com/pirros

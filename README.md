@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **680 companies**.
+Currently tracking **690 companies**.
 
 This repository is designed for two uses:
 
@@ -736,6 +736,16 @@ Open source video player (video.js)
 - [Momence](https://momence.com) - Scheduling and payments for experiences
 - [Kingdom](https://kingdomsuperculture.com) - Natural functional ingredients that actually work
 - [Galaxy](https://galaxysdk.com) - Social SDK for games
+- [Epsilon3](https://epsilon3.io) - AI-Powered ERP, MES, and Test Software for Complex Operations
+- [OneSchema](https://oneschema.co) - The AI Agent for Autonomous Data Operations
+- [Formance](https://formance.com) - Open Source Infrastructure for the Financial Internet
+- [Bolster](https://bolsterbuilt.com) - The platform for buying, selling and managing residential construction
+- [IMT Care](https://imt.care) - Disrupting Indian Insurance space by empowering distrubutors
+- [Eventual](https://daft.ai) - Building the AI data engine for any modality and scale
+- [Windmill](https://windmill.dev) - Open-source platform to turn scripts into internal apps & workflows
+- [Cambio](https://cambio.ai) - AI-native commercial real estate operations
+- [Cosine](https://cosine.sh) - Fully Agentic SWE
+- [Pirros](https://pirros.com) - Github for Construction
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
