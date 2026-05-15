@@ -21209,3 +21209,123 @@
   - open
   sources:
   - https://boards.greenhouse.io/zone5technologies
+
+- name: Applied Intuition
+  slug: applied-intuition
+  domain: appliedintuition.com
+  careers_url: https://boards.greenhouse.io/appliedintuition
+  category: open-source-and-platform
+  ats:
+    greenhouse: appliedintuition
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/appliedintuition
+
+- name: Triumph Arcade
+  slug: triumph-arcade
+  domain: triumpharcade.com
+  careers_url: https://jobs.ashbyhq.com/triumph-arcade
+  category: open-source-and-platform
+  ats:
+    ashby: triumph-arcade
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/triumph-arcade
+
+- name: Titan Msp
+  slug: titan-msp
+  domain: titanmsp.com
+  careers_url: https://jobs.ashbyhq.com/titan-msp
+  category: open-source-and-platform
+  ats:
+    ashby: titan-msp
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/titan-msp
+
+- name: Ironcladhq
+  slug: ironcladhq
+  domain: ironcladhq.com
+  careers_url: https://jobs.ashbyhq.com/ironcladhq
+  category: open-source-and-platform
+  ats:
+    ashby: ironcladhq
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/ironcladhq
+
+- name: Lightfield
+  slug: lightfield
+  domain: lightfield.com
+  careers_url: https://jobs.ashbyhq.com/lightfield
+  category: open-source-and-platform
+  ats:
+    ashby: lightfield
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/lightfield
+
+- name: Patreon
+  slug: patreon
+  domain: patreon.com
+  careers_url: https://jobs.ashbyhq.com/patreon
+  category: open-source-and-platform
+  ats:
+    ashby: patreon
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/patreon
+
+- name: Realmalliance
+  slug: realmalliance
+  domain: realmalliance.com
+  careers_url: https://jobs.ashbyhq.com/realmalliance
+  category: open-source-and-platform
+  ats:
+    ashby: realmalliance
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/realmalliance
+
+- name: Seconddinner
+  slug: seconddinner
+  domain: seconddinner.com
+  careers_url: https://jobs.ashbyhq.com/seconddinner
+  category: open-source-and-platform
+  ats:
+    ashby: seconddinner
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/seconddinner
+
+- name: N1
+  slug: n1
+  domain: n1.com
+  careers_url: https://jobs.ashbyhq.com/n1
+  category: open-source-and-platform
+  ats:
+    ashby: n1
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/n1
+
+- name: Tldraw
+  slug: tldraw
+  domain: tldraw.com
+  careers_url: https://jobs.ashbyhq.com/tldraw
+  category: open-source-and-platform
+  ats:
+    ashby: tldraw
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/tldraw

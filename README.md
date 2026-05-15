@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1600 companies**.
+Currently tracking **1610 companies**.
 
 This repository is designed for two uses:
 
@@ -1656,6 +1656,16 @@ Open source video player (video.js)
 - [Scout24](https://scout24.com) - Hiring via Greenhouse (scout24).
 - [Gelber Group](https://gelbergroup.com) - Hiring via Greenhouse (gelbergroup).
 - [Zone 5 Technologies](https://zone5technologies.com) - Hiring via Greenhouse (zone5technologies).
+- [Applied Intuition](https://appliedintuition.com) - Hiring via Greenhouse (appliedintuition).
+- [Triumph Arcade](https://triumpharcade.com) - Hiring via Ashby (triumph-arcade).
+- [Titan Msp](https://titanmsp.com) - Hiring via Ashby (titan-msp).
+- [Ironcladhq](https://ironcladhq.com) - Hiring via Ashby (ironcladhq).
+- [Lightfield](https://lightfield.com) - Hiring via Ashby (lightfield).
+- [Patreon](https://patreon.com) - Hiring via Ashby (patreon).
+- [Realmalliance](https://realmalliance.com) - Hiring via Ashby (realmalliance).
+- [Seconddinner](https://seconddinner.com) - Hiring via Ashby (seconddinner).
+- [N1](https://n1.com) - Hiring via Ashby (n1).
+- [Tldraw](https://tldraw.com) - Hiring via Ashby (tldraw).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
