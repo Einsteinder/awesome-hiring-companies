@@ -1562,3 +1562,150 @@
   - b2b-infrastructure
   sources:
   - https://boards.greenhouse.io/singlestore
+
+- name: HackerRank
+  slug: hackerrank
+  domain: hackerrank.com
+  careers_url: https://boards.greenhouse.io/hackerrank
+  category: developer-infrastructure
+  ats:
+    greenhouse: hackerrank
+  tags:
+  - b2b
+  - b2b-recruiting-and-talent
+  - developer-tools
+  - recruiting
+  sources:
+  - https://boards.greenhouse.io/hackerrank
+
+- name: Daybreak Health
+  slug: daybreak-health
+  domain: daybreakhealth.com
+  careers_url: https://boards.greenhouse.io/daybreakhealth
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: daybreakhealth
+  tags:
+  - healthcare
+  - healthcare-consumer-health-and-wellness
+  - mental-health-tech
+  - consumer-health-services
+  sources:
+  - https://boards.greenhouse.io/daybreakhealth
+
+- name: Emburse
+  slug: emburse
+  domain: emburse.com
+  careers_url: https://jobs.lever.co/emburse
+  category: fintech
+  ats:
+    lever: emburse
+  tags:
+  - fintech
+  - fintech-banking-and-exchange
+  sources:
+  - https://jobs.lever.co/emburse
+
+- name: Speak
+  slug: speak
+  domain: speak.com
+  careers_url: https://jobs.ashbyhq.com/speak
+  category: consumer-and-marketplace
+  ats:
+    ashby: speak
+  tags:
+  - consumer
+  - consumer-social
+  - artificial-intelligence
+  - education
+  sources:
+  - https://jobs.ashbyhq.com/speak
+
+- name: May Mobility
+  slug: may-mobility
+  domain: maymobility.com
+  careers_url: https://boards.greenhouse.io/maymobility
+  category: ai-and-data
+  ats:
+    greenhouse: maymobility
+  tags:
+  - industrials
+  - industrials-automotive
+  - artificial-intelligence
+  - robotics
+  sources:
+  - https://boards.greenhouse.io/maymobility
+
+- name: SkydropX
+  slug: skydropx
+  domain: skydropx.com
+  careers_url: https://jobs.ashbyhq.com/skydropx
+  category: consumer-and-marketplace
+  ats:
+    ashby: skydropx
+  tags:
+  - b2b
+  - b2b-supply-chain-and-logistics
+  - marketplace
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/skydropx
+
+- name: Eight Sleep
+  slug: eight-sleep
+  domain: eightsleep.com
+  careers_url: https://jobs.ashbyhq.com/eightsleep
+  category: consumer-and-marketplace
+  ats:
+    ashby: eightsleep
+  tags:
+  - consumer
+  - consumer-home-and-personal
+  - hardware
+  - health-tech
+  sources:
+  - https://jobs.ashbyhq.com/eightsleep
+
+- name: PagerDuty
+  slug: pagerduty
+  domain: pagerduty.com
+  careers_url: https://boards.greenhouse.io/pagerduty
+  category: developer-infrastructure
+  ats:
+    greenhouse: pagerduty
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - devops
+  - monitoring
+  sources:
+  - https://boards.greenhouse.io/pagerduty
+
+- name: Docker
+  slug: docker
+  domain: docker.com
+  careers_url: https://jobs.ashbyhq.com/docker
+  category: developer-infrastructure
+  ats:
+    ashby: docker
+  tags:
+  - b2b
+  - b2b-infrastructure
+  - open-source
+  - devops
+  sources:
+  - https://jobs.ashbyhq.com/docker
+
+- name: GoCardless
+  slug: gocardless
+  domain: gocardless.com
+  careers_url: https://boards.greenhouse.io/gocardless
+  category: fintech
+  ats:
+    greenhouse: gocardless
+  tags:
+  - fintech
+  - fintech-consumer-finance
+  - payments
+  sources:
+  - https://boards.greenhouse.io/gocardless

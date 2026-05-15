@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **110 companies**.
+Currently tracking **120 companies**.
 
 This repository is designed for two uses:
 
@@ -165,6 +165,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [Jeeves](https://tryjeeves.com) - International banking infrastructure for global startups.
 - [Benchling](https://benchling.com) - Unlocking the power of biotech with modern software for modern science
 - [SingleStore](https://singlestore.com) - The cloud-native, operational database built for speed and scale.
+- [HackerRank](https://hackerrank.com) - Change the world to value skills over pedigree
+- [Daybreak Health](https://daybreakhealth.com) - The first digital mental health system for youth
+- [Emburse](https://emburse.com) - Expense management and AP automation.
+- [Speak](https://speak.com) - A superhuman, AI-powered language tutor in your pocket
+- [May Mobility](https://maymobility.com) - Transforming cities and rural areas through AV transit and technology
+- [SkydropX](https://skydropx.com) - Logistic Management System for E-commerce & Retail in Mexico.
+- [Eight Sleep](https://eightsleep.com) - The sleep fitness company.
+- [PagerDuty](https://pagerduty.com) - Real-time visibility into critical apps and services all in one place.
+- [Docker](https://docker.com) - Software development platform.
+- [GoCardless](https://gocardless.com) - We’re building the world’s bank payment network.
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
