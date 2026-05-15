@@ -18905,3 +18905,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/rerun
+
+- name: Retired
+  slug: retired
+  domain: retired.com
+  careers_url: https://jobs.lever.co/retired
+  category: open-source-and-platform
+  ats:
+    lever: retired
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/retired
+
+- name: Rewind
+  slug: rewind
+  domain: rewind.com
+  careers_url: https://jobs.ashbyhq.com/rewind
+  category: open-source-and-platform
+  ats:
+    ashby: rewind
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/rewind
+
+- name: Rhythms
+  slug: rhythms
+  domain: rhythms.com
+  careers_url: https://jobs.ashbyhq.com/rhythms
+  category: open-source-and-platform
+  ats:
+    ashby: rhythms
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/rhythms
+
+- name: River
+  slug: river
+  domain: river.com
+  careers_url: https://jobs.ashbyhq.com/river
+  category: open-source-and-platform
+  ats:
+    ashby: river
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/river
+
+- name: Ropes
+  slug: ropes
+  domain: ropes.com
+  careers_url: https://jobs.ashbyhq.com/ropes
+  category: open-source-and-platform
+  ats:
+    ashby: ropes
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/ropes
+
+- name: Sahara
+  slug: sahara
+  domain: sahara.com
+  careers_url: https://jobs.ashbyhq.com/sahara
+  category: open-source-and-platform
+  ats:
+    ashby: sahara
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/sahara
+
+- name: Spyglass
+  slug: spyglass
+  domain: spyglass.com
+  careers_url: https://jobs.lever.co/spyglass
+  category: open-source-and-platform
+  ats:
+    lever: spyglass
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/spyglass
+
+- name: Superconductor
+  slug: superconductor
+  domain: superconductor.com
+  careers_url: https://jobs.ashbyhq.com/superconductor
+  category: open-source-and-platform
+  ats:
+    ashby: superconductor
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/superconductor
+
+- name: Symmetry
+  slug: symmetry
+  domain: symmetry.com
+  careers_url: https://jobs.ashbyhq.com/symmetry
+  category: open-source-and-platform
+  ats:
+    ashby: symmetry
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/symmetry
+
+- name: Syntax
+  slug: syntax
+  domain: syntax.com
+  careers_url: https://jobs.lever.co/syntax
+  category: open-source-and-platform
+  ats:
+    lever: syntax
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/syntax

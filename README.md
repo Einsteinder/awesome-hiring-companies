@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1408 companies**.
+Currently tracking **1418 companies**.
 
 This repository is designed for two uses:
 
@@ -1464,6 +1464,16 @@ Open source video player (video.js)
 - [Recharge](https://recharge.com) - Hiring via Ashby (recharge).
 - [Renegade](https://renegade.com) - Hiring via Lever (renegade).
 - [Rerun](https://rerun.com) - Hiring via Ashby (rerun).
+- [Retired](https://retired.com) - Hiring via Lever (retired).
+- [Rewind](https://rewind.com) - Hiring via Ashby (rewind).
+- [Rhythms](https://rhythms.com) - Hiring via Ashby (rhythms).
+- [River](https://river.com) - Hiring via Ashby (river).
+- [Ropes](https://ropes.com) - Hiring via Ashby (ropes).
+- [Sahara](https://sahara.com) - Hiring via Ashby (sahara).
+- [Spyglass](https://spyglass.com) - Hiring via Lever (spyglass).
+- [Superconductor](https://superconductor.com) - Hiring via Ashby (superconductor).
+- [Symmetry](https://symmetry.com) - Hiring via Ashby (symmetry).
+- [Syntax](https://syntax.com) - Hiring via Lever (syntax).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
