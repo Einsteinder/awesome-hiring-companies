@@ -1699,16 +1699,16 @@
 - name: GoCardless
   slug: gocardless
   domain: gocardless.com
-  careers_url: https://boards.greenhouse.io/gocardless
+  careers_url: https://apply.workable.com/gocardless/
   category: fintech
   ats:
-    greenhouse: gocardless
+    workable: gocardless
   tags:
   - fintech
   - fintech-consumer-finance
   - payments
   sources:
-  - https://boards.greenhouse.io/gocardless
+  - https://apply.workable.com/gocardless/
 
 - name: ACLU
   slug: aclu
@@ -15309,14 +15309,14 @@
 - name: Snowflake
   slug: snowflake
   domain: snowflake.com
-  careers_url: https://jobs.ashbyhq.com/snowflake
-  category: open-source-and-platform
+  careers_url: https://careers.snowflake.com/
+  category: ai-and-data
   ats:
-    ashby: snowflake
+    workday: snowflake
   tags:
   - open
   sources:
-  - https://jobs.ashbyhq.com/snowflake
+  - https://careers.snowflake.com/
 
 - name: Whoop
   slug: whoop
@@ -26465,7 +26465,7 @@
   careers_url: https://careers.wbd.com/
   category: consumer-and-marketplace
   ats:
-    workday: warnermedia
+    workday: warnerbros
   tags:
   - media
   - entertainment
@@ -26475,10 +26475,10 @@
 - name: Sony
   slug: sony
   domain: sony.com
-  careers_url: https://www.sony.com/en/SonyInfo/Jobs/
+  careers_url: https://www.sony.com/careers
   category: consumer-and-marketplace
   ats:
-    custom: sony
+    workday: sony
   tags:
   - consumer
   - hardware
@@ -26722,7 +26722,7 @@
   careers_url: https://www.oracle.com/corporate/careers/
   category: developer-infrastructure
   ats:
-    custom: oracle
+    workday: oracle
   tags:
   - database
   - cloud
@@ -26981,7 +26981,7 @@
   careers_url: https://block.xyz/careers
   category: fintech
   ats:
-    custom: block
+    workday: square
   tags:
   - fintech
   - payments
@@ -26996,6 +26996,7 @@
   category: fintech
   ats:
     workday: visa
+    smartrecruiters: Visa
   tags:
   - fintech
   - payments
@@ -27023,7 +27024,7 @@
   careers_url: https://www.americanexpress.com/en-us/careers/
   category: fintech
   ats:
-    workday: amex
+    workday: americanexpress
   tags:
   - fintech
   - payments
@@ -27118,7 +27119,7 @@
   careers_url: https://careers.jpmorganchase.com/
   category: fintech
   ats:
-    custom: jpmc
+    workday: jpmc
   tags:
   - finance
   - banking
@@ -27618,7 +27619,7 @@
 - name: Toyota
   slug: toyota
   domain: toyota.com
-  careers_url: https://www.toyota.com/usa/careers/
+  careers_url: https://www.toyota.com/careers
   category: industrials-and-climate
   ats:
     custom: toyota
@@ -27626,12 +27627,12 @@
   - automotive
   - manufacturing
   sources:
-  - https://www.toyota.com/usa/careers/
+  - https://www.toyota.com/careers
 
 - name: BMW
   slug: bmw
   domain: bmwgroup.com
-  careers_url: https://www.bmwgroup.jobs/
+  careers_url: https://jobs.bmwgroup.com
   category: industrials-and-climate
   ats:
     custom: bmw
@@ -27639,12 +27640,12 @@
   - automotive
   - luxury
   sources:
-  - https://www.bmwgroup.jobs/
+  - https://jobs.bmwgroup.com
 
 - name: Mercedes-Benz
   slug: mercedes-benz
   domain: mercedes-benz.com
-  careers_url: https://group.mercedes-benz.com/careers/
+  careers_url: https://jobs.mercedes-benz.com
   category: industrials-and-climate
   ats:
     custom: mercedes
@@ -27652,7 +27653,7 @@
   - automotive
   - luxury
   sources:
-  - https://group.mercedes-benz.com/careers/
+  - https://jobs.mercedes-benz.com
 
 - name: Volvo
   slug: volvo
@@ -27967,4 +27968,424 @@
   - mining
   sources:
   - https://www.komatsu.com/en-us/careers
+
+- name: Bosch
+  slug: bosch
+  domain: bosch.com
+  careers_url: https://www.smartrecruiters.com/Bosch
+  category: industrials-and-climate
+  ats:
+    smartrecruiters: Bosch
+  tags:
+  - industrial
+  - engineering
+  - automotive
+  sources:
+  - https://www.smartrecruiters.com/Bosch
+
+- name: McDonald's
+  slug: mcdonalds
+  domain: mcdonalds.com
+  careers_url: https://www.smartrecruiters.com/McDonalds
+  category: consumer-and-marketplace
+  ats:
+    smartrecruiters: McDonalds
+  tags:
+  - food
+  - consumer
+  - retail
+  sources:
+  - https://www.smartrecruiters.com/McDonalds
+
+- name: Skyscanner
+  slug: skyscanner
+  domain: skyscanner.net
+  careers_url: https://www.smartrecruiters.com/Skyscanner
+  category: consumer-and-marketplace
+  ats:
+    smartrecruiters: Skyscanner
+  tags:
+  - travel
+  - marketplace
+  - consumer
+  sources:
+  - https://www.smartrecruiters.com/Skyscanner
+
+- name: Hootsuite
+  slug: hootsuite
+  domain: hootsuite.com
+  careers_url: https://www.smartrecruiters.com/Hootsuite
+  category: b2b-enterprise
+  ats:
+    smartrecruiters: Hootsuite
+  tags:
+  - social-media
+  - marketing
+  - saas
+  sources:
+  - https://www.smartrecruiters.com/Hootsuite
+
+- name: Equinix
+  slug: equinix
+  domain: equinix.com
+  careers_url: https://www.smartrecruiters.com/Equinix
+  category: developer-infrastructure
+  ats:
+    smartrecruiters: Equinix
+  tags:
+  - data-center
+  - infrastructure
+  - cloud
+  sources:
+  - https://www.smartrecruiters.com/Equinix
+
+- name: Hitachi Vantara
+  slug: hitachi-vantara
+  domain: hitachivantara.com
+  careers_url: https://www.smartrecruiters.com/HitachiVantara
+  category: b2b-enterprise
+  ats:
+    smartrecruiters: HitachiVantara
+  tags:
+  - enterprise
+  - data
+  - infrastructure
+  sources:
+  - https://www.smartrecruiters.com/HitachiVantara
+
+- name: Ubisoft
+  slug: ubisoft
+  domain: ubisoft.com
+  careers_url: https://www.smartrecruiters.com/Ubisoft
+  category: consumer-and-marketplace
+  ats:
+    smartrecruiters: Ubisoft
+  tags:
+  - gaming
+  - consumer
+  - entertainment
+  sources:
+  - https://www.smartrecruiters.com/Ubisoft
+
+- name: NielsenIQ
+  slug: nielseniq
+  domain: nielseniq.com
+  careers_url: https://www.smartrecruiters.com/NielsenIQ
+  category: b2b-enterprise
+  ats:
+    smartrecruiters: NielsenIQ
+  tags:
+  - consumer-insights
+  - analytics
+  - data
+  sources:
+  - https://www.smartrecruiters.com/NielsenIQ
+
+- name: Appsmith
+  slug: appsmith
+  domain: appsmith.com
+  careers_url: https://apply.workable.com/appsmith/
+  category: developer-infrastructure
+  ats:
+    workable: appsmith
+  tags:
+  - developer-tools
+  - low-code
+  - open-source
+  sources:
+  - https://apply.workable.com/appsmith/
+
+- name: Codility
+  slug: codility
+  domain: codility.com
+  careers_url: https://apply.workable.com/codility/
+  category: b2b-enterprise
+  ats:
+    workable: codility
+  tags:
+  - recruiting
+  - technical-assessment
+  - hr-tech
+  sources:
+  - https://apply.workable.com/codility/
+
+- name: Docsumo
+  slug: docsumo
+  domain: docsumo.com
+  careers_url: https://apply.workable.com/docsumo/
+  category: ai-and-data
+  ats:
+    workable: docsumo
+  tags:
+  - ai
+  - document-ai
+  - automation
+  sources:
+  - https://apply.workable.com/docsumo/
+
+- name: GitKraken
+  slug: gitkraken
+  domain: gitkraken.com
+  careers_url: https://apply.workable.com/gitkraken/
+  category: developer-infrastructure
+  ats:
+    workable: gitkraken
+  tags:
+  - developer-tools
+  - git
+  - productivity
+  sources:
+  - https://apply.workable.com/gitkraken/
+
+- name: Jobvite
+  slug: jobvite
+  domain: jobvite.com
+  careers_url: https://apply.workable.com/jobvite/
+  category: b2b-enterprise
+  ats:
+    workable: jobvite
+  tags:
+  - hr-tech
+  - recruiting
+  - ats
+  sources:
+  - https://apply.workable.com/jobvite/
+
+- name: Loom
+  slug: loom
+  domain: loom.com
+  careers_url: https://apply.workable.com/loom/
+  category: b2b-enterprise
+  ats:
+    workable: loom
+  tags:
+  - video
+  - collaboration
+  - productivity
+  sources:
+  - https://apply.workable.com/loom/
+
+- name: MariaDB
+  slug: mariadb
+  domain: mariadb.com
+  careers_url: https://apply.workable.com/mariadb/
+  category: developer-infrastructure
+  ats:
+    workable: mariadb
+  tags:
+  - database
+  - open-source
+  sources:
+  - https://apply.workable.com/mariadb/
+
+- name: Mews
+  slug: mews
+  domain: mews.com
+  careers_url: https://apply.workable.com/mews/
+  category: b2b-enterprise
+  ats:
+    workable: mews
+  tags:
+  - hospitality
+  - saas
+  - vertical-saas
+  sources:
+  - https://apply.workable.com/mews/
+
+- name: Mindee
+  slug: mindee
+  domain: mindee.com
+  careers_url: https://apply.workable.com/mindee/
+  category: ai-and-data
+  ats:
+    workable: mindee
+  tags:
+  - ai
+  - document-ai
+  - computer-vision
+  sources:
+  - https://apply.workable.com/mindee/
+
+- name: Nextdoor
+  slug: nextdoor
+  domain: nextdoor.com
+  careers_url: https://apply.workable.com/nextdoor/
+  category: consumer-and-marketplace
+  ats:
+    workable: nextdoor
+  tags:
+  - social
+  - community
+  - consumer
+  - local
+  sources:
+  - https://apply.workable.com/nextdoor/
+
+- name: TrueLayer
+  slug: truelayer
+  domain: truelayer.com
+  careers_url: https://apply.workable.com/truelayer/
+  category: fintech
+  ats:
+    workable: truelayer
+  tags:
+  - fintech
+  - open-banking
+  - api
+  sources:
+  - https://apply.workable.com/truelayer/
+
+- name: Weebly
+  slug: weebly
+  domain: weebly.com
+  careers_url: https://apply.workable.com/weebly/
+  category: consumer-and-marketplace
+  ats:
+    workable: weebly
+  tags:
+  - website-builder
+  - ecommerce
+  - consumer
+  sources:
+  - https://apply.workable.com/weebly/
+
+- name: Atlassian
+  slug: atlassian
+  domain: atlassian.com
+  careers_url: https://www.atlassian.com/company/careers
+  category: b2b-enterprise
+  ats:
+    workday: atlassian
+  tags:
+  - collaboration
+  - developer-tools
+  - saas
+  sources:
+  - https://www.atlassian.com/company/careers
+
+- name: eBay
+  slug: ebay
+  domain: ebay.com
+  careers_url: https://careers.ebayinc.com/
+  category: consumer-and-marketplace
+  ats:
+    workday: ebay
+  tags:
+  - marketplace
+  - consumer
+  - ecommerce
+  sources:
+  - https://careers.ebayinc.com/
+
+- name: Target
+  slug: target
+  domain: target.com
+  careers_url: https://corporate.target.com/careers
+  category: consumer-and-marketplace
+  ats:
+    workday: target
+  tags:
+  - retail
+  - consumer
+  - ecommerce
+  sources:
+  - https://corporate.target.com/careers
+
+- name: Walmart
+  slug: walmart
+  domain: walmart.com
+  careers_url: https://careers.walmart.com/
+  category: consumer-and-marketplace
+  ats:
+    workday: walmart
+  tags:
+  - retail
+  - consumer
+  - ecommerce
+  sources:
+  - https://careers.walmart.com/
+
+- name: Costco
+  slug: costco
+  domain: costco.com
+  careers_url: https://www.costco.com/careers
+  category: consumer-and-marketplace
+  ats:
+    workday: costco
+  tags:
+  - retail
+  - consumer
+  - wholesale
+  sources:
+  - https://www.costco.com/careers
+
+- name: The Home Depot
+  slug: the-home-depot
+  domain: homedepot.com
+  careers_url: https://careers.homedepot.com/
+  category: consumer-and-marketplace
+  ats:
+    workday: homedepot
+  tags:
+  - retail
+  - consumer
+  - home-improvement
+  sources:
+  - https://careers.homedepot.com/
+
+- name: NBCUniversal
+  slug: nbcuniversal
+  domain: nbcuni.com
+  careers_url: https://www.nbcunicareers.com/
+  category: consumer-and-marketplace
+  ats:
+    workday: nbcuni
+  tags:
+  - media
+  - entertainment
+  - streaming
+  sources:
+  - https://www.nbcunicareers.com/
+
+- name: General Dynamics
+  slug: general-dynamics
+  domain: gd.com
+  careers_url: https://www.gd.com/careers
+  category: industrials-and-climate
+  ats:
+    workday: generaldynamics
+  tags:
+  - defense
+  - aerospace
+  - manufacturing
+  sources:
+  - https://www.gd.com/careers
+
+- name: Nutanix
+  slug: nutanix
+  domain: nutanix.com
+  careers_url: https://jobs.nutanix.com
+  category: developer-infrastructure
+  ats:
+    workday: nutanix
+  tags:
+  - cloud
+  - hyperconverged
+  - enterprise
+  sources:
+  - https://jobs.nutanix.com
+
+- name: Pure Storage
+  slug: pure-storage
+  domain: purestorage.com
+  careers_url: https://www.purestorage.com/company/careers.html
+  category: developer-infrastructure
+  ats:
+    workday: pure
+  tags:
+  - storage
+  - infrastructure
+  - enterprise
+  sources:
+  - https://www.purestorage.com/company/careers.html
 
