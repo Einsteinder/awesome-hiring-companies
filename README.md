@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1158 companies**.
+Currently tracking **1168 companies**.
 
 This repository is designed for two uses:
 
@@ -1214,6 +1214,16 @@ Open source video player (video.js)
 - [Incident](https://incident.com) - Hiring via Ashby (incident).
 - [Rise](https://rise.com) - Hiring via Lever (rise).
 - [Uncountable](https://uncountable.com) - Hiring via Ashby (uncountable).
+- [Sequence](https://sequence.com) - Hiring via Ashby (sequence).
+- [Sunday](https://sunday.com) - Hiring via Ashby (sunday).
+- [Jane](https://jane.com) - Hiring via Ashby (jane).
+- [Pivotal](https://pivotal.com) - Hiring via Lever (pivotal).
+- [Sardine](https://sardine.com) - Hiring via Ashby (sardine).
+- [Span](https://span.com) - Hiring via Ashby (span).
+- [Merge](https://merge.com) - Hiring via Ashby (merge).
+- [Nudge](https://nudge.com) - Hiring via Ashby (nudge).
+- [Laurel](https://laurel.com) - Hiring via Ashby (laurel).
+- [Leland](https://leland.com) - Hiring via Ashby (leland).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

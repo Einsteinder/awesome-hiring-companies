@@ -15905,3 +15905,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/uncountable
+
+- name: Sequence
+  slug: sequence
+  domain: sequence.com
+  careers_url: https://jobs.ashbyhq.com/sequence
+  category: open-source-and-platform
+  ats:
+    ashby: sequence
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/sequence
+
+- name: Sunday
+  slug: sunday
+  domain: sunday.com
+  careers_url: https://jobs.ashbyhq.com/sunday
+  category: open-source-and-platform
+  ats:
+    ashby: sunday
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/sunday
+
+- name: Jane
+  slug: jane
+  domain: jane.com
+  careers_url: https://jobs.ashbyhq.com/jane
+  category: open-source-and-platform
+  ats:
+    ashby: jane
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/jane
+
+- name: Pivotal
+  slug: pivotal
+  domain: pivotal.com
+  careers_url: https://jobs.lever.co/pivotal
+  category: open-source-and-platform
+  ats:
+    lever: pivotal
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/pivotal
+
+- name: Sardine
+  slug: sardine
+  domain: sardine.com
+  careers_url: https://jobs.ashbyhq.com/sardine
+  category: open-source-and-platform
+  ats:
+    ashby: sardine
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/sardine
+
+- name: Span
+  slug: span
+  domain: span.com
+  careers_url: https://jobs.ashbyhq.com/span
+  category: open-source-and-platform
+  ats:
+    ashby: span
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/span
+
+- name: Merge
+  slug: merge
+  domain: merge.com
+  careers_url: https://jobs.ashbyhq.com/merge
+  category: open-source-and-platform
+  ats:
+    ashby: merge
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/merge
+
+- name: Nudge
+  slug: nudge
+  domain: nudge.com
+  careers_url: https://jobs.ashbyhq.com/nudge
+  category: open-source-and-platform
+  ats:
+    ashby: nudge
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/nudge
+
+- name: Laurel
+  slug: laurel
+  domain: laurel.com
+  careers_url: https://jobs.ashbyhq.com/laurel
+  category: open-source-and-platform
+  ats:
+    ashby: laurel
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/laurel
+
+- name: Leland
+  slug: leland
+  domain: leland.com
+  careers_url: https://jobs.ashbyhq.com/leland
+  category: open-source-and-platform
+  ats:
+    ashby: leland
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/leland
