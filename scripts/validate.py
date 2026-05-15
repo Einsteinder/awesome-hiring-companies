@@ -16,6 +16,7 @@ DATA_PATH = ROOT / "data" / "companies.yml"
 SCHEMA_PATH = ROOT / "schemas" / "company.schema.json"
 README_PATH = ROOT / "README.md"
 CATEGORIES_DIR = ROOT / "docs" / "categories"
+ADD_COMPANY_TEMPLATE_PATH = ROOT / ".github" / "ISSUE_TEMPLATE" / "add-company.yml"
 
 
 def normalize(value: str) -> str:
@@ -90,6 +91,38 @@ def assert_readme_count(companies: list[dict]) -> None:
         raise ValueError(f"README count is stale; expected: {expected}")
 
 
+def assert_template_categories_match_schema(schema: dict) -> None:
+    # The Add a company issue template's category dropdown options are
+    # the display labels humans see; normalizing them (lowercase, hyphens)
+    # must produce exactly the schema's category enum. Catches template
+    # drift before an agent-generated PR fails schema validation.
+    if not ADD_COMPANY_TEMPLATE_PATH.is_file():
+        return
+    with ADD_COMPANY_TEMPLATE_PATH.open("r", encoding="utf-8") as file:
+        template = yaml.safe_load(file)
+    category_field = next(
+        (f for f in template.get("body", []) if f.get("id") == "category"),
+        None,
+    )
+    if category_field is None:
+        return
+    options = category_field.get("attributes", {}).get("options", [])
+    normalized_template = {normalize(opt) for opt in options}
+    schema_enum = set(schema["items"]["properties"]["category"]["enum"])
+    if normalized_template != schema_enum:
+        extra = sorted(normalized_template - schema_enum)
+        missing = sorted(schema_enum - normalized_template)
+        details = []
+        if extra:
+            details.append(f"in template but not schema: {extra}")
+        if missing:
+            details.append(f"in schema but not template: {missing}")
+        raise ValueError(
+            "Add a company issue template categories out of sync with schema "
+            f"({'; '.join(details)})"
+        )
+
+
 def main() -> int:
     companies = load_yaml(DATA_PATH)
     schema = load_schema(SCHEMA_PATH)
@@ -106,6 +139,7 @@ def main() -> int:
     assert_unique_keys(companies)
     assert_readme_mentions(companies)
     assert_readme_count(companies)
+    assert_template_categories_match_schema(schema)
 
     print(f"Validated {len(companies)} companies.")
     return 0

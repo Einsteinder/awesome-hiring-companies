@@ -48,7 +48,7 @@ body:
     id: ats
     attributes:
       label: ATS slug (optional)
-      description: "e.g. greenhouse:anthropic, lever:stripe, workday:<host>/<site>. Leave blank if unknown."
+      description: "e.g. greenhouse:anthropic, lever:stripe, workday:<host>/<site>. If unknown, leave blank — the agent will identify it from the careers page source, or fall back to custom:<slug> if no real ATS is identifiable. The schema requires at least one ATS entry."
 
   - type: textarea
     id: sources

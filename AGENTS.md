@@ -49,7 +49,42 @@ Touch all three places together — they must stay consistent:
 - `docs/categories/<category>.md` — add or update the company line.
 
 Every entry needs: `name`, `slug`, `domain`, `careers_url`, `category`, `ats`,
-`tags`, `sources`. See existing entries for the exact shape.
+`tags`, `sources`. See existing entries for the exact shape, and the
+**Field format rules** below for what each one must look like.
+
+### Field format rules
+
+The schema (`schemas/company.schema.json`) enforces specific patterns.
+Common failures from agent-generated PRs come from getting these wrong:
+
+- **`slug`** — lowercase kebab-case ASCII. Pattern:
+  `^[a-z0-9]+(?:-[a-z0-9]+)*$`. Derive from `name` by lowercasing and
+  collapsing any non-alphanumeric run into a single `-`. Examples:
+  `OpenAI` → `openai`, `Acme Inc.` → `acme-inc`, `1Password` → `1password`.
+- **`domain`** — lowercase bare domain only. No `https://`, no path, no
+  trailing slash. Pattern: `^[a-z0-9][a-z0-9.-]+\.[a-z]{2,}$`.
+  Examples: `anthropic.com`, `nvidia.com`. Wrong: `https://anthropic.com/`.
+- **`category`** — kebab-case enum from the schema, **not** the display
+  label shown in `README.md`. Convert by lowercasing the display label
+  and replacing spaces with `-`:
+    - `AI and Data` → `ai-and-data`
+    - `Developer Infrastructure` → `developer-infrastructure`
+    - `Fintech` → `fintech`
+    - `Consumer and Marketplace` → `consumer-and-marketplace`
+    - `Healthcare and Biotech` → `healthcare-and-biotech`
+    - `Industrials and Climate` → `industrials-and-climate`
+    - `B2B Enterprise` → `b2b-enterprise`
+    - `Open Source and Platform` → `open-source-and-platform`
+- **`tags`** — lowercase kebab-case, same pattern as `slug`. At least one.
+- **`ats`** — object with at least one provider key. Standard providers:
+    - `greenhouse:<slug>`, `lever:<slug>`, `ashby:<slug>`,
+      `workable:<slug>`, `smartrecruiters:<slug>`, `successfactors:<slug>`
+    - `workday:<host>/<site>` — see the Workday section below
+    - `custom:<slug>` — **fallback only** when no real ATS is identifiable
+      from the careers page source. Prefer the real provider whenever
+      possible; `custom` will pass schema validation but is discouraged.
+- **`sources`** — at least one full URL with scheme. `careers_url` is
+  separate and also required.
 
 ### Workday is special
 
