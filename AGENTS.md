@@ -6,7 +6,7 @@ honor the `AGENTS.md` convention) when they work on this repository.
 Both Jules and OpenHands are wired up. Issues are routed automatically:
 
 - Issues labeled `jules` → handled by Jules (https://jules.google).
-- Issues labeled openhands + @openhands mention -> handled by OpenHands (https://app.all-hands.dev).
+- Issues labeled openhands (and a comment starting with @openhands) → handled by OpenHands (https://app.all-hands.dev).
 
 **One issue, one agent.** A label-exclusivity workflow
 (`enforce-agent-labels.yml`) auto-removes a duplicate agent label if both
