@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1560 companies**.
+Currently tracking **1570 companies**.
 
 This repository is designed for two uses:
 
@@ -1616,6 +1616,16 @@ Open source video player (video.js)
 - [PlayStation Global](https://playstationglobal.com) - Hiring via Greenhouse (sonyinteractiveentertainmentglobal).
 - [Neuralink](https://neuralink.com) - Hiring via Greenhouse (neuralink).
 - [EMARKETER](https://emarketer.com) - Hiring via Greenhouse (emarketer).
+- [Artefact US](https://artefactus.com) - Hiring via Greenhouse (artefactus).
+- [Aircapture](https://aircapture.com) - Hiring via Greenhouse (aircapture).
+- [Apptronik](https://apptronik.com) - Hiring via Greenhouse (apptronik).
+- [The Trade Desk](https://thetradedesk.com) - Hiring via Greenhouse (thetradedesk).
+- [Practising Law Institute](https://practisinglawinstitute.com) - Hiring via Greenhouse (practisinglawinstitute).
+- [EarnIn](https://earnin.com) - Hiring via Greenhouse (earnin).
+- [Dark Wolf Solutions](https://darkwolfsolutions.com) - Hiring via Greenhouse (darkwolfsolutions).
+- [Underdog](https://underdog.com) - Hiring via Greenhouse (underdogfantasy).
+- [Workstream](https://workstream.com) - Hiring via Greenhouse (workstream).
+- [Northspyre](https://northspyre.com) - Hiring via Greenhouse (northspyre).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

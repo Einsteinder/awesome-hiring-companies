@@ -20729,3 +20729,123 @@
   - open
   sources:
   - https://boards.greenhouse.io/emarketer
+
+- name: Artefact US
+  slug: artefact-us
+  domain: artefactus.com
+  careers_url: https://boards.greenhouse.io/artefactus
+  category: open-source-and-platform
+  ats:
+    greenhouse: artefactus
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/artefactus
+
+- name: Aircapture
+  slug: aircapture
+  domain: aircapture.com
+  careers_url: https://boards.greenhouse.io/aircapture
+  category: open-source-and-platform
+  ats:
+    greenhouse: aircapture
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/aircapture
+
+- name: Apptronik
+  slug: apptronik
+  domain: apptronik.com
+  careers_url: https://boards.greenhouse.io/apptronik
+  category: open-source-and-platform
+  ats:
+    greenhouse: apptronik
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/apptronik
+
+- name: The Trade Desk
+  slug: the-trade-desk
+  domain: thetradedesk.com
+  careers_url: https://boards.greenhouse.io/thetradedesk
+  category: open-source-and-platform
+  ats:
+    greenhouse: thetradedesk
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/thetradedesk
+
+- name: Practising Law Institute
+  slug: practising-law-institute
+  domain: practisinglawinstitute.com
+  careers_url: https://boards.greenhouse.io/practisinglawinstitute
+  category: open-source-and-platform
+  ats:
+    greenhouse: practisinglawinstitute
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/practisinglawinstitute
+
+- name: EarnIn
+  slug: earnin
+  domain: earnin.com
+  careers_url: https://boards.greenhouse.io/earnin
+  category: open-source-and-platform
+  ats:
+    greenhouse: earnin
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/earnin
+
+- name: Dark Wolf Solutions
+  slug: dark-wolf-solutions
+  domain: darkwolfsolutions.com
+  careers_url: https://boards.greenhouse.io/darkwolfsolutions
+  category: open-source-and-platform
+  ats:
+    greenhouse: darkwolfsolutions
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/darkwolfsolutions
+
+- name: Underdog
+  slug: underdog
+  domain: underdog.com
+  careers_url: https://boards.greenhouse.io/underdogfantasy
+  category: open-source-and-platform
+  ats:
+    greenhouse: underdogfantasy
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/underdogfantasy
+
+- name: Workstream
+  slug: workstream
+  domain: workstream.com
+  careers_url: https://boards.greenhouse.io/workstream
+  category: open-source-and-platform
+  ats:
+    greenhouse: workstream
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/workstream
+
+- name: Northspyre
+  slug: northspyre
+  domain: northspyre.com
+  careers_url: https://boards.greenhouse.io/northspyre
+  category: open-source-and-platform
+  ats:
+    greenhouse: northspyre
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/northspyre
