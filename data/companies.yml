@@ -23633,3 +23633,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/ziplines
+
+- name: Airgarage
+  slug: airgarage
+  domain: airgarage.com
+  careers_url: https://jobs.ashbyhq.com/airgarage
+  category: open-source-and-platform
+  ats:
+    ashby: airgarage
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/airgarage
+
+- name: Tempo Xyz
+  slug: tempo-xyz
+  domain: tempoxyz.com
+  careers_url: https://jobs.ashbyhq.com/tempo-xyz
+  category: open-source-and-platform
+  ats:
+    ashby: tempo-xyz
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/tempo-xyz
+
+- name: Moonshot Ai
+  slug: moonshot-ai
+  domain: moonshotai.com
+  careers_url: https://jobs.ashbyhq.com/moonshot-ai
+  category: open-source-and-platform
+  ats:
+    ashby: moonshot-ai
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/moonshot-ai
+
+- name: Flentasticjobs
+  slug: flentasticjobs
+  domain: flentasticjobs.com
+  careers_url: https://jobs.ashbyhq.com/flentasticjobs
+  category: open-source-and-platform
+  ats:
+    ashby: flentasticjobs
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/flentasticjobs
+
+- name: Higgsfieldai
+  slug: higgsfieldai
+  domain: higgsfieldai.com
+  careers_url: https://jobs.ashbyhq.com/higgsfieldai
+  category: open-source-and-platform
+  ats:
+    ashby: higgsfieldai
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/higgsfieldai
+
+- name: Prosper Ai
+  slug: prosper-ai
+  domain: prosperai.com
+  careers_url: https://jobs.ashbyhq.com/prosper-ai
+  category: open-source-and-platform
+  ats:
+    ashby: prosper-ai
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/prosper-ai
+
+- name: Owkin
+  slug: owkin
+  domain: owkin.com
+  careers_url: https://jobs.ashbyhq.com/owkin
+  category: open-source-and-platform
+  ats:
+    ashby: owkin
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/owkin
+
+- name: Virtahealth
+  slug: virtahealth
+  domain: virtahealth.com
+  careers_url: https://jobs.ashbyhq.com/virtahealth
+  category: open-source-and-platform
+  ats:
+    ashby: virtahealth
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/virtahealth
+
+- name: Kaizenlabs
+  slug: kaizenlabs
+  domain: kaizenlabs.com
+  careers_url: https://jobs.ashbyhq.com/kaizenlabs
+  category: open-source-and-platform
+  ats:
+    ashby: kaizenlabs
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/kaizenlabs
+
+- name: Montecarlodata
+  slug: montecarlodata
+  domain: montecarlodata.com
+  careers_url: https://jobs.ashbyhq.com/montecarlodata
+  category: open-source-and-platform
+  ats:
+    ashby: montecarlodata
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/montecarlodata

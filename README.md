@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1802 companies**.
+Currently tracking **1812 companies**.
 
 This repository is designed for two uses:
 
@@ -1858,6 +1858,16 @@ Open source video player (video.js)
 - [Framenergy](https://framenergy.com) - Hiring via Ashby (framenergy).
 - [Stickermule](https://stickermule.com) - Hiring via Ashby (stickermule).
 - [Ziplines](https://ziplines.com) - Hiring via Ashby (ziplines).
+- [Airgarage](https://airgarage.com) - Hiring via Ashby (airgarage).
+- [Tempo Xyz](https://tempoxyz.com) - Hiring via Ashby (tempo-xyz).
+- [Moonshot Ai](https://moonshotai.com) - Hiring via Ashby (moonshot-ai).
+- [Flentasticjobs](https://flentasticjobs.com) - Hiring via Ashby (flentasticjobs).
+- [Higgsfieldai](https://higgsfieldai.com) - Hiring via Ashby (higgsfieldai).
+- [Prosper Ai](https://prosperai.com) - Hiring via Ashby (prosper-ai).
+- [Owkin](https://owkin.com) - Hiring via Ashby (owkin).
+- [Virtahealth](https://virtahealth.com) - Hiring via Ashby (virtahealth).
+- [Kaizenlabs](https://kaizenlabs.com) - Hiring via Ashby (kaizenlabs).
+- [Montecarlodata](https://montecarlodata.com) - Hiring via Ashby (montecarlodata).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
