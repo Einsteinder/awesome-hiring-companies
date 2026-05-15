@@ -18185,3 +18185,123 @@
   - open
   sources:
   - https://jobs.lever.co/minted
+
+- name: Moonshot
+  slug: moonshot
+  domain: moonshot.com
+  careers_url: https://jobs.ashbyhq.com/moonshot
+  category: open-source-and-platform
+  ats:
+    ashby: moonshot
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/moonshot
+
+- name: Nomad
+  slug: nomad
+  domain: nomad.com
+  careers_url: https://jobs.ashbyhq.com/nomad
+  category: open-source-and-platform
+  ats:
+    ashby: nomad
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/nomad
+
+- name: Outpost
+  slug: outpost
+  domain: outpost.com
+  careers_url: https://jobs.ashbyhq.com/outpost
+  category: open-source-and-platform
+  ats:
+    ashby: outpost
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/outpost
+
+- name: Preemptive
+  slug: preemptive
+  domain: preemptive.com
+  careers_url: https://jobs.ashbyhq.com/preemptive
+  category: open-source-and-platform
+  ats:
+    ashby: preemptive
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/preemptive
+
+- name: Quilter
+  slug: quilter
+  domain: quilter.com
+  careers_url: https://jobs.ashbyhq.com/quilter
+  category: open-source-and-platform
+  ats:
+    ashby: quilter
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/quilter
+
+- name: Regard
+  slug: regard
+  domain: regard.com
+  careers_url: https://jobs.ashbyhq.com/regard
+  category: open-source-and-platform
+  ats:
+    ashby: regard
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/regard
+
+- name: Revive
+  slug: revive
+  domain: revive.com
+  careers_url: https://jobs.ashbyhq.com/revive
+  category: open-source-and-platform
+  ats:
+    ashby: revive
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/revive
+
+- name: Snappy
+  slug: snappy
+  domain: snappy.com
+  careers_url: https://jobs.ashbyhq.com/snappy
+  category: open-source-and-platform
+  ats:
+    ashby: snappy
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/snappy
+
+- name: Speakeasy
+  slug: speakeasy
+  domain: speakeasy.com
+  careers_url: https://jobs.ashbyhq.com/speakeasy
+  category: open-source-and-platform
+  ats:
+    ashby: speakeasy
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/speakeasy
+
+- name: Squads
+  slug: squads
+  domain: squads.com
+  careers_url: https://jobs.ashbyhq.com/squads
+  category: open-source-and-platform
+  ats:
+    ashby: squads
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/squads

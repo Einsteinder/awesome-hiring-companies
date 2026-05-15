@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1348 companies**.
+Currently tracking **1358 companies**.
 
 This repository is designed for two uses:
 
@@ -1404,6 +1404,16 @@ Open source video player (video.js)
 - [Mcgovern](https://mcgovern.com) - Hiring via Lever (mcgovern).
 - [Membrane](https://membrane.com) - Hiring via Ashby (membrane).
 - [Minted](https://minted.com) - Hiring via Lever (minted).
+- [Moonshot](https://moonshot.com) - Hiring via Ashby (moonshot).
+- [Nomad](https://nomad.com) - Hiring via Ashby (nomad).
+- [Outpost](https://outpost.com) - Hiring via Ashby (outpost).
+- [Preemptive](https://preemptive.com) - Hiring via Ashby (preemptive).
+- [Quilter](https://quilter.com) - Hiring via Ashby (quilter).
+- [Regard](https://regard.com) - Hiring via Ashby (regard).
+- [Revive](https://revive.com) - Hiring via Ashby (revive).
+- [Snappy](https://snappy.com) - Hiring via Ashby (snappy).
+- [Speakeasy](https://speakeasy.com) - Hiring via Ashby (speakeasy).
+- [Squads](https://squads.com) - Hiring via Ashby (squads).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
