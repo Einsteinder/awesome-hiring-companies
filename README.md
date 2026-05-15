@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1902 companies**.
+Currently tracking **1905 companies**.
 
 This repository is designed for two uses:
 
@@ -1958,6 +1958,9 @@ Open source video player (video.js)
 - [Octoenergy](https://octoenergy.com) - Hiring via Lever (octoenergy).
 - [Leverdemo 8](https://leverdemo8.com) - Hiring via Lever (leverdemo-8).
 - [D Fendsolutions](https://dfendsolutions.com) - Hiring via Lever (d-fendsolutions).
+- [Aogarciaagency](https://aogarciaagency.com) - Hiring via Lever (aogarciaagency).
+- [Airwallex](https://airwallex.com) - Hiring via Ashby (airwallex).
+- [Boxlunch](https://boxlunch.com) - Hiring via Lever (boxlunch).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
