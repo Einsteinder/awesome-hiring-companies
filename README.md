@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **580 companies**.
+Currently tracking **590 companies**.
 
 This repository is designed for two uses:
 
@@ -635,6 +635,17 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [hud](https://hud.ai) - Platform for building RL environments and evals
 - [Sim](https://sim.ai) - Open source platform to build AI agent workflows
 - [Uplift AI](https://upliftai.org) - Foundational Voice Models for regional languages
+- [Stilta](https://stilta.com) - Agentic AI for intellectual property
+- [Superset](https://superset.sh) - The IDE for the AI Agents Era
+- [Polymath](https://polymathlabs.ai) - Simulation environments to train & evaluate long-horizon AI agents
+- [Maven](https://trymaven.com) - Payments Infrastructure for Voice Agents
+- [Realm](https://realm.io) - Better data structures = no DB.
+- [Post.fm](https://post.fm) - New email inbox.
+- [Zencoder](https://zencoder.com) - Video Encoding API,
+Open source video player (video.js)
+- [Meadow](https://getmeadow.com) - Point of Sale and Compliance SaaS for Cannabis Dispensaries
+- [Shasqi](https://shasqi.com) - Targeting Cancer with Click Chemistry
+- [Reach](https://reachpower.com) - Long range, wireless energy distribution that scales
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

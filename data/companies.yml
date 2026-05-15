@@ -8379,3 +8379,140 @@
   - conversational-ai
   sources:
   - https://boards.greenhouse.io/uplift
+
+- name: Stilta
+  slug: stilta
+  domain: stilta.com
+  careers_url: https://jobs.ashbyhq.com/stilta
+  category: ai-and-data
+  ats:
+    ashby: stilta
+  tags:
+  - b2b
+  sources:
+  - https://jobs.ashbyhq.com/stilta
+
+- name: Superset
+  slug: superset
+  domain: superset.sh
+  careers_url: https://boards.greenhouse.io/superset
+  category: ai-and-data
+  ats:
+    greenhouse: superset
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  sources:
+  - https://boards.greenhouse.io/superset
+
+- name: Polymath
+  slug: polymath
+  domain: polymathlabs.ai
+  careers_url: https://jobs.ashbyhq.com/polymath
+  category: ai-and-data
+  ats:
+    ashby: polymath
+  tags:
+  - b2b
+  sources:
+  - https://jobs.ashbyhq.com/polymath
+
+- name: Maven
+  slug: maven
+  domain: trymaven.com
+  careers_url: https://jobs.ashbyhq.com/maven
+  category: developer-infrastructure
+  ats:
+    ashby: maven
+  tags:
+  - b2b
+  - b2b-infrastructure
+  sources:
+  - https://jobs.ashbyhq.com/maven
+
+- name: Realm
+  slug: realm
+  domain: realm.io
+  careers_url: https://boards.greenhouse.io/realm
+  category: developer-infrastructure
+  ats:
+    greenhouse: realm
+  tags:
+  - b2b
+  - b2b-infrastructure
+  sources:
+  - https://boards.greenhouse.io/realm
+
+- name: Post.fm
+  slug: post-fm
+  domain: post.fm
+  careers_url: https://jobs.ashbyhq.com/post
+  category: open-source-and-platform
+  ats:
+    ashby: post
+  tags:
+  - b2b
+  - b2b-productivity
+  - email
+  sources:
+  - https://jobs.ashbyhq.com/post
+
+- name: Zencoder
+  slug: zencoder
+  domain: zencoder.com
+  careers_url: https://boards.greenhouse.io/zencoder
+  category: developer-infrastructure
+  ats:
+    greenhouse: zencoder
+  tags:
+  - b2b
+  - b2b-infrastructure
+  - video
+  - api
+  sources:
+  - https://boards.greenhouse.io/zencoder
+
+- name: Meadow
+  slug: meadow
+  domain: getmeadow.com
+  careers_url: https://jobs.ashbyhq.com/meadow
+  category: consumer-and-marketplace
+  ats:
+    ashby: meadow
+  tags:
+  - b2b
+  - b2b-retail
+  - saas
+  - cannabis
+  sources:
+  - https://jobs.ashbyhq.com/meadow
+
+- name: Shasqi
+  slug: shasqi
+  domain: shasqi.com
+  careers_url: https://jobs.ashbyhq.com/shasqi
+  category: consumer-and-marketplace
+  ats:
+    ashby: shasqi
+  tags:
+  - healthcare
+  - healthcare-drug-discovery-and-delivery
+  - biotech
+  - therapeutics
+  sources:
+  - https://jobs.ashbyhq.com/shasqi
+
+- name: Reach
+  slug: reach
+  domain: reachpower.com
+  careers_url: https://jobs.ashbyhq.com/reach
+  category: open-source-and-platform
+  ats:
+    ashby: reach
+  tags:
+  - industrials
+  - industrials-energy
+  - climate
+  - energy
+  sources:
+  - https://jobs.ashbyhq.com/reach
