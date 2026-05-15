@@ -25829,3 +25829,123 @@
   - open
   sources:
   - https://jobs.lever.co/nuwaves
+
+- name: Wealthsimple
+  slug: wealthsimple
+  domain: wealthsimple.com
+  careers_url: https://jobs.ashbyhq.com/wealthsimple
+  category: open-source-and-platform
+  ats:
+    ashby: wealthsimple
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/wealthsimple
+
+- name: Scribdinc
+  slug: scribdinc
+  domain: scribdinc.com
+  careers_url: https://jobs.ashbyhq.com/scribdinc
+  category: open-source-and-platform
+  ats:
+    ashby: scribdinc
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/scribdinc
+
+- name: Hackerone
+  slug: hackerone
+  domain: hackerone.com
+  careers_url: https://jobs.ashbyhq.com/hackerone
+  category: open-source-and-platform
+  ats:
+    ashby: hackerone
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/hackerone
+
+- name: Sylndr
+  slug: sylndr
+  domain: sylndr.com
+  careers_url: https://jobs.lever.co/sylndr
+  category: open-source-and-platform
+  ats:
+    lever: sylndr
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/sylndr
+
+- name: Educative
+  slug: educative
+  domain: educative.com
+  careers_url: https://jobs.lever.co/educative
+  category: open-source-and-platform
+  ats:
+    lever: educative
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/educative
+
+- name: Bentoboxent
+  slug: bentoboxent
+  domain: bentoboxent.com
+  careers_url: https://jobs.lever.co/bentoboxent
+  category: open-source-and-platform
+  ats:
+    lever: bentoboxent
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/bentoboxent
+
+- name: Camunda
+  slug: camunda
+  domain: camunda.com
+  careers_url: https://jobs.ashbyhq.com/camunda
+  category: open-source-and-platform
+  ats:
+    ashby: camunda
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/camunda
+
+- name: Jitxinc
+  slug: jitxinc
+  domain: jitxinc.com
+  careers_url: https://jobs.lever.co/jitxinc
+  category: open-source-and-platform
+  ats:
+    lever: jitxinc
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/jitxinc
+
+- name: Gocatalant
+  slug: gocatalant
+  domain: gocatalant.com
+  careers_url: https://jobs.lever.co/gocatalant
+  category: open-source-and-platform
+  ats:
+    lever: gocatalant
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/gocatalant
+
+- name: Collabora
+  slug: collabora
+  domain: collabora.com
+  careers_url: https://jobs.lever.co/collabora
+  category: open-source-and-platform
+  ats:
+    lever: collabora
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/collabora

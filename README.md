@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1985 companies**.
+Currently tracking **1995 companies**.
 
 This repository is designed for two uses:
 
@@ -2041,6 +2041,16 @@ Open source video player (video.js)
 - [Arsenalbio](https://arsenalbio.com) - Hiring via Lever (arsenalbio).
 - [Nava Benefits](https://navabenefits.com) - Hiring via Ashby (nava-benefits).
 - [Nuwaves](https://nuwaves.com) - Hiring via Lever (nuwaves).
+- [Wealthsimple](https://wealthsimple.com) - Hiring via Ashby (wealthsimple).
+- [Scribdinc](https://scribdinc.com) - Hiring via Ashby (scribdinc).
+- [Hackerone](https://hackerone.com) - Hiring via Ashby (hackerone).
+- [Sylndr](https://sylndr.com) - Hiring via Lever (sylndr).
+- [Educative](https://educative.com) - Hiring via Lever (educative).
+- [Bentoboxent](https://bentoboxent.com) - Hiring via Lever (bentoboxent).
+- [Camunda](https://camunda.com) - Hiring via Ashby (camunda).
+- [Jitxinc](https://jitxinc.com) - Hiring via Lever (jitxinc).
+- [Gocatalant](https://gocatalant.com) - Hiring via Lever (gocatalant).
+- [Collabora](https://collabora.com) - Hiring via Lever (collabora).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
