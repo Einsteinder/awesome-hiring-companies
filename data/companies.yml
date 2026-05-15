@@ -7216,3 +7216,150 @@
   - nonprofit
   sources:
   - https://jobs.ashbyhq.com/80000hours
+
+- name: Sage Care
+  slug: sage-care
+  domain: getsagecare.com
+  careers_url: https://jobs.ashbyhq.com/sagecare
+  category: consumer-and-marketplace
+  ats:
+    ashby: sagecare
+  tags:
+  - healthcare
+  - healthcare-healthcare-services
+  - marketplace
+  sources:
+  - https://jobs.ashbyhq.com/sagecare
+
+- name: Squire Technologies
+  slug: squire-technologies
+  domain: getsquire.com
+  careers_url: https://jobs.lever.co/getsquire
+  category: consumer-and-marketplace
+  ats:
+    lever: getsquire
+  tags:
+  - consumer
+  - consumer-home-and-personal
+  - beauty
+  - smb
+  sources:
+  - https://jobs.lever.co/getsquire
+
+- name: Plane
+  slug: plane
+  domain: plane.com
+  careers_url: https://jobs.ashbyhq.com/plane
+  category: fintech
+  ats:
+    ashby: plane
+  tags:
+  - b2b
+  - b2b-human-resources
+  - fintech
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/plane
+
+- name: Carrot Fertility
+  slug: carrot-fertility
+  domain: get-carrot.com
+  careers_url: https://boards.greenhouse.io/carrotfertility
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: carrotfertility
+  tags:
+  - healthcare
+  - healthcare-healthcare-services
+  - fertility-tech
+  - health-tech
+  sources:
+  - https://boards.greenhouse.io/carrotfertility
+
+- name: AssemblyAI
+  slug: assemblyai
+  domain: assemblyai.com
+  careers_url: https://boards.greenhouse.io/assemblyai
+  category: developer-infrastructure
+  ats:
+    greenhouse: assemblyai
+  tags:
+  - b2b
+  - b2b-infrastructure
+  - artificial-intelligence
+  - developer-tools
+  sources:
+  - https://boards.greenhouse.io/assemblyai
+
+- name: Evry Health
+  slug: evry-health
+  domain: evryhealth.com
+  careers_url: https://jobs.lever.co/evry-health
+  category: fintech
+  ats:
+    lever: evry-health
+  tags:
+  - healthcare
+  - healthcare-healthcare-services
+  - fintech
+  - health-insurance
+  sources:
+  - https://jobs.lever.co/evry-health
+
+- name: Corvus Robotics
+  slug: corvus-robotics
+  domain: corvus-robotics.com
+  careers_url: https://jobs.ashbyhq.com/corvus-robotics
+  category: consumer-and-marketplace
+  ats:
+    ashby: corvus-robotics
+  tags:
+  - industrials
+  - industrials-drones
+  - warehouse-management-tech
+  - robotics
+  sources:
+  - https://jobs.ashbyhq.com/corvus-robotics
+
+- name: GoLinks
+  slug: golinks
+  domain: golinks.io
+  careers_url: https://jobs.ashbyhq.com/golinks
+  category: ai-and-data
+  ats:
+    ashby: golinks
+  tags:
+  - b2b
+  - b2b-productivity
+  - saas
+  - productivity
+  sources:
+  - https://jobs.ashbyhq.com/golinks
+
+- name: Bunkerhill Health
+  slug: bunkerhill-health
+  domain: bunkerhillhealth.com
+  careers_url: https://jobs.ashbyhq.com/bunkerhillhealth
+  category: consumer-and-marketplace
+  ats:
+    ashby: bunkerhillhealth
+  tags:
+  - healthcare
+  - healthcare-healthcare-services
+  - artificial-intelligence
+  - health-tech
+  sources:
+  - https://jobs.ashbyhq.com/bunkerhillhealth
+
+- name: Zippi
+  slug: zippi
+  domain: zippi.com.br
+  careers_url: https://jobs.lever.co/zippi
+  category: fintech
+  ats:
+    lever: zippi
+  tags:
+  - fintech
+  - fintech-credit-and-lending
+  sources:
+  - https://jobs.lever.co/zippi

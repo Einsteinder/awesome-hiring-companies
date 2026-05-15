@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **500 companies**.
+Currently tracking **510 companies**.
 
 This repository is designed for two uses:
 
@@ -555,6 +555,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [Lob](https://lob.com) - Lob is the only automation platform that transforms direct mail into…
 - [Tempo](https://tempo.fit) - Live home fitness training powered by computer vision.
 - [80,000 Hours](https://80000hours.org) - An online guide that tells talented graduates how to maximise the…
+- [Sage Care](https://getsagecare.com) - Get care at home for mom or dad from trusted professionals in their…
+- [Squire Technologies](https://getsquire.com) - Platform to grow your barbershop and maximize profitability.
+- [Plane](https://plane.com) - #1 easiest-to-use payroll for startups
+- [Carrot Fertility](https://get-carrot.com) - Customized fertility benefits for modern companies.
+- [AssemblyAI](https://assemblyai.com) - The best way to build Voice AI apps
+- [Evry Health](https://evryhealth.com) - Better health insurance for mid-size companies
+- [Corvus Robotics](https://corvus-robotics.com) - Autonomous drones to help warehouses scan inventory.
+- [GoLinks](https://golinks.io) - Intuitive, easy-to-remember short links - powered by AI.
+- [Bunkerhill Health](https://bunkerhillhealth.com) - Bunkerhill Health is building the system of action for health systems
+- [Zippi](https://zippi.com.br) - Payment Platform for LatAm Micro and Small Businesses
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
