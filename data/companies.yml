@@ -3306,3 +3306,146 @@
   - ai
   sources:
   - https://jobs.ashbyhq.com/harperinsure
+
+- name: Hexa
+  slug: hexa
+  domain: hexaagents.com
+  careers_url: https://jobs.ashbyhq.com/hexa
+  category: consumer-and-marketplace
+  ats:
+    ashby: hexa
+  tags:
+  - b2b
+  - b2b-supply-chain-and-logistics
+  - workflow-automation
+  - supply-chain
+  sources:
+  - https://jobs.ashbyhq.com/hexa
+
+- name: Padlet
+  slug: padlet
+  domain: padlet.com
+  careers_url: https://jobs.ashbyhq.com/padlet
+  category: consumer-and-marketplace
+  ats:
+    ashby: padlet
+  tags:
+  - b2b
+  - b2b-productivity
+  - education
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/padlet
+
+- name: NimbleRx
+  slug: nimblerx
+  domain: nimblerx.com
+  careers_url: https://jobs.lever.co/nimblerx
+  category: consumer-and-marketplace
+  ats:
+    lever: nimblerx
+  tags:
+  - healthcare
+  - healthcare-consumer-health-and-wellness
+  - saas
+  sources:
+  - https://jobs.lever.co/nimblerx
+
+- name: ClassDojo
+  slug: classdojo
+  domain: classdojo.com
+  careers_url: https://jobs.ashbyhq.com/classdojo
+  category: consumer-and-marketplace
+  ats:
+    ashby: classdojo
+  tags:
+  - education
+  - consumer
+  - entertainment
+  - kids
+  sources:
+  - https://jobs.ashbyhq.com/classdojo
+
+- name: Newfront
+  slug: newfront
+  domain: newfront.com
+  careers_url: https://jobs.ashbyhq.com/newfront
+  category: fintech
+  ats:
+    ashby: newfront
+  tags:
+  - fintech
+  - fintech-insurance
+  - insurance
+  sources:
+  - https://jobs.ashbyhq.com/newfront
+
+- name: Pyka
+  slug: pyka
+  domain: flypyka.com
+  careers_url: https://jobs.lever.co/pyka
+  category: open-source-and-platform
+  ats:
+    lever: pyka
+  tags:
+  - industrials
+  - industrials-aviation-and-space
+  - airplanes
+  - climate
+  sources:
+  - https://jobs.lever.co/pyka
+
+- name: Odeko
+  slug: odeko
+  domain: odeko.com
+  careers_url: https://boards.greenhouse.io/odeko
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: odeko
+  tags:
+  - b2b
+  - logistics
+  sources:
+  - https://boards.greenhouse.io/odeko
+
+- name: Thndr
+  slug: thndr
+  domain: thndr.app
+  careers_url: https://jobs.ashbyhq.com/thndr
+  category: fintech
+  ats:
+    ashby: thndr
+  tags:
+  - fintech
+  sources:
+  - https://jobs.ashbyhq.com/thndr
+
+- name: Toku
+  slug: toku
+  domain: trytoku.com
+  careers_url: https://jobs.ashbyhq.com/toku
+  category: fintech
+  ats:
+    ashby: toku
+  tags:
+  - b2b
+  - b2b-finance-and-accounting
+  - finops
+  - fintech
+  sources:
+  - https://jobs.ashbyhq.com/toku
+
+- name: Nash
+  slug: nash
+  domain: usenash.com
+  careers_url: https://jobs.ashbyhq.com/nash
+  category: consumer-and-marketplace
+  ats:
+    ashby: nash
+  tags:
+  - b2b
+  - b2b-supply-chain-and-logistics
+  - marketplace
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/nash

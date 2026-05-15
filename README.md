@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **230 companies**.
+Currently tracking **240 companies**.
 
 This repository is designed for two uses:
 
@@ -285,6 +285,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [Capi Money](https://capimoney.com) - Helping businesses in emerging markets make pay their international…
 - [Retell AI](https://retellai.com) - Supercharge Your Contact Center Operations with AI Phone Agents
 - [Harper](https://harperinsure.com) - AI-native commercial insurance brokerage
+- [Hexa](https://hexaagents.com) - The OS for Manufacturers and Distributors
+- [Padlet](https://padlet.com) - Papyrus → Parchment → Paper → Padlet
+- [NimbleRx](https://nimblerx.com) - On-demand prescription delivery.
+- [ClassDojo](https://classdojo.com) - Communication app for K-8 teachers, kids, and families
+- [Newfront](https://newfront.com) - Modern insurance brokerage.
+- [Pyka](https://flypyka.com) - Autonomous electric airplanes
+- [Odeko](https://odeko.com) - Our operations software makes it easier to run--and grow--your cafe
+- [Thndr](https://thndr.app) - Investment platform for MENA individuals
+- [Toku](https://trytoku.com) - Account Receivables Platform for Latin American Enterprises
+- [Nash](https://usenash.com) - Nash is the digital logistics infrastructure for commerce
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
