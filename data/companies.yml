@@ -11255,3 +11255,147 @@
   - digital-health
   sources:
   - https://boards.greenhouse.io/meruhealth
+
+- name: Papa
+  slug: papa
+  domain: papa.com
+  careers_url: https://boards.greenhouse.io/papa
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: papa
+  tags:
+  - healthcare
+  - healthcare-healthcare-it
+  - consumer-health-services
+  - digital-health
+  sources:
+  - https://boards.greenhouse.io/papa
+
+- name: Fintual
+  slug: fintual
+  domain: fintual.com
+  careers_url: https://jobs.lever.co/fintual
+  category: fintech
+  ats:
+    lever: fintual
+  tags:
+  - fintech
+  - fintech-consumer-finance
+  sources:
+  - https://jobs.lever.co/fintual
+
+- name: Culdesac
+  slug: culdesac
+  domain: culdesac.com
+  careers_url: https://jobs.lever.co/culdesac
+  category: consumer-and-marketplace
+  ats:
+    lever: culdesac
+  tags:
+  - real-estate-and-construction
+  - real-estate
+  - housing
+  - proptech
+  sources:
+  - https://jobs.lever.co/culdesac
+
+- name: Sapling.ai
+  slug: sapling-ai
+  domain: sapling.ai
+  careers_url: https://jobs.lever.co/sapling
+  category: ai-and-data
+  ats:
+    lever: sapling
+  tags:
+  - b2b
+  - b2b-productivity
+  - artificial-intelligence
+  - deep-learning
+  sources:
+  - https://jobs.lever.co/sapling
+
+- name: Beacons
+  slug: beacons
+  domain: beacons.ai
+  careers_url: https://jobs.ashbyhq.com/beacons
+  category: consumer-and-marketplace
+  ats:
+    ashby: beacons
+  tags:
+  - consumer
+  - consumer-social
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/beacons
+
+- name: Shiru
+  slug: shiru
+  domain: shiru.com
+  careers_url: https://jobs.lever.co/shiru
+  category: ai-and-data
+  ats:
+    lever: shiru
+  tags:
+  - healthcare
+  - healthcare-industrial-bio
+  - ai-powered-drug-discovery
+  - cellular-agriculture
+  sources:
+  - https://jobs.lever.co/shiru
+
+- name: Rutter
+  slug: rutter
+  domain: rutter.com
+  careers_url: https://jobs.ashbyhq.com/rutter
+  category: developer-infrastructure
+  ats:
+    ashby: rutter
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - developer-tools
+  - fintech
+  sources:
+  - https://jobs.ashbyhq.com/rutter
+
+- name: Ladder
+  slug: ladder
+  domain: meetladder.com
+  careers_url: https://jobs.ashbyhq.com/ladder
+  category: consumer-and-marketplace
+  ats:
+    ashby: ladder
+  tags:
+  - real-estate-and-construction
+  - marketplace
+  - construction
+  sources:
+  - https://jobs.ashbyhq.com/ladder
+
+- name: Fig
+  slug: fig
+  domain: fig.io
+  careers_url: https://jobs.ashbyhq.com/fig
+  category: developer-infrastructure
+  ats:
+    ashby: fig
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - developer-tools
+  - devsecops
+  sources:
+  - https://jobs.ashbyhq.com/fig
+
+- name: Ello
+  slug: ello
+  domain: ello.com
+  careers_url: https://jobs.ashbyhq.com/ello
+  category: ai-and-data
+  ats:
+    ashby: ello
+  tags:
+  - education
+  - ai
+  sources:
+  - https://jobs.ashbyhq.com/ello

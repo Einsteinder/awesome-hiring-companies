@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **780 companies**.
+Currently tracking **790 companies**.
 
 This repository is designed for two uses:
 
@@ -836,6 +836,16 @@ Open source video player (video.js)
 - [Treasury Prime](https://treasuryprime.com) - Embedded banking software platform and marketplace
 - [Snackpass](https://snackpass.co) - Order ahead at restaurants and get rewards with friends.
 - [Meru Health](https://meruhealth.com) - An online provider for greater mental health
+- [Papa](https://papa.com) - One-stop-shop for flexible family care
+- [Fintual](https://fintual.com) - Wealth manager
+- [Culdesac](https://culdesac.com) - We build cities for people, not cars.
+- [Sapling.ai](https://sapling.ai) - Language models for enterprise applications.
+- [Beacons](https://beacons.ai) - An AI-powered, all-in-one business platform for content creators
+- [Shiru](https://shiru.com) - Shiru leverages ML to create proteins to feed the world sustainably.
+- [Rutter](https://rutter.com) - The Unified API for Business Financial Data
+- [Ladder](https://meetladder.com) - Labor Marketplace for Construction
+- [Fig](https://fig.io) - Fig adds visual apps, shortcuts, and autocomplete to your terminal.
+- [Ello](https://ello.com) - Building the world's first 1:1 AI teacher.
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
