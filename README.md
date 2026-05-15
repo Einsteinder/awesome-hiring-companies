@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **290 companies**.
+Currently tracking **300 companies**.
 
 This repository is designed for two uses:
 
@@ -345,6 +345,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [Atomic Industries](https://atomic.industries) - Software orchestrated mass production of plastics
 - [Topline Pro](https://toplinepro.com) - Generative AI powered Shopify for home service professionals
 - [Shepherd](https://shepherdinsurance.com) - Modernizing commercial insurance
+- [Hive Health](https://ourhivehealth.com) - Simplified digital health insurance for Filipino SMBs
+- [Pylon](https://pylonump.com) - Infrastructure management software for water & electricity companies
+- [AviaryAI](https://helloaviary.ai) - Outbound AI voice agents for the financial services industry
+- [Extend](https://extend.ai) - Production-ready document processing
+- [ClaimSorted](https://claimsorted.com) - Making it easy for insurance companies to process claims
+- [Nexus](https://agent.nexus) - We help non-technical teams build AI agents without engineers
+- [Qventus](https://qventus.com) - We automate operations for hospitals and health systems
+- [Salt Security](https://salt.security) - Protects organizations from getting breached through their APIs.
+- [Modern Health](https://modernhealth.com) - A mental health benefits platform for employers.
+- [Groww](https://groww.in) - Making financial services simple, transparent and delightful.
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

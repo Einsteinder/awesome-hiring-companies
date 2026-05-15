@@ -4183,3 +4183,149 @@
   - insurance
   sources:
   - https://jobs.ashbyhq.com/shepherd
+
+- name: Hive Health
+  slug: hive-health
+  domain: ourhivehealth.com
+  careers_url: https://jobs.ashbyhq.com/hivehealth
+  category: fintech
+  ats:
+    ashby: hivehealth
+  tags:
+  - healthcare
+  - fintech
+  - payments
+  - telehealth
+  sources:
+  - https://jobs.ashbyhq.com/hivehealth
+
+- name: Pylon
+  slug: pylon
+  domain: pylonump.com
+  careers_url: https://jobs.ashbyhq.com/pylon
+  category: developer-infrastructure
+  ats:
+    ashby: pylon
+  tags:
+  - b2b
+  - b2b-infrastructure
+  - enterprise-software
+  sources:
+  - https://jobs.ashbyhq.com/pylon
+
+- name: AviaryAI
+  slug: aviaryai
+  domain: helloaviary.ai
+  careers_url: https://boards.greenhouse.io/aviary
+  category: ai-and-data
+  ats:
+    greenhouse: aviary
+  tags:
+  - fintech
+  - b2b
+  - ai
+  - ai-assistant
+  sources:
+  - https://boards.greenhouse.io/aviary
+
+- name: Extend
+  slug: extend
+  domain: extend.ai
+  careers_url: https://boards.greenhouse.io/extend
+  category: ai-and-data
+  ats:
+    greenhouse: extend
+  tags:
+  - b2b
+  - documents
+  - developer-tools
+  - ai
+  sources:
+  - https://boards.greenhouse.io/extend
+
+- name: ClaimSorted
+  slug: claimsorted
+  domain: claimsorted.com
+  careers_url: https://jobs.ashbyhq.com/claimsorted
+  category: fintech
+  ats:
+    ashby: claimsorted
+  tags:
+  - fintech
+  - fintech-insurance
+  sources:
+  - https://jobs.ashbyhq.com/claimsorted
+
+- name: Nexus
+  slug: nexus
+  domain: agent.nexus
+  careers_url: https://jobs.ashbyhq.com/agent
+  category: ai-and-data
+  ats:
+    ashby: agent
+  tags:
+  - b2b
+  - artificial-intelligence
+  - no-code
+  - enterprise-software
+  sources:
+  - https://jobs.ashbyhq.com/agent
+
+- name: Qventus
+  slug: qventus
+  domain: qventus.com
+  careers_url: https://boards.greenhouse.io/qventus
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: qventus
+  tags:
+  - healthcare
+  - healthcare-healthcare-it
+  - artificial-intelligence
+  - saas
+  sources:
+  - https://boards.greenhouse.io/qventus
+
+- name: Salt Security
+  slug: salt-security
+  domain: salt.security
+  careers_url: https://boards.greenhouse.io/saltsecurity
+  category: developer-infrastructure
+  ats:
+    greenhouse: saltsecurity
+  tags:
+  - b2b
+  - b2b-security
+  - cybersecurity
+  sources:
+  - https://boards.greenhouse.io/saltsecurity
+
+- name: Modern Health
+  slug: modern-health
+  domain: modernhealth.com
+  careers_url: https://boards.greenhouse.io/modernhealth
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: modernhealth
+  tags:
+  - healthcare
+  - healthcare-healthcare-services
+  - mental-health-tech
+  - health-tech
+  sources:
+  - https://boards.greenhouse.io/modernhealth
+
+- name: Groww
+  slug: groww
+  domain: groww.in
+  careers_url: https://boards.greenhouse.io/groww
+  category: fintech
+  ats:
+    greenhouse: groww
+  tags:
+  - fintech
+  - fintech-asset-management
+  - india
+  - investing
+  sources:
+  - https://boards.greenhouse.io/groww
