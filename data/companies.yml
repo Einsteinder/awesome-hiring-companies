@@ -16625,3 +16625,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/lunar
+
+- name: Sandbar
+  slug: sandbar
+  domain: sandbar.com
+  careers_url: https://jobs.ashbyhq.com/sandbar
+  category: open-source-and-platform
+  ats:
+    ashby: sandbar
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/sandbar
+
+- name: Sparrow
+  slug: sparrow
+  domain: sparrow.com
+  careers_url: https://jobs.ashbyhq.com/sparrow
+  category: open-source-and-platform
+  ats:
+    ashby: sparrow
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/sparrow
+
+- name: Turnkey
+  slug: turnkey
+  domain: turnkey.com
+  careers_url: https://jobs.ashbyhq.com/turnkey
+  category: open-source-and-platform
+  ats:
+    ashby: turnkey
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/turnkey
+
+- name: Hyperbolic
+  slug: hyperbolic
+  domain: hyperbolic.com
+  careers_url: https://jobs.ashbyhq.com/hyperbolic
+  category: open-source-and-platform
+  ats:
+    ashby: hyperbolic
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/hyperbolic
+
+- name: Interplay
+  slug: interplay
+  domain: interplay.com
+  careers_url: https://jobs.ashbyhq.com/interplay
+  category: open-source-and-platform
+  ats:
+    ashby: interplay
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/interplay
+
+- name: Knot
+  slug: knot
+  domain: knot.com
+  careers_url: https://jobs.ashbyhq.com/knot
+  category: open-source-and-platform
+  ats:
+    ashby: knot
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/knot
+
+- name: Maple
+  slug: maple
+  domain: maple.com
+  careers_url: https://jobs.ashbyhq.com/maple
+  category: open-source-and-platform
+  ats:
+    ashby: maple
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/maple
+
+- name: Miter
+  slug: miter
+  domain: miter.com
+  careers_url: https://jobs.ashbyhq.com/miter
+  category: open-source-and-platform
+  ats:
+    ashby: miter
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/miter
+
+- name: Outlast
+  slug: outlast
+  domain: outlast.com
+  careers_url: https://jobs.lever.co/outlast
+  category: open-source-and-platform
+  ats:
+    lever: outlast
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/outlast
+
+- name: Outtake
+  slug: outtake
+  domain: outtake.com
+  careers_url: https://jobs.ashbyhq.com/outtake
+  category: open-source-and-platform
+  ats:
+    ashby: outtake
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/outtake
