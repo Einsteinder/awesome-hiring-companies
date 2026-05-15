@@ -1,11 +1,11 @@
 name: Verify diff
 
 on:
+  # Runs on every PR. The "Detect added or modified entries" step early-exits
+  # with count=0 when companies.yml hasn't changed, so PRs that only touch
+  # docs/CI/scripts complete in seconds. A path filter here would mark the
+  # required check as "expected" forever on those PRs and block merge.
   pull_request:
-    paths:
-      - 'data/companies.yml'
-      - 'schemas/company.schema.json'
-      - 'scripts/verify_live.py'
 
 permissions:
   contents: read
