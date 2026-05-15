@@ -17825,3 +17825,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/lassie
+
+- name: Lindy
+  slug: lindy
+  domain: lindy.com
+  careers_url: https://jobs.ashbyhq.com/lindy
+  category: open-source-and-platform
+  ats:
+    ashby: lindy
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/lindy
+
+- name: Neighbor
+  slug: neighbor
+  domain: neighbor.com
+  careers_url: https://jobs.lever.co/neighbor
+  category: open-source-and-platform
+  ats:
+    lever: neighbor
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/neighbor
+
+- name: Obvious
+  slug: obvious
+  domain: obvious.com
+  careers_url: https://jobs.ashbyhq.com/obvious
+  category: open-source-and-platform
+  ats:
+    ashby: obvious
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/obvious
+
+- name: Output
+  slug: output
+  domain: output.com
+  careers_url: https://jobs.ashbyhq.com/output
+  category: open-source-and-platform
+  ats:
+    ashby: output
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/output
+
+- name: Plinth
+  slug: plinth
+  domain: plinth.com
+  careers_url: https://jobs.ashbyhq.com/plinth
+  category: open-source-and-platform
+  ats:
+    ashby: plinth
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/plinth
+
+- name: Sanctuary
+  slug: sanctuary
+  domain: sanctuary.com
+  careers_url: https://jobs.ashbyhq.com/sanctuary
+  category: open-source-and-platform
+  ats:
+    ashby: sanctuary
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/sanctuary
+
+- name: Sentient
+  slug: sentient
+  domain: sentient.com
+  careers_url: https://jobs.ashbyhq.com/sentient
+  category: open-source-and-platform
+  ats:
+    ashby: sentient
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/sentient
+
+- name: Slant
+  slug: slant
+  domain: slant.com
+  careers_url: https://jobs.ashbyhq.com/slant
+  category: open-source-and-platform
+  ats:
+    ashby: slant
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/slant
+
+- name: Slate
+  slug: slate
+  domain: slate.com
+  careers_url: https://jobs.ashbyhq.com/slate
+  category: open-source-and-platform
+  ats:
+    ashby: slate
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/slate
+
+- name: Smallest
+  slug: smallest
+  domain: smallest.com
+  careers_url: https://jobs.ashbyhq.com/smallest
+  category: open-source-and-platform
+  ats:
+    ashby: smallest
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/smallest
