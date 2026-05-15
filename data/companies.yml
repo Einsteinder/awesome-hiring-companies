@@ -19265,3 +19265,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/mona
+
+- name: Mosey
+  slug: mosey
+  domain: mosey.com
+  careers_url: https://jobs.ashbyhq.com/mosey
+  category: open-source-and-platform
+  ats:
+    ashby: mosey
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/mosey
+
+- name: Nascent
+  slug: nascent
+  domain: nascent.com
+  careers_url: https://jobs.ashbyhq.com/nascent
+  category: open-source-and-platform
+  ats:
+    ashby: nascent
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/nascent
+
+- name: Nirvana
+  slug: nirvana
+  domain: nirvana.com
+  careers_url: https://jobs.ashbyhq.com/nirvana
+  category: open-source-and-platform
+  ats:
+    ashby: nirvana
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/nirvana
+
+- name: Orbit
+  slug: orbit
+  domain: orbit.com
+  careers_url: https://jobs.ashbyhq.com/orbit
+  category: open-source-and-platform
+  ats:
+    ashby: orbit
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/orbit
+
+- name: Palladio
+  slug: palladio
+  domain: palladio.com
+  careers_url: https://jobs.ashbyhq.com/palladio
+  category: open-source-and-platform
+  ats:
+    ashby: palladio
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/palladio
+
+- name: Pathos
+  slug: pathos
+  domain: pathos.com
+  careers_url: https://jobs.ashbyhq.com/pathos
+  category: open-source-and-platform
+  ats:
+    ashby: pathos
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/pathos
+
+- name: Perennial
+  slug: perennial
+  domain: perennial.com
+  careers_url: https://jobs.lever.co/perennial
+  category: open-source-and-platform
+  ats:
+    lever: perennial
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/perennial
+
+- name: Permute
+  slug: permute
+  domain: permute.com
+  careers_url: https://jobs.ashbyhq.com/permute
+  category: open-source-and-platform
+  ats:
+    ashby: permute
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/permute
+
+- name: Plasma
+  slug: plasma
+  domain: plasma.com
+  careers_url: https://jobs.ashbyhq.com/plasma
+  category: open-source-and-platform
+  ats:
+    ashby: plasma
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/plasma
+
+- name: Raft
+  slug: raft
+  domain: raft.com
+  careers_url: https://jobs.ashbyhq.com/raft
+  category: open-source-and-platform
+  ats:
+    ashby: raft
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/raft

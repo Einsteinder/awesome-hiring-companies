@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1438 companies**.
+Currently tracking **1448 companies**.
 
 This repository is designed for two uses:
 
@@ -1494,6 +1494,16 @@ Open source video player (video.js)
 - [Lottie](https://lottie.com) - Hiring via Ashby (lottie).
 - [Markham](https://markham.com) - Hiring via Lever (markham).
 - [Mona](https://mona.com) - Hiring via Ashby (mona).
+- [Mosey](https://mosey.com) - Hiring via Ashby (mosey).
+- [Nascent](https://nascent.com) - Hiring via Ashby (nascent).
+- [Nirvana](https://nirvana.com) - Hiring via Ashby (nirvana).
+- [Orbit](https://orbit.com) - Hiring via Ashby (orbit).
+- [Palladio](https://palladio.com) - Hiring via Ashby (palladio).
+- [Pathos](https://pathos.com) - Hiring via Ashby (pathos).
+- [Perennial](https://perennial.com) - Hiring via Lever (perennial).
+- [Permute](https://permute.com) - Hiring via Ashby (permute).
+- [Plasma](https://plasma.com) - Hiring via Ashby (plasma).
+- [Raft](https://raft.com) - Hiring via Ashby (raft).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
