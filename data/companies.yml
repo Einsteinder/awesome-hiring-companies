@@ -12569,3 +12569,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/focused
+
+- name: Foodstuffs
+  slug: foodstuffs
+  domain: foodstuffs.com
+  careers_url: https://jobs.lever.co/foodstuffs
+  category: open-source-and-platform
+  ats:
+    lever: foodstuffs
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/foodstuffs
+
+- name: Amigo
+  slug: amigo
+  domain: amigo.com
+  careers_url: https://jobs.ashbyhq.com/amigo
+  category: open-source-and-platform
+  ats:
+    ashby: amigo
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/amigo
+
+- name: Away
+  slug: away
+  domain: away.com
+  careers_url: https://jobs.ashbyhq.com/away
+  category: open-source-and-platform
+  ats:
+    ashby: away
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/away
+
+- name: Coastal
+  slug: coastal
+  domain: coastal.com
+  careers_url: https://jobs.ashbyhq.com/coastal
+  category: open-source-and-platform
+  ats:
+    ashby: coastal
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/coastal
+
+- name: Feathery
+  slug: feathery
+  domain: feathery.com
+  careers_url: https://jobs.ashbyhq.com/feathery
+  category: open-source-and-platform
+  ats:
+    ashby: feathery
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/feathery
+
+- name: Achievers
+  slug: achievers
+  domain: achievers.com
+  careers_url: https://jobs.lever.co/achievers
+  category: open-source-and-platform
+  ats:
+    lever: achievers
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/achievers
+
+- name: Arena
+  slug: arena
+  domain: arena.com
+  careers_url: https://jobs.ashbyhq.com/arena
+  category: open-source-and-platform
+  ats:
+    ashby: arena
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/arena
+
+- name: Campus
+  slug: campus
+  domain: campus.com
+  careers_url: https://jobs.ashbyhq.com/campus
+  category: open-source-and-platform
+  ats:
+    ashby: campus
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/campus
+
+- name: Envoy
+  slug: envoy
+  domain: envoy.com
+  careers_url: https://jobs.ashbyhq.com/envoy
+  category: open-source-and-platform
+  ats:
+    ashby: envoy
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/envoy
+
+- name: Fundamental
+  slug: fundamental
+  domain: fundamental.com
+  careers_url: https://jobs.ashbyhq.com/fundamental
+  category: open-source-and-platform
+  ats:
+    ashby: fundamental
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/fundamental

@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **880 companies**.
+Currently tracking **890 companies**.
 
 This repository is designed for two uses:
 
@@ -936,6 +936,16 @@ Open source video player (video.js)
 - [Bounteous](https://bounteous.com) - Hiring via Lever (bounteous).
 - [Cape](https://cape.com) - Hiring via Ashby (cape).
 - [Focused](https://focused.com) - Hiring via Ashby (focused).
+- [Foodstuffs](https://foodstuffs.com) - Hiring via Lever (foodstuffs).
+- [Amigo](https://amigo.com) - Hiring via Ashby (amigo).
+- [Away](https://away.com) - Hiring via Ashby (away).
+- [Coastal](https://coastal.com) - Hiring via Ashby (coastal).
+- [Feathery](https://feathery.com) - Hiring via Ashby (feathery).
+- [Achievers](https://achievers.com) - Hiring via Lever (achievers).
+- [Arena](https://arena.com) - Hiring via Ashby (arena).
+- [Campus](https://campus.com) - Hiring via Ashby (campus).
+- [Envoy](https://envoy.com) - Hiring via Ashby (envoy).
+- [Fundamental](https://fundamental.com) - Hiring via Ashby (fundamental).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
