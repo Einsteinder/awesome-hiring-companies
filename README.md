@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1822 companies**.
+Currently tracking **1832 companies**.
 
 This repository is designed for two uses:
 
@@ -1878,6 +1878,16 @@ Open source video player (video.js)
 - [Nethermind](https://nethermind.com) - Hiring via Ashby (nethermind).
 - [Sourgum](https://sourgum.com) - Hiring via Ashby (sourgum).
 - [Empirical Security](https://empiricalsecurity.com) - Hiring via Ashby (empirical-security).
+- [Brainly](https://brainly.com) - Hiring via Ashby (brainly).
+- [Motherduck](https://motherduck.com) - Hiring via Ashby (motherduck).
+- [Whitecircle](https://whitecircle.com) - Hiring via Ashby (whitecircle).
+- [Eventualcomputing](https://eventualcomputing.com) - Hiring via Ashby (eventualcomputing).
+- [Ambrook](https://ambrook.com) - Hiring via Ashby (ambrook).
+- [Sigp](https://sigp.com) - Hiring via Ashby (sigp).
+- [Ansatzcapital](https://ansatzcapital.com) - Hiring via Lever (ansatzcapital).
+- [Loancrate](https://loancrate.com) - Hiring via Ashby (loancrate).
+- [Apollo Information Systems](https://apolloinformationsystems.com) - Hiring via Ashby (apollo-information-systems).
+- [Gptzero](https://gptzero.com) - Hiring via Ashby (gptzero).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

@@ -23873,3 +23873,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/empirical-security
+
+- name: Brainly
+  slug: brainly
+  domain: brainly.com
+  careers_url: https://jobs.ashbyhq.com/brainly
+  category: open-source-and-platform
+  ats:
+    ashby: brainly
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/brainly
+
+- name: Motherduck
+  slug: motherduck
+  domain: motherduck.com
+  careers_url: https://jobs.ashbyhq.com/motherduck
+  category: open-source-and-platform
+  ats:
+    ashby: motherduck
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/motherduck
+
+- name: Whitecircle
+  slug: whitecircle
+  domain: whitecircle.com
+  careers_url: https://jobs.ashbyhq.com/whitecircle
+  category: open-source-and-platform
+  ats:
+    ashby: whitecircle
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/whitecircle
+
+- name: Eventualcomputing
+  slug: eventualcomputing
+  domain: eventualcomputing.com
+  careers_url: https://jobs.ashbyhq.com/eventualcomputing
+  category: open-source-and-platform
+  ats:
+    ashby: eventualcomputing
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/eventualcomputing
+
+- name: Ambrook
+  slug: ambrook
+  domain: ambrook.com
+  careers_url: https://jobs.ashbyhq.com/ambrook
+  category: open-source-and-platform
+  ats:
+    ashby: ambrook
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/ambrook
+
+- name: Sigp
+  slug: sigp
+  domain: sigp.com
+  careers_url: https://jobs.ashbyhq.com/sigp
+  category: open-source-and-platform
+  ats:
+    ashby: sigp
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/sigp
+
+- name: Ansatzcapital
+  slug: ansatzcapital
+  domain: ansatzcapital.com
+  careers_url: https://jobs.lever.co/ansatzcapital
+  category: open-source-and-platform
+  ats:
+    lever: ansatzcapital
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/ansatzcapital
+
+- name: Loancrate
+  slug: loancrate
+  domain: loancrate.com
+  careers_url: https://jobs.ashbyhq.com/loancrate
+  category: open-source-and-platform
+  ats:
+    ashby: loancrate
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/loancrate
+
+- name: Apollo Information Systems
+  slug: apollo-information-systems
+  domain: apolloinformationsystems.com
+  careers_url: https://jobs.ashbyhq.com/apollo-information-systems
+  category: open-source-and-platform
+  ats:
+    ashby: apollo-information-systems
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/apollo-information-systems
+
+- name: Gptzero
+  slug: gptzero
+  domain: gptzero.com
+  careers_url: https://jobs.ashbyhq.com/gptzero
+  category: open-source-and-platform
+  ats:
+    ashby: gptzero
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/gptzero
