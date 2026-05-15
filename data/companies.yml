@@ -4904,3 +4904,148 @@
   - diagnostics
   sources:
   - https://boards.greenhouse.io/ginkgobioworks
+
+- name: Bitmovin
+  slug: bitmovin
+  domain: bitmovin.com
+  careers_url: https://boards.greenhouse.io/bitmovin
+  category: developer-infrastructure
+  ats:
+    greenhouse: bitmovin
+  tags:
+  - b2b
+  - b2b-infrastructure
+  - developer-tools
+  - video
+  sources:
+  - https://boards.greenhouse.io/bitmovin
+
+- name: Hush
+  slug: hush
+  domain: shophush.com
+  careers_url: https://jobs.lever.co/hush
+  category: consumer-and-marketplace
+  ats:
+    lever: hush
+  tags:
+  - consumer
+  - consumer-apparel-and-cosmetics
+  sources:
+  - https://jobs.lever.co/hush
+
+- name: Skip
+  slug: skip
+  domain: rideskip.com
+  careers_url: https://jobs.ashbyhq.com/skip
+  category: consumer-and-marketplace
+  ats:
+    ashby: skip
+  tags:
+  - consumer
+  - consumer-transportation-services
+  - transportation
+  sources:
+  - https://jobs.ashbyhq.com/skip
+
+- name: Titan
+  slug: titan
+  domain: titan.com
+  careers_url: https://jobs.ashbyhq.com/titan
+  category: fintech
+  ats:
+    ashby: titan
+  tags:
+  - fintech
+  - fintech-asset-management
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/titan
+
+- name: Mutiny
+  slug: mutiny
+  domain: mutinyhq.com
+  careers_url: https://jobs.ashbyhq.com/mutiny
+  category: ai-and-data
+  ats:
+    ashby: mutiny
+  tags:
+  - b2b
+  - b2b-sales
+  - artificial-intelligence
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/mutiny
+
+- name: Hatch
+  slug: hatch
+  domain: usehatch.ai
+  careers_url: https://jobs.ashbyhq.com/hatch
+  category: developer-infrastructure
+  ats:
+    ashby: hatch
+  tags:
+  - b2b
+  - b2b-sales
+  - saas
+  - ai
+  sources:
+  - https://jobs.ashbyhq.com/hatch
+
+- name: Caribou
+  slug: caribou
+  domain: usecaribou.com
+  careers_url: https://boards.greenhouse.io/caribou
+  category: fintech
+  ats:
+    greenhouse: caribou
+  tags:
+  - b2b
+  - b2b-finance-and-accounting
+  - fintech
+  - saas
+  sources:
+  - https://boards.greenhouse.io/caribou
+
+- name: Luminai
+  slug: luminai
+  domain: luminai.com
+  careers_url: https://jobs.ashbyhq.com/luminai
+  category: developer-infrastructure
+  ats:
+    ashby: luminai
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - saas
+  - enterprise
+  sources:
+  - https://jobs.ashbyhq.com/luminai
+
+- name: doola
+  slug: doola
+  domain: doola.com
+  careers_url: https://jobs.lever.co/doola
+  category: fintech
+  ats:
+    lever: doola
+  tags:
+  - b2b
+  - b2b-productivity
+  - fintech
+  - saas
+  sources:
+  - https://jobs.lever.co/doola
+
+- name: Finary
+  slug: finary
+  domain: about.finary.io
+  careers_url: https://jobs.ashbyhq.com/finary
+  category: fintech
+  ats:
+    ashby: finary
+  tags:
+  - fintech
+  - fintech-asset-management
+  - community
+  sources:
+  - https://jobs.ashbyhq.com/finary

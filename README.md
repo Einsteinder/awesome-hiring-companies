@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **340 companies**.
+Currently tracking **350 companies**.
 
 This repository is designed for two uses:
 
@@ -395,6 +395,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [Eloquent AI](https://eloquentai.co) - The AI Operator for Financial Services
 - [Fulcrum](https://fulcrumresearch.ai) - The agentic debugger for AI systems
 - [Ginkgo Bioworks](https://ginkgobioworks.com) - Our mission is to make biology easier to engineer.
+- [Bitmovin](https://bitmovin.com) - Powers OTT online video providers with video developer tools.
+- [Hush](https://shophush.com) - Hush is the top social commerce app in the United States.
+- [Skip](https://rideskip.com) - Electric scooters for reliable last-mile transportation.
+- [Titan](https://titan.com) - Titan is an award-winning wealth manager with a mission to increase…
+- [Mutiny](https://mutinyhq.com) - Your AI agent for creating anything customer-facing, in minutes.
+- [Hatch](https://usehatch.ai) - The AI CSR Platform
+- [Caribou](https://usecaribou.com) - The autonomous tax firm
+- [Luminai](https://luminai.com) - Luminai helps automate repetitive manual work away from your mission…
+- [doola](https://doola.com) - Business-in-a-Box™ for LLCs
+- [Finary](https://about.finary.io) - Discord for investing.
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
