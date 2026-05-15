@@ -10107,3 +10107,143 @@
   - saas
   sources:
   - https://boards.greenhouse.io/quetzal
+
+- name: Village Labs
+  slug: village-labs
+  domain: villagelabs.app
+  careers_url: https://boards.greenhouse.io/village
+  category: fintech
+  ats:
+    greenhouse: village
+  tags:
+  - b2b
+  - b2b-human-resources
+  - fintech
+  - human-resources
+  sources:
+  - https://boards.greenhouse.io/village
+
+- name: Conductor
+  slug: conductor
+  domain: conductor.build
+  careers_url: https://jobs.ashbyhq.com/conductor
+  category: ai-and-data
+  ats:
+    ashby: conductor
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - developer-tools
+  - ai
+  sources:
+  - https://jobs.ashbyhq.com/conductor
+
+- name: Sunset
+  slug: sunset
+  domain: hellosunset.com
+  careers_url: https://jobs.ashbyhq.com/sunset
+  category: fintech
+  ats:
+    ashby: sunset
+  tags:
+  - fintech
+  - fintech-consumer-finance
+  - consumer-finance
+  sources:
+  - https://jobs.ashbyhq.com/sunset
+
+- name: Innate
+  slug: innate
+  domain: innate.bot
+  careers_url: https://jobs.ashbyhq.com/innate
+  category: ai-and-data
+  ats:
+    ashby: innate
+  tags:
+  - consumer
+  - consumer-consumer-electronics
+  - developer-tools
+  - robotics
+  sources:
+  - https://jobs.ashbyhq.com/innate
+
+- name: Apolink
+  slug: apolink
+  domain: apolink.space
+  careers_url: https://jobs.ashbyhq.com/apolink
+  category: open-source-and-platform
+  ats:
+    ashby: apolink
+  tags:
+  - industrials
+  - industrials-aviation-and-space
+  sources:
+  - https://jobs.ashbyhq.com/apolink
+
+- name: Peppr AI
+  slug: peppr-ai
+  domain: usepeppr.ai
+  careers_url: https://jobs.ashbyhq.com/peppr
+  category: ai-and-data
+  ats:
+    ashby: peppr
+  tags:
+  - b2b
+  - b2b-sales
+  - sales
+  - sales-enablement
+  sources:
+  - https://jobs.ashbyhq.com/peppr
+
+- name: Retrofit
+  slug: retrofit
+  domain: retrofit.shop
+  careers_url: https://boards.greenhouse.io/retrofit
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: retrofit
+  tags:
+  - consumer
+  - consumer-apparel-and-cosmetics
+  sources:
+  - https://boards.greenhouse.io/retrofit
+
+- name: Cedar
+  slug: cedar
+  domain: mail.cedarcopilot.com
+  careers_url: https://jobs.ashbyhq.com/cedar
+  category: open-source-and-platform
+  ats:
+    ashby: cedar
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - sales
+  - sales-enablement
+  sources:
+  - https://jobs.ashbyhq.com/cedar
+
+- name: Butter
+  slug: butter
+  domain: butter.dev
+  careers_url: https://jobs.ashbyhq.com/butter
+  category: developer-infrastructure
+  ats:
+    ashby: butter
+  tags:
+  - b2b
+  - b2b-infrastructure
+  sources:
+  - https://jobs.ashbyhq.com/butter
+
+- name: Claim Health
+  slug: claim-health
+  domain: claimhealth.com
+  careers_url: https://jobs.ashbyhq.com/claim-health
+  category: consumer-and-marketplace
+  ats:
+    ashby: claim-health
+  tags:
+  - healthcare
+  sources:
+  - https://jobs.ashbyhq.com/claim-health

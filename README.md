@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **700 companies**.
+Currently tracking **710 companies**.
 
 This repository is designed for two uses:
 
@@ -756,6 +756,16 @@ Open source video player (video.js)
 - [Brainbase Labs](https://brainbaselabs.com) - The AI Labor Company
 - [Atum Works](https://atum.works) - Gigascale Nanomanufacturing
 - [Quetzal](https://getquetzal.com) - Simple, LLM-first translation and internationalization for software
+- [Village Labs](https://villagelabs.app) - Helping America's businesses become employee owned
+- [Conductor](https://conductor.build) - Run a team of coding agents on your Mac
+- [Sunset](https://hellosunset.com) - Find and move money after a death
+- [Innate](https://innate.bot) - Personal AI Robots
+- [Apolink](https://apolink.space) - 24/7 satellite connectivity in low Earth orbit
+- [Peppr AI](https://usepeppr.ai) - In-call AI teleprompter that helps reps close enterprise deals
+- [Retrofit](https://retrofit.shop) - A vintage marketplace curated by AI
+- [Cedar](https://mail.cedarcopilot.com) - Execute the best sales playbook in industry
+- [Butter](https://butter.dev) - Embedded Sandboxes for Agents
+- [Claim Health](https://claimhealth.com) - AI Revenue Platform for Post-Acute Care
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
