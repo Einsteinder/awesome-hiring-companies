@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **140 companies**.
+Currently tracking **150 companies**.
 
 This repository is designed for two uses:
 
@@ -195,6 +195,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [Silver](https://scansilver.com) - Low cost consumer device for toxin detection.
 - [CaptivateIQ](https://captivateiq.com) - Agile commission software to design, deploy & adapt commission plans.
 - [Nabis](https://nabis.com) - Nabis is the largest licensed cannabis wholesale platform.
+- [Inversion Space](https://inversionspace.com) - Turning space into a transportation layer for Earth
+- [Nox Metals](https://noxmetals.co) - Supplying America's Industrial Base
+- [Overview](https://overview.ai) - Reshaping industrial quality with AI, hardware, and software
+- [ARQ](https://arqfinance.com) - The global financial platform for affluent consumers in the Americas.
+- [PermitFlow](https://permitflow.com) - Construction's AI Platform
+- [Candid Health](https://joincandidhealth.com) - The revenue cycle automation platform.
+- [Porter](https://porter.run) - Easiest way to deploy on AWS/GCP/Azure
+- [Stellar](https://stellarapp.io) - AI-powered business goals
+- [Lio (formerly askLio)](https://lio.ai) - The World's First Multi-Agent System for Procurement
+- [Netomi](https://netomi.com) - Self-Driving Customer Care
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

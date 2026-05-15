@@ -2001,3 +2001,145 @@
   - marketplace
   sources:
   - https://boards.greenhouse.io/nabis
+
+- name: Inversion Space
+  slug: inversion-space
+  domain: inversionspace.com
+  careers_url: https://boards.greenhouse.io/inversionspace
+  category: open-source-and-platform
+  ats:
+    greenhouse: inversionspace
+  tags:
+  - industrials
+  - industrials-aviation-and-space
+  - hard-tech
+  - hardware
+  sources:
+  - https://boards.greenhouse.io/inversionspace
+
+- name: Nox Metals
+  slug: nox-metals
+  domain: noxmetals.co
+  careers_url: https://jobs.ashbyhq.com/nox-metals
+  category: open-source-and-platform
+  ats:
+    ashby: nox-metals
+  tags:
+  - industrials
+  - industrials-manufacturing-and-robotics
+  - manufacturing
+  sources:
+  - https://jobs.ashbyhq.com/nox-metals
+
+- name: Overview
+  slug: overview
+  domain: overview.ai
+  careers_url: https://jobs.ashbyhq.com/overview
+  category: ai-and-data
+  ats:
+    ashby: overview
+  tags:
+  - industrials
+  - industrials-manufacturing-and-robotics
+  - deep-learning
+  - iot
+  sources:
+  - https://jobs.ashbyhq.com/overview
+
+- name: ARQ
+  slug: arq
+  domain: arqfinance.com
+  careers_url: https://jobs.ashbyhq.com/arq
+  category: fintech
+  ats:
+    ashby: arq
+  tags:
+  - fintech
+  - crypto-web3
+  sources:
+  - https://jobs.ashbyhq.com/arq
+
+- name: PermitFlow
+  slug: permitflow
+  domain: permitflow.com
+  careers_url: https://jobs.ashbyhq.com/permitflow
+  category: ai-and-data
+  ats:
+    ashby: permitflow
+  tags:
+  - real-estate-and-construction
+  - govtech
+  - construction
+  - proptech
+  sources:
+  - https://jobs.ashbyhq.com/permitflow
+
+- name: Candid Health
+  slug: candid-health
+  domain: joincandidhealth.com
+  careers_url: https://jobs.ashbyhq.com/candidhealth
+  category: consumer-and-marketplace
+  ats:
+    ashby: candidhealth
+  tags:
+  - healthcare
+  - healthcare-healthcare-it
+  sources:
+  - https://jobs.ashbyhq.com/candidhealth
+
+- name: Porter
+  slug: porter
+  domain: porter.run
+  careers_url: https://jobs.lever.co/porter
+  category: developer-infrastructure
+  ats:
+    lever: porter
+  tags:
+  - b2b
+  - b2b-infrastructure
+  - developer-tools
+  - saas
+  sources:
+  - https://jobs.lever.co/porter
+
+- name: Stellar
+  slug: stellar
+  domain: stellarapp.io
+  careers_url: https://jobs.ashbyhq.com/stellar
+  category: ai-and-data
+  ats:
+    ashby: stellar
+  tags:
+  - b2b
+  - saas
+  - productivity
+  - analytics
+  sources:
+  - https://jobs.ashbyhq.com/stellar
+
+- name: Lio (formerly askLio)
+  slug: lio-formerly-asklio
+  domain: lio.ai
+  careers_url: https://jobs.ashbyhq.com/lio
+  category: open-source-and-platform
+  ats:
+    ashby: lio
+  tags:
+  - b2b
+  sources:
+  - https://jobs.ashbyhq.com/lio
+
+- name: Netomi
+  slug: netomi
+  domain: netomi.com
+  careers_url: https://jobs.lever.co/netomi
+  category: ai-and-data
+  ats:
+    lever: netomi
+  tags:
+  - b2b
+  - b2b-marketing
+  - deep-learning
+  - customer-service
+  sources:
+  - https://jobs.lever.co/netomi
