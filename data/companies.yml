@@ -26385,7 +26385,7 @@
   careers_url: https://jobs.disneycareers.com/
   category: consumer-and-marketplace
   ats:
-    workday: disney
+    workday: disney.wd5.myworkdayjobs.com/disneycareer
   tags:
   - media
   - entertainment
@@ -26465,7 +26465,7 @@
   careers_url: https://careers.wbd.com/
   category: consumer-and-marketplace
   ats:
-    workday: warnerbros
+    workday: warnerbros.wd5.myworkdayjobs.com/global
   tags:
   - media
   - entertainment
@@ -26519,7 +26519,7 @@
   careers_url: https://www.nvidia.com/en-us/about-nvidia/careers/
   category: ai-and-data
   ats:
-    workday: nvidia
+    workday: nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite
   tags:
   - ai
   - gpu
@@ -26533,7 +26533,7 @@
   careers_url: https://jobs.intel.com/
   category: industrials-and-climate
   ats:
-    workday: intel
+    workday: intel.wd1.myworkdayjobs.com/External
   tags:
   - semiconductors
   - hardware
@@ -26560,7 +26560,7 @@
   careers_url: https://www.qualcomm.com/company/careers
   category: industrials-and-climate
   ats:
-    workday: qualcomm
+    workday: qualcomm.wd12.myworkdayjobs.com/External
   tags:
   - semiconductors
   - wireless
@@ -26612,7 +26612,7 @@
   careers_url: https://jobs.hp.com/
   category: industrials-and-climate
   ats:
-    workday: hp
+    workday: hp.wd5.myworkdayjobs.com/ExternalCareerSite
   tags:
   - hardware
   - consumer
@@ -26626,7 +26626,7 @@
   careers_url: https://careers.hpe.com/
   category: developer-infrastructure
   ats:
-    workday: hpe
+    workday: hpe.wd5.myworkdayjobs.com/Jobsathpe
   tags:
   - enterprise
   - infrastructure
@@ -26640,7 +26640,7 @@
   careers_url: https://jobs.dell.com/
   category: industrials-and-climate
   ats:
-    workday: dell
+    workday: dell.wd1.myworkdayjobs.com/External
   tags:
   - hardware
   - enterprise
@@ -26667,7 +26667,7 @@
   careers_url: https://www.salesforce.com/company/careers/
   category: b2b-enterprise
   ats:
-    workday: salesforce
+    workday: salesforce.wd12.myworkdayjobs.com/External_Career_Site
   tags:
   - crm
   - saas
@@ -26695,7 +26695,7 @@
   careers_url: https://www.workday.com/en-us/company/careers.html
   category: b2b-enterprise
   ats:
-    workday: workday
+    workday: workday.wd5.myworkdayjobs.com/Workday
   tags:
   - hr
   - finance
@@ -26736,7 +26736,7 @@
   careers_url: https://www.adobe.com/careers.html
   category: consumer-and-marketplace
   ats:
-    workday: adobe
+    workday: adobe.wd5.myworkdayjobs.com/external_experienced
   tags:
   - creative
   - saas
@@ -26764,7 +26764,7 @@
   careers_url: https://jobs.cisco.com/
   category: developer-infrastructure
   ats:
-    workday: cisco
+    workday: cisco.wd5.myworkdayjobs.com/Cisco_Careers
   tags:
   - networking
   - enterprise
@@ -26888,7 +26888,7 @@
   careers_url: https://www.crowdstrike.com/careers/
   category: developer-infrastructure
   ats:
-    workday: crowdstrike
+    workday: crowdstrike.wd5.myworkdayjobs.com/CROWDSTRIKECareers
   tags:
   - security
   - endpoint
@@ -26968,7 +26968,7 @@
   careers_url: https://www.paypal.com/us/jobs/
   category: fintech
   ats:
-    workday: paypal
+    workday: paypal.wd1.myworkdayjobs.com/jobs
   tags:
   - fintech
   - payments
@@ -26995,7 +26995,7 @@
   careers_url: https://corporate.visa.com/en/careers.html
   category: fintech
   ats:
-    workday: visa
+    workday: visa.wd5.myworkdayjobs.com/VISA
     smartrecruiters: Visa
   tags:
   - fintech
@@ -27010,7 +27010,7 @@
   careers_url: https://careers.mastercard.com/
   category: fintech
   ats:
-    workday: mastercard
+    workday: mastercard.wd1.myworkdayjobs.com/CorporateCareers
   tags:
   - fintech
   - payments
@@ -27305,7 +27305,7 @@
   careers_url: https://www.pfizer.com/about/careers
   category: healthcare-and-biotech
   ats:
-    workday: pfizer
+    workday: pfizer.wd1.myworkdayjobs.com/PfizerCareers
   tags:
   - pharma
   - drug-discovery
@@ -27359,7 +27359,7 @@
   careers_url: https://www.novartis.com/careers
   category: healthcare-and-biotech
   ats:
-    workday: novartis
+    workday: novartis.wd3.myworkdayjobs.com/Novartis_Careers
   tags:
   - pharma
   - drug-discovery
@@ -27372,7 +27372,7 @@
   careers_url: https://careers.regeneron.com/
   category: healthcare-and-biotech
   ats:
-    workday: regeneron
+    workday: regeneron.wd1.myworkdayjobs.com/Careers
   tags:
   - biotech
   - drug-discovery
@@ -27424,7 +27424,7 @@
   careers_url: https://careers.astrazeneca.com/
   category: healthcare-and-biotech
   ats:
-    workday: astrazeneca
+    workday: astrazeneca.wd3.myworkdayjobs.com/Careers
   tags:
   - pharma
   - drug-discovery
@@ -27489,7 +27489,7 @@
   careers_url: https://jobs.boeing.com/
   category: industrials-and-climate
   ats:
-    workday: boeing
+    workday: boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS
   tags:
   - aerospace
   - defense
@@ -27799,7 +27799,7 @@
   careers_url: https://www.bloomenergy.com/careers/
   category: industrials-and-climate
   ats:
-    workday: bloomenergy
+    workday: bloomenergy.wd1.myworkdayjobs.com/BLOOMENERGYCareers
   tags:
   - energy
   - fuel-cells
@@ -28283,7 +28283,7 @@
   careers_url: https://corporate.target.com/careers
   category: consumer-and-marketplace
   ats:
-    workday: target
+    workday: target.wd5.myworkdayjobs.com/TargetCareers
   tags:
   - retail
   - consumer
@@ -28297,7 +28297,7 @@
   careers_url: https://careers.walmart.com/
   category: consumer-and-marketplace
   ats:
-    workday: walmart
+    workday: walmart.wd5.myworkdayjobs.com/WalmartExternal
   tags:
   - retail
   - consumer

@@ -19,6 +19,27 @@ Each company should include:
 - At least one ATS slug when known.
 - A short README description explaining why the company is useful to track.
 
+### Workday format
+
+For Ashby, Greenhouse, Lever, Workable, and SmartRecruiters the `ats`
+value is the provider's slug. **Workday is an exception**: the value
+must be the full host plus site path, separated by a slash:
+
+```yaml
+ats:
+  workday: nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite
+```
+
+A bare slug like `workday: nvidia` is not enough — Workday tenants live
+on different pods (`wd1`, `wd5`, `wd12`, …) and use tenant-specific
+external-site keys that aren't derivable from the slug. To find the
+correct value for a tenant, open the company's careers page in a
+browser; the URL is `https://<host>/en-US/<site>/jobs` and the host +
+site segment is what goes in the YAML. See
+[Inclusion Standard → ATS Value Format](docs/inclusion-standard.md#ats-value-format)
+for the worked example. `scripts/verify_live.py` rejects any Workday
+entry that's still in bare-slug form.
+
 ## Quality Bar
 
 Do not add:

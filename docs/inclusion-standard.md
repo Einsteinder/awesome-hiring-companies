@@ -64,6 +64,39 @@ Field rules:
 - `tags` must be lowercase kebab-case and should describe sector, product area, role relevance, or platform.
 - `sources` should prefer official company URLs over third-party pages.
 
+### ATS Value Format
+
+For most providers the `ats` value is the provider's slug:
+
+```yaml
+ats:
+  ashby: openai          # https://jobs.ashbyhq.com/openai
+  greenhouse: databricks # https://boards-api.greenhouse.io/v1/boards/databricks/jobs
+  lever: spotify         # https://api.lever.co/v0/postings/spotify
+  workable: huggingface  # https://apply.workable.com/huggingface
+  smartrecruiters: SAP   # https://api.smartrecruiters.com/v1/companies/SAP/postings
+```
+
+**Workday is the one exception**. Its value must be the full host plus
+site path, not a bare slug:
+
+```yaml
+ats:
+  workday: nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite
+```
+
+Workday tenants are split across regional pods (`wd1`, `wd5`, `wd12`,
+…) and each tenant uses its own external-site key (`External`,
+`NVIDIAExternalCareerSite`, `disneycareer`, …) that can't be derived
+from the slug alone. Crawlers need the full host + site to call the
+cxs API. To find the values for a new tenant, open the company's
+careers page; the URL encodes the pod and site, e.g.
+`https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/jobs`
+→ `nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite`.
+
+`scripts/verify_live.py` rejects any Workday entry that is still in
+bare-slug form.
+
 ## Category Standard
 
 Use the narrowest current category that fits:
