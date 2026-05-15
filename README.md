@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **2144 companies** across 8 categories.
+Currently tracking **2144 companies**.
 
 This repository is designed for two uses:
 

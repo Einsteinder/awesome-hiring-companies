@@ -119,19 +119,65 @@ def looks_like_login(response: httpx.Response) -> bool:
     )
 
 
-async def probe_careers_url(client: httpx.AsyncClient, url: str, retries: int) -> Probe:
+def alternate_careers_urls(domain: str) -> list[str]:
+    """Common career-page URL patterns to try when the configured URL fails.
+
+    Catches the typical mistake where a contributor guessed a wrong path or
+    subdomain (e.g. /careers vs /jobs, careers.x vs jobs.x). Returns a fixed
+    short list — keep this small to avoid blowing the per-entry probe budget.
+    """
+    if not domain:
+        return []
+    return [
+        f"https://{domain}/careers",
+        f"https://{domain}/jobs",
+        f"https://www.{domain}/careers",
+        f"https://www.{domain}/jobs",
+        f"https://careers.{domain}",
+        f"https://jobs.{domain}",
+    ]
+
+
+async def _try(client: httpx.AsyncClient, url: str, retries: int) -> tuple[str, int | None]:
+    r = await fetch(client, url, retries=retries)
+    if isinstance(r, Exception):
+        return url, None
+    return url, r.status_code
+
+
+async def probe_careers_url(
+    client: httpx.AsyncClient, url: str, domain: str, retries: int
+) -> Probe:
     result = await fetch(client, url, retries=retries)
-    if isinstance(result, Exception):
-        return Probe("careers_url_reachable", False, f"{type(result).__name__}: {result}")
-    if result.status_code >= 400:
-        return Probe("careers_url_reachable", False, f"HTTP {result.status_code}")
-    if looks_like_login(result):
+    if not isinstance(result, Exception) and 200 <= result.status_code < 400:
+        if looks_like_login(result):
+            return Probe(
+                "careers_url_no_login", False,
+                f"final URL {result.url} looks login-gated",
+            )
+        return Probe("careers_url_reachable", True, f"HTTP {result.status_code}")
+
+    # Primary failed. Try alternates derived from the domain. If any succeed,
+    # this still counts as `warn` (not pass) so the report flags the entry as
+    # needing a careers_url fix — and includes the alternate as a suggestion.
+    primary_detail = (
+        f"{type(result).__name__}: {result}" if isinstance(result, Exception)
+        else f"HTTP {result.status_code}"
+    )
+    alts = alternate_careers_urls(domain)
+    found: list[str] = []
+    for alt in alts:
+        if alt == url:
+            continue
+        _, status = await _try(client, alt, retries=0)
+        if status and 200 <= status < 400:
+            found.append(f"{alt} (HTTP {status})")
+    if found:
         return Probe(
-            "careers_url_no_login",
-            False,
-            f"final URL {result.url} looks login-gated",
+            "careers_url_reachable", False,
+            f"primary {primary_detail}; SUGGEST: " + ", ".join(found[:3]),
         )
-    return Probe("careers_url_reachable", True, f"HTTP {result.status_code}")
+    return Probe("careers_url_reachable", False, primary_detail)
 
 
 def ats_slug_values(provider_value: str | list[str]) -> list[str]:
@@ -170,7 +216,9 @@ async def verify_company(
     async with sem:
         result = Result(name=company["name"], slug=company["slug"])
         result.probes.append(
-            await probe_careers_url(client, company["careers_url"], retries)
+            await probe_careers_url(
+                client, company["careers_url"], company.get("domain", ""), retries
+            )
         )
         for provider, value in company.get("ats", {}).items():
             for slug in ats_slug_values(value):
