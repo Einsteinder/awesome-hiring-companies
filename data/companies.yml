@@ -6348,3 +6348,148 @@
   - saas
   sources:
   - https://jobs.ashbyhq.com/realitydefender
+
+- name: AiPrise
+  slug: aiprise
+  domain: aiprise.com
+  careers_url: https://jobs.ashbyhq.com/aiprise
+  category: ai-and-data
+  ats:
+    ashby: aiprise
+  tags:
+  - fintech
+  - b2b
+  - identity
+  - compliance
+  sources:
+  - https://jobs.ashbyhq.com/aiprise
+
+- name: Quindar
+  slug: quindar
+  domain: quindar.space
+  careers_url: https://jobs.ashbyhq.com/quindar
+  category: developer-infrastructure
+  ats:
+    ashby: quindar
+  tags:
+  - b2b
+  - saas
+  - space-exploration
+  - satellites
+  sources:
+  - https://jobs.ashbyhq.com/quindar
+
+- name: Warp
+  slug: warp
+  domain: warp.co
+  careers_url: https://jobs.ashbyhq.com/warp
+  category: ai-and-data
+  ats:
+    ashby: warp
+  tags:
+  - b2b
+  - hr-tech
+  - payroll
+  - operations
+  sources:
+  - https://jobs.ashbyhq.com/warp
+
+- name: Bretton AI
+  slug: bretton-ai
+  domain: bretton.com
+  careers_url: https://jobs.ashbyhq.com/brettonai
+  category: fintech
+  ats:
+    ashby: brettonai
+  tags:
+  - fintech
+  - payments
+  - b2b
+  - compliance
+  sources:
+  - https://jobs.ashbyhq.com/brettonai
+
+- name: Codes Health
+  slug: codes-health
+  domain: getcodeshealth.com
+  careers_url: https://jobs.ashbyhq.com/codes-health
+  category: ai-and-data
+  ats:
+    ashby: codes-health
+  tags:
+  - b2b
+  - artificial-intelligence
+  - health-tech
+  - legaltech
+  sources:
+  - https://jobs.ashbyhq.com/codes-health
+
+- name: Kastle
+  slug: kastle
+  domain: kastle.ai
+  careers_url: https://jobs.ashbyhq.com/kastle
+  category: ai-and-data
+  ats:
+    ashby: kastle
+  tags:
+  - b2b
+  sources:
+  - https://jobs.ashbyhq.com/kastle
+
+- name: Forerunner AI
+  slug: forerunner-ai
+  domain: tryforerunner.com
+  careers_url: https://jobs.ashbyhq.com/forerunner
+  category: ai-and-data
+  ats:
+    ashby: forerunner
+  tags:
+  - industrials
+  - industrials-aviation-and-space
+  - artificial-intelligence
+  - airlines
+  sources:
+  - https://jobs.ashbyhq.com/forerunner
+
+- name: Revi
+  slug: revi
+  domain: revi.ai
+  careers_url: https://jobs.lever.co/revi
+  category: ai-and-data
+  ats:
+    lever: revi
+  tags:
+  - b2b
+  - b2b-sales
+  sources:
+  - https://jobs.lever.co/revi
+
+- name: burnt
+  slug: burnt
+  domain: getburnt.ai
+  careers_url: https://boards.greenhouse.io/burnt
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: burnt
+  tags:
+  - b2b
+  - b2b-supply-chain-and-logistics
+  - supply-chain
+  - food-tech
+  sources:
+  - https://boards.greenhouse.io/burnt
+
+- name: Uplane
+  slug: uplane
+  domain: uplane.com
+  careers_url: https://jobs.ashbyhq.com/uplane
+  category: ai-and-data
+  ats:
+    ashby: uplane
+  tags:
+  - b2b
+  - b2b-marketing
+  - artificial-intelligence
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/uplane

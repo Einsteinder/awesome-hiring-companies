@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **440 companies**.
+Currently tracking **450 companies**.
 
 This repository is designed for two uses:
 
@@ -495,6 +495,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [Hubble Network](https://hubble.com) - Bluetooth to Space
 - [GovDash](https://govdash.com) - AI platform to win and run government contracts
 - [Reality Defender](https://realitydefender.com) - Enterprise Deepfake Detection
+- [AiPrise](https://aiprise.com) - AI-powered Global Compliance Platform
+- [Quindar](https://quindar.space) - Datadog for Space
+- [Warp](https://warp.co) - AI-native Employee Management Platform for High-Growth Companies
+- [Bretton AI](https://bretton.com) - AI agents for financial compliance (AML, KYC and Sanctions)
+- [Codes Health](https://getcodeshealth.com) - Medical Record Retrieval with Zero Human Error
+- [Kastle](https://kastle.ai) - AI agents for mortgage servicing
+- [Forerunner AI](https://tryforerunner.com) - AI that gets aircraft flying faster
+- [Revi](https://revi.ai) - AI-enabled M&A deal origination
+- [burnt](https://getburnt.ai) - Agentic Operating System for Food Supply Chain
+- [Uplane](https://uplane.com) - Replace marketing agencies with AI
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
