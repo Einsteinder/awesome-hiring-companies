@@ -2,6 +2,8 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
+Currently tracking **27 companies**.
+
 This repository is designed for two uses:
 
 - Human readers can discover companies worth tracking.
@@ -96,4 +98,3 @@ python scripts/validate.py
 ## Contributing
 
 Read [`CONTRIBUTING.md`](CONTRIBUTING.md) before opening a pull request.
-

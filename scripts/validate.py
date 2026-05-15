@@ -75,6 +75,13 @@ def assert_readme_mentions(companies: list[dict]) -> None:
         raise ValueError(f"README is missing companies: {', '.join(missing)}")
 
 
+def assert_readme_count(companies: list[dict]) -> None:
+    readme = README_PATH.read_text(encoding="utf-8")
+    expected = f"Currently tracking **{len(companies)} companies**."
+    if expected not in readme:
+        raise ValueError(f"README count is stale; expected: {expected}")
+
+
 def main() -> int:
     companies = load_yaml(DATA_PATH)
     schema = load_schema(SCHEMA_PATH)
@@ -90,6 +97,7 @@ def main() -> int:
     assert_valid_urls(companies)
     assert_unique_keys(companies)
     assert_readme_mentions(companies)
+    assert_readme_count(companies)
 
     print(f"Validated {len(companies)} companies.")
     return 0
@@ -97,4 +105,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-
