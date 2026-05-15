@@ -145,7 +145,7 @@ async def fetch(
     for attempt in range(retries + 1):
         try:
             return await client.request(method, url, follow_redirects=True)
-        except (httpx.HTTPError, httpx.InvalidURL) as exc:
+        except (httpx.HTTPError, httpx.InvalidURL, OSError) as exc:
             last_exc = exc
             if attempt < retries:
                 await asyncio.sleep(0.5 * (attempt + 1))
@@ -208,10 +208,17 @@ async def probe_domain(client: httpx.AsyncClient, domain: str, retries: int) -> 
     if not domain:
         return Probe("domain_reachable", False, "no domain field")
     last: tuple[str, str] | None = None
+    soft_errors: list[str] = []
+    hard_error_seen = False
     for variant in (f"https://{domain}/", f"https://www.{domain}/"):
         result = await fetch(client, variant, retries=retries)
         if isinstance(result, Exception):
-            last = ("err", f"{variant} -> {type(result).__name__}: {result}")
+            detail = f"{variant} -> {type(result).__name__}: {result}"
+            last = ("err", detail)
+            if isinstance(result, httpx.TimeoutException):
+                soft_errors.append(detail)
+            else:
+                hard_error_seen = True
             continue
         host = _normalize_host(result.url.host or "")
         if host in PARKING_HOSTS:
@@ -221,6 +228,11 @@ async def probe_domain(client: httpx.AsyncClient, domain: str, retries: int) -> 
         last = ("http", f"{variant} -> HTTP {result.status_code}")
     if last and last[0] == "http":
         return Probe("domain_reachable", True, f"{last[1]} (treating non-DNS error as anti-bot)")
+    if soft_errors and not hard_error_seen:
+        return Probe(
+            "domain_reachable", True,
+            f"{soft_errors[-1]} (treating timeout as anti-bot)",
+        )
     return Probe("domain_reachable", False, last[1] if last else "no probe attempted")
 
 

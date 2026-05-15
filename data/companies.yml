@@ -26733,7 +26733,7 @@
 - name: Adobe
   slug: adobe
   domain: adobe.com
-  careers_url: https://www.adobe.com/careers.html
+  careers_url: https://careers.adobe.com
   category: consumer-and-marketplace
   ats:
     workday: adobe.wd5.myworkdayjobs.com/external_experienced
@@ -26742,7 +26742,7 @@
   - saas
   - marketing
   sources:
-  - https://www.adobe.com/careers.html
+  - https://careers.adobe.com
 
 - name: VMware
   slug: vmware
@@ -27369,7 +27369,7 @@
 - name: Regeneron
   slug: regeneron
   domain: regeneron.com
-  careers_url: https://careers.regeneron.com/
+  careers_url: https://regeneron.com/careers
   category: healthcare-and-biotech
   ats:
     workday: regeneron.wd1.myworkdayjobs.com/Careers
@@ -27377,7 +27377,7 @@
   - biotech
   - drug-discovery
   sources:
-  - https://careers.regeneron.com/
+  - https://regeneron.com/careers
 
 - name: 23andMe
   slug: 23andme
