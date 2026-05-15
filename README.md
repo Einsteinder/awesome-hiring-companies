@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **320 companies**.
+Currently tracking **330 companies**.
 
 This repository is designed for two uses:
 
@@ -375,6 +375,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [Gumloop](https://gumloop.com) - A no-code platform for creating agents and automating workflows with…
 - [Solari AI](https://usesolari.ai) - Gives non-technical team members agents that work right out of the box
 - [Blacksmith](https://blacksmith.sh) - The fastest way to run your GitHub Actions
+- [Mercura](https://mercura.ai) - AI Quote and Order Automation for Distributors & Manufacturers
+- [Constellation Space](https://constellation.space) - AI operating system for mega-scale satellite networks.
+- [Multiply Labs](https://multiplylabs.com) - Robotic production capacity for the pharma manufacturing industry
+- [Swayable](https://swayable.com) - Swayable predicts consumer opinion and the impact of content
+- [Atlas](https://atlascard.com) - Modern spend management & concierge.
+- [Recidiviz](https://recidiviz.org) - Helping create a smaller, fairer, safer justice system
+- [Glimpse](https://joinglimpse.com) - A social video chat.
+- [Junction](https://junction.com) - API for at-home health data
+- [AtoB](https://atob.com) - Modernizing global transportation payments.
+- [Synapticure](https://synapticure.com) - We deliver personalized medicine for neurodegenerative  patients
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

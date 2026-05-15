@@ -4617,3 +4617,145 @@
   - b2b-infrastructure
   sources:
   - https://jobs.ashbyhq.com/blacksmith
+
+- name: Mercura
+  slug: mercura
+  domain: mercura.ai
+  careers_url: https://jobs.ashbyhq.com/mercura
+  category: ai-and-data
+  ats:
+    ashby: mercura
+  tags:
+  - b2b
+  - b2b-sales
+  sources:
+  - https://jobs.ashbyhq.com/mercura
+
+- name: Constellation Space
+  slug: constellation-space
+  domain: constellation.space
+  careers_url: https://jobs.lever.co/constellation
+  category: ai-and-data
+  ats:
+    lever: constellation
+  tags:
+  - b2b
+  - b2b-analytics
+  sources:
+  - https://jobs.lever.co/constellation
+
+- name: Multiply Labs
+  slug: multiply-labs
+  domain: multiplylabs.com
+  careers_url: https://jobs.lever.co/multiplylabs
+  category: open-source-and-platform
+  ats:
+    lever: multiplylabs
+  tags:
+  - industrials
+  - industrials-manufacturing-and-robotics
+  - robotics
+  sources:
+  - https://jobs.lever.co/multiplylabs
+
+- name: Swayable
+  slug: swayable
+  domain: swayable.com
+  careers_url: https://boards.greenhouse.io/swayable
+  category: ai-and-data
+  ats:
+    greenhouse: swayable
+  tags:
+  - b2b
+  - b2b-marketing
+  - machine-learning
+  sources:
+  - https://boards.greenhouse.io/swayable
+
+- name: Atlas
+  slug: atlas
+  domain: atlascard.com
+  careers_url: https://jobs.ashbyhq.com/atlas
+  category: fintech
+  ats:
+    ashby: atlas
+  tags:
+  - fintech
+  - fintech-consumer-finance
+  sources:
+  - https://jobs.ashbyhq.com/atlas
+
+- name: Recidiviz
+  slug: recidiviz
+  domain: recidiviz.org
+  careers_url: https://boards.greenhouse.io/recidiviz
+  category: open-source-and-platform
+  ats:
+    greenhouse: recidiviz
+  tags:
+  - government
+  - civic-tech
+  - govtech
+  - nonprofit
+  sources:
+  - https://boards.greenhouse.io/recidiviz
+
+- name: Glimpse
+  slug: glimpse
+  domain: joinglimpse.com
+  careers_url: https://jobs.ashbyhq.com/glimpse
+  category: consumer-and-marketplace
+  ats:
+    ashby: glimpse
+  tags:
+  - consumer
+  - consumer-social
+  - community
+  - social
+  sources:
+  - https://jobs.ashbyhq.com/glimpse
+
+- name: Junction
+  slug: junction
+  domain: junction.com
+  careers_url: https://jobs.ashbyhq.com/junction
+  category: consumer-and-marketplace
+  ats:
+    ashby: junction
+  tags:
+  - healthcare
+  - healthcare-consumer-health-and-wellness
+  - health-tech
+  - digital-health
+  sources:
+  - https://jobs.ashbyhq.com/junction
+
+- name: AtoB
+  slug: atob
+  domain: atob.com
+  careers_url: https://jobs.ashbyhq.com/atob
+  category: fintech
+  ats:
+    ashby: atob
+  tags:
+  - fintech
+  - saas
+  - payments
+  - supply-chain
+  sources:
+  - https://jobs.ashbyhq.com/atob
+
+- name: Synapticure
+  slug: synapticure
+  domain: synapticure.com
+  careers_url: https://jobs.lever.co/synapticure
+  category: consumer-and-marketplace
+  ats:
+    lever: synapticure
+  tags:
+  - healthcare
+  - healthcare-healthcare-services
+  - health-tech
+  - telehealth
+  sources:
+  - https://jobs.lever.co/synapticure
