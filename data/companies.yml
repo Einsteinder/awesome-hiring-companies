@@ -12329,3 +12329,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/felix
+
+- name: Astronomer
+  slug: astronomer
+  domain: astronomer.com
+  careers_url: https://jobs.ashbyhq.com/astronomer
+  category: open-source-and-platform
+  ats:
+    ashby: astronomer
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/astronomer
+
+- name: Dexterity
+  slug: dexterity
+  domain: dexterity.com
+  careers_url: https://jobs.lever.co/dexterity
+  category: open-source-and-platform
+  ats:
+    lever: dexterity
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/dexterity
+
+- name: Dust
+  slug: dust
+  domain: dust.com
+  careers_url: https://jobs.ashbyhq.com/dust
+  category: open-source-and-platform
+  ats:
+    ashby: dust
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/dust
+
+- name: Assured
+  slug: assured
+  domain: assured.com
+  careers_url: https://jobs.ashbyhq.com/assured
+  category: open-source-and-platform
+  ats:
+    ashby: assured
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/assured
+
+- name: Gate
+  slug: gate
+  domain: gate.com
+  careers_url: https://jobs.lever.co/gate
+  category: open-source-and-platform
+  ats:
+    lever: gate
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/gate
+
+- name: Bunch
+  slug: bunch
+  domain: bunch.com
+  careers_url: https://jobs.ashbyhq.com/bunch
+  category: open-source-and-platform
+  ats:
+    ashby: bunch
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/bunch
+
+- name: Crosby
+  slug: crosby
+  domain: crosby.com
+  careers_url: https://jobs.ashbyhq.com/crosby
+  category: open-source-and-platform
+  ats:
+    ashby: crosby
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/crosby
+
+- name: Abound
+  slug: abound
+  domain: abound.com
+  careers_url: https://jobs.ashbyhq.com/abound
+  category: open-source-and-platform
+  ats:
+    ashby: abound
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/abound
+
+- name: Access
+  slug: access
+  domain: access.com
+  careers_url: https://jobs.ashbyhq.com/access
+  category: open-source-and-platform
+  ats:
+    ashby: access
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/access
+
+- name: Amber
+  slug: amber
+  domain: amber.com
+  careers_url: https://jobs.ashbyhq.com/amber
+  category: open-source-and-platform
+  ats:
+    ashby: amber
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/amber
