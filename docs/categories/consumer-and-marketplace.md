@@ -1,0 +1,139 @@
+# Consumer and Marketplace
+
+Consumer products, communities, marketplaces, media, travel, commerce, education, and gaming.
+
+- [A Thinking Ape](https://athinkingape.com) - We build communities through massively multiplayer mobile games
+- [Able](https://ablejobs.co) - India's Largest Placement Platform for Early Professionals
+- [Activision Blizzard](https://activisionblizzard.com) - Gaming publisher (Microsoft) — Call of Duty, Warcraft.
+- [Adobe](https://adobe.com) - Creative tools, document services, and digital experience.
+- [Airbnb](https://airbnb.com) - Travel marketplace with large-scale consumer, marketplace, trust, and payments systems.
+- [Airgoods](https://airgoods.com) - Wholesale marketplace for food & beverage
+- [Alphabet](https://abc.xyz) - Holding company for Google and other 'other bets'.
+- [Amazon](https://amazon.com) - Global e-commerce, AWS cloud, and consumer hardware.
+- [Anara](https://anara.com) - AI for researchers
+- [Ankorstore](https://ankorstore.com) - Hiring via Ashby (ankorstore).
+- [Apple](https://apple.com) - Consumer electronics, services, and software platforms.
+- [Ark](https://ark.com) - Ark organizes the world's social information.
+- [AT&T](https://att.com) - Telecommunications and connectivity carrier.
+- [Avride](https://avride.com) - Hiring via Greenhouse (avride).
+- [Backpack](https://backpackbang.com) - Marketplace to get stuff from overseas
+- [Beacons](https://beacons.ai) - An AI-powered, all-in-one business platform for content creators
+- [Breaker](https://breaker.audio) - A podcast company.
+- [ByteDance](https://bytedance.com) - TikTok parent and global consumer / AI / media company.
+- [Cambly](https://cambly.com) - On-demand access to English tutors over video chat.
+- [Canva](https://canva.com) - Online design and visual communication platform.
+- [Chicago Public Media](https://chicagopublicmedia.com) - Hiring via Greenhouse (cpm).
+- [ClassDojo](https://classdojo.com) - Communication app for K-8 teachers, kids, and families
+- [Clever](https://clever.com) - The platform that powers technology in the classroom.
+- [Cocoon](https://cocoon.com) - Bring your most important groups closer together
+- [Comcast](https://comcast.com) - Cable, broadband, and media (NBCUniversal).
+- [Copia](https://gocopia.com) - Copia's a for-profit technology company that solves food waste &…
+- [Costco](https://costco.com) - Membership-based wholesale retailer.
+- [Deductive](https://deductive.com) - Hiring via Ashby (deductive).
+- [Dex](https://getdex.com) - Dex is a personal CRM that reminds you to keep in touch with the…
+- [Discord](https://discord.com) - Communications platform for communities, gaming, and social products.
+- [Disney](https://thewaltdisneycompany.com) - Media, parks, and entertainment conglomerate.
+- [Duolingo](https://duolingo.com) - Consumer learning platform with product, growth, ML, and mobile engineering roles.
+- [eBay](https://ebay.com) - Consumer e-commerce marketplace.
+- [Educative](https://educative.com) - Hiring via Lever (educative).
+- [Electronic Arts](https://ea.com) - Video game publisher and developer.
+- [Ello](https://ello.com) - Building the world's first 1:1 AI teacher.
+- [EMARKETER](https://emarketer.com) - Hiring via Greenhouse (emarketer).
+- [Epic Games](https://epicgames.com) - Hiring via Greenhouse (epicgames).
+- [Eternal](https://eternal.gg) - Own the best moments in streaming
+- [Faire](https://faire.com) - The global online platform empowering independent retail.
+- [Fernride](https://fernride.com) - Hiring via Greenhouse (fernride).
+- [Fleek](https://joinfleek.com) - A B2B marketplace for wholesale second hand fashion
+- [Flip](https://justflip.com) - Community-driven marketplace for sneakers.
+- [Gametime United](https://gametimeunited.com) - Hiring via Greenhouse (gametimeunited).
+- [Garage](https://shopgarage.com) - Marketplace for America's most essential assets
+- [Gigs Live](https://gigs.live) - Video publishing and monetization platform for creators and artists
+- [Glimpse](https://joinglimpse.com) - A social video chat.
+- [GOAT Group](https://goatgroup.com) - Platform for the greatest products from the past, present and future.
+- [Google](https://google.com) - Search, ads, cloud, and consumer software giant.
+- [Hotplate](https://hotplate.com) - Online ordering platform for independent chefs and bakers.
+- [Hulu](https://hulu.com) - Streaming video service (Disney).
+- [Hush](https://shophush.com) - Hush is the top social commerce app in the United States.
+- [Instawork](https://instawork.com) - A flexible work app that connects businesses with hourly workers.
+- [Interface](https://theinterface.com) - The world model research lab
+- [LAIKA](https://laika.com.co) - Online pets supplies for Latin America with over 4000 products & 20…
+- [LinkedIn](https://linkedin.com) - Professional networking and recruiting platform.
+- [Lyft](https://lyft.com) - Ride-hailing and transportation platform.
+- [MarcoPolo](https://marcopolo.com) - Alibaba for Latin America
+- [McDonald's](https://mcdonalds.com) - Global quick-service restaurant chain.
+- [Meadow](https://getmeadow.com) - Point of Sale and Compliance SaaS for Cannabis Dispensaries
+- [Meesho](https://meesho.com) - Democratizing internet commerce for everyone in India
+- [Meta](https://meta.com) - Facebook, Instagram, WhatsApp, and Reality Labs.
+- [Midstream](https://midstream.com) - Hiring via Ashby (midstream).
+- [Misfits Market](https://misfitsmarket.com) - Hiring via Greenhouse (misfitsmarket).
+- [Mosaic](https://mosaic.so) - Agentic video editing
+- [Multiverse](https://playmultiverse.com) - Multiverse is a web-based game creation system inspired by Dungeons &…
+- [NBCUniversal](https://nbcuni.com) - Media and entertainment (NBC, Peacock, Universal).
+- [Nectar Social](https://nectarsocial.com) - Hiring via Ashby (nectar-social).
+- [Netflix](https://netflix.com) - Streaming entertainment platform.
+- [Nextdoor](https://nextdoor.com) - Neighborhood-focused social network.
+- [Niantic](https://nianticlabs.com) - Pokémon GO and AR location games.
+- [Odin](https://savewithodin.com) - Save, organize and showcase your mental dump
+- [Opennote](https://opennote.com) - The notebook that thinks with you.
+- [Padlet](https://padlet.com) - Papyrus → Parchment → Paper → Padlet
+- [Panasonic](https://panasonic.com) - Consumer electronics and battery (Tesla EV cells).
+- [Pantheon](https://joinpantheon.io) - A competitive community of the brightest students in the world
+- [Paramount](https://paramount.com) - Media and entertainment company (CBS, Paramount+).
+- [Pax Historia](https://paxhistoria.co) - The first AI-powered grand strategy platform
+- [Pingo AI](https://pingo.ai) - AI companion that helps you learn languages
+- [Pinterest](https://pinterest.com) - Visual discovery platform with search, recommendations, ads, and creator products.
+- [Plexus](https://plexus.im) - High-performance gloves for VR and AR
+- [Postscript](https://postscript.io) - The SMS revenue platform for e-commerce merchants
+- [PowerUs](https://powerus.de) - LinkedIn for skilled blue-collar workers
+- [Prolific](https://prolific.com) - Making diverse, high-quality data easily available to anyone, anywhere
+- [Pure](https://collectpure.com) - Marketplace for Rare Coins & Precious Metals
+- [Pursuit](https://revlo.co) - Revlo helps broadcasters on Twitch engage and monetize their fan…
+- [Reddit](https://reddit.com) - Community platform with consumer, ads, moderation, and infrastructure roles.
+- [Retrofit](https://retrofit.shop) - A vintage marketplace curated by AI
+- [Revel](https://hellorevel.com) - We Deserve More in Midlife
+- [Riot Games](https://riotgames.com) - Hiring via Greenhouse (riotgames).
+- [Roblox](https://roblox.com) - User-generated gaming platform and metaverse.
+- [Samsung](https://samsung.com) - Consumer electronics and semiconductor giant.
+- [Seer](https://helloseer.com) - Sell beyond the store.
+- [Shopmonkey](https://shopmonkey.com) - Hiring via Greenhouse (shopmonkey).
+- [Sightline Media Group](https://sightlinemediagroup.com) - Hiring via Greenhouse (sightlinemediagroup).
+- [SkyLink](https://tryskylink.com) - Travel Management Meets AI
+- [Skyscanner](https://skyscanner.net) - Travel-fare aggregator and flights marketplace.
+- [Snackpass](https://snackpass.co) - Order ahead at restaurants and get rewards with friends.
+- [Snap](https://snap.com) - Snapchat camera platform and AR product company.
+- [Snappr](https://snappr.com) - Snappr is the one-stop-shop for visual content creation
+- [Sony](https://sony.com) - Consumer electronics, gaming (PlayStation), and entertainment.
+- [Spotify](https://spotify.com) - Audio streaming platform with consumer, personalization, creator, and ads systems.
+- [Squad](https://squadapp.io) - Squad is an app for live communities to have shared experiences…
+- [Squire Technologies](https://getsquire.com) - Platform to grow your barbershop and maximize profitability.
+- [Substack](https://substack.com) - A place for independent writing.
+- [Suger](https://suger.io) - Salesforce for Cloud marketplaces on AWS, Azure, GCP
+- [Super](https://superapp.id) - Super is the first and leading Indonesian social commerce platform
+- [T-Mobile](https://t-mobile.com) - Mobile network carrier.
+- [Tajir](https://tajir.app) - The one-stop shop for mom-and-pop stores in Pakistan to buy inventory.
+- [Take-Two Interactive](https://take2games.com) - Gaming publisher — Rockstar, 2K.
+- [Target](https://target.com) - Mass-market retailer with strong digital and supply-chain tech.
+- [The Athletic](https://theathletic.com) - Subscription sports media.
+- [The Home Depot](https://homedepot.com) - Home improvement retailer with sizable e-commerce and supply-chain tech.
+- [TikTok](https://tiktok.com) - Short-video social platform (ByteDance).
+- [Tovala](https://tovala.com) - A smart-oven-paired subscription meal service.
+- [TransMarket Group](https://transmarketgroup.com) - Hiring via Greenhouse (transmarketgroup).
+- [Twitch](https://twitch.com) - A global community creating the future of live entertainment.
+- [Uber](https://uber.com) - Ride-hailing, delivery, and freight marketplace.
+- [Ubisoft](https://ubisoft.com) - Video-game publisher (Assassin's Creed, Far Cry).
+- [Unlearn](https://unlearn.com) - Hiring via Ashby (unlearn).
+- [Verizon](https://verizon.com) - Telecommunications and wireless carrier.
+- [Vori](https://vori.com) - Vori is a modern operating system for supermarkets
+- [Vox Media, LLC](https://voxmediallc.com) - Hiring via Greenhouse (voxmedia).
+- [Walmart](https://walmart.com) - Global retailer with large tech and supply-chain orgs.
+- [Warner Bros. Discovery](https://wbd.com) - Media conglomerate (HBO Max, CNN, Warner Bros.).
+- [Weebly](https://weebly.com) - DIY website and online-store builder (Square / Block).
+- [Weride](https://weride.com) - Hiring via Lever (weride).
+- [Whatnot](https://whatnot.com) - Whatnot is the largest livestream shopping platform in the U.S.
+- [Wikimedia Foundation](https://wikimediafoundation.com) - Hiring via Greenhouse (wikimedia).
+- [Workstream](https://workstream.com) - Hiring via Greenhouse (workstream).
+- [X](https://twitter.com) - Real-time social media platform (formerly Twitter).
+- [XTX Markets](https://xtxmarkets.com) - Hiring via Greenhouse (xtxmarketstechnologies).
+- [Zerocater](https://zerocater.com) - Zerocater is revolutionizing how companies feed their employees
+- [Zipio](https://dealupa.com) - Deal search service
+- [Zynga](https://zynga.com) - Mobile games (Take-Two).

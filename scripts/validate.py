@@ -15,6 +15,7 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA_PATH = ROOT / "data" / "companies.yml"
 SCHEMA_PATH = ROOT / "schemas" / "company.schema.json"
 README_PATH = ROOT / "README.md"
+CATEGORIES_DIR = ROOT / "docs" / "categories"
 
 
 def normalize(value: str) -> str:
@@ -69,8 +70,15 @@ def assert_unique_keys(companies: list[dict]) -> None:
 
 
 def assert_readme_mentions(companies: list[dict]) -> None:
-    readme = README_PATH.read_text(encoding="utf-8")
-    missing = [company["name"] for company in companies if company["name"] not in readme]
+    # The README is a compact index; individual companies live in
+    # docs/categories/<slug>.md. Search both so a company can be mentioned
+    # in either surface.
+    haystacks = [README_PATH.read_text(encoding="utf-8")]
+    if CATEGORIES_DIR.is_dir():
+        for path in sorted(CATEGORIES_DIR.glob("*.md")):
+            haystacks.append(path.read_text(encoding="utf-8"))
+    corpus = "\n".join(haystacks)
+    missing = [company["name"] for company in companies if company["name"] not in corpus]
     if missing:
         raise ValueError(f"README is missing companies: {', '.join(missing)}")
 

@@ -1,0 +1,192 @@
+# AI and Data
+
+AI, machine learning, analytics, databases, and data infrastructure.
+
+- [Abundant](https://abundant.ai) - Agent simulation and RL for researchers
+- [Acceldata](https://acceldata.com) - Hiring via Lever (acceldata).
+- [Adept](https://adept.ai) - AI agents for software actions.
+- [AfterQuery](https://afterquery.com) - Applied research lab curating data solutions for foundation model…
+- [AI21 Labs](https://ai21.com) - Enterprise LLMs and reading comprehension.
+- [Aida](https://aida.com) - Hiring via Ashby (aida).
+- [Airbyte](https://airbyte.com) - Context layer for production-grade AI agents
+- [Aircapture](https://aircapture.com) - Hiring via Greenhouse (aircapture).
+- [Airgarage](https://airgarage.com) - Hiring via Ashby (airgarage).
+- [Airops](https://airops.com) - Hiring via Ashby (airops).
+- [Airwallex](https://airwallex.com) - Hiring via Ashby (airwallex).
+- [Aisle](https://aisle.com) - Hiring via Ashby (aisle).
+- [Amplitude](https://amplitude.com) - Digital analytics and product intelligence platform.
+- [Anthropic](https://anthropic.com) - AI safety and frontier model company with research, product, infrastructure, and go-to-market roles.
+- [Aqua Voice](https://aquavoice.com) - Frontier Voice Input - write 4x faster than typing.
+- [Archil](https://archil.com) - The high-performance file system that connects AI to data
+- [Artisan](https://artisan.co) - AI employees called Artisans, starting with an AI BDR
+- [AssemblyAI](https://assemblyai.com) - The best way to build Voice AI apps
+- [Auctor](https://getauctor.com) - The agentic operating system for modern system integrators.
+- [Aurelian](https://aurelian.com) - Automating non-emergency calls for 911 centers
+- [Automat](https://runautomat.com) - AI enabled RPA using ChatGPT and computer vision
+- [Beam](https://beam.cloud) - AI-Native Cloud Platform
+- [Blaxel](https://blaxel.ai) - The perpetual sandbox platform
+- [Brainbase Labs](https://brainbaselabs.com) - The AI Labor Company
+- [Branch AI](https://branch-ai.com) - AI Overview Search, as a Service
+- [Broccoli AI](https://broccoli.com) - AI-native operating system for home service businesses
+- [CAPSULE](https://shopcapsule.ai) - Buy anything you find on social media
+- [Capy](https://capy.ai) - The IDE for the parallel age
+- [Centralize](https://usecentralize.com) - The relationship intelligence platform for enterprise revenue
+- [Cerebras](https://cerebras.net) - Wafer-scale AI accelerator hardware and inference platform.
+- [Character AI](https://character.ai) - Consumer AI characters and chat.
+- [Checkr](https://checkr.com) - People infrastructure for the future of work
+- [Civis Analytics](https://civisanalytics.com) - Hiring via Greenhouse (civisanalytics).
+- [ClickHouse](https://clickhouse.com) - Real-time analytics database company built around open-source ClickHouse.
+- [Cohere](https://cohere.com) - Enterprise AI company building foundation models and retrieval systems for business use cases.
+- [Constellation Space](https://constellation.space) - AI operating system for mega-scale satellite networks.
+- [Continue](https://continue.dev) - Quality control for your software factory
+- [Cosine](https://cosine.sh) - Fully Agentic SWE
+- [Craze](https://crazehq.com) - Get anything done with all the right AI models, apps & agents for you
+- [Credal.ai](https://credal.ai) - The Control Plane for Enterprise Agents
+- [CTGT](https://ctgt.ai) - The deterministic layer for frontier intelligence
+- [Databento](https://databento.com) - Hiring via Greenhouse (databento).
+- [Dedalus Labs](https://dedaluslabs.ai) - Compute substrate for AI agents
+- [Deepgram](https://deepgram.com) - Building foundational AI for speech transcription and understanding.
+- [Deepnote](https://deepnote.com) - A better data science notebook.
+- [DiligenceSquared](https://diligencesquared.com) - AI-powered market due diligence for investment decisions
+- [Docsumo](https://docsumo.com) - Document AI for intelligent data extraction.
+- [Doe](https://doe.so) - The boring stuff, handled. Everything else, supercharged.
+- [Domu Technology Inc.](https://domu.ai) - AI Agents for collections
+- [Echo](https://echothat.ai) - Founder-led sales co-pilot for B2B startups.
+- [ElevenLabs](https://elevenlabs.io) - Voice AI company building speech generation, dubbing, audio, and creator tools.
+- [Elyos AI](https://elyos.ai) - AI Customer Service Agents for trades and field services
+- [Encord](https://encord.com) - The data layer for physical AI
+- [Eventual](https://daft.ai) - Building the AI data engine for any modality and scale
+- [Fieldguide](https://fieldguide.io) - Vertical AI for Audit & Advisory Firms
+- [Fireworks AI](https://fireworksai.com) - Hiring via Greenhouse (fireworksai).
+- [Fivetran](https://fivetran.com) - The leader in automated data movement
+- [Focal Systems](https://focal.systems) - Building the Operating System for B&M Retail using Deep Learning
+- [Foresight](https://foresight.tt) - On-demand consumer insights
+- [Fulcrum](https://fulcrumresearch.ai) - The agentic debugger for AI systems
+- [Glade](https://gladestudio.ai) - Build games at the speed of thought
+- [Glean](https://glean.com) - Enterprise AI search and knowledge platform for workplace data.
+- [Glide](https://glideapps.com) - Glide turns spreadsheets into beautiful, intelligent apps.
+- [GovDash](https://govdash.com) - AI platform to win and run government contracts
+- [Greptile](https://greptile.com) - AI code review agent with complete context of your codebase
+- [Harvey](https://harvey.ai) - Legal AI platform company hiring across applied AI, product, engineering, and go-to-market.
+- [Hatch](https://usehatch.ai) - The AI CSR Platform
+- [Hazel](https://hazelai.com) - AI-enabled procurement for government
+- [Headstart](https://headstart.io) - Headstart uses Machine Learning to help companies decide on who to…
+- [HockeyStack](https://hockeystack.com) - The operating system for inbound B2B revenue
+- [Honeydew](https://honeydew.ai) - The home for shared data logic
+- [hud](https://hud.ai) - Platform for building RL environments and evals
+- [Hyperbound](https://hyperbound.ai) - Revenue Activation Platform
+- [Hyperspell](https://hyperspell.com) - Memory for AI Agents
+- [Inflection AI](https://inflection.ai) - Frontier AI for enterprise (Microsoft-aligned).
+- [InfluxData](https://influxdata.com) - The platform for building and operating time series applications.
+- [Intersect Labs](https://intersectlabs.io) - Collaborative data noteboook for business teams
+- [Journey](https://journey.io) - No code platform for sales to tell better stories and win more deals.
+- [Juicebox](https://juicebox.ai) - AI-powered talent sourcing for recruiters
+- [Julius](https://julius.ai) - AI Data Scientist
+- [Lambda](https://lambda.ai) - GPU cloud platform for AI training and inference.
+- [LanceDB](https://lancedb.com) - Open-source, serverless vectordb for production-scale generative AI
+- [LangChain](https://langchain.com) - Developer platform for building, testing, and deploying LLM applications.
+- [Langdock](https://langdock.com) - The all-in-one AI platform for companies.
+- [Langfuse](https://langfuse.com) - Open source LLM engineering platform
+- [Layup](https://layuplabs.ai) - Guide your users. Right in your product.
+- [Legora](https://legora.com) - The AI workspace for lawyers
+- [Lightdash](https://lightdash.com) - The open source Looker alternative
+- [LiteLLM](https://litellm.ai) - Call every LLM API like it's OpenAI [100+ LLMs]
+- [Mach9](https://mach9.ai) - AI-native CAD software for civil engineering
+- [MangoDesk](https://mangodesk.com) - RL environments for software engineering
+- [MarqVision](https://marqvision.com) - IP operating software for brands and content companies
+- [Mashgin](https://mashgin.com) - Self-Checkout using Computer Vision.
+- [Maya Labs](https://mayalabs.io) - Building self-programming machines
+- [Mem0](https://mem0.ai) - The Memory layer for your AI apps
+- [Mercator](https://mercator.tech) - AI-assisted data analytics
+- [Midjourney](https://midjourney.com) - Generative image AI.
+- [Mindee](https://mindee.com) - Document parsing and OCR APIs.
+- [Miso](https://miso.kr) - We make booking services as easy as buying products online.
+- [Mixpanel](https://mixpanel.com) - Mixpanel is event analytics for builders that need answers.
+- [Modus](https://himodus.com) - Unlock revenue per employee with AI-powered headcount management
+- [Montecarlodata](https://montecarlodata.com) - Hiring via Ashby (montecarlodata).
+- [Moonshot Ai](https://moonshotai.com) - Hiring via Ashby (moonshot-ai).
+- [Mutiny](https://mutinyhq.com) - Your AI agent for creating anything customer-facing, in minutes.
+- [Netomi](https://netomi.com) - Self-Driving Customer Care
+- [Neuralink](https://neuralink.com) - Hiring via Greenhouse (neuralink).
+- [Nexus](https://agent.nexus) - We help non-technical teams build AI agents without engineers
+- [Notion](https://notion.com) - Workspace, docs, and productivity platform with collaboration and AI product work.
+- [NVIDIA](https://nvidia.com) - GPU hardware and AI computing platform.
+- [Omni](https://addomni.com) - Fast, up-to-date answers for Sales & Support
+- [Oneleet](https://oneleet.com) - YC's most popular security compliance platform (SOC 2, ISO 27001,…
+- [OneSchema](https://oneschema.co) - The AI Agent for Autonomous Data Operations
+- [Onyx](https://onyx.app) - Open Source AI Chat
+- [Osmosis](https://osmosis.ai) - Reinforcement Learning (RL) for AI Agents
+- [OutRival, Inc.](https://outrival.com) - Outbound AI Agents for Education, Insurance, and Travel
+- [Outset](https://outset.ai) - AI-powered user interviews
+- [Palantir](https://palantir.com) - Data platform company serving commercial and government customers.
+- [People.ai](https://people.ai) - Harnesses business activity to unlock growth.
+- [Perplexity](https://perplexity.ai) - AI answer engine company with roles across search, inference, product, and applied AI.
+- [Phonic](https://phonic.ai) - The best way to collect and analyze voice and video feedback
+- [Photoroom](https://photoroom.com) - Power commerce photography with generative AI
+- [Pika](https://pika.art) - Generative video AI.
+- [Pinecone](https://pinecone.io) - Managed vector database for semantic search, retrieval, and AI applications.
+- [Playground](https://playground.com) - Make graphics like a Pro without being one
+- [Plivo](https://plivo.com) - Voice AI Agents for customer engagement, including WhatsApp, SMS &…
+- [Popl](https://popl.co) - Your Complete In-Person GTM Platform
+- [Post.fm](https://post.fm) - New email inbox.
+- [PostHog](https://posthog.com) - Open-source product analytics and developer tooling company.
+- [Primer](https://startprimer.com) - AI Product Demos
+- [Prosper Ai](https://prosperai.com) - Hiring via Ashby (prosper-ai).
+- [Prox](https://useprox.com) - AI technical support for complex physical products
+- [Quetzal](https://getquetzal.com) - Simple, LLM-first translation and internationalization for software
+- [RADAR](https://goradar.com) - RADAR is building technology to completely transform the in-store…
+- [Reacher](https://reacherapp.com) - We automate creator marketing for the world's largest brands
+- [Reality Defender](https://realitydefender.com) - Enterprise Deepfake Detection
+- [Recall.ai](https://recall.ai) - The API to get recordings, transcripts, and metadata from meetings
+- [Reducto](https://reducto.ai) - The most accurate API to parse documents
+- [Reflex](https://reflex.dev) - The operating system for building mission-critical enterprise apps.
+- [Reka](https://reka.ai) - Multimodal foundation models.
+- [Replo](https://replo.app) - Sell anything
+- [Retell AI](https://retellai.com) - Supercharge Your Contact Center Operations with AI Phone Agents
+- [Roboflow](https://roboflow.com) - 🖼️ Give your software the sense of sight.
+- [Robust Ai](https://robustai.com) - Hiring via Lever (robust-ai).
+- [Rollstack](https://rollstack.com) - Automate data-driven slide decks and documents with AI
+- [Rosebud AI](https://rosebud.ai) - Vibe code games.
+- [Sapling.ai](https://sapling.ai) - Language models for enterprise applications.
+- [Scale AI](https://scale.com) - Data and evaluation infrastructure company serving AI labs, enterprises, and public-sector customers.
+- [Scout AI](https://scoutai.com) - Hiring via Greenhouse (scoutai).
+- [Scribe](https://tryscribe.com) - Scribe is an AI based Sales Development Representative that you can…
+- [Sendbird](https://sendbird.com) - The AI agent that doesn’t just support, it delights.
+- [Short Story](https://shortstorybox.com) - Modern ecommerce for petite women
+- [Sidekick](https://textsidekick.com) - AI-powered SMS assistant for deskless workers.
+- [Sierra](https://sierra.ai) - AI agent platform company focused on customer service and enterprise automation.
+- [Sim](https://sim.ai) - Open source platform to build AI agent workflows
+- [Simple AI](https://usesimple.ai) - AI voice that sells
+- [Simplify](https://simplify.jobs) - Helping a billion people build their dream career
+- [Sola](https://sola-solutions.com) - Copilot for Robotic Process Automation
+- [Solari AI](https://usesolari.ai) - Gives non-technical team members agents that work right out of the box
+- [Speak](https://speak.com) - A superhuman, AI-powered language tutor in your pocket
+- [Spellbrush](https://spellbrush.com) - Making Anime Real
+- [Stability AI](https://stability.ai) - Open-model image and audio generation.
+- [Stellar](https://stellarapp.io) - AI-powered business goals
+- [Strong Compute](https://strongcompute.com) - 10x-1000x faster compute for Neural Network training
+- [Subsets](https://subsets.com) - AI-driven Retention Automation for subscription media businesses.
+- [Sully.ai](https://sully.ai) - Autonomous team of AI agents that runs the entire hospital operations
+- [Swayable](https://swayable.com) - Swayable predicts consumer opinion and the impact of content
+- [Sweep](https://sweep.dev) - The best AI coding assistant for JetBrains
+- [Symphony](https://getsymphony.co) - Voice AI sims for next-gen employee training
+- [Tavus](https://tavus.io) - Building the human layer of AI
+- [Tenjin](https://tenjin.com) - Mobile marketing analytics and infrastructure
+- [TesterArmy](https://tester.army) - Test your app with AI, catch bugs before users do
+- [Tetra](https://asktetra.com) - AI notetaker for phone calls
+- [Thunder Compute](https://thundercompute.com) - The world's cheapest GPU cloud
+- [truthsystems](https://truthsystems.ai) - Automatically blocking risky behavior with real-time governance agents
+- [Unify](https://unify.ai) - Hire AI — Not APIs ✨
+- [Unusual](https://unusual.ai) - Market to AI agents
+- [Uplane](https://uplane.com) - Replace marketing agencies with AI
+- [Uplift AI](https://upliftai.org) - Foundational Voice Models for regional languages
+- [Usul](https://usul.com) - AI Platform for Winning Defense & Government Contracts
+- [Vapi](https://vapi.ai) - Voice AI for developers.
+- [Vector](https://vector.co) - Advertising for the new internet
+- [voize](https://voize.de) - We build the AI companion for nurses, to create time for care.
+- [Weekend (fmr. Volley)](https://weekend.com) - AI games and entertainment on TV
+- [Writer](https://writer.com) - Enterprise generative AI platform for business workflows and AI applications.
+- [Yuma AI](https://yuma.ai) - The AI Support Agent for Ecommerce
+- [Zeit AI](https://zeit-ai.com) - From data to enterprise insights in just a few words.
+- [Zensors](https://zensors.com) - AI to understand and automates the physical world
+- [Zuma](https://getzuma.com) - We help businesses convert leads into sales in minutes using text
