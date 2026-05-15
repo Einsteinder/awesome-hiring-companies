@@ -3889,3 +3889,151 @@
   - developer-tools
   sources:
   - https://jobs.ashbyhq.com/mintlify
+
+- name: Attain
+  slug: attain
+  domain: joinattain.com
+  careers_url: https://boards.greenhouse.io/attain
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: attain
+  tags:
+  - b2b
+  - marketplace
+  - saas
+  - supply-chain
+  sources:
+  - https://boards.greenhouse.io/attain
+
+- name: Array Labs
+  slug: array-labs
+  domain: arraylabs.io
+  careers_url: https://boards.greenhouse.io/array
+  category: open-source-and-platform
+  ats:
+    greenhouse: array
+  tags:
+  - industrials
+  - industrials-aviation-and-space
+  - satellites
+  sources:
+  - https://boards.greenhouse.io/array
+
+- name: Firecrawl
+  slug: firecrawl
+  domain: firecrawl.dev
+  careers_url: https://jobs.ashbyhq.com/firecrawl
+  category: ai-and-data
+  ats:
+    ashby: firecrawl
+  tags:
+  - b2b
+  - developer-tools
+  - open-source
+  - ai
+  sources:
+  - https://jobs.ashbyhq.com/firecrawl
+
+- name: Bubble Lab
+  slug: bubble-lab
+  domain: bubblelab.ai
+  careers_url: https://jobs.ashbyhq.com/bubble
+  category: ai-and-data
+  ats:
+    ashby: bubble
+  tags:
+  - b2b
+  - b2b-operations
+  - workflow-automation
+  - automation
+  sources:
+  - https://jobs.ashbyhq.com/bubble
+
+- name: Mashgin
+  slug: mashgin
+  domain: mashgin.com
+  careers_url: https://jobs.lever.co/mashgin
+  category: ai-and-data
+  ats:
+    lever: mashgin
+  tags:
+  - b2b
+  - b2b-retail
+  - cashierless-checkout
+  - deep-learning
+  sources:
+  - https://jobs.lever.co/mashgin
+
+- name: Flux
+  slug: flux
+  domain: paywithflux.com
+  careers_url: https://jobs.ashbyhq.com/flux
+  category: fintech
+  ats:
+    ashby: flux
+  tags:
+  - fintech
+  - fintech-payments
+  - payments
+  sources:
+  - https://jobs.ashbyhq.com/flux
+
+- name: Photoroom
+  slug: photoroom
+  domain: photoroom.com
+  careers_url: https://jobs.ashbyhq.com/photoroom
+  category: ai-and-data
+  ats:
+    ashby: photoroom
+  tags:
+  - consumer
+  - consumer-content
+  - generative-ai
+  - computer-vision
+  sources:
+  - https://jobs.ashbyhq.com/photoroom
+
+- name: Humaans
+  slug: humaans
+  domain: humaans.io
+  careers_url: https://jobs.ashbyhq.com/humaans
+  category: ai-and-data
+  ats:
+    ashby: humaans
+  tags:
+  - b2b
+  - b2b-human-resources
+  - saas
+  - human-resources
+  sources:
+  - https://jobs.ashbyhq.com/humaans
+
+- name: FleetWorks
+  slug: fleetworks
+  domain: fleetworks.ai
+  careers_url: https://jobs.ashbyhq.com/fleetworks
+  category: consumer-and-marketplace
+  ats:
+    ashby: fleetworks
+  tags:
+  - b2b
+  - b2b-supply-chain-and-logistics
+  - logistics
+  - ai
+  sources:
+  - https://jobs.ashbyhq.com/fleetworks
+
+- name: Prosper
+  slug: prosper
+  domain: getprosper.ai
+  careers_url: https://jobs.lever.co/prosper
+  category: consumer-and-marketplace
+  ats:
+    lever: prosper
+  tags:
+  - b2b
+  - health-tech
+  - healthcare
+  - ai
+  sources:
+  - https://jobs.lever.co/prosper

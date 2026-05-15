@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **270 companies**.
+Currently tracking **280 companies**.
 
 This repository is designed for two uses:
 
@@ -325,6 +325,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [Float](https://float.xyz) - Supply chain finance for consumer brands
 - [Proper](https://properfinance.io) - Reconciliation and financial operations platform
 - [Mintlify](https://mintlify.com) - The intelligent knowledge platform
+- [Attain](https://joinattain.com) - One-Stop Shop for Convenience Store Inventory
+- [Array Labs](https://arraylabs.io) - We're building satellites to create a real-time 3D map of the world.
+- [Firecrawl](https://firecrawl.dev) - The web data API for AI
+- [Bubble Lab](https://bubblelab.ai) - Prompt once, automate forever.
+- [Mashgin](https://mashgin.com) - Self-Checkout using Computer Vision.
+- [Flux](https://paywithflux.com) - Flux is building the payment network for alternative payments in…
+- [Photoroom](https://photoroom.com) - Power commerce photography with generative AI
+- [Humaans](https://humaans.io) - AI-Powered HRIS for high performing teams
+- [FleetWorks](https://fleetworks.ai) - AI enabled marketplace matching trucks with jobs
+- [Prosper](https://getprosper.ai) - AI Phone Agents for Healthcare Operations
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
