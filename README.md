@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1640 companies**.
+Currently tracking **1650 companies**.
 
 This repository is designed for two uses:
 
@@ -1696,6 +1696,16 @@ Open source video player (video.js)
 - [Sfgiants](https://sfgiants.com) - Hiring via Lever (sfgiants).
 - [Baseten](https://baseten.com) - Hiring via Ashby (baseten).
 - [Farsight](https://farsight.com) - Hiring via Ashby (farsight).
+- [Higharc](https://higharc.com) - Hiring via Ashby (higharc).
+- [Verygoodsecurity](https://verygoodsecurity.com) - Hiring via Lever (verygoodsecurity).
+- [Talos Trading](https://talostrading.com) - Hiring via Ashby (talos-trading).
+- [D Matrix](https://dmatrix.com) - Hiring via Ashby (d-matrix).
+- [Rilla](https://rilla.com) - Hiring via Ashby (rilla).
+- [Blackbird Labs Inc](https://blackbirdlabsinc.com) - Hiring via Ashby (blackbird-labs-inc).
+- [Galatea Associates](https://galateaassociates.com) - Hiring via Lever (galatea-associates).
+- [Actian](https://actian.com) - Hiring via Lever (actian).
+- [Tri](https://tri.com) - Hiring via Lever (tri).
+- [Dodmg](https://dodmg.com) - Hiring via Lever (dodmg).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

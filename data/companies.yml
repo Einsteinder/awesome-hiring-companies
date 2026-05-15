@@ -21689,3 +21689,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/farsight
+
+- name: Higharc
+  slug: higharc
+  domain: higharc.com
+  careers_url: https://jobs.ashbyhq.com/higharc
+  category: open-source-and-platform
+  ats:
+    ashby: higharc
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/higharc
+
+- name: Verygoodsecurity
+  slug: verygoodsecurity
+  domain: verygoodsecurity.com
+  careers_url: https://jobs.lever.co/verygoodsecurity
+  category: open-source-and-platform
+  ats:
+    lever: verygoodsecurity
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/verygoodsecurity
+
+- name: Talos Trading
+  slug: talos-trading
+  domain: talostrading.com
+  careers_url: https://jobs.ashbyhq.com/talos-trading
+  category: open-source-and-platform
+  ats:
+    ashby: talos-trading
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/talos-trading
+
+- name: D Matrix
+  slug: d-matrix
+  domain: dmatrix.com
+  careers_url: https://jobs.ashbyhq.com/d-matrix
+  category: open-source-and-platform
+  ats:
+    ashby: d-matrix
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/d-matrix
+
+- name: Rilla
+  slug: rilla
+  domain: rilla.com
+  careers_url: https://jobs.ashbyhq.com/rilla
+  category: open-source-and-platform
+  ats:
+    ashby: rilla
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/rilla
+
+- name: Blackbird Labs Inc
+  slug: blackbird-labs-inc
+  domain: blackbirdlabsinc.com
+  careers_url: https://jobs.ashbyhq.com/blackbird-labs-inc
+  category: open-source-and-platform
+  ats:
+    ashby: blackbird-labs-inc
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/blackbird-labs-inc
+
+- name: Galatea Associates
+  slug: galatea-associates
+  domain: galateaassociates.com
+  careers_url: https://jobs.lever.co/galatea-associates
+  category: open-source-and-platform
+  ats:
+    lever: galatea-associates
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/galatea-associates
+
+- name: Actian
+  slug: actian
+  domain: actian.com
+  careers_url: https://jobs.lever.co/actian
+  category: open-source-and-platform
+  ats:
+    lever: actian
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/actian
+
+- name: Tri
+  slug: tri
+  domain: tri.com
+  careers_url: https://jobs.lever.co/tri
+  category: open-source-and-platform
+  ats:
+    lever: tri
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/tri
+
+- name: Dodmg
+  slug: dodmg
+  domain: dodmg.com
+  careers_url: https://jobs.lever.co/dodmg
+  category: open-source-and-platform
+  ats:
+    lever: dodmg
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/dodmg
