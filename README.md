@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1040 companies**.
+Currently tracking **1050 companies**.
 
 This repository is designed for two uses:
 
@@ -1096,6 +1096,16 @@ Open source video player (video.js)
 - [Bridger](https://bridger.com) - Hiring via Ashby (bridger).
 - [Brilliant](https://brilliant.com) - Hiring via Lever (brilliant).
 - [Conception](https://conception.com) - Hiring via Ashby (conception).
+- [Conquest](https://conquest.com) - Hiring via Ashby (conquest).
+- [Datum](https://datum.com) - Hiring via Ashby (datum).
+- [Deductive](https://deductive.com) - Hiring via Ashby (deductive).
+- [Edited](https://edited.com) - Hiring via Ashby (edited).
+- [Eliza](https://eliza.com) - Hiring via Ashby (eliza).
+- [Falconer](https://falconer.com) - Hiring via Ashby (falconer).
+- [Focus](https://focus.com) - Hiring via Ashby (focus).
+- [Formula](https://formula.com) - Hiring via Ashby (formula).
+- [Form](https://form.com) - Hiring via Lever (form).
+- [Found](https://found.com) - Hiring via Ashby (found).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

@@ -14489,3 +14489,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/conception
+
+- name: Conquest
+  slug: conquest
+  domain: conquest.com
+  careers_url: https://jobs.ashbyhq.com/conquest
+  category: open-source-and-platform
+  ats:
+    ashby: conquest
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/conquest
+
+- name: Datum
+  slug: datum
+  domain: datum.com
+  careers_url: https://jobs.ashbyhq.com/datum
+  category: open-source-and-platform
+  ats:
+    ashby: datum
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/datum
+
+- name: Deductive
+  slug: deductive
+  domain: deductive.com
+  careers_url: https://jobs.ashbyhq.com/deductive
+  category: open-source-and-platform
+  ats:
+    ashby: deductive
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/deductive
+
+- name: Edited
+  slug: edited
+  domain: edited.com
+  careers_url: https://jobs.ashbyhq.com/edited
+  category: open-source-and-platform
+  ats:
+    ashby: edited
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/edited
+
+- name: Eliza
+  slug: eliza
+  domain: eliza.com
+  careers_url: https://jobs.ashbyhq.com/eliza
+  category: open-source-and-platform
+  ats:
+    ashby: eliza
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/eliza
+
+- name: Falconer
+  slug: falconer
+  domain: falconer.com
+  careers_url: https://jobs.ashbyhq.com/falconer
+  category: open-source-and-platform
+  ats:
+    ashby: falconer
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/falconer
+
+- name: Focus
+  slug: focus
+  domain: focus.com
+  careers_url: https://jobs.ashbyhq.com/focus
+  category: open-source-and-platform
+  ats:
+    ashby: focus
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/focus
+
+- name: Formula
+  slug: formula
+  domain: formula.com
+  careers_url: https://jobs.ashbyhq.com/formula
+  category: open-source-and-platform
+  ats:
+    ashby: formula
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/formula
+
+- name: Form
+  slug: form
+  domain: form.com
+  careers_url: https://jobs.lever.co/form
+  category: open-source-and-platform
+  ats:
+    lever: form
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/form
+
+- name: Found
+  slug: found
+  domain: found.com
+  careers_url: https://jobs.ashbyhq.com/found
+  category: open-source-and-platform
+  ats:
+    ashby: found
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/found
