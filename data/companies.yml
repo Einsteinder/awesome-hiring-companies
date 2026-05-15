@@ -250,6 +250,34 @@
   sources:
     - https://jobs.ashbyhq.com/writer
 
+- name: Cohere
+  slug: cohere
+  domain: cohere.com
+  careers_url: https://jobs.ashbyhq.com/cohere
+  category: ai-and-data
+  ats:
+    ashby: cohere
+  tags:
+    - ai
+    - research
+    - enterprise
+  sources:
+    - https://jobs.ashbyhq.com/cohere
+
+- name: Pinecone
+  slug: pinecone
+  domain: pinecone.io
+  careers_url: https://jobs.ashbyhq.com/pinecone
+  category: ai-and-data
+  ats:
+    ashby: pinecone
+  tags:
+    - ai
+    - vector-database
+    - infrastructure
+  sources:
+    - https://jobs.ashbyhq.com/pinecone
+
 - name: Linear
   slug: linear
   domain: linear.app
@@ -445,6 +473,34 @@
     - monitoring
   sources:
     - https://jobs.ashbyhq.com/sentry
+
+- name: Datadog
+  slug: datadog
+  domain: datadoghq.com
+  careers_url: https://job-boards.greenhouse.io/datadog
+  category: developer-infrastructure
+  ats:
+    greenhouse: datadog
+  tags:
+    - observability
+    - monitoring
+    - infrastructure
+  sources:
+    - https://job-boards.greenhouse.io/datadog
+
+- name: Wiz
+  slug: wiz
+  domain: wiz.io
+  careers_url: https://job-boards.greenhouse.io/wizinc
+  category: developer-infrastructure
+  ats:
+    greenhouse: wizinc
+  tags:
+    - security
+    - cloud
+    - infrastructure
+  sources:
+    - https://job-boards.greenhouse.io/wizinc
 
 - name: Stripe
   slug: stripe
@@ -865,3 +921,17 @@
     - productivity
   sources:
     - https://jobs.ashbyhq.com/lattice
+
+- name: Twilio
+  slug: twilio
+  domain: twilio.com
+  careers_url: https://job-boards.greenhouse.io/twilio
+  category: open-source-and-platform
+  ats:
+    greenhouse: twilio
+  tags:
+    - communications
+    - api
+    - platform
+  sources:
+    - https://job-boards.greenhouse.io/twilio

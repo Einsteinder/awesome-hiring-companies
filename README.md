@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **62 companies**.
+Currently tracking **67 companies**.
 
 This repository is designed for two uses:
 
@@ -56,6 +56,8 @@ New companies must pass the full [`Inclusion Standard`](docs/inclusion-standard.
 - [Replit](https://replit.com) - AI-assisted software creation platform and cloud development environment.
 - [LangChain](https://langchain.com) - Developer platform for building, testing, and deploying LLM applications.
 - [Writer](https://writer.com) - Enterprise generative AI platform for business workflows and AI applications.
+- [Cohere](https://cohere.com) - Enterprise AI company building foundation models and retrieval systems for business use cases.
+- [Pinecone](https://pinecone.io) - Managed vector database for semantic search, retrieval, and AI applications.
 
 ## Developer Infrastructure
 
@@ -73,6 +75,8 @@ New companies must pass the full [`Inclusion Standard`](docs/inclusion-standard.
 - [Clerk](https://clerk.com) - Authentication and user management platform for developers.
 - [ClickHouse](https://clickhouse.com) - Real-time analytics database company built around open-source ClickHouse.
 - [Sentry](https://sentry.io) - Application monitoring platform for errors, performance, and developer workflows.
+- [Datadog](https://datadoghq.com) - Observability and monitoring platform spanning infrastructure, applications, logs, and security.
+- [Wiz](https://wiz.io) - Cloud security platform for risk assessment, posture management, and runtime protection.
 
 ## Fintech
 
@@ -112,6 +116,7 @@ New companies must pass the full [`Inclusion Standard`](docs/inclusion-standard.
 - [Airtable](https://airtable.com) - Collaborative app-building and workflow platform for teams.
 - [Amplitude](https://amplitude.com) - Digital analytics and product intelligence platform.
 - [Lattice](https://lattice.com) - People management platform for performance, engagement, and HR workflows.
+- [Twilio](https://twilio.com) - Customer engagement platform with communications APIs for voice, messaging, email, and identity.
 
 ## Data Format
 
