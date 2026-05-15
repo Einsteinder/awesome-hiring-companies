@@ -519,16 +519,16 @@
 - name: Coinbase
   slug: coinbase
   domain: coinbase.com
-  careers_url: https://coinbase.com/careers
+  careers_url: https://boards.greenhouse.io/coinbase
   category: fintech
   ats:
-    custom: coinbase
+    greenhouse: coinbase
   tags:
   - crypto
   - fintech
   - infrastructure
   sources:
-  - https://coinbase.com/careers
+  - https://boards.greenhouse.io/coinbase
 
 - name: Ramp
   slug: ramp
@@ -2544,16 +2544,16 @@
 - name: Pantheon
   slug: pantheon
   domain: joinpantheon.io
-  careers_url: https://joinpantheon.io/careers
+  careers_url: https://boards.greenhouse.io/pantheon
   category: consumer-and-marketplace
   ats:
-    custom: pantheon
+    greenhouse: pantheon
   tags:
   - education
   - gaming
   - social
   sources:
-  - https://joinpantheon.io/careers
+  - https://boards.greenhouse.io/pantheon
 
 - name: Omni
   slug: omni
@@ -9438,17 +9438,17 @@
 - name: Juno
   slug: juno
   domain: juno-chat.com
-  careers_url: https://juno-chat.com/careers
+  careers_url: https://boards.greenhouse.io/juno
   category: healthcare-and-biotech
   ats:
-    custom: juno
+    greenhouse: juno
   tags:
   - healthcare
   - healthcare-consumer-health-and-wellness
   - health-tech
   - health-wellness
   sources:
-  - https://juno-chat.com/careers
+  - https://boards.greenhouse.io/juno
 
 - name: Ark
   slug: ark
@@ -9513,16 +9513,16 @@
 - name: UserGems
   slug: usergems
   domain: usergems.com
-  careers_url: https://usergems.com/careers
+  careers_url: https://boards.greenhouse.io/usergems
   category: b2b-enterprise
   ats:
-    custom: usergems
+    greenhouse: usergems
   tags:
   - b2b
   - b2b-sales
   - sales
   sources:
-  - https://usergems.com/careers
+  - https://boards.greenhouse.io/usergems
 
 - name: Tenjin
   slug: tenjin
@@ -9613,32 +9613,32 @@
 - name: AON3D
   slug: aon3d
   domain: aon3d.com
-  careers_url: https://aon3d.com/careers
+  careers_url: https://boards.greenhouse.io/aon3d
   category: industrials-and-climate
   ats:
-    custom: aon3d
+    greenhouse: aon3d
   tags:
   - industrials
   - industrials-manufacturing-and-robotics
   - hardware
   - 3d-printing
   sources:
-  - https://aon3d.com/careers
+  - https://boards.greenhouse.io/aon3d
 
 - name: UpKeep
   slug: upkeep
   domain: upkeep.com
-  careers_url: https://upkeep.com/careers
+  careers_url: https://boards.greenhouse.io/upkeep
   category: developer-infrastructure
   ats:
-    custom: upkeep
+    greenhouse: upkeep
   tags:
   - b2b
   - b2b-office-management
   - saas
   - iot
   sources:
-  - https://upkeep.com/careers
+  - https://boards.greenhouse.io/upkeep
 
 - name: Headstart
   slug: headstart
@@ -9732,16 +9732,16 @@
 - name: Haven
   slug: haven
   domain: havenservicing.com
-  careers_url: https://havenservicing.com/careers
+  careers_url: https://boards.greenhouse.io/haven
   category: fintech
   ats:
-    custom: haven
+    greenhouse: haven
   tags:
   - fintech
   - fintech-credit-and-lending
   - proptech
   sources:
-  - https://havenservicing.com/careers
+  - https://boards.greenhouse.io/haven
 
 - name: Nomic Bio
   slug: nomic-bio
@@ -9774,17 +9774,17 @@
 - name: Momence
   slug: momence
   domain: momence.com
-  careers_url: https://momence.com/careers
+  careers_url: https://boards.greenhouse.io/momence
   category: fintech
   ats:
-    custom: momence
+    greenhouse: momence
   tags:
   - consumer
   - consumer-travel-leisure-and-tourism
   - payments
   - scheduling
   sources:
-  - https://momence.com/careers
+  - https://boards.greenhouse.io/momence
 
 - name: Kingdom
   slug: kingdom
@@ -9804,17 +9804,17 @@
 - name: Galaxy
   slug: galaxy
   domain: galaxysdk.com
-  careers_url: https://galaxysdk.com/careers
+  careers_url: https://boards.greenhouse.io/galaxy
   category: developer-infrastructure
   ats:
-    custom: galaxy
+    greenhouse: galaxy
   tags:
   - b2b
   - b2b-infrastructure
   - developer-tools
   - gaming
   sources:
-  - https://galaxysdk.com/careers
+  - https://boards.greenhouse.io/galaxy
 
 - name: Epsilon3
   slug: epsilon3
@@ -21145,14 +21145,14 @@
 - name: SpaceX
   slug: spacex
   domain: spacex.com
-  careers_url: https://spacex.com/careers
+  careers_url: https://boards.greenhouse.io/spacex
   category: industrials-and-climate
   ats:
-    custom: spacex
+    greenhouse: spacex
   tags:
   - open
   sources:
-  - https://spacex.com/careers
+  - https://boards.greenhouse.io/spacex
 
 - name: Capco
   slug: capco
@@ -26091,16 +26091,16 @@
 - name: Canva
   slug: canva
   domain: canva.com
-  careers_url: https://canva.com/careers
+  careers_url: https://jobs.lever.co/canva
   category: consumer-and-marketplace
   ats:
-    custom: canva
+    lever: canva
   tags:
   - design
   - saas
   - consumer
   sources:
-  - https://canva.com/careers
+  - https://jobs.lever.co/canva
 
 - name: Sereact
   slug: sereact
