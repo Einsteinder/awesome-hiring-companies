@@ -57,16 +57,16 @@
 - name: Anthropic
   slug: anthropic
   domain: anthropic.com
-  careers_url: https://jobs.ashbyhq.com/Anthropic
+  careers_url: https://jobs.ashbyhq.com/anthropic
   category: ai-and-data
   ats:
-    ashby: Anthropic
+    ashby: anthropic
   tags:
     - ai
     - research
     - safety
   sources:
-    - https://jobs.ashbyhq.com/Anthropic
+    - https://jobs.ashbyhq.com/anthropic
 
 - name: Scale AI
   slug: scale-ai
@@ -137,6 +137,118 @@
     - infrastructure
   sources:
     - https://apply.workable.com/huggingface/
+
+- name: Perplexity
+  slug: perplexity
+  domain: perplexity.ai
+  careers_url: https://jobs.ashbyhq.com/perplexity
+  category: ai-and-data
+  ats:
+    ashby: perplexity
+  tags:
+    - ai
+    - search
+    - product
+  sources:
+    - https://jobs.ashbyhq.com/perplexity
+
+- name: ElevenLabs
+  slug: elevenlabs
+  domain: elevenlabs.io
+  careers_url: https://jobs.ashbyhq.com/elevenlabs
+  category: ai-and-data
+  ats:
+    ashby: elevenlabs
+  tags:
+    - ai
+    - audio
+    - generative-ai
+  sources:
+    - https://jobs.ashbyhq.com/elevenlabs
+
+- name: Sierra
+  slug: sierra
+  domain: sierra.ai
+  careers_url: https://jobs.ashbyhq.com/sierra
+  category: ai-and-data
+  ats:
+    ashby: sierra
+  tags:
+    - ai
+    - agents
+    - enterprise
+  sources:
+    - https://jobs.ashbyhq.com/sierra
+
+- name: Glean
+  slug: glean
+  domain: glean.com
+  careers_url: https://job-boards.greenhouse.io/gleanwork
+  category: ai-and-data
+  ats:
+    greenhouse: gleanwork
+  tags:
+    - ai
+    - search
+    - enterprise
+  sources:
+    - https://job-boards.greenhouse.io/gleanwork
+
+- name: Modal
+  slug: modal
+  domain: modal.com
+  careers_url: https://jobs.ashbyhq.com/modal
+  category: ai-and-data
+  ats:
+    ashby: modal
+  tags:
+    - ai
+    - cloud
+    - infrastructure
+  sources:
+    - https://jobs.ashbyhq.com/modal
+
+- name: Replit
+  slug: replit
+  domain: replit.com
+  careers_url: https://jobs.ashbyhq.com/replit
+  category: ai-and-data
+  ats:
+    ashby: replit
+  tags:
+    - ai
+    - developer-tools
+    - coding
+  sources:
+    - https://jobs.ashbyhq.com/replit
+
+- name: LangChain
+  slug: langchain
+  domain: langchain.com
+  careers_url: https://jobs.ashbyhq.com/langchain
+  category: ai-and-data
+  ats:
+    ashby: langchain
+  tags:
+    - ai
+    - developer-tools
+    - llm
+  sources:
+    - https://jobs.ashbyhq.com/langchain
+
+- name: Writer
+  slug: writer
+  domain: writer.com
+  careers_url: https://jobs.ashbyhq.com/writer
+  category: ai-and-data
+  ats:
+    ashby: writer
+  tags:
+    - ai
+    - enterprise
+    - generative-ai
+  sources:
+    - https://jobs.ashbyhq.com/writer
 
 - name: Linear
   slug: linear
@@ -278,6 +390,62 @@
   sources:
     - https://boards.greenhouse.io/cockroachlabs
 
+- name: Tailscale
+  slug: tailscale
+  domain: tailscale.com
+  careers_url: https://jobs.ashbyhq.com/tailscale
+  category: developer-infrastructure
+  ats:
+    ashby: tailscale
+  tags:
+    - networking
+    - security
+    - infrastructure
+  sources:
+    - https://jobs.ashbyhq.com/tailscale
+
+- name: Clerk
+  slug: clerk
+  domain: clerk.com
+  careers_url: https://jobs.ashbyhq.com/clerk
+  category: developer-infrastructure
+  ats:
+    ashby: clerk
+  tags:
+    - authentication
+    - developer-tools
+    - security
+  sources:
+    - https://jobs.ashbyhq.com/clerk
+
+- name: ClickHouse
+  slug: clickhouse
+  domain: clickhouse.com
+  careers_url: https://jobs.ashbyhq.com/clickhouse
+  category: developer-infrastructure
+  ats:
+    ashby: clickhouse
+  tags:
+    - database
+    - analytics
+    - open-source
+  sources:
+    - https://jobs.ashbyhq.com/clickhouse
+
+- name: Sentry
+  slug: sentry
+  domain: sentry.io
+  careers_url: https://jobs.ashbyhq.com/sentry
+  category: developer-infrastructure
+  ats:
+    ashby: sentry
+  tags:
+    - observability
+    - developer-tools
+    - monitoring
+  sources:
+    - https://jobs.ashbyhq.com/sentry
+
 - name: Stripe
   slug: stripe
   domain: stripe.com
@@ -390,6 +558,20 @@
   sources:
     - https://boards.greenhouse.io/brex
 
+- name: Deel
+  slug: deel
+  domain: deel.com
+  careers_url: https://jobs.ashbyhq.com/deel
+  category: fintech
+  ats:
+    ashby: deel
+  tags:
+    - fintech
+    - payroll
+    - hr
+  sources:
+    - https://jobs.ashbyhq.com/deel
+
 - name: Airbnb
   slug: airbnb
   domain: airbnb.com
@@ -487,6 +669,20 @@
     - mobile
   sources:
     - https://boards.greenhouse.io/duolingo
+
+- name: DoorDash
+  slug: doordash
+  domain: doordash.com
+  careers_url: https://job-boards.greenhouse.io/doordashusa
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: doordashusa
+  tags:
+    - marketplace
+    - logistics
+    - commerce
+  sources:
+    - https://job-boards.greenhouse.io/doordashusa
 
 - name: GitLab
   slug: gitlab
@@ -627,3 +823,45 @@
     - remote
   sources:
     - https://jobs.ashbyhq.com/zapier
+
+- name: Airtable
+  slug: airtable
+  domain: airtable.com
+  careers_url: https://job-boards.greenhouse.io/airtable
+  category: open-source-and-platform
+  ats:
+    greenhouse: airtable
+  tags:
+    - productivity
+    - collaboration
+    - no-code
+  sources:
+    - https://job-boards.greenhouse.io/airtable
+
+- name: Amplitude
+  slug: amplitude
+  domain: amplitude.com
+  careers_url: https://job-boards.greenhouse.io/amplitude
+  category: open-source-and-platform
+  ats:
+    greenhouse: amplitude
+  tags:
+    - analytics
+    - product
+    - b2b-saas
+  sources:
+    - https://job-boards.greenhouse.io/amplitude
+
+- name: Lattice
+  slug: lattice
+  domain: lattice.com
+  careers_url: https://jobs.ashbyhq.com/lattice
+  category: open-source-and-platform
+  ats:
+    ashby: lattice
+  tags:
+    - hr
+    - b2b-saas
+    - productivity
+  sources:
+    - https://jobs.ashbyhq.com/lattice

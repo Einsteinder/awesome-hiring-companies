@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **45 companies**.
+Currently tracking **62 companies**.
 
 This repository is designed for two uses:
 
@@ -48,6 +48,14 @@ New companies must pass the full [`Inclusion Standard`](docs/inclusion-standard.
 - [Anysphere](https://anysphere.inc) - AI developer-tooling company behind Cursor.
 - [Harvey](https://harvey.ai) - Legal AI platform company hiring across applied AI, product, engineering, and go-to-market.
 - [Hugging Face](https://huggingface.co) - Open AI platform and model community with infrastructure, ML, and open-source roles.
+- [Perplexity](https://perplexity.ai) - AI answer engine company with roles across search, inference, product, and applied AI.
+- [ElevenLabs](https://elevenlabs.io) - Voice AI company building speech generation, dubbing, audio, and creator tools.
+- [Sierra](https://sierra.ai) - AI agent platform company focused on customer service and enterprise automation.
+- [Glean](https://glean.com) - Enterprise AI search and knowledge platform for workplace data.
+- [Modal](https://modal.com) - Cloud platform for AI, data, and compute-intensive workloads.
+- [Replit](https://replit.com) - AI-assisted software creation platform and cloud development environment.
+- [LangChain](https://langchain.com) - Developer platform for building, testing, and deploying LLM applications.
+- [Writer](https://writer.com) - Enterprise generative AI platform for business workflows and AI applications.
 
 ## Developer Infrastructure
 
@@ -61,6 +69,10 @@ New companies must pass the full [`Inclusion Standard`](docs/inclusion-standard.
 - [Temporal](https://temporal.io) - Durable execution and workflow orchestration platform for distributed systems.
 - [MongoDB](https://mongodb.com) - Developer data platform and document database company.
 - [Cockroach Labs](https://cockroachlabs.com) - Distributed SQL database company building CockroachDB.
+- [Tailscale](https://tailscale.com) - Secure networking company built on WireGuard for teams and infrastructure.
+- [Clerk](https://clerk.com) - Authentication and user management platform for developers.
+- [ClickHouse](https://clickhouse.com) - Real-time analytics database company built around open-source ClickHouse.
+- [Sentry](https://sentry.io) - Application monitoring platform for errors, performance, and developer workflows.
 
 ## Fintech
 
@@ -72,6 +84,7 @@ New companies must pass the full [`Inclusion Standard`](docs/inclusion-standard.
 - [Mercury](https://mercury.com) - Banking and financial workflow platform for startups and businesses.
 - [Affirm](https://affirm.com) - Consumer finance platform for pay-over-time products and merchant financial services.
 - [Brex](https://brex.com) - Spend management and corporate card platform for companies.
+- [Deel](https://deel.com) - Global payroll, HR, compliance, and workforce platform for distributed companies.
 
 ## Consumer and Marketplace
 
@@ -82,6 +95,7 @@ New companies must pass the full [`Inclusion Standard`](docs/inclusion-standard.
 - [Discord](https://discord.com) - Communications platform for communities, gaming, and social products.
 - [Spotify](https://spotify.com) - Audio streaming platform with consumer, personalization, creator, and ads systems.
 - [Duolingo](https://duolingo.com) - Consumer learning platform with product, growth, ML, and mobile engineering roles.
+- [DoorDash](https://doordash.com) - Local commerce and logistics marketplace with consumer, merchant, ads, and delivery systems.
 
 ## Open Source and Platform
 
@@ -95,6 +109,9 @@ New companies must pass the full [`Inclusion Standard`](docs/inclusion-standard.
 - [Sourcegraph](https://sourcegraph.com) - Code intelligence and AI coding platform for large engineering organizations.
 - [Notion](https://notion.com) - Workspace, docs, and productivity platform with collaboration and AI product work.
 - [Zapier](https://zapier.com) - Automation platform connecting apps, workflows, and AI-enabled operations.
+- [Airtable](https://airtable.com) - Collaborative app-building and workflow platform for teams.
+- [Amplitude](https://amplitude.com) - Digital analytics and product intelligence platform.
+- [Lattice](https://lattice.com) - People management platform for performance, engagement, and HR workflows.
 
 ## Data Format
 
