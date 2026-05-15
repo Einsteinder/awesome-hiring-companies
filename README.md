@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1458 companies**.
+Currently tracking **1468 companies**.
 
 This repository is designed for two uses:
 
@@ -1514,6 +1514,16 @@ Open source video player (video.js)
 - [Tenor](https://tenor.com) - Hiring via Ashby (tenor).
 - [Tightrope](https://tightrope.com) - Hiring via Ashby (tightrope).
 - [Toms](https://toms.com) - Hiring via Ashby (toms).
+- [Tonic](https://tonic.com) - Hiring via Lever (tonic).
+- [Town](https://town.com) - Hiring via Ashby (town).
+- [Tractable](https://tractable.com) - Hiring via Ashby (tractable).
+- [Unlearn](https://unlearn.com) - Hiring via Ashby (unlearn).
+- [Vivid](https://vivid.com) - Hiring via Ashby (vivid).
+- [Yardstick](https://yardstick.com) - Hiring via Lever (yardstick).
+- [Hoopla](https://hoopla.com) - Hiring via Ashby (hoopla).
+- [Horizon](https://horizon.com) - Hiring via Lever (horizon).
+- [Illumination](https://illumination.com) - Hiring via Lever (illumination).
+- [Keel](https://keel.com) - Hiring via Ashby (keel).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

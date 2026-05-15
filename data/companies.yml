@@ -19505,3 +19505,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/toms
+
+- name: Tonic
+  slug: tonic
+  domain: tonic.com
+  careers_url: https://jobs.lever.co/tonic
+  category: open-source-and-platform
+  ats:
+    lever: tonic
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/tonic
+
+- name: Town
+  slug: town
+  domain: town.com
+  careers_url: https://jobs.ashbyhq.com/town
+  category: open-source-and-platform
+  ats:
+    ashby: town
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/town
+
+- name: Tractable
+  slug: tractable
+  domain: tractable.com
+  careers_url: https://jobs.ashbyhq.com/tractable
+  category: open-source-and-platform
+  ats:
+    ashby: tractable
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/tractable
+
+- name: Unlearn
+  slug: unlearn
+  domain: unlearn.com
+  careers_url: https://jobs.ashbyhq.com/unlearn
+  category: open-source-and-platform
+  ats:
+    ashby: unlearn
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/unlearn
+
+- name: Vivid
+  slug: vivid
+  domain: vivid.com
+  careers_url: https://jobs.ashbyhq.com/vivid
+  category: open-source-and-platform
+  ats:
+    ashby: vivid
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/vivid
+
+- name: Yardstick
+  slug: yardstick
+  domain: yardstick.com
+  careers_url: https://jobs.lever.co/yardstick
+  category: open-source-and-platform
+  ats:
+    lever: yardstick
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/yardstick
+
+- name: Hoopla
+  slug: hoopla
+  domain: hoopla.com
+  careers_url: https://jobs.ashbyhq.com/hoopla
+  category: open-source-and-platform
+  ats:
+    ashby: hoopla
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/hoopla
+
+- name: Horizon
+  slug: horizon
+  domain: horizon.com
+  careers_url: https://jobs.lever.co/horizon
+  category: open-source-and-platform
+  ats:
+    lever: horizon
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/horizon
+
+- name: Illumination
+  slug: illumination
+  domain: illumination.com
+  careers_url: https://jobs.lever.co/illumination
+  category: open-source-and-platform
+  ats:
+    lever: illumination
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/illumination
+
+- name: Keel
+  slug: keel
+  domain: keel.com
+  careers_url: https://jobs.ashbyhq.com/keel
+  category: open-source-and-platform
+  ats:
+    ashby: keel
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/keel
