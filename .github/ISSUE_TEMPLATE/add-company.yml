@@ -1,7 +1,7 @@
 name: Add a company
 description: Request a new company entry. The agent will open a PR.
 title: "Add: <company name>"
-labels: ["agent-task", "add-company"]
+labels: ["jules", "add-company"]
 body:
   - type: input
     id: name

@@ -1,7 +1,7 @@
 name: Fix an entry
 description: Broken careers URL, wrong ATS slug, or dead listing. The agent will open a PR.
 title: "Fix: <slug>"
-labels: ["agent-task", "fix-entry"]
+labels: ["jules", "fix-entry"]
 body:
   - type: input
     id: slug
