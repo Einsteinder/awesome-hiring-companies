@@ -15089,3 +15089,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/buffer
+
+- name: Bunny
+  slug: bunny
+  domain: bunny.com
+  careers_url: https://jobs.ashbyhq.com/bunny
+  category: open-source-and-platform
+  ats:
+    ashby: bunny
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/bunny
+
+- name: Candidate
+  slug: candidate
+  domain: candidate.com
+  careers_url: https://jobs.lever.co/candidate
+  category: open-source-and-platform
+  ats:
+    lever: candidate
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/candidate
+
+- name: Career
+  slug: career
+  domain: career.com
+  careers_url: https://jobs.lever.co/career
+  category: open-source-and-platform
+  ats:
+    lever: career
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/career
+
+- name: Codex
+  slug: codex
+  domain: codex.com
+  careers_url: https://jobs.ashbyhq.com/codex
+  category: open-source-and-platform
+  ats:
+    ashby: codex
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/codex
+
+- name: Coalescence
+  slug: coalescence
+  domain: coalescence.com
+  careers_url: https://jobs.lever.co/coalescence
+  category: open-source-and-platform
+  ats:
+    lever: coalescence
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/coalescence
+
+- name: Composite
+  slug: composite
+  domain: composite.com
+  careers_url: https://jobs.ashbyhq.com/composite
+  category: open-source-and-platform
+  ats:
+    ashby: composite
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/composite
+
+- name: Comprehensive
+  slug: comprehensive
+  domain: comprehensive.com
+  careers_url: https://jobs.ashbyhq.com/comprehensive
+  category: open-source-and-platform
+  ats:
+    ashby: comprehensive
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/comprehensive
+
+- name: Covey
+  slug: covey
+  domain: covey.com
+  careers_url: https://jobs.lever.co/covey
+  category: open-source-and-platform
+  ats:
+    lever: covey
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/covey
+
+- name: Darwin
+  slug: darwin
+  domain: darwin.com
+  careers_url: https://jobs.ashbyhq.com/darwin
+  category: open-source-and-platform
+  ats:
+    ashby: darwin
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/darwin
+
+- name: Dipper
+  slug: dipper
+  domain: dipper.com
+  careers_url: https://jobs.ashbyhq.com/dipper
+  category: open-source-and-platform
+  ats:
+    ashby: dipper
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/dipper

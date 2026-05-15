@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1090 companies**.
+Currently tracking **1100 companies**.
 
 This repository is designed for two uses:
 
@@ -1146,6 +1146,16 @@ Open source video player (video.js)
 - [Beside](https://beside.com) - Hiring via Ashby (beside).
 - [Boon](https://boon.com) - Hiring via Ashby (boon).
 - [Buffer](https://buffer.com) - Hiring via Ashby (buffer).
+- [Bunny](https://bunny.com) - Hiring via Ashby (bunny).
+- [Candidate](https://candidate.com) - Hiring via Lever (candidate).
+- [Career](https://career.com) - Hiring via Lever (career).
+- [Codex](https://codex.com) - Hiring via Ashby (codex).
+- [Coalescence](https://coalescence.com) - Hiring via Lever (coalescence).
+- [Composite](https://composite.com) - Hiring via Ashby (composite).
+- [Comprehensive](https://comprehensive.com) - Hiring via Ashby (comprehensive).
+- [Covey](https://covey.com) - Hiring via Lever (covey).
+- [Darwin](https://darwin.com) - Hiring via Ashby (darwin).
+- [Dipper](https://dipper.com) - Hiring via Ashby (dipper).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
