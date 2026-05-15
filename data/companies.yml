@@ -8950,3 +8950,150 @@
   - b2b
   sources:
   - https://jobs.ashbyhq.com/hypercore
+
+- name: Kodex
+  slug: kodex
+  domain: kodexglobal.com
+  careers_url: https://jobs.ashbyhq.com/kodex
+  category: ai-and-data
+  ats:
+    ashby: kodex
+  tags:
+  - b2b
+  - b2b-legal
+  - govtech
+  - compliance
+  sources:
+  - https://jobs.ashbyhq.com/kodex
+
+- name: Zensors
+  slug: zensors
+  domain: zensors.com
+  careers_url: https://jobs.ashbyhq.com/zensors
+  category: ai-and-data
+  ats:
+    ashby: zensors
+  tags:
+  - b2b
+  - aiops
+  - artificial-intelligence
+  sources:
+  - https://jobs.ashbyhq.com/zensors
+
+- name: Aviator
+  slug: aviator
+  domain: aviator.co
+  careers_url: https://jobs.ashbyhq.com/aviator
+  category: developer-infrastructure
+  ats:
+    ashby: aviator
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - developer-tools
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/aviator
+
+- name: Invert
+  slug: invert
+  domain: invertbio.com
+  careers_url: https://jobs.ashbyhq.com/invert
+  category: ai-and-data
+  ats:
+    ashby: invert
+  tags:
+  - healthcare
+  - healthcare-industrial-bio
+  - cellular-agriculture
+  - machine-learning
+  sources:
+  - https://jobs.ashbyhq.com/invert
+
+- name: Julius
+  slug: julius
+  domain: julius.ai
+  careers_url: https://jobs.ashbyhq.com/julius
+  category: ai-and-data
+  ats:
+    ashby: julius
+  tags:
+  - b2b
+  - ai
+  sources:
+  - https://jobs.ashbyhq.com/julius
+
+- name: Thera
+  slug: thera
+  domain: getthera.com
+  careers_url: https://jobs.ashbyhq.com/thera
+  category: fintech
+  ats:
+    ashby: thera
+  tags:
+  - b2b
+  - artificial-intelligence
+  - fintech
+  - payroll
+  sources:
+  - https://jobs.ashbyhq.com/thera
+
+- name: Bluedot
+  slug: bluedot
+  domain: thebluedot.co
+  careers_url: https://jobs.ashbyhq.com/bluedot
+  category: fintech
+  ats:
+    ashby: bluedot
+  tags:
+  - fintech
+  - climate
+  - transportation
+  - climatetech
+  sources:
+  - https://jobs.ashbyhq.com/bluedot
+
+- name: Yuma AI
+  slug: yuma-ai
+  domain: yuma.ai
+  careers_url: https://jobs.ashbyhq.com/yumaai
+  category: ai-and-data
+  ats:
+    ashby: yumaai
+  tags:
+  - b2b
+  - b2b-operations
+  - artificial-intelligence
+  - customer-support
+  sources:
+  - https://jobs.ashbyhq.com/yumaai
+
+- name: Wallbit
+  slug: wallbit
+  domain: wallbit.io
+  careers_url: https://jobs.ashbyhq.com/wallbit
+  category: fintech
+  ats:
+    ashby: wallbit
+  tags:
+  - fintech
+  - fintech-banking-and-exchange
+  - investing
+  - neobank
+  sources:
+  - https://jobs.ashbyhq.com/wallbit
+
+- name: Hyperbound
+  slug: hyperbound
+  domain: hyperbound.ai
+  careers_url: https://jobs.ashbyhq.com/hyperbound
+  category: ai-and-data
+  ats:
+    ashby: hyperbound
+  tags:
+  - b2b
+  - b2b-sales
+  - ai-enhanced-learning
+  - sales
+  sources:
+  - https://jobs.ashbyhq.com/hyperbound

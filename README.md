@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **620 companies**.
+Currently tracking **630 companies**.
 
 This repository is designed for two uses:
 
@@ -676,6 +676,16 @@ Open source video player (video.js)
 - [FlutterFlow](https://flutterflow.io) - Application Development Platform (Native Mobile + Web Apps)
 - [Svix](https://svix.com) - Enterprise ready webhooks service, open-source and in the cloud
 - [Hypercore](https://hypercore.ai) - Loan management software for private lenders
+- [Kodex](https://kodexglobal.com) - Easiest way for companies to process data requests from governments
+- [Zensors](https://zensors.com) - AI to understand and automates the physical world
+- [Aviator](https://aviator.co) - Google-level engineering productivity suite
+- [Invert](https://invertbio.com) - Data analytics software for biomanufacturing.
+- [Julius](https://julius.ai) - AI Data Scientist
+- [Thera](https://getthera.com) - AI-Native Finance OS
+- [Bluedot](https://thebluedot.co) - Bluedot is a single payment platform for EV drivers and fleets.
+- [Yuma AI](https://yuma.ai) - The AI Support Agent for Ecommerce
+- [Wallbit](https://wallbit.io) - Neobank for global remote workers
+- [Hyperbound](https://hyperbound.ai) - Revenue Activation Platform
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
