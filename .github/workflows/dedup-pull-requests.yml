@@ -1,0 +1,76 @@
+name: Dedup PRs by closing issue
+
+# If two PRs reference the same issue with Closes/Fixes/Resolves #N, the
+# newer one (higher PR number) is closed automatically. The lower-numbered
+# PR is always the survivor, which makes the resolution deterministic when
+# two PRs are opened concurrently — both workflows look at each other, but
+# only the higher-numbered one acts.
+
+on:
+  pull_request:
+    types: [opened, reopened, edited]
+
+permissions:
+  pull-requests: write
+  issues: write
+
+jobs:
+  dedup:
+    if: github.event.pull_request.state == 'open'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/github-script@v7
+        with:
+          script: |
+            const closingRegex = /(?:close[sd]?|fix(?:e[sd])?|resolve[sd]?)\s+#(\d+)/gi;
+
+            const thisPR = context.payload.pull_request;
+            const thisBody = thisPR.body || '';
+            const thisCloses = new Set(
+              [...thisBody.matchAll(closingRegex)].map(m => parseInt(m[1]))
+            );
+            if (thisCloses.size === 0) {
+              core.info('This PR closes no issues. Nothing to dedup.');
+              return;
+            }
+
+            const allOpen = await github.paginate(github.rest.pulls.list, {
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              per_page: 100,
+            });
+
+            for (const other of allOpen) {
+              // Only compare against strictly-older PRs. The lower number
+              // always wins, making concurrent races deterministic.
+              if (other.number >= thisPR.number) continue;
+
+              const otherCloses = new Set(
+                [...(other.body || '').matchAll(closingRegex)].map(m => parseInt(m[1]))
+              );
+              const overlap = [...thisCloses].filter(n => otherCloses.has(n));
+              if (overlap.length === 0) continue;
+
+              const issueList = overlap.map(n => `#${n}`).join(', ');
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: thisPR.number,
+                body: [
+                  `Closing as duplicate. PR #${other.number} already addresses ${issueList}.`,
+                  '',
+                  `If the other PR is broken or you want this approach instead, close #${other.number} first, then reopen this PR.`,
+                ].join('\n'),
+              });
+              await github.rest.pulls.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: thisPR.number,
+                state: 'closed',
+              });
+              core.info(`Closed PR #${thisPR.number} as duplicate of #${other.number} (issues: ${issueList}).`);
+              return;
+            }
+
+            core.info('No duplicate found.');

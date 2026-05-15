@@ -1,0 +1,48 @@
+name: Enforce agent label exclusivity
+
+# Each fix issue must be owned by exactly one agent. If a human or another
+# workflow adds the second agent label, this workflow removes the one that
+# was just added and posts a short comment explaining how to re-route.
+
+on:
+  issues:
+    types: [labeled]
+
+permissions:
+  issues: write
+
+jobs:
+  enforce:
+    if: |
+      contains(github.event.issue.labels.*.name, 'jules') &&
+      contains(github.event.issue.labels.*.name, 'fix-me')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/github-script@v7
+        with:
+          script: |
+            const justAdded = context.payload.label && context.payload.label.name;
+            if (justAdded !== 'jules' && justAdded !== 'fix-me') {
+              core.info(`Label added was '${justAdded}', not an agent label. Skipping.`);
+              return;
+            }
+            const other = justAdded === 'jules' ? 'fix-me' : 'jules';
+            await github.rest.issues.removeLabel({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              name: justAdded,
+            });
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: [
+                `Removed \`${justAdded}\` label.`,
+                '',
+                `This issue is already owned by \`${other}\`. Only one agent ` +
+                  `should work on a given issue to avoid racing PRs.`,
+                '',
+                `To re-route, remove \`${other}\` first, then add \`${justAdded}\`.`,
+              ].join('\n'),
+            });
