@@ -14369,3 +14369,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/griffin
+
+- name: Hamster
+  slug: hamster
+  domain: hamster.com
+  careers_url: https://jobs.ashbyhq.com/hamster
+  category: open-source-and-platform
+  ats:
+    ashby: hamster
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/hamster
+
+- name: Healthcare
+  slug: healthcare
+  domain: healthcare.com
+  careers_url: https://jobs.lever.co/healthcare
+  category: open-source-and-platform
+  ats:
+    lever: healthcare
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/healthcare
+
+- name: Aida
+  slug: aida
+  domain: aida.com
+  careers_url: https://jobs.ashbyhq.com/aida
+  category: open-source-and-platform
+  ats:
+    ashby: aida
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/aida
+
+- name: Anon
+  slug: anon
+  domain: anon.com
+  careers_url: https://jobs.ashbyhq.com/anon
+  category: open-source-and-platform
+  ats:
+    ashby: anon
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/anon
+
+- name: Attention
+  slug: attention
+  domain: attention.com
+  careers_url: https://jobs.ashbyhq.com/attention
+  category: open-source-and-platform
+  ats:
+    ashby: attention
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/attention
+
+- name: Baton
+  slug: baton
+  domain: baton.com
+  careers_url: https://jobs.ashbyhq.com/baton
+  category: open-source-and-platform
+  ats:
+    ashby: baton
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/baton
+
+- name: Billie
+  slug: billie
+  domain: billie.com
+  careers_url: https://jobs.ashbyhq.com/billie
+  category: open-source-and-platform
+  ats:
+    ashby: billie
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/billie
+
+- name: Bridger
+  slug: bridger
+  domain: bridger.com
+  careers_url: https://jobs.ashbyhq.com/bridger
+  category: open-source-and-platform
+  ats:
+    ashby: bridger
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/bridger
+
+- name: Brilliant
+  slug: brilliant
+  domain: brilliant.com
+  careers_url: https://jobs.lever.co/brilliant
+  category: open-source-and-platform
+  ats:
+    lever: brilliant
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/brilliant
+
+- name: Conception
+  slug: conception
+  domain: conception.com
+  careers_url: https://jobs.ashbyhq.com/conception
+  category: open-source-and-platform
+  ats:
+    ashby: conception
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/conception

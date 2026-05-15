@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1030 companies**.
+Currently tracking **1040 companies**.
 
 This repository is designed for two uses:
 
@@ -1086,6 +1086,16 @@ Open source video player (video.js)
 - [Foursquare](https://foursquare.com) - Hiring via Ashby (foursquare).
 - [Gauntlet](https://gauntlet.com) - Hiring via Lever (gauntlet).
 - [Griffin](https://griffin.com) - Hiring via Ashby (griffin).
+- [Hamster](https://hamster.com) - Hiring via Ashby (hamster).
+- [Healthcare](https://healthcare.com) - Hiring via Lever (healthcare).
+- [Aida](https://aida.com) - Hiring via Ashby (aida).
+- [Anon](https://anon.com) - Hiring via Ashby (anon).
+- [Attention](https://attention.com) - Hiring via Ashby (attention).
+- [Baton](https://baton.com) - Hiring via Ashby (baton).
+- [Billie](https://billie.com) - Hiring via Ashby (billie).
+- [Bridger](https://bridger.com) - Hiring via Ashby (bridger).
+- [Brilliant](https://brilliant.com) - Hiring via Lever (brilliant).
+- [Conception](https://conception.com) - Hiring via Ashby (conception).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
