@@ -18665,3 +18665,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/hyde
+
+- name: Ignition
+  slug: ignition
+  domain: ignition.com
+  careers_url: https://jobs.ashbyhq.com/ignition
+  category: open-source-and-platform
+  ats:
+    ashby: ignition
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/ignition
+
+- name: Isometric
+  slug: isometric
+  domain: isometric.com
+  careers_url: https://jobs.ashbyhq.com/isometric
+  category: open-source-and-platform
+  ats:
+    ashby: isometric
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/isometric
+
+- name: Jolly
+  slug: jolly
+  domain: jolly.com
+  careers_url: https://jobs.ashbyhq.com/jolly
+  category: open-source-and-platform
+  ats:
+    ashby: jolly
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/jolly
+
+- name: Kale
+  slug: kale
+  domain: kale.com
+  careers_url: https://jobs.ashbyhq.com/kale
+  category: open-source-and-platform
+  ats:
+    ashby: kale
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/kale
+
+- name: Krypton
+  slug: krypton
+  domain: krypton.com
+  careers_url: https://jobs.lever.co/krypton
+  category: open-source-and-platform
+  ats:
+    lever: krypton
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/krypton
+
+- name: Linda
+  slug: linda
+  domain: linda.com
+  careers_url: https://jobs.ashbyhq.com/linda
+  category: open-source-and-platform
+  ats:
+    ashby: linda
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/linda
+
+- name: Lovelace
+  slug: lovelace
+  domain: lovelace.com
+  careers_url: https://jobs.ashbyhq.com/lovelace
+  category: open-source-and-platform
+  ats:
+    ashby: lovelace
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/lovelace
+
+- name: Magnify
+  slug: magnify
+  domain: magnify.com
+  careers_url: https://jobs.lever.co/magnify
+  category: open-source-and-platform
+  ats:
+    lever: magnify
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/magnify
+
+- name: Materialize
+  slug: materialize
+  domain: materialize.com
+  careers_url: https://jobs.ashbyhq.com/materialize
+  category: open-source-and-platform
+  ats:
+    ashby: materialize
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/materialize
+
+- name: Noodle
+  slug: noodle
+  domain: noodle.com
+  careers_url: https://jobs.lever.co/noodle
+  category: open-source-and-platform
+  ats:
+    lever: noodle
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/noodle

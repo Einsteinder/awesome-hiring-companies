@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1388 companies**.
+Currently tracking **1398 companies**.
 
 This repository is designed for two uses:
 
@@ -1444,6 +1444,16 @@ Open source video player (video.js)
 - [Wilson](https://wilson.com) - Hiring via Ashby (wilson).
 - [Wisp](https://wisp.com) - Hiring via Ashby (wisp).
 - [Hyde](https://hyde.com) - Hiring via Ashby (hyde).
+- [Ignition](https://ignition.com) - Hiring via Ashby (ignition).
+- [Isometric](https://isometric.com) - Hiring via Ashby (isometric).
+- [Jolly](https://jolly.com) - Hiring via Ashby (jolly).
+- [Kale](https://kale.com) - Hiring via Ashby (kale).
+- [Krypton](https://krypton.com) - Hiring via Lever (krypton).
+- [Linda](https://linda.com) - Hiring via Ashby (linda).
+- [Lovelace](https://lovelace.com) - Hiring via Ashby (lovelace).
+- [Magnify](https://magnify.com) - Hiring via Lever (magnify).
+- [Materialize](https://materialize.com) - Hiring via Ashby (materialize).
+- [Noodle](https://noodle.com) - Hiring via Lever (noodle).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
