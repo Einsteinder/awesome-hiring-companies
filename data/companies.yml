@@ -20849,3 +20849,123 @@
   - open
   sources:
   - https://boards.greenhouse.io/northspyre
+
+- name: Tenstorrent University Jobs
+  slug: tenstorrent-university-jobs
+  domain: tenstorrentuniversityjobs.com
+  careers_url: https://boards.greenhouse.io/tenstorrentuniversity
+  category: open-source-and-platform
+  ats:
+    greenhouse: tenstorrentuniversity
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/tenstorrentuniversity
+
+- name: AvePoint
+  slug: avepoint
+  domain: avepoint.com
+  careers_url: https://boards.greenhouse.io/avepoint
+  category: open-source-and-platform
+  ats:
+    greenhouse: avepoint
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/avepoint
+
+- name: North America
+  slug: north-america
+  domain: northamerica.com
+  careers_url: https://boards.greenhouse.io/xebiausa
+  category: open-source-and-platform
+  ats:
+    greenhouse: xebiausa
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/xebiausa
+
+- name: Labelbox
+  slug: labelbox
+  domain: labelbox.com
+  careers_url: https://boards.greenhouse.io/labelbox
+  category: open-source-and-platform
+  ats:
+    greenhouse: labelbox
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/labelbox
+
+- name: EnergyHub
+  slug: energyhub
+  domain: energyhub.com
+  careers_url: https://boards.greenhouse.io/energyhub
+  category: open-source-and-platform
+  ats:
+    greenhouse: energyhub
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/energyhub
+
+- name: RTW Investments
+  slug: rtw-investments
+  domain: rtwinvestments.com
+  careers_url: https://boards.greenhouse.io/rtwinvestments
+  category: open-source-and-platform
+  ats:
+    greenhouse: rtwinvestments
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/rtwinvestments
+
+- name: RVO Health
+  slug: rvo-health
+  domain: rvohealth.com
+  careers_url: https://boards.greenhouse.io/rvohealth
+  category: open-source-and-platform
+  ats:
+    greenhouse: rvohealth
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/rvohealth
+
+- name: Planet
+  slug: planet
+  domain: planet.com
+  careers_url: https://boards.greenhouse.io/planetlabs
+  category: open-source-and-platform
+  ats:
+    greenhouse: planetlabs
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/planetlabs
+
+- name: Haize Labs
+  slug: haize-labs
+  domain: haizelabs.com
+  careers_url: https://boards.greenhouse.io/haizelabs
+  category: open-source-and-platform
+  ats:
+    greenhouse: haizelabs
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/haizelabs
+
+- name: Kikoff
+  slug: kikoff
+  domain: kikoff.com
+  careers_url: https://boards.greenhouse.io/kikoff
+  category: open-source-and-platform
+  ats:
+    greenhouse: kikoff
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/kikoff

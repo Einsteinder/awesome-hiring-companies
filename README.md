@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1570 companies**.
+Currently tracking **1580 companies**.
 
 This repository is designed for two uses:
 
@@ -1626,6 +1626,16 @@ Open source video player (video.js)
 - [Underdog](https://underdog.com) - Hiring via Greenhouse (underdogfantasy).
 - [Workstream](https://workstream.com) - Hiring via Greenhouse (workstream).
 - [Northspyre](https://northspyre.com) - Hiring via Greenhouse (northspyre).
+- [Tenstorrent University Jobs](https://tenstorrentuniversityjobs.com) - Hiring via Greenhouse (tenstorrentuniversity).
+- [AvePoint](https://avepoint.com) - Hiring via Greenhouse (avepoint).
+- [North America](https://northamerica.com) - Hiring via Greenhouse (xebiausa).
+- [Labelbox](https://labelbox.com) - Hiring via Greenhouse (labelbox).
+- [EnergyHub](https://energyhub.com) - Hiring via Greenhouse (energyhub).
+- [RTW Investments](https://rtwinvestments.com) - Hiring via Greenhouse (rtwinvestments).
+- [RVO Health](https://rvohealth.com) - Hiring via Greenhouse (rvohealth).
+- [Planet](https://planet.com) - Hiring via Greenhouse (planetlabs).
+- [Haize Labs](https://haizelabs.com) - Hiring via Greenhouse (haizelabs).
+- [Kikoff](https://kikoff.com) - Hiring via Greenhouse (kikoff).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
