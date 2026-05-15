@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1965 companies**.
+Currently tracking **1975 companies**.
 
 This repository is designed for two uses:
 
@@ -2021,6 +2021,16 @@ Open source video player (video.js)
 - [Roku](https://roku.com) - Hiring via Greenhouse (roku).
 - [ConnectWise](https://connectwise.com) - Hiring via Greenhouse (connectwise).
 - [PayPay India](https://paypayindia.com) - Hiring via Greenhouse (pay2dc).
+- [GoGuardian](https://goguardian.com) - Hiring via Greenhouse (goguardian).
+- [Weedmaps](https://weedmaps.com) - Hiring via Greenhouse (weedmaps77).
+- [New Relic](https://newrelic.com) - Hiring via Greenhouse (newrelic).
+- [Sightline Media Group](https://sightlinemediagroup.com) - Hiring via Greenhouse (sightlinemediagroup).
+- [The Banner](https://thebanner.com) - Hiring via Greenhouse (thebaltimorebanner).
+- [Formlabs](https://formlabs.com) - Hiring via Greenhouse (formlabs).
+- [SmartBear](https://smartbear.com) - Hiring via Greenhouse (smartbear).
+- [Razorpay Software Private Limited](https://razorpaysoftwareprivatelimited.com) - Hiring via Greenhouse (razorpaysoftwareprivatelimited).
+- [Trace3](https://trace3.com) - Hiring via Greenhouse (trace3).
+- [31st Union](https://31stunion.com) - Hiring via Greenhouse (31stunion).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

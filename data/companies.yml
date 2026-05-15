@@ -25589,3 +25589,123 @@
   - open
   sources:
   - https://boards.greenhouse.io/pay2dc
+
+- name: GoGuardian
+  slug: goguardian
+  domain: goguardian.com
+  careers_url: https://boards.greenhouse.io/goguardian
+  category: open-source-and-platform
+  ats:
+    greenhouse: goguardian
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/goguardian
+
+- name: Weedmaps
+  slug: weedmaps
+  domain: weedmaps.com
+  careers_url: https://boards.greenhouse.io/weedmaps77
+  category: open-source-and-platform
+  ats:
+    greenhouse: weedmaps77
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/weedmaps77
+
+- name: New Relic
+  slug: new-relic
+  domain: newrelic.com
+  careers_url: https://boards.greenhouse.io/newrelic
+  category: open-source-and-platform
+  ats:
+    greenhouse: newrelic
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/newrelic
+
+- name: Sightline Media Group
+  slug: sightline-media-group
+  domain: sightlinemediagroup.com
+  careers_url: https://boards.greenhouse.io/sightlinemediagroup
+  category: open-source-and-platform
+  ats:
+    greenhouse: sightlinemediagroup
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/sightlinemediagroup
+
+- name: The Banner
+  slug: the-banner
+  domain: thebanner.com
+  careers_url: https://boards.greenhouse.io/thebaltimorebanner
+  category: open-source-and-platform
+  ats:
+    greenhouse: thebaltimorebanner
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/thebaltimorebanner
+
+- name: Formlabs
+  slug: formlabs
+  domain: formlabs.com
+  careers_url: https://boards.greenhouse.io/formlabs
+  category: open-source-and-platform
+  ats:
+    greenhouse: formlabs
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/formlabs
+
+- name: SmartBear
+  slug: smartbear
+  domain: smartbear.com
+  careers_url: https://boards.greenhouse.io/smartbear
+  category: open-source-and-platform
+  ats:
+    greenhouse: smartbear
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/smartbear
+
+- name: Razorpay Software Private Limited
+  slug: razorpay-software-private-limited
+  domain: razorpaysoftwareprivatelimited.com
+  careers_url: https://boards.greenhouse.io/razorpaysoftwareprivatelimited
+  category: open-source-and-platform
+  ats:
+    greenhouse: razorpaysoftwareprivatelimited
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/razorpaysoftwareprivatelimited
+
+- name: Trace3
+  slug: trace3
+  domain: trace3.com
+  careers_url: https://boards.greenhouse.io/trace3
+  category: open-source-and-platform
+  ats:
+    greenhouse: trace3
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/trace3
+
+- name: 31st Union
+  slug: 31st-union
+  domain: 31stunion.com
+  careers_url: https://boards.greenhouse.io/31stunion
+  category: open-source-and-platform
+  ats:
+    greenhouse: 31stunion
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/31stunion
