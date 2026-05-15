@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1945 companies**.
+Currently tracking **1955 companies**.
 
 This repository is designed for two uses:
 
@@ -2001,6 +2001,16 @@ Open source video player (video.js)
 - [Catawiki](https://catawiki.com) - Hiring via Greenhouse (catawiki).
 - [Braze](https://braze.com) - Hiring via Greenhouse (braze).
 - [BigID](https://bigid.com) - Hiring via Greenhouse (bigid).
+- [Descript](https://descript.com) - Hiring via Greenhouse (descript).
+- [eClinical Solutions](https://eclinicalsolutions.com) - Hiring via Greenhouse (eclinicalsolutions).
+- [Chan Zuckerberg Initiative](https://chanzuckerberginitiative.com) - Hiring via Greenhouse (chanzuckerberginitiative).
+- [Awin](https://awin.com) - Hiring via Greenhouse (awin).
+- [A24](https://a24.com) - Hiring via Greenhouse (a24).
+- [Culture Amp](https://cultureamp.com) - Hiring via Greenhouse (cultureamp).
+- [Betterment](https://betterment.com) - Hiring via Greenhouse (betterment).
+- [Sigma Computing](https://sigmacomputing.com) - Hiring via Greenhouse (sigmacomputing).
+- [Maven Clinic](https://mavenclinic.com) - Hiring via Greenhouse (mavenclinic).
+- [XTX Markets](https://xtxmarkets.com) - Hiring via Greenhouse (xtxmarketstechnologies).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

@@ -25349,3 +25349,123 @@
   - open
   sources:
   - https://boards.greenhouse.io/bigid
+
+- name: Descript
+  slug: descript
+  domain: descript.com
+  careers_url: https://boards.greenhouse.io/descript
+  category: open-source-and-platform
+  ats:
+    greenhouse: descript
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/descript
+
+- name: eClinical Solutions
+  slug: eclinical-solutions
+  domain: eclinicalsolutions.com
+  careers_url: https://boards.greenhouse.io/eclinicalsolutions
+  category: open-source-and-platform
+  ats:
+    greenhouse: eclinicalsolutions
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/eclinicalsolutions
+
+- name: Chan Zuckerberg Initiative
+  slug: chan-zuckerberg-initiative
+  domain: chanzuckerberginitiative.com
+  careers_url: https://boards.greenhouse.io/chanzuckerberginitiative
+  category: open-source-and-platform
+  ats:
+    greenhouse: chanzuckerberginitiative
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/chanzuckerberginitiative
+
+- name: Awin
+  slug: awin
+  domain: awin.com
+  careers_url: https://boards.greenhouse.io/awin
+  category: open-source-and-platform
+  ats:
+    greenhouse: awin
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/awin
+
+- name: A24
+  slug: a24
+  domain: a24.com
+  careers_url: https://boards.greenhouse.io/a24
+  category: open-source-and-platform
+  ats:
+    greenhouse: a24
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/a24
+
+- name: Culture Amp
+  slug: culture-amp
+  domain: cultureamp.com
+  careers_url: https://boards.greenhouse.io/cultureamp
+  category: open-source-and-platform
+  ats:
+    greenhouse: cultureamp
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/cultureamp
+
+- name: Betterment
+  slug: betterment
+  domain: betterment.com
+  careers_url: https://boards.greenhouse.io/betterment
+  category: open-source-and-platform
+  ats:
+    greenhouse: betterment
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/betterment
+
+- name: Sigma Computing
+  slug: sigma-computing
+  domain: sigmacomputing.com
+  careers_url: https://boards.greenhouse.io/sigmacomputing
+  category: open-source-and-platform
+  ats:
+    greenhouse: sigmacomputing
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/sigmacomputing
+
+- name: Maven Clinic
+  slug: maven-clinic
+  domain: mavenclinic.com
+  careers_url: https://boards.greenhouse.io/mavenclinic
+  category: open-source-and-platform
+  ats:
+    greenhouse: mavenclinic
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/mavenclinic
+
+- name: XTX Markets
+  slug: xtx-markets
+  domain: xtxmarkets.com
+  careers_url: https://boards.greenhouse.io/xtxmarketstechnologies
+  category: open-source-and-platform
+  ats:
+    greenhouse: xtxmarketstechnologies
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/xtxmarketstechnologies
