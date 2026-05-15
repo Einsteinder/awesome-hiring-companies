@@ -26201,3 +26201,1783 @@
   sources:
   - https://www.boringcompany.com/careers
 
+- name: Google
+  slug: google
+  domain: google.com
+  careers_url: https://careers.google.com/
+  category: consumer-and-marketplace
+  ats:
+    custom: google
+  tags:
+  - search
+  - ads
+  - consumer
+  sources:
+  - https://careers.google.com/
+
+- name: Alphabet
+  slug: alphabet
+  domain: abc.xyz
+  careers_url: https://abc.xyz/careers/
+  category: consumer-and-marketplace
+  ats:
+    custom: alphabet
+  tags:
+  - holding
+  - consumer
+  sources:
+  - https://abc.xyz/careers/
+
+- name: Apple
+  slug: apple
+  domain: apple.com
+  careers_url: https://jobs.apple.com/
+  category: consumer-and-marketplace
+  ats:
+    custom: apple
+  tags:
+  - consumer
+  - hardware
+  - software
+  sources:
+  - https://jobs.apple.com/
+
+- name: Microsoft
+  slug: microsoft
+  domain: microsoft.com
+  careers_url: https://careers.microsoft.com/
+  category: developer-infrastructure
+  ats:
+    custom: microsoft
+  tags:
+  - cloud
+  - productivity
+  - developer-tools
+  sources:
+  - https://careers.microsoft.com/
+
+- name: Amazon
+  slug: amazon
+  domain: amazon.com
+  careers_url: https://amazon.jobs/
+  category: consumer-and-marketplace
+  ats:
+    custom: amazon
+  tags:
+  - e-commerce
+  - cloud
+  - consumer
+  sources:
+  - https://amazon.jobs/
+
+- name: Meta
+  slug: meta
+  domain: meta.com
+  careers_url: https://www.metacareers.com/
+  category: consumer-and-marketplace
+  ats:
+    custom: meta
+  tags:
+  - social
+  - ads
+  - ai
+  sources:
+  - https://www.metacareers.com/
+
+- name: Netflix
+  slug: netflix
+  domain: netflix.com
+  careers_url: https://jobs.netflix.com/
+  category: consumer-and-marketplace
+  ats:
+    workday: netflix
+  tags:
+  - streaming
+  - consumer
+  - media
+  sources:
+  - https://jobs.netflix.com/
+
+- name: LinkedIn
+  slug: linkedin
+  domain: linkedin.com
+  careers_url: https://careers.linkedin.com/
+  category: consumer-and-marketplace
+  ats:
+    custom: linkedin
+  tags:
+  - professional-network
+  - saas
+  sources:
+  - https://careers.linkedin.com/
+
+- name: Uber
+  slug: uber
+  domain: uber.com
+  careers_url: https://www.uber.com/careers/
+  category: consumer-and-marketplace
+  ats:
+    custom: uber
+  tags:
+  - marketplace
+  - mobility
+  - delivery
+  sources:
+  - https://www.uber.com/careers/
+
+- name: Lyft
+  slug: lyft
+  domain: lyft.com
+  careers_url: https://www.lyft.com/careers
+  category: consumer-and-marketplace
+  ats:
+    custom: lyft
+  tags:
+  - marketplace
+  - mobility
+  sources:
+  - https://www.lyft.com/careers
+
+- name: X
+  slug: x
+  domain: twitter.com
+  careers_url: https://twitter.com/careers
+  category: consumer-and-marketplace
+  ats:
+    custom: x
+  tags:
+  - social
+  - media
+  sources:
+  - https://twitter.com/careers
+
+- name: Snap
+  slug: snap
+  domain: snap.com
+  careers_url: https://careers.snap.com/
+  category: consumer-and-marketplace
+  ats:
+    custom: snap
+  tags:
+  - consumer
+  - social
+  - ar
+  sources:
+  - https://careers.snap.com/
+
+- name: TikTok
+  slug: tiktok
+  domain: tiktok.com
+  careers_url: https://careers.tiktok.com/
+  category: consumer-and-marketplace
+  ats:
+    custom: tiktok
+  tags:
+  - consumer
+  - social
+  - video
+  sources:
+  - https://careers.tiktok.com/
+
+- name: Disney
+  slug: disney
+  domain: thewaltdisneycompany.com
+  careers_url: https://jobs.disneycareers.com/
+  category: consumer-and-marketplace
+  ats:
+    workday: disney
+  tags:
+  - media
+  - entertainment
+  - consumer
+  sources:
+  - https://jobs.disneycareers.com/
+
+- name: Comcast
+  slug: comcast
+  domain: comcast.com
+  careers_url: https://jobs.comcast.com/
+  category: consumer-and-marketplace
+  ats:
+    custom: comcast
+  tags:
+  - telecom
+  - media
+  - consumer
+  sources:
+  - https://jobs.comcast.com/
+
+- name: AT&T
+  slug: att
+  domain: att.com
+  careers_url: https://www.att.jobs/
+  category: consumer-and-marketplace
+  ats:
+    custom: att
+  tags:
+  - telecom
+  - consumer
+  sources:
+  - https://www.att.jobs/
+
+- name: Verizon
+  slug: verizon
+  domain: verizon.com
+  careers_url: https://mycareer.verizon.com/
+  category: consumer-and-marketplace
+  ats:
+    custom: verizon
+  tags:
+  - telecom
+  - consumer
+  sources:
+  - https://mycareer.verizon.com/
+
+- name: T-Mobile
+  slug: t-mobile
+  domain: t-mobile.com
+  careers_url: https://careers.t-mobile.com/
+  category: consumer-and-marketplace
+  ats:
+    custom: tmobile
+  tags:
+  - telecom
+  - consumer
+  sources:
+  - https://careers.t-mobile.com/
+
+- name: Hulu
+  slug: hulu
+  domain: hulu.com
+  careers_url: https://careers.hulu.com/
+  category: consumer-and-marketplace
+  ats:
+    custom: hulu
+  tags:
+  - streaming
+  - media
+  sources:
+  - https://careers.hulu.com/
+
+- name: Paramount
+  slug: paramount
+  domain: paramount.com
+  careers_url: https://careers.paramount.com/
+  category: consumer-and-marketplace
+  ats:
+    workday: paramount
+  tags:
+  - media
+  - entertainment
+  sources:
+  - https://careers.paramount.com/
+
+- name: Warner Bros. Discovery
+  slug: warner-bros-discovery
+  domain: wbd.com
+  careers_url: https://careers.wbd.com/
+  category: consumer-and-marketplace
+  ats:
+    workday: warnermedia
+  tags:
+  - media
+  - entertainment
+  sources:
+  - https://careers.wbd.com/
+
+- name: Sony
+  slug: sony
+  domain: sony.com
+  careers_url: https://www.sony.com/en/SonyInfo/Jobs/
+  category: consumer-and-marketplace
+  ats:
+    custom: sony
+  tags:
+  - consumer
+  - hardware
+  - media
+  sources:
+  - https://www.sony.com/en/SonyInfo/Jobs/
+
+- name: Samsung
+  slug: samsung
+  domain: samsung.com
+  careers_url: https://www.samsung.com/global/business/careers/
+  category: consumer-and-marketplace
+  ats:
+    custom: samsung
+  tags:
+  - consumer
+  - hardware
+  - semiconductors
+  sources:
+  - https://www.samsung.com/global/business/careers/
+
+- name: Panasonic
+  slug: panasonic
+  domain: panasonic.com
+  careers_url: https://jobs.panasonic.com/
+  category: consumer-and-marketplace
+  ats:
+    custom: panasonic
+  tags:
+  - consumer
+  - hardware
+  sources:
+  - https://jobs.panasonic.com/
+
+- name: NVIDIA
+  slug: nvidia
+  domain: nvidia.com
+  careers_url: https://www.nvidia.com/en-us/about-nvidia/careers/
+  category: ai-and-data
+  ats:
+    workday: nvidia
+  tags:
+  - ai
+  - gpu
+  - semiconductors
+  sources:
+  - https://www.nvidia.com/en-us/about-nvidia/careers/
+
+- name: Intel
+  slug: intel
+  domain: intel.com
+  careers_url: https://jobs.intel.com/
+  category: industrials-and-climate
+  ats:
+    workday: intel
+  tags:
+  - semiconductors
+  - hardware
+  sources:
+  - https://jobs.intel.com/
+
+- name: AMD
+  slug: amd
+  domain: amd.com
+  careers_url: https://careers.amd.com/
+  category: industrials-and-climate
+  ats:
+    workday: amd
+  tags:
+  - semiconductors
+  - gpu
+  - hardware
+  sources:
+  - https://careers.amd.com/
+
+- name: Qualcomm
+  slug: qualcomm
+  domain: qualcomm.com
+  careers_url: https://www.qualcomm.com/company/careers
+  category: industrials-and-climate
+  ats:
+    workday: qualcomm
+  tags:
+  - semiconductors
+  - wireless
+  sources:
+  - https://www.qualcomm.com/company/careers
+
+- name: Broadcom
+  slug: broadcom
+  domain: broadcom.com
+  careers_url: https://www.broadcom.com/company/careers/
+  category: industrials-and-climate
+  ats:
+    workday: broadcom
+  tags:
+  - semiconductors
+  - networking
+  sources:
+  - https://www.broadcom.com/company/careers/
+
+- name: TSMC
+  slug: tsmc
+  domain: tsmc.com
+  careers_url: https://careers.tsmc.com/
+  category: industrials-and-climate
+  ats:
+    custom: tsmc
+  tags:
+  - semiconductors
+  - manufacturing
+  sources:
+  - https://careers.tsmc.com/
+
+- name: ARM
+  slug: arm
+  domain: arm.com
+  careers_url: https://careers.arm.com/
+  category: industrials-and-climate
+  ats:
+    custom: arm
+  tags:
+  - semiconductors
+  - ip
+  sources:
+  - https://careers.arm.com/
+
+- name: HP
+  slug: hp
+  domain: hp.com
+  careers_url: https://jobs.hp.com/
+  category: industrials-and-climate
+  ats:
+    workday: hp
+  tags:
+  - hardware
+  - consumer
+  - enterprise
+  sources:
+  - https://jobs.hp.com/
+
+- name: HPE
+  slug: hpe
+  domain: hpe.com
+  careers_url: https://careers.hpe.com/
+  category: developer-infrastructure
+  ats:
+    workday: hpe
+  tags:
+  - enterprise
+  - infrastructure
+  - hardware
+  sources:
+  - https://careers.hpe.com/
+
+- name: Dell
+  slug: dell
+  domain: dell.com
+  careers_url: https://jobs.dell.com/
+  category: industrials-and-climate
+  ats:
+    workday: dell
+  tags:
+  - hardware
+  - enterprise
+  sources:
+  - https://jobs.dell.com/
+
+- name: Lenovo
+  slug: lenovo
+  domain: lenovo.com
+  careers_url: https://jobs.lenovo.com/
+  category: industrials-and-climate
+  ats:
+    custom: lenovo
+  tags:
+  - hardware
+  - consumer
+  - enterprise
+  sources:
+  - https://jobs.lenovo.com/
+
+- name: Salesforce
+  slug: salesforce
+  domain: salesforce.com
+  careers_url: https://www.salesforce.com/company/careers/
+  category: b2b-enterprise
+  ats:
+    workday: salesforce
+  tags:
+  - crm
+  - saas
+  - enterprise
+  sources:
+  - https://www.salesforce.com/company/careers/
+
+- name: ServiceNow
+  slug: servicenow
+  domain: servicenow.com
+  careers_url: https://careers.servicenow.com/
+  category: b2b-enterprise
+  ats:
+    workday: servicenow
+  tags:
+  - enterprise
+  - workflow
+  - itsm
+  sources:
+  - https://careers.servicenow.com/
+
+- name: Workday
+  slug: workday
+  domain: workday.com
+  careers_url: https://www.workday.com/en-us/company/careers.html
+  category: b2b-enterprise
+  ats:
+    workday: workday
+  tags:
+  - hr
+  - finance
+  - enterprise
+  sources:
+  - https://www.workday.com/en-us/company/careers.html
+
+- name: SAP
+  slug: sap
+  domain: sap.com
+  careers_url: https://jobs.sap.com/
+  category: b2b-enterprise
+  ats:
+    smartrecruiters: sap
+  tags:
+  - erp
+  - enterprise
+  sources:
+  - https://jobs.sap.com/
+
+- name: Oracle
+  slug: oracle
+  domain: oracle.com
+  careers_url: https://www.oracle.com/corporate/careers/
+  category: developer-infrastructure
+  ats:
+    custom: oracle
+  tags:
+  - database
+  - cloud
+  - enterprise
+  sources:
+  - https://www.oracle.com/corporate/careers/
+
+- name: Adobe
+  slug: adobe
+  domain: adobe.com
+  careers_url: https://www.adobe.com/careers.html
+  category: consumer-and-marketplace
+  ats:
+    workday: adobe
+  tags:
+  - creative
+  - saas
+  - marketing
+  sources:
+  - https://www.adobe.com/careers.html
+
+- name: VMware
+  slug: vmware
+  domain: vmware.com
+  careers_url: https://careers.vmware.com/
+  category: developer-infrastructure
+  ats:
+    workday: vmware
+  tags:
+  - virtualization
+  - cloud
+  - enterprise
+  sources:
+  - https://careers.vmware.com/
+
+- name: Cisco
+  slug: cisco
+  domain: cisco.com
+  careers_url: https://jobs.cisco.com/
+  category: developer-infrastructure
+  ats:
+    workday: cisco
+  tags:
+  - networking
+  - enterprise
+  - security
+  sources:
+  - https://jobs.cisco.com/
+
+- name: IBM
+  slug: ibm
+  domain: ibm.com
+  careers_url: https://www.ibm.com/careers/
+  category: b2b-enterprise
+  ats:
+    workday: ibm
+  tags:
+  - enterprise
+  - consulting
+  - ai
+  sources:
+  - https://www.ibm.com/careers/
+
+- name: HashiCorp
+  slug: hashicorp
+  domain: hashicorp.com
+  careers_url: https://www.hashicorp.com/careers
+  category: developer-infrastructure
+  ats:
+    custom: hashicorp
+  tags:
+  - devops
+  - open-source
+  - infrastructure
+  sources:
+  - https://www.hashicorp.com/careers
+
+- name: Splunk
+  slug: splunk
+  domain: splunk.com
+  careers_url: https://www.splunk.com/en_us/careers.html
+  category: developer-infrastructure
+  ats:
+    workday: splunk
+  tags:
+  - observability
+  - security
+  - data
+  sources:
+  - https://www.splunk.com/en_us/careers.html
+
+- name: Sumo Logic
+  slug: sumo-logic
+  domain: sumologic.com
+  careers_url: https://www.sumologic.com/careers/
+  category: developer-infrastructure
+  ats:
+    custom: sumologic
+  tags:
+  - observability
+  - monitoring
+  sources:
+  - https://www.sumologic.com/careers/
+
+- name: JFrog
+  slug: jfrog
+  domain: jfrog.com
+  careers_url: https://jfrog.com/about-jfrog/careers/
+  category: developer-infrastructure
+  ats:
+    custom: jfrog
+  tags:
+  - devops
+  - artifacts
+  - developer-tools
+  sources:
+  - https://jfrog.com/about-jfrog/careers/
+
+- name: Lacework
+  slug: lacework
+  domain: lacework.com
+  careers_url: https://www.lacework.com/careers/
+  category: developer-infrastructure
+  ats:
+    custom: lacework
+  tags:
+  - security
+  - cloud
+  sources:
+  - https://www.lacework.com/careers/
+
+- name: Aqua Security
+  slug: aqua-security
+  domain: aquasec.com
+  careers_url: https://www.aquasec.com/about-us/careers/
+  category: developer-infrastructure
+  ats:
+    custom: aquasec
+  tags:
+  - security
+  - containers
+  - cloud
+  sources:
+  - https://www.aquasec.com/about-us/careers/
+
+- name: SentinelOne
+  slug: sentinelone
+  domain: sentinelone.com
+  careers_url: https://www.sentinelone.com/careers/
+  category: developer-infrastructure
+  ats:
+    custom: sentinelone
+  tags:
+  - security
+  - endpoint
+  - ai
+  sources:
+  - https://www.sentinelone.com/careers/
+
+- name: CrowdStrike
+  slug: crowdstrike
+  domain: crowdstrike.com
+  careers_url: https://www.crowdstrike.com/careers/
+  category: developer-infrastructure
+  ats:
+    workday: crowdstrike
+  tags:
+  - security
+  - endpoint
+  sources:
+  - https://www.crowdstrike.com/careers/
+
+- name: Akamai
+  slug: akamai
+  domain: akamai.com
+  careers_url: https://www.akamai.com/careers
+  category: developer-infrastructure
+  ats:
+    workday: akamai
+  tags:
+  - cdn
+  - security
+  - edge
+  sources:
+  - https://www.akamai.com/careers
+
+- name: DigitalOcean
+  slug: digitalocean
+  domain: digitalocean.com
+  careers_url: https://www.digitalocean.com/careers
+  category: developer-infrastructure
+  ats:
+    custom: digitalocean
+  tags:
+  - cloud
+  - developer-tools
+  sources:
+  - https://www.digitalocean.com/careers
+
+- name: Linode
+  slug: linode
+  domain: linode.com
+  careers_url: https://www.linode.com/company/careers/
+  category: developer-infrastructure
+  ats:
+    custom: linode
+  tags:
+  - cloud
+  - developer-tools
+  sources:
+  - https://www.linode.com/company/careers/
+
+- name: Vultr
+  slug: vultr
+  domain: vultr.com
+  careers_url: https://www.vultr.com/company/careers/
+  category: developer-infrastructure
+  ats:
+    custom: vultr
+  tags:
+  - cloud
+  - developer-tools
+  sources:
+  - https://www.vultr.com/company/careers/
+
+- name: Backblaze
+  slug: backblaze
+  domain: backblaze.com
+  careers_url: https://www.backblaze.com/company/careers
+  category: developer-infrastructure
+  ats:
+    custom: backblaze
+  tags:
+  - storage
+  - backup
+  - cloud
+  sources:
+  - https://www.backblaze.com/company/careers
+
+- name: PayPal
+  slug: paypal
+  domain: paypal.com
+  careers_url: https://www.paypal.com/us/jobs/
+  category: fintech
+  ats:
+    workday: paypal
+  tags:
+  - fintech
+  - payments
+  sources:
+  - https://www.paypal.com/us/jobs/
+
+- name: Block
+  slug: block-xyz
+  domain: block.xyz
+  careers_url: https://block.xyz/careers
+  category: fintech
+  ats:
+    custom: block
+  tags:
+  - fintech
+  - payments
+  - crypto
+  sources:
+  - https://block.xyz/careers
+
+- name: Visa
+  slug: visa
+  domain: visa.com
+  careers_url: https://corporate.visa.com/en/careers.html
+  category: fintech
+  ats:
+    workday: visa
+  tags:
+  - fintech
+  - payments
+  - network
+  sources:
+  - https://corporate.visa.com/en/careers.html
+
+- name: Mastercard
+  slug: mastercard
+  domain: mastercard.com
+  careers_url: https://careers.mastercard.com/
+  category: fintech
+  ats:
+    workday: mastercard
+  tags:
+  - fintech
+  - payments
+  - network
+  sources:
+  - https://careers.mastercard.com/
+
+- name: American Express
+  slug: american-express
+  domain: americanexpress.com
+  careers_url: https://www.americanexpress.com/en-us/careers/
+  category: fintech
+  ats:
+    workday: amex
+  tags:
+  - fintech
+  - payments
+  - consumer
+  sources:
+  - https://www.americanexpress.com/en-us/careers/
+
+- name: Wise
+  slug: wise
+  domain: wise.com
+  careers_url: https://wise.jobs/
+  category: fintech
+  ats:
+    workable: wise
+  tags:
+  - fintech
+  - payments
+  - remittance
+  sources:
+  - https://wise.jobs/
+
+- name: Klarna
+  slug: klarna
+  domain: klarna.com
+  careers_url: https://www.klarna.com/careers/
+  category: fintech
+  ats:
+    workday: klarna
+  tags:
+  - fintech
+  - payments
+  - bnpl
+  sources:
+  - https://www.klarna.com/careers/
+
+- name: Chime
+  slug: chime
+  domain: chime.com
+  careers_url: https://www.chime.com/careers/
+  category: fintech
+  ats:
+    custom: chime
+  tags:
+  - fintech
+  - neobank
+  - consumer
+  sources:
+  - https://www.chime.com/careers/
+
+- name: Wealthfront
+  slug: wealthfront
+  domain: wealthfront.com
+  careers_url: https://www.wealthfront.com/careers
+  category: fintech
+  ats:
+    custom: wealthfront
+  tags:
+  - fintech
+  - robo-advisor
+  sources:
+  - https://www.wealthfront.com/careers
+
+- name: SoFi
+  slug: sofi
+  domain: sofi.com
+  careers_url: https://www.sofi.com/careers/
+  category: fintech
+  ats:
+    workday: sofi
+  tags:
+  - fintech
+  - consumer-finance
+  sources:
+  - https://www.sofi.com/careers/
+
+- name: Goldman Sachs
+  slug: goldman-sachs
+  domain: goldmansachs.com
+  careers_url: https://www.goldmansachs.com/careers/
+  category: fintech
+  ats:
+    custom: goldmansachs
+  tags:
+  - finance
+  - investment-banking
+  sources:
+  - https://www.goldmansachs.com/careers/
+
+- name: JPMorgan Chase
+  slug: jpmorgan-chase
+  domain: jpmorganchase.com
+  careers_url: https://careers.jpmorganchase.com/
+  category: fintech
+  ats:
+    custom: jpmc
+  tags:
+  - finance
+  - banking
+  sources:
+  - https://careers.jpmorganchase.com/
+
+- name: Morgan Stanley
+  slug: morgan-stanley
+  domain: morganstanley.com
+  careers_url: https://www.morganstanley.com/people/
+  category: fintech
+  ats:
+    workday: morganstanley
+  tags:
+  - finance
+  - investment-banking
+  sources:
+  - https://www.morganstanley.com/people/
+
+- name: Citi
+  slug: citi
+  domain: citigroup.com
+  careers_url: https://jobs.citi.com/
+  category: fintech
+  ats:
+    workday: citi
+  tags:
+  - finance
+  - banking
+  sources:
+  - https://jobs.citi.com/
+
+- name: Bank of America
+  slug: bank-of-america
+  domain: bankofamerica.com
+  careers_url: https://careers.bankofamerica.com/
+  category: fintech
+  ats:
+    workday: bofa
+  tags:
+  - finance
+  - banking
+  - consumer
+  sources:
+  - https://careers.bankofamerica.com/
+
+- name: Capital One
+  slug: capital-one
+  domain: capitalone.com
+  careers_url: https://www.capitalonecareers.com/
+  category: fintech
+  ats:
+    workday: capitalone
+  tags:
+  - finance
+  - consumer
+  - credit-cards
+  sources:
+  - https://www.capitalonecareers.com/
+
+- name: Charles Schwab
+  slug: charles-schwab
+  domain: schwab.com
+  careers_url: https://www.aboutschwab.com/careers
+  category: fintech
+  ats:
+    workday: schwab
+  tags:
+  - finance
+  - brokerage
+  - consumer
+  sources:
+  - https://www.aboutschwab.com/careers
+
+- name: Fidelity
+  slug: fidelity
+  domain: fidelity.com
+  careers_url: https://jobs.fidelity.com/
+  category: fintech
+  ats:
+    custom: fidelity
+  tags:
+  - finance
+  - brokerage
+  - consumer
+  sources:
+  - https://jobs.fidelity.com/
+
+- name: Roblox
+  slug: roblox
+  domain: roblox.com
+  careers_url: https://careers.roblox.com/
+  category: consumer-and-marketplace
+  ats:
+    workday: roblox
+  tags:
+  - gaming
+  - consumer
+  - platform
+  sources:
+  - https://careers.roblox.com/
+
+- name: Electronic Arts
+  slug: electronic-arts
+  domain: ea.com
+  careers_url: https://www.ea.com/careers
+  category: consumer-and-marketplace
+  ats:
+    workday: ea
+  tags:
+  - gaming
+  sources:
+  - https://www.ea.com/careers
+
+- name: Activision Blizzard
+  slug: activision-blizzard
+  domain: activisionblizzard.com
+  careers_url: https://careers.activisionblizzard.com/
+  category: consumer-and-marketplace
+  ats:
+    workday: activision
+  tags:
+  - gaming
+  sources:
+  - https://careers.activisionblizzard.com/
+
+- name: Take-Two Interactive
+  slug: take-two
+  domain: take2games.com
+  careers_url: https://www.take2games.com/careers
+  category: consumer-and-marketplace
+  ats:
+    workday: take2
+  tags:
+  - gaming
+  sources:
+  - https://www.take2games.com/careers
+
+- name: Unity
+  slug: unity
+  domain: unity.com
+  careers_url: https://careers.unity.com/
+  category: developer-infrastructure
+  ats:
+    custom: unity
+  tags:
+  - gaming
+  - developer-tools
+  - real-time
+  sources:
+  - https://careers.unity.com/
+
+- name: Niantic
+  slug: niantic
+  domain: nianticlabs.com
+  careers_url: https://nianticlabs.com/careers/
+  category: consumer-and-marketplace
+  ats:
+    custom: niantic
+  tags:
+  - gaming
+  - ar
+  - consumer
+  sources:
+  - https://nianticlabs.com/careers/
+
+- name: Zynga
+  slug: zynga
+  domain: zynga.com
+  careers_url: https://www.zynga.com/careers/
+  category: consumer-and-marketplace
+  ats:
+    workday: zynga
+  tags:
+  - gaming
+  - mobile
+  sources:
+  - https://www.zynga.com/careers/
+
+- name: Pfizer
+  slug: pfizer
+  domain: pfizer.com
+  careers_url: https://www.pfizer.com/about/careers
+  category: healthcare-and-biotech
+  ats:
+    workday: pfizer
+  tags:
+  - pharma
+  - drug-discovery
+  sources:
+  - https://www.pfizer.com/about/careers
+
+- name: Moderna
+  slug: moderna
+  domain: modernatx.com
+  careers_url: https://www.modernatx.com/careers
+  category: healthcare-and-biotech
+  ats:
+    workday: moderna
+  tags:
+  - pharma
+  - mrna
+  - drug-discovery
+  sources:
+  - https://www.modernatx.com/careers
+
+- name: Eli Lilly
+  slug: eli-lilly
+  domain: lilly.com
+  careers_url: https://careers.lilly.com/
+  category: healthcare-and-biotech
+  ats:
+    workday: lilly
+  tags:
+  - pharma
+  - drug-discovery
+  sources:
+  - https://careers.lilly.com/
+
+- name: Johnson & Johnson
+  slug: johnson-and-johnson
+  domain: jnj.com
+  careers_url: https://www.jnj.com/careers
+  category: healthcare-and-biotech
+  ats:
+    workday: jnj
+  tags:
+  - pharma
+  - medical-devices
+  - consumer-health
+  sources:
+  - https://www.jnj.com/careers
+
+- name: Novartis
+  slug: novartis
+  domain: novartis.com
+  careers_url: https://www.novartis.com/careers
+  category: healthcare-and-biotech
+  ats:
+    workday: novartis
+  tags:
+  - pharma
+  - drug-discovery
+  sources:
+  - https://www.novartis.com/careers
+
+- name: Regeneron
+  slug: regeneron
+  domain: regeneron.com
+  careers_url: https://careers.regeneron.com/
+  category: healthcare-and-biotech
+  ats:
+    workday: regeneron
+  tags:
+  - biotech
+  - drug-discovery
+  sources:
+  - https://careers.regeneron.com/
+
+- name: 23andMe
+  slug: 23andme
+  domain: 23andme.com
+  careers_url: https://www.23andme.com/about/careers/
+  category: healthcare-and-biotech
+  ats:
+    custom: 23andme
+  tags:
+  - genetics
+  - consumer-health
+  sources:
+  - https://www.23andme.com/about/careers/
+
+- name: Illumina
+  slug: illumina
+  domain: illumina.com
+  careers_url: https://www.illumina.com/company/careers.html
+  category: healthcare-and-biotech
+  ats:
+    workday: illumina
+  tags:
+  - genomics
+  - sequencing
+  sources:
+  - https://www.illumina.com/company/careers.html
+
+- name: Genentech
+  slug: genentech
+  domain: gene.com
+  careers_url: https://www.gene.com/careers
+  category: healthcare-and-biotech
+  ats:
+    workday: roche
+  tags:
+  - biotech
+  - drug-discovery
+  sources:
+  - https://www.gene.com/careers
+
+- name: BioNTech
+  slug: biontech
+  domain: biontech.com
+  careers_url: https://careers.biontech.com/
+  category: healthcare-and-biotech
+  ats:
+    workday: biontech
+  tags:
+  - biotech
+  - mrna
+  - vaccines
+  sources:
+  - https://careers.biontech.com/
+
+- name: AstraZeneca
+  slug: astrazeneca
+  domain: astrazeneca.com
+  careers_url: https://careers.astrazeneca.com/
+  category: healthcare-and-biotech
+  ats:
+    workday: astrazeneca
+  tags:
+  - pharma
+  - drug-discovery
+  sources:
+  - https://careers.astrazeneca.com/
+
+- name: Merck
+  slug: merck
+  domain: merck.com
+  careers_url: https://jobs.merck.com/
+  category: healthcare-and-biotech
+  ats:
+    workday: merck
+  tags:
+  - pharma
+  - drug-discovery
+  sources:
+  - https://jobs.merck.com/
+
+- name: Insitro
+  slug: insitro
+  domain: insitro.com
+  careers_url: https://insitro.com/careers/
+  category: healthcare-and-biotech
+  ats:
+    custom: insitro
+  tags:
+  - ai
+  - drug-discovery
+  sources:
+  - https://insitro.com/careers/
+
+- name: Inscripta
+  slug: inscripta
+  domain: inscripta.com
+  careers_url: https://www.inscripta.com/careers
+  category: healthcare-and-biotech
+  ats:
+    custom: inscripta
+  tags:
+  - biotech
+  - genome-engineering
+  sources:
+  - https://www.inscripta.com/careers
+
+- name: Atomwise
+  slug: atomwise
+  domain: atomwise.com
+  careers_url: https://www.atomwise.com/careers/
+  category: healthcare-and-biotech
+  ats:
+    custom: atomwise
+  tags:
+  - ai
+  - drug-discovery
+  sources:
+  - https://www.atomwise.com/careers/
+
+- name: Boeing
+  slug: boeing
+  domain: boeing.com
+  careers_url: https://jobs.boeing.com/
+  category: industrials-and-climate
+  ats:
+    workday: boeing
+  tags:
+  - aerospace
+  - defense
+  - manufacturing
+  sources:
+  - https://jobs.boeing.com/
+
+- name: Lockheed Martin
+  slug: lockheed-martin
+  domain: lockheedmartin.com
+  careers_url: https://www.lockheedmartinjobs.com/
+  category: industrials-and-climate
+  ats:
+    custom: lockheedmartin
+  tags:
+  - aerospace
+  - defense
+  sources:
+  - https://www.lockheedmartinjobs.com/
+
+- name: Raytheon
+  slug: raytheon
+  domain: rtx.com
+  careers_url: https://careers.rtx.com/
+  category: industrials-and-climate
+  ats:
+    workday: rtx
+  tags:
+  - defense
+  - aerospace
+  sources:
+  - https://careers.rtx.com/
+
+- name: Northrop Grumman
+  slug: northrop-grumman
+  domain: northropgrumman.com
+  careers_url: https://www.northropgrumman.com/jobs/
+  category: industrials-and-climate
+  ats:
+    custom: northropgrumman
+  tags:
+  - defense
+  - aerospace
+  - space
+  sources:
+  - https://www.northropgrumman.com/jobs/
+
+- name: Honeywell
+  slug: honeywell
+  domain: honeywell.com
+  careers_url: https://careers.honeywell.com/
+  category: industrials-and-climate
+  ats:
+    workday: honeywell
+  tags:
+  - industrial
+  - aerospace
+  sources:
+  - https://careers.honeywell.com/
+
+- name: Caterpillar
+  slug: caterpillar
+  domain: caterpillar.com
+  careers_url: https://www.caterpillar.com/en/careers.html
+  category: industrials-and-climate
+  ats:
+    workday: caterpillar
+  tags:
+  - industrial
+  - heavy-equipment
+  sources:
+  - https://www.caterpillar.com/en/careers.html
+
+- name: Rivian
+  slug: rivian
+  domain: rivian.com
+  careers_url: https://careers.rivian.com/
+  category: industrials-and-climate
+  ats:
+    workday: rivian
+  tags:
+  - ev
+  - automotive
+  sources:
+  - https://careers.rivian.com/
+
+- name: Lucid Motors
+  slug: lucid-motors
+  domain: lucidmotors.com
+  careers_url: https://www.lucidmotors.com/careers
+  category: industrials-and-climate
+  ats:
+    workday: lucid
+  tags:
+  - ev
+  - automotive
+  sources:
+  - https://www.lucidmotors.com/careers
+
+- name: Ford
+  slug: ford
+  domain: ford.com
+  careers_url: https://corporate.ford.com/careers.html
+  category: industrials-and-climate
+  ats:
+    workday: ford
+  tags:
+  - automotive
+  - manufacturing
+  sources:
+  - https://corporate.ford.com/careers.html
+
+- name: General Motors
+  slug: general-motors
+  domain: gm.com
+  careers_url: https://careers.gm.com/
+  category: industrials-and-climate
+  ats:
+    workday: gm
+  tags:
+  - automotive
+  - ev
+  - manufacturing
+  sources:
+  - https://careers.gm.com/
+
+- name: Toyota
+  slug: toyota
+  domain: toyota.com
+  careers_url: https://www.toyota.com/usa/careers/
+  category: industrials-and-climate
+  ats:
+    custom: toyota
+  tags:
+  - automotive
+  - manufacturing
+  sources:
+  - https://www.toyota.com/usa/careers/
+
+- name: BMW
+  slug: bmw
+  domain: bmwgroup.com
+  careers_url: https://www.bmwgroup.jobs/
+  category: industrials-and-climate
+  ats:
+    custom: bmw
+  tags:
+  - automotive
+  - luxury
+  sources:
+  - https://www.bmwgroup.jobs/
+
+- name: Mercedes-Benz
+  slug: mercedes-benz
+  domain: mercedes-benz.com
+  careers_url: https://group.mercedes-benz.com/careers/
+  category: industrials-and-climate
+  ats:
+    custom: mercedes
+  tags:
+  - automotive
+  - luxury
+  sources:
+  - https://group.mercedes-benz.com/careers/
+
+- name: Komatsu
+  slug: komatsu
+  domain: komatsu.com
+  careers_url: https://www.komatsu.jp/en/careers
+  category: industrials-and-climate
+  ats:
+    custom: komatsu
+  tags:
+  - industrial
+  - heavy-equipment
+  - mining
+  sources:
+  - https://www.komatsu.jp/en/careers
+
+- name: Volvo
+  slug: volvo
+  domain: volvogroup.com
+  careers_url: https://www.volvogroup.com/en/careers.html
+  category: industrials-and-climate
+  ats:
+    custom: volvo
+  tags:
+  - automotive
+  - trucks
+  sources:
+  - https://www.volvogroup.com/en/careers.html
+
+- name: Hyundai
+  slug: hyundai
+  domain: hyundai.com
+  careers_url: https://careers.hyundai.com/
+  category: industrials-and-climate
+  ats:
+    custom: hyundai
+  tags:
+  - automotive
+  - manufacturing
+  sources:
+  - https://careers.hyundai.com/
+
+- name: KION Group
+  slug: kion-group
+  domain: kiongroup.com
+  careers_url: https://www.kiongroup.com/en/Careers/
+  category: industrials-and-climate
+  ats:
+    custom: kiongroup
+  tags:
+  - industrial
+  - supply-chain
+  - robotics
+  sources:
+  - https://www.kiongroup.com/en/Careers/
+
+- name: Rocket Lab
+  slug: rocket-lab
+  domain: rocketlabusa.com
+  careers_url: https://www.rocketlabusa.com/careers/
+  category: industrials-and-climate
+  ats:
+    custom: rocketlab
+  tags:
+  - space
+  - launch
+  - aerospace
+  sources:
+  - https://www.rocketlabusa.com/careers/
+
+- name: Blue Origin
+  slug: blue-origin
+  domain: blueorigin.com
+  careers_url: https://www.blueorigin.com/careers
+  category: industrials-and-climate
+  ats:
+    custom: blueorigin
+  tags:
+  - space
+  - launch
+  - aerospace
+  sources:
+  - https://www.blueorigin.com/careers
+
+- name: Relativity Space
+  slug: relativity-space
+  domain: relativityspace.com
+  careers_url: https://www.relativityspace.com/careers
+  category: industrials-and-climate
+  ats:
+    custom: relativityspace
+  tags:
+  - space
+  - launch
+  - 3d-printing
+  sources:
+  - https://www.relativityspace.com/careers
+
+- name: Varda
+  slug: varda
+  domain: varda.com
+  careers_url: https://www.varda.com/careers
+  category: industrials-and-climate
+  ats:
+    custom: varda
+  tags:
+  - space
+  - pharma
+  - manufacturing
+  sources:
+  - https://www.varda.com/careers
+
+- name: Helion Energy
+  slug: helion-energy
+  domain: helionenergy.com
+  careers_url: https://www.helionenergy.com/careers/
+  category: industrials-and-climate
+  ats:
+    custom: helionenergy
+  tags:
+  - fusion
+  - energy
+  - climate
+  sources:
+  - https://www.helionenergy.com/careers/
+
+- name: Commonwealth Fusion Systems
+  slug: commonwealth-fusion-systems
+  domain: cfs.energy
+  careers_url: https://cfs.energy/careers/
+  category: industrials-and-climate
+  ats:
+    custom: cfs
+  tags:
+  - fusion
+  - energy
+  - climate
+  sources:
+  - https://cfs.energy/careers/
+
+- name: TAE Technologies
+  slug: tae-technologies
+  domain: tae.com
+  careers_url: https://tae.com/careers/
+  category: industrials-and-climate
+  ats:
+    custom: tae
+  tags:
+  - fusion
+  - energy
+  - climate
+  sources:
+  - https://tae.com/careers/
+
+- name: Bloom Energy
+  slug: bloom-energy
+  domain: bloomenergy.com
+  careers_url: https://www.bloomenergy.com/careers/
+  category: industrials-and-climate
+  ats:
+    workday: bloomenergy
+  tags:
+  - energy
+  - fuel-cells
+  - climate
+  sources:
+  - https://www.bloomenergy.com/careers/
+
+- name: Inflection AI
+  slug: inflection-ai
+  domain: inflection.ai
+  careers_url: https://inflection.ai/careers
+  category: ai-and-data
+  ats:
+    custom: inflection
+  tags:
+  - ai
+  - research
+  sources:
+  - https://inflection.ai/careers
+
+- name: Adept
+  slug: adept
+  domain: adept.ai
+  careers_url: https://www.adept.ai/careers
+  category: ai-and-data
+  ats:
+    custom: adept
+  tags:
+  - ai
+  - agents
+  sources:
+  - https://www.adept.ai/careers
+
+- name: Character AI
+  slug: character-ai
+  domain: character.ai
+  careers_url: https://character.ai/careers
+  category: ai-and-data
+  ats:
+    custom: characterai
+  tags:
+  - ai
+  - consumer
+  sources:
+  - https://character.ai/careers
+
+- name: Reka
+  slug: reka
+  domain: reka.ai
+  careers_url: https://reka.ai/careers
+  category: ai-and-data
+  ats:
+    custom: reka
+  tags:
+  - ai
+  - multimodal
+  sources:
+  - https://reka.ai/careers
+
+- name: AI21 Labs
+  slug: ai21-labs
+  domain: ai21.com
+  careers_url: https://www.ai21.com/careers
+  category: ai-and-data
+  ats:
+    custom: ai21
+  tags:
+  - ai
+  - llm
+  sources:
+  - https://www.ai21.com/careers
+
+- name: Hippocratic AI
+  slug: hippocratic-ai
+  domain: hippocraticai.com
+  careers_url: https://www.hippocraticai.com/careers
+  category: healthcare-and-biotech
+  ats:
+    custom: hippocraticai
+  tags:
+  - ai
+  - healthcare
+  - llm
+  sources:
+  - https://www.hippocraticai.com/careers
+
+- name: Pika
+  slug: pika
+  domain: pika.art
+  careers_url: https://pika.art/careers
+  category: ai-and-data
+  ats:
+    custom: pika
+  tags:
+  - ai
+  - video
+  - generative-ai
+  sources:
+  - https://pika.art/careers
+
+- name: Midjourney
+  slug: midjourney
+  domain: midjourney.com
+  careers_url: https://www.midjourney.com/jobs
+  category: ai-and-data
+  ats:
+    custom: midjourney
+  tags:
+  - ai
+  - image
+  - generative-ai
+  sources:
+  - https://www.midjourney.com/jobs
+
+- name: Stability AI
+  slug: stability-ai
+  domain: stability.ai
+  careers_url: https://stability.ai/careers
+  category: ai-and-data
+  ats:
+    custom: stabilityai
+  tags:
+  - ai
+  - generative-ai
+  - open-source
+  sources:
+  - https://stability.ai/careers
+
+- name: Determined AI
+  slug: determined-ai
+  domain: determined.ai
+  careers_url: https://determined.ai/careers
+  category: ai-and-data
+  ats:
+    custom: determined
+  tags:
+  - ai
+  - ml-platform
+  sources:
+  - https://determined.ai/careers
+

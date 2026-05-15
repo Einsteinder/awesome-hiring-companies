@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **2013 companies**.
+Currently tracking **2145 companies**.
 
 This repository is designed for two uses:
 
@@ -43,6 +43,16 @@ New companies must pass the full [`Inclusion Standard`](docs/inclusion-standard.
 
 AI, machine learning, analytics, databases, and data infrastructure.
 
+- [Determined AI](https://determined.ai) - ML training platform (HPE).
+- [Stability AI](https://stability.ai) - Open-model image and audio generation.
+- [Midjourney](https://midjourney.com) - Generative image AI.
+- [Pika](https://pika.art) - Generative video AI.
+- [AI21 Labs](https://ai21.com) - Enterprise LLMs and reading comprehension.
+- [Reka](https://reka.ai) - Multimodal foundation models.
+- [Character AI](https://character.ai) - Consumer AI characters and chat.
+- [Adept](https://adept.ai) - AI agents for software actions.
+- [Inflection AI](https://inflection.ai) - Frontier AI for enterprise (Microsoft-aligned).
+- [NVIDIA](https://nvidia.com) - GPU hardware and AI computing platform.
 - [Lambda](https://lambda.ai) - GPU cloud platform for AI training and inference.
 - [Cerebras](https://cerebras.net) - Wafer-scale AI accelerator hardware and inference platform.
 - [Abundant](https://abundant.ai) - Agent simulation and RL for researchers
@@ -225,6 +235,25 @@ AI, machine learning, analytics, databases, and data infrastructure.
 
 Developer tools, cloud, infrastructure, security, observability, and B2B technical platforms.
 
+- [Unity](https://unity.com) - Real-time 3D engine for games and beyond.
+- [Backblaze](https://backblaze.com) - Cloud storage and backup.
+- [Vultr](https://vultr.com) - Cloud compute and bare-metal hosting.
+- [Linode](https://linode.com) - Cloud hosting (Akamai).
+- [DigitalOcean](https://digitalocean.com) - Developer-friendly cloud infrastructure.
+- [Akamai](https://akamai.com) - Content delivery and edge security.
+- [CrowdStrike](https://crowdstrike.com) - Endpoint and cloud security platform.
+- [SentinelOne](https://sentinelone.com) - Autonomous endpoint protection.
+- [Aqua Security](https://aquasec.com) - Container and cloud-native application security.
+- [Lacework](https://lacework.com) - Cloud-native application security platform.
+- [JFrog](https://jfrog.com) - Artifact management and software supply chain.
+- [Sumo Logic](https://sumologic.com) - Cloud log management and observability.
+- [Splunk](https://splunk.com) - Operational intelligence and SIEM platform (Cisco).
+- [HashiCorp](https://hashicorp.com) - Open-source infrastructure automation (Terraform, Vault, IBM).
+- [Cisco](https://cisco.com) - Networking hardware and enterprise security.
+- [VMware](https://vmware.com) - Virtualization and cloud infrastructure (Broadcom).
+- [Oracle](https://oracle.com) - Database, cloud, and enterprise applications.
+- [HPE](https://hpe.com) - Hewlett Packard Enterprise — servers, networking, storage.
+- [Microsoft](https://microsoft.com) - Cloud (Azure), productivity (Office), Windows, and developer tools.
 - [Coder](https://coder.com) - Cloud development environments with parallel AI coding agents.
 - [Namespace](https://namespace.so) - AI-accelerated developer infrastructure for builds and tests.
 - [Accord](https://inaccord.com) - The Revenue Excellence Platform
@@ -388,6 +417,24 @@ Developer tools, cloud, infrastructure, security, observability, and B2B technic
 
 Payments, banking, investing, crypto, expense, payroll, and financial infrastructure.
 
+- [Fidelity](https://fidelity.com) - Brokerage, asset management, and retirement.
+- [Charles Schwab](https://schwab.com) - Brokerage and wealth management.
+- [Capital One](https://capitalone.com) - Consumer credit card and digital banking.
+- [Bank of America](https://bankofamerica.com) - Consumer and investment bank.
+- [Citi](https://citigroup.com) - Global bank — consumer and institutional.
+- [Morgan Stanley](https://morganstanley.com) - Investment bank and wealth management.
+- [JPMorgan Chase](https://jpmorganchase.com) - Global investment and consumer bank.
+- [Goldman Sachs](https://goldmansachs.com) - Investment bank and asset manager.
+- [SoFi](https://sofi.com) - Consumer finance — loans, investing, banking.
+- [Wealthfront](https://wealthfront.com) - Automated investing and savings.
+- [Chime](https://chime.com) - Consumer neobank.
+- [Klarna](https://klarna.com) - Buy-now-pay-later and consumer payments.
+- [Wise](https://wise.com) - Cross-border payments and multi-currency accounts.
+- [American Express](https://americanexpress.com) - Card issuer and payments network.
+- [Mastercard](https://mastercard.com) - Global payment-card network.
+- [Visa](https://visa.com) - Global payment-card network.
+- [Block](https://block.xyz) - Square, Cash App, Tidal, Bitkey (formerly Square Inc.).
+- [PayPal](https://paypal.com) - Digital payments and consumer wallet.
 - [Revolut](https://revolut.com) - Global neobank and financial super-app for consumers and businesses.
 - [Kraken](https://kraken.com) - Crypto exchange and digital-asset financial services platform.
 - [Polymarket](https://polymarket.com) - Decentralized prediction markets for politics, sports, and current events.
@@ -574,6 +621,36 @@ Payments, banking, investing, crypto, expense, payroll, and financial infrastruc
 
 Consumer products, communities, marketplaces, media, travel, commerce, education, and gaming.
 
+- [Zynga](https://zynga.com) - Mobile games (Take-Two).
+- [Niantic](https://nianticlabs.com) - Pokémon GO and AR location games.
+- [Take-Two Interactive](https://take2games.com) - Gaming publisher — Rockstar, 2K.
+- [Activision Blizzard](https://activisionblizzard.com) - Gaming publisher (Microsoft) — Call of Duty, Warcraft.
+- [Electronic Arts](https://ea.com) - Video game publisher and developer.
+- [Roblox](https://roblox.com) - User-generated gaming platform and metaverse.
+- [Adobe](https://adobe.com) - Creative tools, document services, and digital experience.
+- [Panasonic](https://panasonic.com) - Consumer electronics and battery (Tesla EV cells).
+- [Samsung](https://samsung.com) - Consumer electronics and semiconductor giant.
+- [Sony](https://sony.com) - Consumer electronics, gaming (PlayStation), and entertainment.
+- [Warner Bros. Discovery](https://wbd.com) - Media conglomerate (HBO Max, CNN, Warner Bros.).
+- [Paramount](https://paramount.com) - Media and entertainment company (CBS, Paramount+).
+- [Hulu](https://hulu.com) - Streaming video service (Disney).
+- [T-Mobile](https://t-mobile.com) - Mobile network carrier.
+- [Verizon](https://verizon.com) - Telecommunications and wireless carrier.
+- [AT&T](https://att.com) - Telecommunications and connectivity carrier.
+- [Comcast](https://comcast.com) - Cable, broadband, and media (NBCUniversal).
+- [Disney](https://thewaltdisneycompany.com) - Media, parks, and entertainment conglomerate.
+- [TikTok](https://tiktok.com) - Short-video social platform (ByteDance).
+- [Snap](https://snap.com) - Snapchat camera platform and AR product company.
+- [X](https://twitter.com) - Real-time social media platform (formerly Twitter).
+- [Lyft](https://lyft.com) - Ride-hailing and transportation platform.
+- [Uber](https://uber.com) - Ride-hailing, delivery, and freight marketplace.
+- [LinkedIn](https://linkedin.com) - Professional networking and recruiting platform.
+- [Netflix](https://netflix.com) - Streaming entertainment platform.
+- [Meta](https://meta.com) - Facebook, Instagram, WhatsApp, and Reality Labs.
+- [Amazon](https://amazon.com) - Global e-commerce, AWS cloud, and consumer hardware.
+- [Apple](https://apple.com) - Consumer electronics, services, and software platforms.
+- [Alphabet](https://abc.xyz) - Holding company for Google and other 'other bets'.
+- [Google](https://google.com) - Search, ads, cloud, and consumer software giant.
 - [ByteDance](https://bytedance.com) - TikTok parent and global consumer / AI / media company.
 - [Canva](https://canva.com) - Online design and visual communication platform.
 - [A Thinking Ape](https://athinkingape.com) - We build communities through massively multiplayer mobile games
@@ -673,6 +750,22 @@ Consumer products, communities, marketplaces, media, travel, commerce, education
 
 Healthcare delivery, health-tech, biotech, drug discovery, medical devices, and wellness.
 
+- [Hippocratic AI](https://hippocraticai.com) - Safety-focused healthcare LLM.
+- [Atomwise](https://atomwise.com) - AI for small-molecule drug discovery.
+- [Inscripta](https://inscripta.com) - Genome engineering and digital biology tools.
+- [Insitro](https://insitro.com) - AI-driven drug discovery.
+- [Merck](https://merck.com) - Global pharmaceutical company.
+- [AstraZeneca](https://astrazeneca.com) - Global pharmaceutical company.
+- [BioNTech](https://biontech.com) - mRNA cancer and infectious-disease therapeutics.
+- [Genentech](https://gene.com) - Biotech (Roche).
+- [Illumina](https://illumina.com) - Genomic sequencing instruments and software.
+- [23andMe](https://23andme.com) - Consumer genetics and health insights.
+- [Regeneron](https://regeneron.com) - Biotech — antibody therapeutics and genetics.
+- [Novartis](https://novartis.com) - Swiss pharmaceutical multinational.
+- [Johnson & Johnson](https://jnj.com) - Pharma and medical devices conglomerate.
+- [Eli Lilly](https://lilly.com) - Global pharmaceutical company.
+- [Moderna](https://modernatx.com) - mRNA vaccine and therapeutics platform.
+- [Pfizer](https://pfizer.com) - Global pharmaceutical company.
 - [OpenEvidence](https://openevidence.com) - Clinical AI platform delivering medical evidence at the point of care.
 - [Adaptyv](https://adaptyvbio.com) - We're building fully automated labs for protein engineering
 - [Akido Labs](https://akidolabs.com) - Rebuilding healthcare with AI at the core
@@ -795,6 +888,40 @@ Healthcare delivery, health-tech, biotech, drug discovery, medical devices, and 
 
 Hardware, manufacturing, robotics, climate, energy, aviation, space, supply chain, logistics, real estate, and construction.
 
+- [Bloom Energy](https://bloomenergy.com) - Solid-oxide fuel cells for distributed energy.
+- [TAE Technologies](https://tae.com) - Fusion energy and applied physics.
+- [Commonwealth Fusion Systems](https://cfs.energy) - Tokamak fusion energy company (MIT spinout).
+- [Helion Energy](https://helionenergy.com) - Commercial fusion energy.
+- [Varda](https://varda.com) - In-space manufacturing and reentry capsules.
+- [Relativity Space](https://relativityspace.com) - 3D-printed rockets.
+- [Blue Origin](https://blueorigin.com) - Reusable rockets and lunar systems.
+- [Rocket Lab](https://rocketlabusa.com) - Small-launch and space systems.
+- [KION Group](https://kiongroup.com) - Industrial trucks and warehouse automation.
+- [Hyundai](https://hyundai.com) - Automotive manufacturer.
+- [Volvo](https://volvogroup.com) - Trucks, buses, and construction equipment.
+- [Komatsu](https://komatsu.com) - Heavy construction and mining equipment.
+- [Mercedes-Benz](https://mercedes-benz.com) - Premium automotive manufacturer.
+- [BMW](https://bmwgroup.com) - Premium automotive manufacturer.
+- [Toyota](https://toyota.com) - Global automotive manufacturer.
+- [General Motors](https://gm.com) - Automotive manufacturer.
+- [Ford](https://ford.com) - Automotive manufacturer.
+- [Lucid Motors](https://lucidmotors.com) - Luxury electric vehicles.
+- [Rivian](https://rivian.com) - Electric trucks, SUVs, and delivery vans.
+- [Caterpillar](https://caterpillar.com) - Heavy equipment and construction machinery.
+- [Honeywell](https://honeywell.com) - Industrial automation, aerospace, and building tech.
+- [Northrop Grumman](https://northropgrumman.com) - Defense and space systems.
+- [Raytheon](https://rtx.com) - Defense and aerospace (RTX).
+- [Lockheed Martin](https://lockheedmartin.com) - Defense and aerospace prime contractor.
+- [Boeing](https://boeing.com) - Aerospace and defense manufacturer.
+- [Lenovo](https://lenovo.com) - PC and data-center hardware.
+- [Dell](https://dell.com) - PC, server, and storage hardware.
+- [HP](https://hp.com) - PC and printer hardware.
+- [ARM](https://arm.com) - CPU architecture and IP licensing.
+- [TSMC](https://tsmc.com) - Taiwan Semiconductor Manufacturing — global chip foundry.
+- [Broadcom](https://broadcom.com) - Semiconductor and infrastructure software (post-VMware).
+- [Qualcomm](https://qualcomm.com) - Mobile chipset and wireless technology.
+- [AMD](https://amd.com) - CPU and GPU semiconductor design.
+- [Intel](https://intel.com) - Semiconductor manufacturer.
 - [The Boring Company](https://boringcompany.com) - Tunnel-boring and underground transportation infrastructure company.
 - [Shield AI](https://shield.ai) - AI pilot for defense aircraft and autonomous swarm operations.
 - [Saronic](https://saronic.com) - Autonomous surface vessels for naval defense and maritime operations.
@@ -955,6 +1082,11 @@ Hardware, manufacturing, robotics, climate, energy, aviation, space, supply chai
 
 B2B SaaS that does not fit `developer-infrastructure` — HR, sales, marketing, operations, recruiting, legal, and procurement.
 
+- [IBM](https://ibm.com) - Enterprise IT, hybrid cloud, and AI services.
+- [SAP](https://sap.com) - ERP and enterprise applications.
+- [Workday](https://workday.com) - Cloud HR and finance enterprise platform.
+- [ServiceNow](https://servicenow.com) - Enterprise IT service management and workflow platform.
+- [Salesforce](https://salesforce.com) - CRM and enterprise SaaS platform.
 - [ACLU](https://aclu.org) - Defender of rights and liberties
 - [Airtable](https://airtable.com) - Collaborative app-building and workflow platform for teams.
 - [Alloy](https://alloy.app) - AI Prototyping for Product Management
