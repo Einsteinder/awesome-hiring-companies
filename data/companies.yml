@@ -22015,15 +22015,17 @@
   sources:
   - https://jobs.ashbyhq.com/oneapp
 
-- name: Shieldai
-  slug: shieldai
-  domain: shieldai.com
+- name: Shield AI
+  slug: shield-ai
+  domain: shield.ai
   careers_url: https://jobs.lever.co/shieldai
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     lever: shieldai
   tags:
-  - open
+  - ai
+  - defense
+  - autonomy
   sources:
   - https://jobs.lever.co/shieldai
 
@@ -26011,4 +26013,131 @@
   - open
   sources:
   - https://jobs.lever.co/aeratechnology
+
+- name: Polymarket
+  slug: polymarket
+  domain: polymarket.com
+  careers_url: https://jobs.ashbyhq.com/polymarket
+  category: fintech
+  ats:
+    ashby: polymarket
+  tags:
+  - prediction-markets
+  - fintech
+  - crypto
+  sources:
+  - https://jobs.ashbyhq.com/polymarket
+
+- name: OpenEvidence
+  slug: openevidence
+  domain: openevidence.com
+  careers_url: https://jobs.ashbyhq.com/openevidence
+  category: healthcare-and-biotech
+  ats:
+    ashby: openevidence
+  tags:
+  - ai
+  - healthcare
+  - clinical-decision-support
+  sources:
+  - https://jobs.ashbyhq.com/openevidence
+
+- name: Saronic
+  slug: saronic
+  domain: saronic.com
+  careers_url: https://jobs.ashbyhq.com/saronic
+  category: industrials-and-climate
+  ats:
+    ashby: saronic
+  tags:
+  - defense
+  - naval
+  - autonomy
+  - hardware
+  sources:
+  - https://jobs.ashbyhq.com/saronic
+
+- name: Cerebras
+  slug: cerebras
+  domain: cerebras.net
+  careers_url: https://boards.greenhouse.io/cerebrassystems
+  category: ai-and-data
+  ats:
+    greenhouse: cerebrassystems
+  tags:
+  - ai
+  - ai-hardware
+  - infrastructure
+  sources:
+  - https://boards.greenhouse.io/cerebrassystems
+
+- name: Figure AI
+  slug: figure-ai
+  domain: figure.ai
+  careers_url: https://boards.greenhouse.io/figureai
+  category: industrials-and-climate
+  ats:
+    greenhouse: figureai
+  tags:
+  - ai
+  - robotics
+  - humanoid
+  sources:
+  - https://boards.greenhouse.io/figureai
+
+- name: Canva
+  slug: canva
+  domain: canva.com
+  careers_url: https://jobs.lever.co/canva
+  category: consumer-and-marketplace
+  ats:
+    lever: canva
+  tags:
+  - design
+  - saas
+  - consumer
+  sources:
+  - https://jobs.lever.co/canva
+
+- name: Sereact
+  slug: sereact
+  domain: sereact.ai
+  careers_url: https://jobs.ashbyhq.com/sereact
+  category: industrials-and-climate
+  ats:
+    ashby: sereact
+  tags:
+  - ai
+  - robotics
+  - warehouse-automation
+  sources:
+  - https://jobs.ashbyhq.com/sereact
+
+- name: Coder
+  slug: coder
+  domain: coder.com
+  careers_url: https://jobs.ashbyhq.com/coder
+  category: developer-infrastructure
+  ats:
+    ashby: coder
+  tags:
+  - developer-tools
+  - cloud
+  - ai
+  sources:
+  - https://jobs.ashbyhq.com/coder
+
+- name: Namespace
+  slug: namespace
+  domain: namespace.so
+  careers_url: https://jobs.ashbyhq.com/namespace
+  category: developer-infrastructure
+  ats:
+    ashby: namespace
+  tags:
+  - developer-tools
+  - infrastructure
+  - ci-cd
+  sources:
+  - https://jobs.ashbyhq.com/namespace
 

@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **2000 companies**.
+Currently tracking **2009 companies**.
 
 This repository is designed for two uses:
 
@@ -43,6 +43,7 @@ New companies must pass the full [`Inclusion Standard`](docs/inclusion-standard.
 
 AI, machine learning, analytics, databases, and data infrastructure.
 
+- [Cerebras](https://cerebras.net) - Wafer-scale AI accelerator hardware and inference platform.
 - [Abundant](https://abundant.ai) - Agent simulation and RL for researchers
 - [Acceldata](https://acceldata.com) - Hiring via Lever (acceldata).
 - [AfterQuery](https://afterquery.com) - Applied research lab curating data solutions for foundation model…
@@ -223,6 +224,8 @@ AI, machine learning, analytics, databases, and data infrastructure.
 
 Developer tools, cloud, infrastructure, security, observability, and B2B technical platforms.
 
+- [Coder](https://coder.com) - Cloud development environments with parallel AI coding agents.
+- [Namespace](https://namespace.so) - AI-accelerated developer infrastructure for builds and tests.
 - [Accord](https://inaccord.com) - The Revenue Excellence Platform
 - [Aeratechnology](https://aeratechnology.com) - Hiring via Lever (aeratechnology).
 - [Agency](https://getagency.com) - Agency replaces traditional security and compliance headcount with AI.
@@ -384,6 +387,7 @@ Developer tools, cloud, infrastructure, security, observability, and B2B technic
 
 Payments, banking, investing, crypto, expense, payroll, and financial infrastructure.
 
+- [Polymarket](https://polymarket.com) - Decentralized prediction markets for politics, sports, and current events.
 - [Abacum](https://abacum.ai) - The AI-native FP&A platform that helps Finance teams drive business…
 - [Abacus](https://abacus.com) - Making expense reports obsolete
 - [Affinity](https://itsaffinity.com) - A compliance training platform built for regulated industries.
@@ -567,6 +571,7 @@ Payments, banking, investing, crypto, expense, payroll, and financial infrastruc
 
 Consumer products, communities, marketplaces, media, travel, commerce, education, and gaming.
 
+- [Canva](https://canva.com) - Online design and visual communication platform.
 - [A Thinking Ape](https://athinkingape.com) - We build communities through massively multiplayer mobile games
 - [Able](https://ablejobs.co) - India's Largest Placement Platform for Early Professionals
 - [Airbnb](https://airbnb.com) - Travel marketplace with large-scale consumer, marketplace, trust, and payments systems.
@@ -664,6 +669,7 @@ Consumer products, communities, marketplaces, media, travel, commerce, education
 
 Healthcare delivery, health-tech, biotech, drug discovery, medical devices, and wellness.
 
+- [OpenEvidence](https://openevidence.com) - Clinical AI platform delivering medical evidence at the point of care.
 - [Adaptyv](https://adaptyvbio.com) - We're building fully automated labs for protein engineering
 - [Akido Labs](https://akidolabs.com) - Rebuilding healthcare with AI at the core
 - [Anima](https://animahealth.com) - The next generation care enablement platform
@@ -785,6 +791,10 @@ Healthcare delivery, health-tech, biotech, drug discovery, medical devices, and 
 
 Hardware, manufacturing, robotics, climate, energy, aviation, space, supply chain, logistics, real estate, and construction.
 
+- [Shield AI](https://shield.ai) - AI pilot for defense aircraft and autonomous swarm operations.
+- [Saronic](https://saronic.com) - Autonomous surface vessels for naval defense and maritime operations.
+- [Figure AI](https://figure.ai) - Humanoid robotics company building general-purpose humanoid workers.
+- [Sereact](https://sereact.ai) - Embodied AI for autonomous warehouse robotics.
 - [9 Mothers](https://9mothers.com) - AI weapon systems
 - [Agave](https://useagave.com) - AI Financial Operations for Construction
 - [Albedo](https://albedo.com) - Full-stack VLEO satellite missions
@@ -1869,7 +1879,6 @@ Open-source companies, broad platforms, productivity, collaboration, and entries
 - [Shapes](https://shapes.com) - Hiring via Ashby (shapes).
 - [Share](https://share.com) - Hiring via Ashby (share).
 - [SharkNinja](https://sharkninja.com) - Hiring via Greenhouse (sharkninjaoperatingllc).
-- [Shieldai](https://shieldai.com) - Hiring via Lever (shieldai).
 - [Shook](https://shook.com) - Hiring via Ashby (shook).
 - [Siftstack](https://siftstack.com) - Hiring via Ashby (siftstack).
 - [Sigma Computing](https://sigmacomputing.com) - Hiring via Greenhouse (sigmacomputing).
