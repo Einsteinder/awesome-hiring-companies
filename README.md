@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1792 companies**.
+Currently tracking **1802 companies**.
 
 This repository is designed for two uses:
 
@@ -1848,6 +1848,16 @@ Open source video player (video.js)
 - [GoFundMe](https://gofundme.com) - Hiring via Greenhouse (gofundme).
 - [Fastly](https://fastly.com) - Hiring via Greenhouse (fastly).
 - [ExpressVPN](https://expressvpn.com) - Hiring via Greenhouse (expressvpn).
+- [Jane Street](https://janestreet.com) - Hiring via Greenhouse (janestreet).
+- [Databento](https://databento.com) - Hiring via Greenhouse (databento).
+- [News Revenue Hub](https://newsrevenuehub.com) - Hiring via Greenhouse (newsrevenuehub).
+- [Fairmarkit](https://fairmarkit.com) - Hiring via Greenhouse (fairmarkit).
+- [MoveOn.org](https://moveonorg.com) - Hiring via Greenhouse (moveonorg).
+- [Blink Health](https://blinkhealth.com) - Hiring via Greenhouse (blinkhealth).
+- [Procurementsciences](https://procurementsciences.com) - Hiring via Ashby (procurementsciences).
+- [Framenergy](https://framenergy.com) - Hiring via Ashby (framenergy).
+- [Stickermule](https://stickermule.com) - Hiring via Ashby (stickermule).
+- [Ziplines](https://ziplines.com) - Hiring via Ashby (ziplines).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

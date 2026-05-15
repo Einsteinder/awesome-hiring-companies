@@ -23513,3 +23513,123 @@
   - open
   sources:
   - https://boards.greenhouse.io/expressvpn
+
+- name: Jane Street
+  slug: jane-street
+  domain: janestreet.com
+  careers_url: https://boards.greenhouse.io/janestreet
+  category: open-source-and-platform
+  ats:
+    greenhouse: janestreet
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/janestreet
+
+- name: Databento
+  slug: databento
+  domain: databento.com
+  careers_url: https://boards.greenhouse.io/databento
+  category: open-source-and-platform
+  ats:
+    greenhouse: databento
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/databento
+
+- name: News Revenue Hub
+  slug: news-revenue-hub
+  domain: newsrevenuehub.com
+  careers_url: https://boards.greenhouse.io/newsrevenuehub
+  category: open-source-and-platform
+  ats:
+    greenhouse: newsrevenuehub
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/newsrevenuehub
+
+- name: Fairmarkit
+  slug: fairmarkit
+  domain: fairmarkit.com
+  careers_url: https://boards.greenhouse.io/fairmarkit
+  category: open-source-and-platform
+  ats:
+    greenhouse: fairmarkit
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/fairmarkit
+
+- name: MoveOn.org
+  slug: moveon-org
+  domain: moveonorg.com
+  careers_url: https://boards.greenhouse.io/moveonorg
+  category: open-source-and-platform
+  ats:
+    greenhouse: moveonorg
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/moveonorg
+
+- name: Blink Health
+  slug: blink-health
+  domain: blinkhealth.com
+  careers_url: https://boards.greenhouse.io/blinkhealth
+  category: open-source-and-platform
+  ats:
+    greenhouse: blinkhealth
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/blinkhealth
+
+- name: Procurementsciences
+  slug: procurementsciences
+  domain: procurementsciences.com
+  careers_url: https://jobs.ashbyhq.com/procurementsciences
+  category: open-source-and-platform
+  ats:
+    ashby: procurementsciences
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/procurementsciences
+
+- name: Framenergy
+  slug: framenergy
+  domain: framenergy.com
+  careers_url: https://jobs.ashbyhq.com/framenergy
+  category: open-source-and-platform
+  ats:
+    ashby: framenergy
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/framenergy
+
+- name: Stickermule
+  slug: stickermule
+  domain: stickermule.com
+  careers_url: https://jobs.ashbyhq.com/stickermule
+  category: open-source-and-platform
+  ats:
+    ashby: stickermule
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/stickermule
+
+- name: Ziplines
+  slug: ziplines
+  domain: ziplines.com
+  careers_url: https://jobs.ashbyhq.com/ziplines
+  category: open-source-and-platform
+  ats:
+    ashby: ziplines
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/ziplines
