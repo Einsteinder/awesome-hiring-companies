@@ -1270,3 +1270,151 @@
   - automation
   sources:
   - https://boards.greenhouse.io/clara
+
+- name: Gusto
+  slug: gusto
+  domain: gusto.com
+  careers_url: https://boards.greenhouse.io/gusto
+  category: fintech
+  ats:
+    greenhouse: gusto
+  tags:
+  - b2b
+  - b2b-human-resources
+  - payroll
+  - health-insurance
+  sources:
+  - https://boards.greenhouse.io/gusto
+
+- name: Hive
+  slug: hive
+  domain: hive.co
+  careers_url: https://jobs.lever.co/hive
+  category: developer-infrastructure
+  ats:
+    lever: hive
+  tags:
+  - b2b
+  - b2b-marketing
+  - saas
+  - crm
+  sources:
+  - https://jobs.lever.co/hive
+
+- name: Faire
+  slug: faire
+  domain: faire.com
+  careers_url: https://boards.greenhouse.io/faire
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: faire
+  tags:
+  - b2b
+  - b2b-retail
+  - marketplace
+  - retail
+  sources:
+  - https://boards.greenhouse.io/faire
+
+- name: Deepgram
+  slug: deepgram
+  domain: deepgram.com
+  careers_url: https://jobs.ashbyhq.com/deepgram
+  category: ai-and-data
+  ats:
+    ashby: deepgram
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - ai-enhanced-learning
+  - api
+  sources:
+  - https://jobs.ashbyhq.com/deepgram
+
+- name: Checkr
+  slug: checkr
+  domain: checkr.com
+  careers_url: https://boards.greenhouse.io/checkr
+  category: developer-infrastructure
+  ats:
+    greenhouse: checkr
+  tags:
+  - b2b
+  - b2b-human-resources
+  - artificial-intelligence
+  - compliance
+  sources:
+  - https://boards.greenhouse.io/checkr
+
+- name: Clear
+  slug: clear
+  domain: clear.in
+  careers_url: https://boards.greenhouse.io/clear
+  category: fintech
+  ats:
+    greenhouse: clear
+  tags:
+  - fintech
+  - fintech-consumer-finance
+  sources:
+  - https://boards.greenhouse.io/clear
+
+- name: Abacus
+  slug: abacus
+  domain: abacus.com
+  careers_url: https://boards.greenhouse.io/abacus
+  category: fintech
+  ats:
+    greenhouse: abacus
+  tags:
+  - b2b
+  - b2b-finance-and-accounting
+  - fintech
+  - saas
+  sources:
+  - https://boards.greenhouse.io/abacus
+
+- name: Human Interest
+  slug: human-interest
+  domain: humaninterest.com
+  careers_url: https://boards.greenhouse.io/humaninterest
+  category: fintech
+  ats:
+    greenhouse: humaninterest
+  tags:
+  - b2b
+  - b2b-human-resources
+  - fintech
+  - saas
+  sources:
+  - https://boards.greenhouse.io/humaninterest
+
+- name: Hightouch
+  slug: hightouch
+  domain: hightouch.com
+  careers_url: https://boards.greenhouse.io/hightouch
+  category: ai-and-data
+  ats:
+    greenhouse: hightouch
+  tags:
+  - b2b
+  - b2b-marketing
+  - marketing
+  - enterprise-software
+  sources:
+  - https://boards.greenhouse.io/hightouch
+
+- name: PowerX
+  slug: powerx
+  domain: powerx.co
+  careers_url: https://boards.greenhouse.io/powerx
+  category: ai-and-data
+  ats:
+    greenhouse: powerx
+  tags:
+  - industrials
+  - industrials-climate
+  - machine-learning
+  - iot
+  sources:
+  - https://boards.greenhouse.io/powerx

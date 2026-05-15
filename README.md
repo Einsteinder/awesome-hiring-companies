@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **90 companies**.
+Currently tracking **100 companies**.
 
 This repository is designed for two uses:
 
@@ -145,6 +145,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [TRM Labs](https://trmlabs.com) - TRM is building a safer financial system for billions of people.
 - [Clutch](https://clutch.io) - An easy to integrate library for native iOS applications designed to…
 - [Clara Labs](https://claralabs.com) - Clara is a human-in-the-loop assistant that helps automate repetitive…
+- [Gusto](https://gusto.com) - Provides growing businesses with everything to take care of their team
+- [Hive](https://hive.co) - Marketing automation for event promoters (email, sms, ads, CRM)
+- [Faire](https://faire.com) - The global online platform empowering independent retail.
+- [Deepgram](https://deepgram.com) - Building foundational AI for speech transcription and understanding.
+- [Checkr](https://checkr.com) - People infrastructure for the future of work
+- [Clear](https://clear.in) - Fintech SaaS platform for invoices, taxes, wealth management & credit.
+- [Abacus](https://abacus.com) - Making expense reports obsolete
+- [Human Interest](https://humaninterest.com) - The 401(k) for small and medium-sized businesses.
+- [Hightouch](https://hightouch.com) - The leading Composable CDP and AI Decisioning platform
+- [PowerX](https://powerx.co) - AI powered sensors that save energy, water and emissions
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
