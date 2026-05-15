@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1478 companies**.
+Currently tracking **1488 companies**.
 
 This repository is designed for two uses:
 
@@ -1534,6 +1534,16 @@ Open source video player (video.js)
 - [Reprise](https://reprise.com) - Hiring via Ashby (reprise).
 - [Reserve](https://reserve.com) - Hiring via Ashby (reserve).
 - [Reset](https://reset.com) - Hiring via Ashby (reset).
+- [Safety](https://safety.com) - Hiring via Ashby (safety).
+- [Stand](https://stand.com) - Hiring via Ashby (stand).
+- [Stash](https://stash.com) - Hiring via Ashby (stash).
+- [Stockpile](https://stockpile.com) - Hiring via Lever (stockpile).
+- [Stork](https://stork.com) - Hiring via Ashby (stork).
+- [Stuart](https://stuart.com) - Hiring via Lever (stuart).
+- [Subtotal](https://subtotal.com) - Hiring via Ashby (subtotal).
+- [Succinct](https://succinct.com) - Hiring via Ashby (succinct).
+- [Suzy](https://suzy.com) - Hiring via Ashby (suzy).
+- [Symbiotic](https://symbiotic.com) - Hiring via Ashby (symbiotic).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

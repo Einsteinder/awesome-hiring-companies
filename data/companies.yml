@@ -19745,3 +19745,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/reset
+
+- name: Safety
+  slug: safety
+  domain: safety.com
+  careers_url: https://jobs.ashbyhq.com/safety
+  category: open-source-and-platform
+  ats:
+    ashby: safety
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/safety
+
+- name: Stand
+  slug: stand
+  domain: stand.com
+  careers_url: https://jobs.ashbyhq.com/stand
+  category: open-source-and-platform
+  ats:
+    ashby: stand
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/stand
+
+- name: Stash
+  slug: stash
+  domain: stash.com
+  careers_url: https://jobs.ashbyhq.com/stash
+  category: open-source-and-platform
+  ats:
+    ashby: stash
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/stash
+
+- name: Stockpile
+  slug: stockpile
+  domain: stockpile.com
+  careers_url: https://jobs.lever.co/stockpile
+  category: open-source-and-platform
+  ats:
+    lever: stockpile
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/stockpile
+
+- name: Stork
+  slug: stork
+  domain: stork.com
+  careers_url: https://jobs.ashbyhq.com/stork
+  category: open-source-and-platform
+  ats:
+    ashby: stork
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/stork
+
+- name: Stuart
+  slug: stuart
+  domain: stuart.com
+  careers_url: https://jobs.lever.co/stuart
+  category: open-source-and-platform
+  ats:
+    lever: stuart
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/stuart
+
+- name: Subtotal
+  slug: subtotal
+  domain: subtotal.com
+  careers_url: https://jobs.ashbyhq.com/subtotal
+  category: open-source-and-platform
+  ats:
+    ashby: subtotal
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/subtotal
+
+- name: Succinct
+  slug: succinct
+  domain: succinct.com
+  careers_url: https://jobs.ashbyhq.com/succinct
+  category: open-source-and-platform
+  ats:
+    ashby: succinct
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/succinct
+
+- name: Suzy
+  slug: suzy
+  domain: suzy.com
+  careers_url: https://jobs.ashbyhq.com/suzy
+  category: open-source-and-platform
+  ats:
+    ashby: suzy
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/suzy
+
+- name: Symbiotic
+  slug: symbiotic
+  domain: symbiotic.com
+  careers_url: https://jobs.ashbyhq.com/symbiotic
+  category: open-source-and-platform
+  ats:
+    ashby: symbiotic
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/symbiotic
