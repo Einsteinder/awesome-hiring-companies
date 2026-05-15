@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1168 companies**.
+Currently tracking **1178 companies**.
 
 This repository is designed for two uses:
 
@@ -1224,6 +1224,16 @@ Open source video player (video.js)
 - [Nudge](https://nudge.com) - Hiring via Ashby (nudge).
 - [Laurel](https://laurel.com) - Hiring via Ashby (laurel).
 - [Leland](https://leland.com) - Hiring via Ashby (leland).
+- [Monumental](https://monumental.com) - Hiring via Ashby (monumental).
+- [Xenon](https://xenon.com) - Hiring via Ashby (xenon).
+- [Maxima](https://maxima.com) - Hiring via Ashby (maxima).
+- [Superpower](https://superpower.com) - Hiring via Ashby (superpower).
+- [Liven](https://liven.com) - Hiring via Ashby (liven).
+- [Lyric](https://lyric.com) - Hiring via Ashby (lyric).
+- [Mural](https://mural.com) - Hiring via Ashby (mural).
+- [Sent](https://sent.com) - Hiring via Ashby (sent).
+- [Upside](https://upside.com) - Hiring via Ashby (upside).
+- [Until](https://until.com) - Hiring via Lever (until).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

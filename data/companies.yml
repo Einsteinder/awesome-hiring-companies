@@ -16025,3 +16025,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/leland
+
+- name: Monumental
+  slug: monumental
+  domain: monumental.com
+  careers_url: https://jobs.ashbyhq.com/monumental
+  category: open-source-and-platform
+  ats:
+    ashby: monumental
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/monumental
+
+- name: Xenon
+  slug: xenon
+  domain: xenon.com
+  careers_url: https://jobs.ashbyhq.com/xenon
+  category: open-source-and-platform
+  ats:
+    ashby: xenon
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/xenon
+
+- name: Maxima
+  slug: maxima
+  domain: maxima.com
+  careers_url: https://jobs.ashbyhq.com/maxima
+  category: open-source-and-platform
+  ats:
+    ashby: maxima
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/maxima
+
+- name: Superpower
+  slug: superpower
+  domain: superpower.com
+  careers_url: https://jobs.ashbyhq.com/superpower
+  category: open-source-and-platform
+  ats:
+    ashby: superpower
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/superpower
+
+- name: Liven
+  slug: liven
+  domain: liven.com
+  careers_url: https://jobs.ashbyhq.com/liven
+  category: open-source-and-platform
+  ats:
+    ashby: liven
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/liven
+
+- name: Lyric
+  slug: lyric
+  domain: lyric.com
+  careers_url: https://jobs.ashbyhq.com/lyric
+  category: open-source-and-platform
+  ats:
+    ashby: lyric
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/lyric
+
+- name: Mural
+  slug: mural
+  domain: mural.com
+  careers_url: https://jobs.ashbyhq.com/mural
+  category: open-source-and-platform
+  ats:
+    ashby: mural
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/mural
+
+- name: Sent
+  slug: sent
+  domain: sent.com
+  careers_url: https://jobs.ashbyhq.com/sent
+  category: open-source-and-platform
+  ats:
+    ashby: sent
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/sent
+
+- name: Upside
+  slug: upside
+  domain: upside.com
+  careers_url: https://jobs.ashbyhq.com/upside
+  category: open-source-and-platform
+  ats:
+    ashby: upside
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/upside
+
+- name: Until
+  slug: until
+  domain: until.com
+  careers_url: https://jobs.lever.co/until
+  category: open-source-and-platform
+  ats:
+    lever: until
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/until
