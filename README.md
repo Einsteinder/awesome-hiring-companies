@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **930 companies**.
+Currently tracking **940 companies**.
 
 This repository is designed for two uses:
 
@@ -986,6 +986,16 @@ Open source video player (video.js)
 - [Flock](https://flock.com) - Hiring via Ashby (flock).
 - [Gorilla](https://gorilla.com) - Hiring via Ashby (gorilla).
 - [Grand](https://grand.com) - Hiring via Lever (grand).
+- [Adaptive](https://adaptive.com) - Hiring via Ashby (adaptive).
+- [Andromeda](https://andromeda.com) - Hiring via Ashby (andromeda).
+- [Artsy](https://artsy.com) - Hiring via Ashby (artsy).
+- [Atria](https://atria.com) - Hiring via Ashby (atria).
+- [August](https://august.com) - Hiring via Ashby (august).
+- [Caruso](https://caruso.com) - Hiring via Ashby (caruso).
+- [Cents](https://cents.com) - Hiring via Lever (cents).
+- [Change](https://change.com) - Hiring via Ashby (change).
+- [Chromatic](https://chromatic.com) - Hiring via Ashby (chromatic).
+- [Clair](https://clair.com) - Hiring via Ashby (clair).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

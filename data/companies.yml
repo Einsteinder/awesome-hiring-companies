@@ -13169,3 +13169,123 @@
   - open
   sources:
   - https://jobs.lever.co/grand
+
+- name: Adaptive
+  slug: adaptive
+  domain: adaptive.com
+  careers_url: https://jobs.ashbyhq.com/adaptive
+  category: open-source-and-platform
+  ats:
+    ashby: adaptive
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/adaptive
+
+- name: Andromeda
+  slug: andromeda
+  domain: andromeda.com
+  careers_url: https://jobs.ashbyhq.com/andromeda
+  category: open-source-and-platform
+  ats:
+    ashby: andromeda
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/andromeda
+
+- name: Artsy
+  slug: artsy
+  domain: artsy.com
+  careers_url: https://jobs.ashbyhq.com/artsy
+  category: open-source-and-platform
+  ats:
+    ashby: artsy
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/artsy
+
+- name: Atria
+  slug: atria
+  domain: atria.com
+  careers_url: https://jobs.ashbyhq.com/atria
+  category: open-source-and-platform
+  ats:
+    ashby: atria
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/atria
+
+- name: August
+  slug: august
+  domain: august.com
+  careers_url: https://jobs.ashbyhq.com/august
+  category: open-source-and-platform
+  ats:
+    ashby: august
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/august
+
+- name: Caruso
+  slug: caruso
+  domain: caruso.com
+  careers_url: https://jobs.ashbyhq.com/caruso
+  category: open-source-and-platform
+  ats:
+    ashby: caruso
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/caruso
+
+- name: Cents
+  slug: cents
+  domain: cents.com
+  careers_url: https://jobs.lever.co/cents
+  category: open-source-and-platform
+  ats:
+    lever: cents
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/cents
+
+- name: Change
+  slug: change
+  domain: change.com
+  careers_url: https://jobs.ashbyhq.com/change
+  category: open-source-and-platform
+  ats:
+    ashby: change
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/change
+
+- name: Chromatic
+  slug: chromatic
+  domain: chromatic.com
+  careers_url: https://jobs.ashbyhq.com/chromatic
+  category: open-source-and-platform
+  ats:
+    ashby: chromatic
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/chromatic
+
+- name: Clair
+  slug: clair
+  domain: clair.com
+  careers_url: https://jobs.ashbyhq.com/clair
+  category: open-source-and-platform
+  ats:
+    ashby: clair
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/clair
