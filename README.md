@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **560 companies**.
+Currently tracking **570 companies**.
 
 This repository is designed for two uses:
 
@@ -615,6 +615,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [Bifrost](https://hapi.finance) - Wills and Estate Management for Crypto
 - [Spade](https://spade.com) - Enriched transaction data you can build on
 - [Rally UXR](https://rallyuxr.com) - User Research CRM
+- [Mercator](https://mercator.tech) - AI-assisted data analytics
+- [CAPSULE](https://shopcapsule.ai) - Buy anything you find on social media
+- [Maya Labs](https://mayalabs.io) - Building self-programming machines
+- [Finvest](https://getfinvest.com) - Easy way to buy US Treasury Bills
+- [Rollstack](https://rollstack.com) - Automate data-driven slide decks and documents with AI
+- [Magic Patterns](https://magicpatterns.com) - Go from idea to production with AI.
+- [GovEagle](https://goveagle.com) - AI for Government Contractors
+- [Invopop](https://invopop.com) - We help global software companies comply with local tax reporting
+- [Vector](https://vector.co) - Advertising for the new internet
+- [LiteLLM](https://litellm.ai) - Call every LLM API like it's OpenAI [100+ LLMs]
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

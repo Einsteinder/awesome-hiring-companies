@@ -8090,3 +8090,145 @@
   - design-tools
   sources:
   - https://jobs.ashbyhq.com/rallyuxr
+
+- name: Mercator
+  slug: mercator
+  domain: mercator.tech
+  careers_url: https://jobs.ashbyhq.com/mercator
+  category: ai-and-data
+  ats:
+    ashby: mercator
+  tags:
+  - b2b
+  - generative-ai
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/mercator
+
+- name: CAPSULE
+  slug: capsule
+  domain: shopcapsule.ai
+  careers_url: https://jobs.ashbyhq.com/capsule
+  category: ai-and-data
+  ats:
+    ashby: capsule
+  tags:
+  - consumer
+  - consumer-apparel-and-cosmetics
+  - artificial-intelligence
+  - generative-ai
+  sources:
+  - https://jobs.ashbyhq.com/capsule
+
+- name: Maya Labs
+  slug: maya-labs
+  domain: mayalabs.io
+  careers_url: https://jobs.lever.co/maya
+  category: ai-and-data
+  ats:
+    lever: maya
+  tags:
+  - b2b
+  - b2b-productivity
+  - artificial-intelligence
+  - generative-ai
+  sources:
+  - https://jobs.lever.co/maya
+
+- name: Finvest
+  slug: finvest
+  domain: getfinvest.com
+  careers_url: https://jobs.ashbyhq.com/finvest
+  category: fintech
+  ats:
+    ashby: finvest
+  tags:
+  - fintech
+  - fintech-consumer-finance
+  sources:
+  - https://jobs.ashbyhq.com/finvest
+
+- name: Rollstack
+  slug: rollstack
+  domain: rollstack.com
+  careers_url: https://jobs.ashbyhq.com/rollstack
+  category: ai-and-data
+  ats:
+    ashby: rollstack
+  tags:
+  - b2b
+  - b2b-analytics
+  - artificial-intelligence
+  - productivity
+  sources:
+  - https://jobs.ashbyhq.com/rollstack
+
+- name: Magic Patterns
+  slug: magic-patterns
+  domain: magicpatterns.com
+  careers_url: https://jobs.ashbyhq.com/magicpatterns
+  category: ai-and-data
+  ats:
+    ashby: magicpatterns
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  sources:
+  - https://jobs.ashbyhq.com/magicpatterns
+
+- name: GovEagle
+  slug: goveagle
+  domain: goveagle.com
+  careers_url: https://jobs.ashbyhq.com/goveagle
+  category: ai-and-data
+  ats:
+    ashby: goveagle
+  tags:
+  - government
+  sources:
+  - https://jobs.ashbyhq.com/goveagle
+
+- name: Invopop
+  slug: invopop
+  domain: invopop.com
+  careers_url: https://jobs.ashbyhq.com/invopop
+  category: fintech
+  ats:
+    ashby: invopop
+  tags:
+  - b2b
+  - b2b-finance-and-accounting
+  - finops
+  - fintech
+  sources:
+  - https://jobs.ashbyhq.com/invopop
+
+- name: Vector
+  slug: vector
+  domain: vector.co
+  careers_url: https://jobs.ashbyhq.com/vector
+  category: ai-and-data
+  ats:
+    ashby: vector
+  tags:
+  - b2b
+  - b2b-marketing
+  - generative-ai
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/vector
+
+- name: LiteLLM
+  slug: litellm
+  domain: litellm.ai
+  careers_url: https://jobs.ashbyhq.com/litellm
+  category: ai-and-data
+  ats:
+    ashby: litellm
+  tags:
+  - b2b
+  - aiops
+  - developer-tools
+  - generative-ai
+  sources:
+  - https://jobs.ashbyhq.com/litellm
