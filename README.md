@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **100 companies**.
+Currently tracking **110 companies**.
 
 This repository is designed for two uses:
 
@@ -155,6 +155,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [Human Interest](https://humaninterest.com) - The 401(k) for small and medium-sized businesses.
 - [Hightouch](https://hightouch.com) - The leading Composable CDP and AI Decisioning platform
 - [PowerX](https://powerx.co) - AI powered sensors that save energy, water and emissions
+- [Twitch](https://twitch.com) - A global community creating the future of live entertainment.
+- [Oklo](https://oklo.com) - Emission free, always on power from advanced fission power plants.
+- [Clipboard](https://clipboardworks.com) - Every shift, Covered.
+- [Meesho](https://meesho.com) - Democratizing internet commerce for everyone in India
+- [Fetch](https://fetchtruck.com) - Marketplace for self-service truck rental.
+- [Instawork](https://instawork.com) - A flexible work app that connects businesses with hourly workers.
+- [Alpaca](https://alpaca.markets) - API-first stock and crypto brokerage platform
+- [Jeeves](https://tryjeeves.com) - International banking infrastructure for global startups.
+- [Benchling](https://benchling.com) - Unlocking the power of biotech with modern software for modern science
+- [SingleStore](https://singlestore.com) - The cloud-native, operational database built for speed and scale.
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

@@ -1418,3 +1418,147 @@
   - iot
   sources:
   - https://boards.greenhouse.io/powerx
+
+- name: Twitch
+  slug: twitch
+  domain: twitch.com
+  careers_url: https://boards.greenhouse.io/twitch
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: twitch
+  tags:
+  - consumer
+  - consumer-content
+  - community
+  - gaming
+  sources:
+  - https://boards.greenhouse.io/twitch
+
+- name: Oklo
+  slug: oklo
+  domain: oklo.com
+  careers_url: https://boards.greenhouse.io/oklo
+  category: open-source-and-platform
+  ats:
+    greenhouse: oklo
+  tags:
+  - industrials
+  - industrials-energy
+  - small-modular-reactors
+  - climate
+  sources:
+  - https://boards.greenhouse.io/oklo
+
+- name: Clipboard
+  slug: clipboard
+  domain: clipboardworks.com
+  careers_url: https://jobs.ashbyhq.com/clipboard
+  category: consumer-and-marketplace
+  ats:
+    ashby: clipboard
+  tags:
+  - consumer
+  - marketplace
+  - consumer-health-services
+  - health-tech
+  sources:
+  - https://jobs.ashbyhq.com/clipboard
+
+- name: Meesho
+  slug: meesho
+  domain: meesho.com
+  careers_url: https://jobs.lever.co/meesho
+  category: consumer-and-marketplace
+  ats:
+    lever: meesho
+  tags:
+  - b2b
+  - b2b-retail
+  - e-commerce
+  - retail
+  sources:
+  - https://jobs.lever.co/meesho
+
+- name: Fetch
+  slug: fetch
+  domain: fetchtruck.com
+  careers_url: https://boards.greenhouse.io/fetch
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: fetch
+  tags:
+  - consumer
+  - consumer-transportation-services
+  - marketplace
+  - logistics
+  sources:
+  - https://boards.greenhouse.io/fetch
+
+- name: Instawork
+  slug: instawork
+  domain: instawork.com
+  careers_url: https://boards.greenhouse.io/instawork
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: instawork
+  tags:
+  - b2b
+  - b2b-recruiting-and-talent
+  - marketplace
+  sources:
+  - https://boards.greenhouse.io/instawork
+
+- name: Alpaca
+  slug: alpaca
+  domain: alpaca.markets
+  careers_url: https://boards.greenhouse.io/alpaca
+  category: developer-infrastructure
+  ats:
+    greenhouse: alpaca
+  tags:
+  - fintech
+  - fintech-banking-and-exchange
+  - developer-tools
+  - api
+  sources:
+  - https://boards.greenhouse.io/alpaca
+
+- name: Jeeves
+  slug: jeeves
+  domain: tryjeeves.com
+  careers_url: https://jobs.lever.co/tryjeeves
+  category: fintech
+  ats:
+    lever: tryjeeves
+  tags:
+  - fintech
+  - payments
+  sources:
+  - https://jobs.lever.co/tryjeeves
+
+- name: Benchling
+  slug: benchling
+  domain: benchling.com
+  careers_url: https://jobs.ashbyhq.com/benchling
+  category: developer-infrastructure
+  ats:
+    ashby: benchling
+  tags:
+  - b2b
+  - saas
+  - biotech
+  sources:
+  - https://jobs.ashbyhq.com/benchling
+
+- name: SingleStore
+  slug: singlestore
+  domain: singlestore.com
+  careers_url: https://boards.greenhouse.io/singlestore
+  category: developer-infrastructure
+  ats:
+    greenhouse: singlestore
+  tags:
+  - b2b
+  - b2b-infrastructure
+  sources:
+  - https://boards.greenhouse.io/singlestore
