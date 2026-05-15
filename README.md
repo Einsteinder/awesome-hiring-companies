@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1975 companies**.
+Currently tracking **1985 companies**.
 
 This repository is designed for two uses:
 
@@ -2031,6 +2031,16 @@ Open source video player (video.js)
 - [Razorpay Software Private Limited](https://razorpaysoftwareprivatelimited.com) - Hiring via Greenhouse (razorpaysoftwareprivatelimited).
 - [Trace3](https://trace3.com) - Hiring via Greenhouse (trace3).
 - [31st Union](https://31stunion.com) - Hiring via Greenhouse (31stunion).
+- [Fulfil Solutions](https://fulfilsolutions.com) - Hiring via Greenhouse (fulfil).
+- [Bloomreach](https://bloomreach.com) - Hiring via Greenhouse (bloomreach).
+- [Lucid Software](https://lucidsoftware.com) - Hiring via Greenhouse (lucidsoftware).
+- [Tavily](https://tavily.com) - Hiring via Ashby (tavily).
+- [Voldex](https://voldex.com) - Hiring via Ashby (voldex).
+- [Genmo](https://genmo.com) - Hiring via Ashby (genmo).
+- [Sfcompute](https://sfcompute.com) - Hiring via Ashby (sfcompute).
+- [Arsenalbio](https://arsenalbio.com) - Hiring via Lever (arsenalbio).
+- [Nava Benefits](https://navabenefits.com) - Hiring via Ashby (nava-benefits).
+- [Nuwaves](https://nuwaves.com) - Hiring via Lever (nuwaves).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

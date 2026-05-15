@@ -25709,3 +25709,123 @@
   - open
   sources:
   - https://boards.greenhouse.io/31stunion
+
+- name: Fulfil Solutions
+  slug: fulfil-solutions
+  domain: fulfilsolutions.com
+  careers_url: https://boards.greenhouse.io/fulfil
+  category: open-source-and-platform
+  ats:
+    greenhouse: fulfil
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/fulfil
+
+- name: Bloomreach
+  slug: bloomreach
+  domain: bloomreach.com
+  careers_url: https://boards.greenhouse.io/bloomreach
+  category: open-source-and-platform
+  ats:
+    greenhouse: bloomreach
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/bloomreach
+
+- name: Lucid Software
+  slug: lucid-software
+  domain: lucidsoftware.com
+  careers_url: https://boards.greenhouse.io/lucidsoftware
+  category: open-source-and-platform
+  ats:
+    greenhouse: lucidsoftware
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/lucidsoftware
+
+- name: Tavily
+  slug: tavily
+  domain: tavily.com
+  careers_url: https://jobs.ashbyhq.com/tavily
+  category: open-source-and-platform
+  ats:
+    ashby: tavily
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/tavily
+
+- name: Voldex
+  slug: voldex
+  domain: voldex.com
+  careers_url: https://jobs.ashbyhq.com/voldex
+  category: open-source-and-platform
+  ats:
+    ashby: voldex
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/voldex
+
+- name: Genmo
+  slug: genmo
+  domain: genmo.com
+  careers_url: https://jobs.ashbyhq.com/genmo
+  category: open-source-and-platform
+  ats:
+    ashby: genmo
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/genmo
+
+- name: Sfcompute
+  slug: sfcompute
+  domain: sfcompute.com
+  careers_url: https://jobs.ashbyhq.com/sfcompute
+  category: open-source-and-platform
+  ats:
+    ashby: sfcompute
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/sfcompute
+
+- name: Arsenalbio
+  slug: arsenalbio
+  domain: arsenalbio.com
+  careers_url: https://jobs.lever.co/arsenalbio
+  category: open-source-and-platform
+  ats:
+    lever: arsenalbio
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/arsenalbio
+
+- name: Nava Benefits
+  slug: nava-benefits
+  domain: navabenefits.com
+  careers_url: https://jobs.ashbyhq.com/nava-benefits
+  category: open-source-and-platform
+  ats:
+    ashby: nava-benefits
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/nava-benefits
+
+- name: Nuwaves
+  slug: nuwaves
+  domain: nuwaves.com
+  careers_url: https://jobs.lever.co/nuwaves
+  category: open-source-and-platform
+  ats:
+    lever: nuwaves
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/nuwaves
