@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **890 companies**.
+Currently tracking **900 companies**.
 
 This repository is designed for two uses:
 
@@ -946,6 +946,16 @@ Open source video player (video.js)
 - [Campus](https://campus.com) - Hiring via Ashby (campus).
 - [Envoy](https://envoy.com) - Hiring via Ashby (envoy).
 - [Fundamental](https://fundamental.com) - Hiring via Ashby (fundamental).
+- [Cube](https://cube.com) - Hiring via Ashby (cube).
+- [Hawk](https://hawk.com) - Hiring via Ashby (hawk).
+- [Acquisition](https://acquisition.com) - Hiring via Ashby (acquisition).
+- [Afresh](https://afresh.com) - Hiring via Greenhouse (afresh).
+- [Chalk](https://chalk.com) - Hiring via Ashby (chalk).
+- [Character](https://character.com) - Hiring via Ashby (character).
+- [Company](https://company.com) - Hiring via Ashby (company).
+- [Ecosystem](https://ecosystem.com) - Hiring via Lever (ecosystem).
+- [Granola](https://granola.com) - Hiring via Ashby (granola).
+- [Bounce](https://bounce.com) - Hiring via Ashby (bounce).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

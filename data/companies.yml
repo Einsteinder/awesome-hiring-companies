@@ -12689,3 +12689,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/fundamental
+
+- name: Cube
+  slug: cube
+  domain: cube.com
+  careers_url: https://jobs.ashbyhq.com/cube
+  category: open-source-and-platform
+  ats:
+    ashby: cube
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/cube
+
+- name: Hawk
+  slug: hawk
+  domain: hawk.com
+  careers_url: https://jobs.ashbyhq.com/hawk
+  category: open-source-and-platform
+  ats:
+    ashby: hawk
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/hawk
+
+- name: Acquisition
+  slug: acquisition
+  domain: acquisition.com
+  careers_url: https://jobs.ashbyhq.com/acquisition
+  category: open-source-and-platform
+  ats:
+    ashby: acquisition
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/acquisition
+
+- name: Afresh
+  slug: afresh
+  domain: afresh.com
+  careers_url: https://boards.greenhouse.io/afresh
+  category: open-source-and-platform
+  ats:
+    greenhouse: afresh
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/afresh
+
+- name: Chalk
+  slug: chalk
+  domain: chalk.com
+  careers_url: https://jobs.ashbyhq.com/chalk
+  category: open-source-and-platform
+  ats:
+    ashby: chalk
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/chalk
+
+- name: Character
+  slug: character
+  domain: character.com
+  careers_url: https://jobs.ashbyhq.com/character
+  category: open-source-and-platform
+  ats:
+    ashby: character
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/character
+
+- name: Company
+  slug: company
+  domain: company.com
+  careers_url: https://jobs.ashbyhq.com/company
+  category: open-source-and-platform
+  ats:
+    ashby: company
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/company
+
+- name: Ecosystem
+  slug: ecosystem
+  domain: ecosystem.com
+  careers_url: https://jobs.lever.co/ecosystem
+  category: open-source-and-platform
+  ats:
+    lever: ecosystem
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/ecosystem
+
+- name: Granola
+  slug: granola
+  domain: granola.com
+  careers_url: https://jobs.ashbyhq.com/granola
+  category: open-source-and-platform
+  ats:
+    ashby: granola
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/granola
+
+- name: Bounce
+  slug: bounce
+  domain: bounce.com
+  careers_url: https://jobs.ashbyhq.com/bounce
+  category: open-source-and-platform
+  ats:
+    ashby: bounce
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/bounce
