@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **750 companies**.
+Currently tracking **760 companies**.
 
 This repository is designed for two uses:
 
@@ -806,6 +806,16 @@ Open source video player (video.js)
 - [SkyLink](https://tryskylink.com) - Travel Management Meets AI
 - [Edge](https://withedge.com) - The ultimate IP assistant.
 - [Fortuna Health](https://fortunahealth.com) - TurboTax for Medicaid
+- [Navier AI](https://navier.ai) - Agent-Driven Engineering
+- [Pivot Robotics](https://pivotrobotics.com) - AI for Robot Arms in Factories
+- [Trellis AI](https://runtrellis.com) - AI for streamlining healthcare paperwork
+- [OffDeal](https://offdeal.io) - AI-native investment bank for small businesses
+- [Polar](https://polarfi.com) - The smarter way to manage USD earnings globally
+- [Spherecast](https://spherecast.ai) - AI Supply Chain Manager for CPG
+- [Thunder Compute](https://thundercompute.com) - The world's cheapest GPU cloud
+- [Archil](https://archil.com) - The high-performance file system that connects AI to data
+- [Capy](https://capy.ai) - The IDE for the parallel age
+- [Revise Robotics](https://reviserobotics.com) - Automating refurbishment of $1T in consumer electronics
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

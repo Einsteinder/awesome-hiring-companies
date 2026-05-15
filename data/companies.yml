@@ -10825,3 +10825,151 @@
   - healthcare-it
   sources:
   - https://jobs.ashbyhq.com/fortuna-health
+
+- name: Navier AI
+  slug: navier-ai
+  domain: navier.ai
+  careers_url: https://boards.greenhouse.io/navierai
+  category: ai-and-data
+  ats:
+    greenhouse: navierai
+  tags:
+  - industrials
+  - industrials-aviation-and-space
+  - artificial-intelligence
+  - aerospace
+  sources:
+  - https://boards.greenhouse.io/navierai
+
+- name: Pivot Robotics
+  slug: pivot-robotics
+  domain: pivotrobotics.com
+  careers_url: https://jobs.ashbyhq.com/pivotrobotics
+  category: ai-and-data
+  ats:
+    ashby: pivotrobotics
+  tags:
+  - industrials
+  - industrials-manufacturing-and-robotics
+  - artificial-intelligence
+  - robotics
+  sources:
+  - https://jobs.ashbyhq.com/pivotrobotics
+
+- name: Trellis AI
+  slug: trellis-ai
+  domain: runtrellis.com
+  careers_url: https://jobs.lever.co/trellis
+  category: ai-and-data
+  ats:
+    lever: trellis
+  tags:
+  - b2b
+  - data-engineering
+  - infrastructure
+  - ai
+  sources:
+  - https://jobs.lever.co/trellis
+
+- name: OffDeal
+  slug: offdeal
+  domain: offdeal.io
+  careers_url: https://jobs.ashbyhq.com/offdeal
+  category: ai-and-data
+  ats:
+    ashby: offdeal
+  tags:
+  - b2b
+  - artificial-intelligence
+  - fintech
+  - smb
+  sources:
+  - https://jobs.ashbyhq.com/offdeal
+
+- name: Polar
+  slug: polar
+  domain: polarfi.com
+  careers_url: https://jobs.ashbyhq.com/polar
+  category: fintech
+  ats:
+    ashby: polar
+  tags:
+  - fintech
+  - fintech-consumer-finance
+  - crypto-web3
+  - investing
+  sources:
+  - https://jobs.ashbyhq.com/polar
+
+- name: Spherecast
+  slug: spherecast
+  domain: spherecast.ai
+  careers_url: https://jobs.ashbyhq.com/spherecast
+  category: ai-and-data
+  ats:
+    ashby: spherecast
+  tags:
+  - b2b
+  - b2b-supply-chain-and-logistics
+  sources:
+  - https://jobs.ashbyhq.com/spherecast
+
+- name: Thunder Compute
+  slug: thunder-compute
+  domain: thundercompute.com
+  careers_url: https://jobs.ashbyhq.com/thundercompute
+  category: developer-infrastructure
+  ats:
+    ashby: thundercompute
+  tags:
+  - b2b
+  - b2b-infrastructure
+  - artificial-intelligence
+  - developer-tools
+  sources:
+  - https://jobs.ashbyhq.com/thundercompute
+
+- name: Archil
+  slug: archil
+  domain: archil.com
+  careers_url: https://jobs.ashbyhq.com/archil
+  category: ai-and-data
+  ats:
+    ashby: archil
+  tags:
+  - b2b
+  - b2b-infrastructure
+  - developer-tools
+  - machine-learning
+  sources:
+  - https://jobs.ashbyhq.com/archil
+
+- name: Capy
+  slug: capy
+  domain: capy.ai
+  careers_url: https://jobs.ashbyhq.com/capy
+  category: ai-and-data
+  ats:
+    ashby: capy
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - ai
+  - ai-assistant
+  sources:
+  - https://jobs.ashbyhq.com/capy
+
+- name: Revise Robotics
+  slug: revise-robotics
+  domain: reviserobotics.com
+  careers_url: https://jobs.ashbyhq.com/reviserobotics
+  category: consumer-and-marketplace
+  ats:
+    ashby: reviserobotics
+  tags:
+  - industrials
+  - industrials-manufacturing-and-robotics
+  - robotic-process-automation
+  - climatetech
+  sources:
+  - https://jobs.ashbyhq.com/reviserobotics
