@@ -4037,3 +4037,149 @@
   - ai
   sources:
   - https://jobs.lever.co/prosper
+
+- name: Rescale
+  slug: rescale
+  domain: rescale.com
+  careers_url: https://jobs.ashbyhq.com/rescale
+  category: developer-infrastructure
+  ats:
+    ashby: rescale
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - cloud-computing
+  sources:
+  - https://jobs.ashbyhq.com/rescale
+
+- name: Substack
+  slug: substack
+  domain: substack.com
+  careers_url: https://jobs.ashbyhq.com/substack
+  category: consumer-and-marketplace
+  ats:
+    ashby: substack
+  tags:
+  - b2b
+  - b2b-marketing
+  - marketplace
+  sources:
+  - https://jobs.ashbyhq.com/substack
+
+- name: Super
+  slug: super
+  domain: superapp.id
+  careers_url: https://jobs.lever.co/super
+  category: consumer-and-marketplace
+  ats:
+    lever: super
+  tags:
+  - consumer
+  - marketplace
+  - e-commerce
+  sources:
+  - https://jobs.lever.co/super
+
+- name: Rosebud AI
+  slug: rosebud-ai
+  domain: rosebud.ai
+  careers_url: https://boards.greenhouse.io/rosebud
+  category: ai-and-data
+  ats:
+    greenhouse: rosebud
+  tags:
+  - consumer
+  - developer-tools
+  - generative-ai
+  - machine-learning
+  sources:
+  - https://boards.greenhouse.io/rosebud
+
+- name: CoLab
+  slug: colab
+  domain: colabsoftware.com
+  careers_url: https://boards.greenhouse.io/colabsoftware
+  category: ai-and-data
+  ats:
+    greenhouse: colabsoftware
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - hardware
+  - saas
+  sources:
+  - https://boards.greenhouse.io/colabsoftware
+
+- name: Handoff
+  slug: handoff
+  domain: handoff.ai
+  careers_url: https://jobs.lever.co/handoff
+  category: ai-and-data
+  ats:
+    lever: handoff
+  tags:
+  - real-estate-and-construction
+  - machine-learning
+  - construction
+  - b2b
+  sources:
+  - https://jobs.lever.co/handoff
+
+- name: Riot
+  slug: riot
+  domain: tryriot.com
+  careers_url: https://jobs.lever.co/tryriot
+  category: developer-infrastructure
+  ats:
+    lever: tryriot
+  tags:
+  - b2b
+  - b2b-security
+  - saas
+  - security
+  sources:
+  - https://jobs.lever.co/tryriot
+
+- name: Atomic Industries
+  slug: atomic-industries
+  domain: atomic.industries
+  careers_url: https://jobs.ashbyhq.com/atomicindustries
+  category: ai-and-data
+  ats:
+    ashby: atomicindustries
+  tags:
+  - industrials
+  - industrials-manufacturing-and-robotics
+  - artificial-intelligence
+  - hard-tech
+  sources:
+  - https://jobs.ashbyhq.com/atomicindustries
+
+- name: Topline Pro
+  slug: topline-pro
+  domain: toplinepro.com
+  careers_url: https://jobs.ashbyhq.com/topline-pro
+  category: ai-and-data
+  ats:
+    ashby: topline-pro
+  tags:
+  - b2b
+  - b2b-operations
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/topline-pro
+
+- name: Shepherd
+  slug: shepherd
+  domain: shepherdinsurance.com
+  careers_url: https://jobs.ashbyhq.com/shepherd
+  category: fintech
+  ats:
+    ashby: shepherd
+  tags:
+  - fintech
+  - fintech-insurance
+  - construction
+  - insurance
+  sources:
+  - https://jobs.ashbyhq.com/shepherd

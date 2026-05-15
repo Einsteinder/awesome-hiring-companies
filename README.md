@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **280 companies**.
+Currently tracking **290 companies**.
 
 This repository is designed for two uses:
 
@@ -335,6 +335,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [Humaans](https://humaans.io) - AI-Powered HRIS for high performing teams
 - [FleetWorks](https://fleetworks.ai) - AI enabled marketplace matching trucks with jobs
 - [Prosper](https://getprosper.ai) - AI Phone Agents for Healthcare Operations
+- [Rescale](https://rescale.com) - High Performance Computing Built for the Cloud
+- [Substack](https://substack.com) - A place for independent writing.
+- [Super](https://superapp.id) - Super is the first and leading Indonesian social commerce platform
+- [Rosebud AI](https://rosebud.ai) - Vibe code games.
+- [CoLab](https://colabsoftware.com) - Human and AI design review for hardware
+- [Handoff](https://handoff.ai) - AI estimator & agent for remodelers.
+- [Riot](https://tryriot.com) - Cybersecurity awareness for fast growing companies
+- [Atomic Industries](https://atomic.industries) - Software orchestrated mass production of plastics
+- [Topline Pro](https://toplinepro.com) - Generative AI powered Shopify for home service professionals
+- [Shepherd](https://shepherdinsurance.com) - Modernizing commercial insurance
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
