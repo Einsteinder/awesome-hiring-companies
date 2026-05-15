@@ -5334,3 +5334,147 @@
   - b2b
   sources:
   - https://jobs.ashbyhq.com/kombo
+
+- name: Vooma
+  slug: vooma
+  domain: vooma.ai
+  careers_url: https://jobs.ashbyhq.com/vooma
+  category: consumer-and-marketplace
+  ats:
+    ashby: vooma
+  tags:
+  - b2b
+  - b2b-supply-chain-and-logistics
+  sources:
+  - https://jobs.ashbyhq.com/vooma
+
+- name: Vitalize
+  slug: vitalize
+  domain: vitalize.care
+  careers_url: https://jobs.ashbyhq.com/vitalize
+  category: consumer-and-marketplace
+  ats:
+    ashby: vitalize
+  tags:
+  - healthcare
+  - saas
+  - b2b
+  sources:
+  - https://jobs.ashbyhq.com/vitalize
+
+- name: Escape
+  slug: escape
+  domain: escape.tech
+  careers_url: https://jobs.ashbyhq.com/escape
+  category: developer-infrastructure
+  ats:
+    ashby: escape
+  tags:
+  - b2b
+  - b2b-security
+  - developer-tools
+  - security
+  sources:
+  - https://jobs.ashbyhq.com/escape
+
+- name: Branch AI
+  slug: branch-ai
+  domain: branch-ai.com
+  careers_url: https://boards.greenhouse.io/branch
+  category: ai-and-data
+  ats:
+    greenhouse: branch
+  tags:
+  - b2b
+  - b2b-retail
+  - artificial-intelligence
+  - saas
+  sources:
+  - https://boards.greenhouse.io/branch
+
+- name: Sweep
+  slug: sweep
+  domain: sweep.dev
+  careers_url: https://jobs.ashbyhq.com/sweep
+  category: ai-and-data
+  ats:
+    ashby: sweep
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - artificial-intelligence
+  - developer-tools
+  sources:
+  - https://jobs.ashbyhq.com/sweep
+
+- name: Empirical Health
+  slug: empirical-health
+  domain: empirical.health
+  careers_url: https://jobs.ashbyhq.com/empirical
+  category: ai-and-data
+  ats:
+    ashby: empirical
+  tags:
+  - healthcare
+  - healthcare-consumer-health-and-wellness
+  - generative-ai
+  - machine-learning
+  sources:
+  - https://jobs.ashbyhq.com/empirical
+
+- name: Modus
+  slug: modus
+  domain: himodus.com
+  careers_url: https://jobs.ashbyhq.com/modus
+  category: ai-and-data
+  ats:
+    ashby: modus
+  tags:
+  - b2b
+  - artificial-intelligence
+  - finance
+  - hr-tech
+  sources:
+  - https://jobs.ashbyhq.com/modus
+
+- name: Vera Health
+  slug: vera-health
+  domain: vera-health.ai
+  careers_url: https://jobs.ashbyhq.com/verahealth
+  category: ai-and-data
+  ats:
+    ashby: verahealth
+  tags:
+  - healthcare
+  - healthcare-healthcare-services
+  - artificial-intelligence
+  - digital-health
+  sources:
+  - https://jobs.ashbyhq.com/verahealth
+
+- name: Abundant
+  slug: abundant
+  domain: abundant.ai
+  careers_url: https://jobs.ashbyhq.com/abundant
+  category: ai-and-data
+  ats:
+    ashby: abundant
+  tags:
+  - b2b
+  - aiops
+  - artificial-intelligence
+  - api
+  sources:
+  - https://jobs.ashbyhq.com/abundant
+
+- name: telli
+  slug: telli
+  domain: telli.com
+  careers_url: https://jobs.ashbyhq.com/telli
+  category: ai-and-data
+  ats:
+    ashby: telli
+  tags:
+  - b2b
+  sources:
+  - https://jobs.ashbyhq.com/telli

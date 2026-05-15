@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **370 companies**.
+Currently tracking **380 companies**.
 
 This repository is designed for two uses:
 
@@ -425,6 +425,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [Alma](https://myalmafi.com) - Gamified mobile banking app where people can win $1M every Wednesday
 - [Blee](https://blee.com) - Smart, fast, and collaborative compliance reviews
 - [Kombo](https://kombo.dev) - Unified API for HR, payroll and recruiting software
+- [Vooma](https://vooma.ai) - Automation platform for logistics
+- [Vitalize](https://vitalize.care) - Transforming how health systems optimize labor
+- [Escape](https://escape.tech) - Offensive security for the teams that are 100x outnumbered
+- [Branch AI](https://branch-ai.com) - AI Overview Search, as a Service
+- [Sweep](https://sweep.dev) - The best AI coding assistant for JetBrains
+- [Empirical Health](https://empirical.health) - Don't die of heart disease. Empirical is the first AI-native heart…
+- [Modus](https://himodus.com) - Unlock revenue per employee with AI-powered headcount management
+- [Vera Health](https://vera-health.ai) - AI-powered clinical decision support for healthcare providers
+- [Abundant](https://abundant.ai) - Agent simulation and RL for researchers
+- [telli](https://telli.com) - AI phone agents that convert
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
