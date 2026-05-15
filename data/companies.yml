@@ -7941,3 +7941,152 @@
   - digital-freight-brokerage
   sources:
   - https://boards.greenhouse.io/send
+
+- name: Recall.ai
+  slug: recall-ai
+  domain: recall.ai
+  careers_url: https://jobs.ashbyhq.com/recall
+  category: ai-and-data
+  ats:
+    ashby: recall
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - artificial-intelligence
+  - api
+  sources:
+  - https://jobs.ashbyhq.com/recall
+
+- name: Lightdash
+  slug: lightdash
+  domain: lightdash.com
+  careers_url: https://jobs.ashbyhq.com/lightdash
+  category: ai-and-data
+  ats:
+    ashby: lightdash
+  tags:
+  - b2b
+  - b2b-analytics
+  - developer-tools
+  - analytics
+  sources:
+  - https://jobs.ashbyhq.com/lightdash
+
+- name: Novel
+  slug: novel
+  domain: trynovel.com
+  careers_url: https://jobs.ashbyhq.com/novel
+  category: fintech
+  ats:
+    ashby: novel
+  tags:
+  - fintech
+  - fintech-banking-and-exchange
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/novel
+
+- name: Hudu
+  slug: hudu
+  domain: hudu.com
+  careers_url: https://jobs.ashbyhq.com/hudu
+  category: developer-infrastructure
+  ats:
+    ashby: hudu
+  tags:
+  - b2b
+  - b2b-operations
+  - saas
+  - workflow-automation
+  sources:
+  - https://jobs.ashbyhq.com/hudu
+
+- name: Nira Energy
+  slug: nira-energy
+  domain: niraenergy.com
+  careers_url: https://boards.greenhouse.io/niraenergy
+  category: open-source-and-platform
+  ats:
+    greenhouse: niraenergy
+  tags:
+  - industrials
+  - industrials-climate
+  - solar-power
+  - climate
+  sources:
+  - https://boards.greenhouse.io/niraenergy
+
+- name: Luminate
+  slug: luminate
+  domain: luminatemed.com
+  careers_url: https://boards.greenhouse.io/luminate
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: luminate
+  tags:
+  - healthcare
+  - healthcare-medical-devices
+  - hard-tech
+  - consumer-health-services
+  sources:
+  - https://boards.greenhouse.io/luminate
+
+- name: Birdie
+  slug: birdie
+  domain: getbirdie.io
+  careers_url: https://jobs.ashbyhq.com/birdie
+  category: developer-infrastructure
+  ats:
+    ashby: birdie
+  tags:
+  - b2b
+  - b2b-sales
+  - saas
+  - productivity
+  sources:
+  - https://jobs.ashbyhq.com/birdie
+
+- name: Bifrost
+  slug: bifrost
+  domain: hapi.finance
+  careers_url: https://jobs.ashbyhq.com/bifrost
+  category: fintech
+  ats:
+    ashby: bifrost
+  tags:
+  - fintech
+  - fintech-asset-management
+  - crypto-web3
+  - finance
+  sources:
+  - https://jobs.ashbyhq.com/bifrost
+
+- name: Spade
+  slug: spade
+  domain: spade.com
+  careers_url: https://boards.greenhouse.io/spade
+  category: ai-and-data
+  ats:
+    greenhouse: spade
+  tags:
+  - fintech
+  - machine-learning
+  - payments
+  - data-labeling
+  sources:
+  - https://boards.greenhouse.io/spade
+
+- name: Rally UXR
+  slug: rally-uxr
+  domain: rallyuxr.com
+  careers_url: https://jobs.ashbyhq.com/rallyuxr
+  category: developer-infrastructure
+  ats:
+    ashby: rallyuxr
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - saas
+  - design-tools
+  sources:
+  - https://jobs.ashbyhq.com/rallyuxr

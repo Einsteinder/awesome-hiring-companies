@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **550 companies**.
+Currently tracking **560 companies**.
 
 This repository is designed for two uses:
 
@@ -605,6 +605,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [Deepnote](https://deepnote.com) - A better data science notebook.
 - [Able](https://ablejobs.co) - India's Largest Placement Platform for Early Professionals
 - [SEND](https://send.ng) - Flexport for Africa - Digital Freight forwarder and Customs Broker.
+- [Recall.ai](https://recall.ai) - The API to get recordings, transcripts, and metadata from meetings
+- [Lightdash](https://lightdash.com) - The open source Looker alternative
+- [Novel](https://trynovel.com) - Novel is your international business bank account
+- [Hudu](https://hudu.com) - The Most-Loved IT Documentation Platform
+- [Nira Energy](https://niraenergy.com) - Software to find the best sites for renewables on the electrical grid
+- [Luminate](https://luminatemed.com) - We make cancer care at home possible.
+- [Birdie](https://getbirdie.io) - Connect LinkedIn to your CRM to automate and track LinkedIn outreach.
+- [Bifrost](https://hapi.finance) - Wills and Estate Management for Crypto
+- [Spade](https://spade.com) - Enriched transaction data you can build on
+- [Rally UXR](https://rallyuxr.com) - User Research CRM
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
