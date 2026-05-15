@@ -27,6 +27,7 @@ B2B SaaS that does not fit `developer-infrastructure` — HR, sales, marketing, 
 - [Gumloop](https://gumloop.com) - A no-code platform for creating agents and automating workflows with…
 - [Hightouch](https://hightouch.com) - The leading Composable CDP and AI Decisioning platform
 - [Humanly](https://humanly.io) - We empower the world’s hiring teams to grow engaged, high-performing…
+- [IBM](https://ibm.com) - Enterprise IT, hybrid cloud, and AI services.
 - [Idler](https://idler.ai) - Reinforcement learning environments.
 - [ion design](https://ion.design) - AI that creates & tests 100s of landing pages for your product
 - [Kastle](https://kastle.ai) - AI agents for mortgage servicing
@@ -51,6 +52,9 @@ B2B SaaS that does not fit `developer-infrastructure` — HR, sales, marketing, 
 - [Rescale](https://rescale.com) - High Performance Computing Built for the Cloud
 - [Resend](https://resend.com) - Email for developers
 - [Revi](https://revi.ai) - AI-enabled M&A deal origination
+- [Salesforce](https://salesforce.com) - CRM and enterprise SaaS platform.
+- [SAP](https://sap.com) - ERP and enterprise applications.
+- [ServiceNow](https://servicenow.com) - Enterprise IT service management and workflow platform.
 - [Shadeform](https://shadeform.ai) - The GPU Cloud Marketplace
 - [Sila](https://silahq.com) - AI Work Messaging
 - [Smartcuts](https://trysmartcuts.com) - Chrome extension to turn clicks & keystrokes into no-code automations
@@ -64,4 +68,5 @@ B2B SaaS that does not fit `developer-infrastructure` — HR, sales, marketing, 
 - [telli](https://telli.com) - AI phone agents that convert
 - [UserGems](https://usergems.com) - The AI Command Center for outbound and ABM
 - [Vellum](https://vellum.ai) - Hiring via Ashby (vellum).
+- [Workday](https://workday.com) - Cloud HR and finance enterprise platform.
 - [Zapier](https://zapier.com) - Automation platform connecting apps, workflows, and AI-enabled operations.

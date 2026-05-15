@@ -10,6 +10,7 @@ Payments, banking, investing, crypto, expense, payroll, and financial infrastruc
 - [Aleph](https://getaleph.com) - One source of truth for financial data.
 - [Alma](https://myalmafi.com) - Gamified mobile banking app where people can win $1M every Wednesday
 - [Alpaca](https://alpaca.markets) - API-first stock and crypto brokerage platform
+- [American Express](https://americanexpress.com) - Card issuer and payments network.
 - [Angle Health](https://anglehealth.com) - Health Insurance for Startups
 - [Ansatzcapital](https://ansatzcapital.com) - Hiring via Lever (ansatzcapital).
 - [Aquatic Capital Management](https://aquaticcapitalmanagement.com) - Hiring via Greenhouse (aquaticcapitalmanagement).
@@ -23,6 +24,7 @@ Payments, banking, investing, crypto, expense, payroll, and financial infrastruc
 - [Avallon AI](https://avallon.ai) - AI agents for insurance claims operations
 - [AviaryAI](https://helloaviary.ai) - Outbound AI voice agents for the financial services industry
 - [Axle](https://axle.insure) - AI-native clearinghouse for insurance
+- [Bank of America](https://bankofamerica.com) - Consumer and investment bank.
 - [Bankjoy](https://bankjoy.com) - An end-to-end digital banking solution for banks and credit unions
 - [Baubap](https://baubap.com) - Smart micro financing for everyone
 - [Belvo](https://belvo.com) - Open Finance API platform for Latam.
@@ -31,6 +33,7 @@ Payments, banking, investing, crypto, expense, payroll, and financial infrastruc
 - [Bifrost](https://hapi.finance) - Wills and Estate Management for Crypto
 - [Bitstack](https://bitstack-app.com) - All things money, with better money
 - [Blee](https://blee.com) - Smart, fast, and collaborative compliance reviews
+- [Block](https://block.xyz) - Square, Cash App, Tidal, Bitkey (formerly Square Inc.).
 - [Bloom](https://bloomapp.com) - Investing app that teaches you how to invest
 - [Bree](https://trybree.com) - Chime for Canada, starting with cash advances
 - [Bretton AI](https://bretton.com) - AI agents for financial compliance (AML, KYC and Sanctions)
@@ -41,11 +44,15 @@ Payments, banking, investing, crypto, expense, payroll, and financial infrastruc
 - [Capi Money](https://capimoney.com) - Helping businesses in emerging markets make pay their international…
 - [Capital](https://capital.com) - Hiring via Lever (capital).
 - [Capital on Tap](https://capitalontap.com) - Hiring via Greenhouse (capitalontap).
+- [Capital One](https://capitalone.com) - Consumer credit card and digital banking.
 - [CaptivateIQ](https://captivateiq.com) - Agile commission software to design, deploy & adapt commission plans.
 - [Carbon-12 Labs](https://carbon.money) - A Global Payouts API for Startups
 - [Caribou](https://usecaribou.com) - The autonomous tax firm
 - [Casca](https://cascading.ai) - Make Banking Magical
+- [Charles Schwab](https://schwab.com) - Brokerage and wealth management.
 - [Cheddar](https://cheddar.io) - The Best Mobile Checking Account
+- [Chime](https://chime.com) - Consumer neobank.
+- [Citi](https://citigroup.com) - Global bank — consumer and institutional.
 - [ClaimSorted](https://claimsorted.com) - Making it easy for insurance companies to process claims
 - [Clear](https://clear.in) - Fintech SaaS platform for invoices, taxes, wealth management & credit.
 - [Coinbase](https://coinbase.com) - Crypto exchange and blockchain infrastructure company.
@@ -64,6 +71,7 @@ Payments, banking, investing, crypto, expense, payroll, and financial infrastruc
 - [Emburse](https://emburse.com) - Expense management and AP automation.
 - [FamPay](https://fampay.in) - India’s first neobank for teenagers
 - [Fernstone](https://fernstone.com) - AI-native insurance brokerage.
+- [Fidelity](https://fidelity.com) - Brokerage, asset management, and retirement.
 - [Finary](https://about.finary.io) - Discord for investing.
 - [Finch](https://tryfinch.com) - Finch is the Employment Data Platform
 - [FINNY AI](https://finny.com) - The organic growth engine for financial advisors
@@ -80,6 +88,7 @@ Payments, banking, investing, crypto, expense, payroll, and financial infrastruc
 - [GiveCampus](https://go.givecampus.com) - The fundraising platform for schools.
 - [GoCardless](https://gocardless.com) - We’re building the world’s bank payment network.
 - [GoFundMe](https://gofundme.com) - Hiring via Greenhouse (gofundme).
+- [Goldman Sachs](https://goldmansachs.com) - Investment bank and asset manager.
 - [Greenboard](https://greenboard.com) - Modern OS for the financial back office.
 - [Groww](https://groww.in) - Making financial services simple, transparent and delightful.
 - [Gusto](https://gusto.com) - Provides growing businesses with everything to take care of their team
@@ -91,8 +100,11 @@ Payments, banking, investing, crypto, expense, payroll, and financial infrastruc
 - [Infinite](https://infinite.dev) - Global B2B Stablecoin Processor
 - [Invopop](https://invopop.com) - We help global software companies comply with local tax reporting
 - [Jeeves](https://tryjeeves.com) - International banking infrastructure for global startups.
+- [JPMorgan Chase](https://jpmorganchase.com) - Global investment and consumer bank.
 - [Kalshi](https://kalshi.com) - 1st federally regulated exchange where people can trade on events
 - [Kinter](https://kinter.ai) - A new kind of power for finance teams
+- [Klarna](https://klarna.com) - Buy-now-pay-later and consumer payments.
+- [Kraken](https://kraken.com) - Crypto exchange and digital-asset financial services platform.
 - [Lago](https://getlago.com) - The AI Native Billing Platform
 - [Legalist](https://legalist.com) - Legal investment firm
 - [LemFi](https://lemfi.com) - Fair, simple and accessible financial services
@@ -100,10 +112,12 @@ Payments, banking, investing, crypto, expense, payroll, and financial infrastruc
 - [LiveFlow](https://liveflow.com) - The Unified AI-ERP & FP&A Platform
 - [Long Term Stock Exchange](https://ltse.com) - LTSE is an ecosystem for visionary business.
 - [Malga](https://malga.io) - Malga is an API to accept payments with multiple payment providers
+- [Mastercard](https://mastercard.com) - Global payment-card network.
 - [Mercury](https://mercury.com) - Banking and financial workflow platform for startups and businesses.
 - [Middesk](https://middesk.com) - We make it easier for B2B companies to transact with one another
 - [Modern Treasury](https://moderntreasury.com) - Payment operations tools for money movement.
 - [Momence](https://momence.com) - Scheduling and payments for experiences
+- [Morgan Stanley](https://morganstanley.com) - Investment bank and wealth management.
 - [Nerdwallet](https://nerdwallet.com) - Hiring via Ashby (nerdwallet).
 - [Newfront](https://newfront.com) - Modern insurance brokerage.
 - [Noble](https://benoble.io) - Risk decisioning platform
@@ -118,6 +132,7 @@ Payments, banking, investing, crypto, expense, payroll, and financial infrastruc
 - [OpenSea](https://opensea.io) - This isn't just a marketplace; we're shaping the future of digital…
 - [Orca](https://orca.fyi) - Banking for Gen Z, on steroids.
 - [Parker](https://getparker.com) - Parker is a digital bank.
+- [PayPal](https://paypal.com) - Digital payments and consumer wallet.
 - [PayPay India](https://paypayindia.com) - Hiring via Greenhouse (pay2dc).
 - [Paystack](https://paystack.com) - Modern payments infrastructure for Africa
 - [Paytm](https://paytm.com) - Hiring via Lever (paytm).
@@ -125,6 +140,7 @@ Payments, banking, investing, crypto, expense, payroll, and financial infrastruc
 - [Plaid](https://plaid.com) - Financial data network and banking API platform.
 - [Plane](https://plane.com) - #1 easiest-to-use payroll for startups
 - [Polar](https://polarfi.com) - The smarter way to manage USD earnings globally
+- [Polymarket](https://polymarket.com) - Decentralized prediction markets for politics, sports, and current events.
 - [Prelim](https://prelim.com) - Software for banks to open bank accounts
 - [Prodigal](https://prodigaltech.com) - Lending Intelligence Software
 - [Promise](https://promise-pay.com) - Better payment systems for governments and the communities they serve.
@@ -134,6 +150,7 @@ Payments, banking, investing, crypto, expense, payroll, and financial infrastruc
 - [Ramp](https://ramp.com) - Finance automation platform for corporate cards, expense management, and procurement.
 - [Razorpay Software Private Limited](https://razorpaysoftwareprivatelimited.com) - Hiring via Greenhouse (razorpaysoftwareprivatelimited).
 - [Ready](https://ready.net) - Collaborative platform for optimizing regulated utilities such as…
+- [Revolut](https://revolut.com) - Global neobank and financial super-app for consumers and businesses.
 - [Robinhood](https://robinhood.com) - Consumer finance and investing platform.
 - [RTW Investments](https://rtwinvestments.com) - Hiring via Greenhouse (rtwinvestments).
 - [Rutter](https://rutter.com) - The Unified API for Business Financial Data
@@ -146,6 +163,7 @@ Payments, banking, investing, crypto, expense, payroll, and financial infrastruc
 - [Skio](https://skio.com) - Subscriptions for Shopify
 - [Slope](https://slopepay.com) - The B2B Payments Platform
 - [SmartAsset](https://smartasset.com) - Marketplace connecting consumers to financial advisors
+- [SoFi](https://sofi.com) - Consumer finance — loans, investing, banking.
 - [Solva](https://solvatechnology.com) - Automates insurance claims and stops incorrect payouts
 - [Spade](https://spade.com) - Enriched transaction data you can build on
 - [Sphinx](https://sphinxhq.com) - AI Compliance Analysts for Banks & Fintechs
@@ -173,8 +191,11 @@ Payments, banking, investing, crypto, expense, payroll, and financial infrastruc
 - [Veriff](https://veriff.com) - AI-powered identity verification solution for fraud prevention.
 - [Verto](https://vertofx.com) - Cross-Border Payments and FX Simplified
 - [Village Labs](https://villagelabs.app) - Helping America's businesses become employee owned
+- [Visa](https://visa.com) - Global payment-card network.
 - [Wallbit](https://wallbit.io) - Neobank for global remote workers
 - [Warp](https://warp.co) - AI-native Employee Management Platform for High-Growth Companies
+- [Wealthfront](https://wealthfront.com) - Automated investing and savings.
+- [Wise](https://wise.com) - Cross-border payments and multi-currency accounts.
 - [Xendit](https://xendit.co) - Provides payment infrastructure for Southeast Asia
 - [Y Combinator](https://ycombinator.com) - Make something people want.
 - [Yotta](https://withyotta.com) - Save money and win prizes up to $10m through weekly number draws.

@@ -2,16 +2,20 @@
 
 Healthcare delivery, health-tech, biotech, drug discovery, medical devices, and wellness.
 
+- [23andMe](https://23andme.com) - Consumer genetics and health insights.
 - [Adaptyv](https://adaptyvbio.com) - We're building fully automated labs for protein engineering
 - [Akido Labs](https://akidolabs.com) - Rebuilding healthcare with AI at the core
 - [Anima](https://animahealth.com) - The next generation care enablement platform
 - [Ansa Biotechnologies](https://ansabio.com) - Next-generation DNA synthesis using enzymes
 - [Arini](https://arini.ai) - AI receptionist for dentists
 - [Arsenalbio](https://arsenalbio.com) - Hiring via Lever (arsenalbio).
+- [AstraZeneca](https://astrazeneca.com) - Global pharmaceutical company.
+- [Atomwise](https://atomwise.com) - AI for small-molecule drug discovery.
 - [Axle Health](https://axlehealth.com) - Scheduling and workforce management SaaS for home healthcare providers
 - [b12 Labs](https://b12-labs.com) - Chemical Copilot for Pharma and Biotech
 - [Benchling](https://benchling.com) - Unlocking the power of biotech with modern software for modern science
 - [BillionToOne](https://billiontoone.com) - The genetic testing platform detecting and measuring disease.
+- [BioNTech](https://biontech.com) - mRNA cancer and infectious-disease therapeutics.
 - [Blink Health](https://blinkhealth.com) - Hiring via Greenhouse (blinkhealth).
 - [Blueberry Pediatrics](https://blueberrypediatrics.com) - 24/7 pediatric clinic in every family's living room
 - [Bunkerhill Health](https://bunkerhillhealth.com) - Bunkerhill Health is building the system of action for health systems
@@ -29,6 +33,7 @@ Healthcare delivery, health-tech, biotech, drug discovery, medical devices, and 
 - [Decoda Health](https://decodahealth.com) - The all-in-one EMR built for med spas and elective care
 - [eClinical Solutions](https://eclinicalsolutions.com) - Hiring via Greenhouse (eclinicalsolutions).
 - [Eight Sleep](https://eightsleep.com) - The sleep fitness company.
+- [Eli Lilly](https://lilly.com) - Global pharmaceutical company.
 - [Empirical Health](https://empirical.health) - Don't die of heart disease. Empirical is the first AI-native heart…
 - [Endpointclinical](https://endpointclinical.com) - Hiring via Lever (endpointclinical).
 - [Evry Health](https://evryhealth.com) - Better health insurance for mid-size companies
@@ -37,15 +42,21 @@ Healthcare delivery, health-tech, biotech, drug discovery, medical devices, and 
 - [Flex](https://withflex.com) - Stripe for HSA/FSA payments
 - [Flint](https://withflint.com) - Securing Nurses for Your Future
 - [Fortuna Health](https://fortunahealth.com) - TurboTax for Medicaid
+- [Genentech](https://gene.com) - Biotech (Roche).
 - [General Proximity](https://generalproximity.bio) - The next generation of induced-proximity medicines.
 - [Ginkgo Bioworks](https://ginkgobioworks.com) - Our mission is to make biology easier to engineer.
 - [Healthcare](https://healthcare.com) - Hiring via Lever (healthcare).
 - [HealthSherpa](https://healthsherpa.com) - Private sector Healthcare.gov.
 - [Healthtech 1](https://healthtech1.uk) - Automating repetitive processes in healthcare
+- [Hippocratic AI](https://hippocraticai.com) - Safety-focused healthcare LLM.
 - [Hive Health](https://ourhivehealth.com) - Simplified digital health insurance for Filipino SMBs
 - [Hone Health](https://honehealth.com) - Hiring via Greenhouse (honehealth).
+- [Illumina](https://illumina.com) - Genomic sequencing instruments and software.
 - [IMT Care](https://imt.care) - Disrupting Indian Insurance space by empowering distrubutors
+- [Inscripta](https://inscripta.com) - Genome engineering and digital biology tools.
+- [Insitro](https://insitro.com) - AI-driven drug discovery.
 - [Invert](https://invertbio.com) - Data analytics software for biomanufacturing.
+- [Johnson & Johnson](https://jnj.com) - Pharma and medical devices conglomerate.
 - [Junction](https://junction.com) - API for at-home health data
 - [Juno](https://juno-chat.com) - AI Health Assistant for Chronic Illness
 - [Kernal Biologics](https://kernalbio.com) - Kernal is creating mRNA 2.0 therapies that work in specific cells
@@ -62,16 +73,20 @@ Healthcare delivery, health-tech, biotech, drug discovery, medical devices, and 
 - [Maven Clinic](https://mavenclinic.com) - Hiring via Greenhouse (mavenclinic).
 - [Medium Biosciences](https://medium.bio) - AI-designed Affinity Reagents
 - [Mednet](https://themednet.org) - Mednet helps doctors answer their toughest clinical questions —…
+- [Merck](https://merck.com) - Global pharmaceutical company.
 - [Meru Health](https://meruhealth.com) - An online provider for greater mental health
 - [Metriport](https://metriport.com) - Open-Source Platform for Healthcare Data Intelligence
 - [Mochi Health](https://mochihealth.com) - Hiring via Greenhouse (mochihealth).
 - [Modern Health](https://modernhealth.com) - A mental health benefits platform for employers.
+- [Moderna](https://modernatx.com) - mRNA vaccine and therapeutics platform.
 - [Mytos](https://mytos.bio) - Robotic human cell manufacturing
 - [Nabla Bio](https://nabla.bio) - We use AI to design antibodies for intractable diseases
 - [NimbleRx](https://nimblerx.com) - On-demand prescription delivery.
 - [Nomic Bio](https://nomic.bio) - Nomic is doing for proteins what Illumina has done for DNA
 - [Notable Labs](https://notablelabs.com) - Personalized drug discovery for blood cancer.
+- [Novartis](https://novartis.com) - Swiss pharmaceutical multinational.
 - [Nucleo](https://nucleoresearch.com) - The first Agentic platform for Oncology
+- [OpenEvidence](https://openevidence.com) - Clinical AI platform delivering medical evidence at the point of care.
 - [Ophelia](https://ophelia.com) - Medication & support to beat opioid addiction from home
 - [Ora AI](https://oraai.com) - Med school can be simpler
 - [Pair Team](https://pairteam.com) - Building the safety net of the future
@@ -79,6 +94,7 @@ Healthcare delivery, health-tech, biotech, drug discovery, medical devices, and 
 - [Parallel Bio](https://parallel.bio) - Using the immune system to cure disease
 - [Pelago](https://pelagohealth.com) - The world's first digital clinic for substance use management
 - [Perpay - Career's Page](https://perpaycareerspage.com) - Hiring via Greenhouse (perpay).
+- [Pfizer](https://pfizer.com) - Global pharmaceutical company.
 - [Pharos](https://pharos.health) - Helping hospitals identify and prevent avoidable harm using AI
 - [Phoenix](https://phoenix.ca) - Canada's digital health clinic for men
 - [Pine Park Health](https://pineparkhealth.com) - We provide primary care in senior living communities.
@@ -88,6 +104,7 @@ Healthcare delivery, health-tech, biotech, drug discovery, medical devices, and 
 - [Pulse](https://getpulse.care) - Electronic Medical Records for India
 - [Quartzy](https://quartzy.com) - Marketplace for life science supplies.
 - [Qventus](https://qventus.com) - We automate operations for hospitals and health systems
+- [Regeneron](https://regeneron.com) - Biotech — antibody therapeutics and genetics.
 - [Reklamehealth](https://reklamehealth.com) - Hiring via Ashby (reklamehealth).
 - [Remodel Health](https://remodelhealth.com) - Hiring via Greenhouse (remodelhealth).
 - [RVO Health](https://rvohealth.com) - Hiring via Greenhouse (rvohealth).

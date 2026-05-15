@@ -6,10 +6,12 @@ Developer tools, cloud, infrastructure, security, observability, and B2B technic
 - [Aeratechnology](https://aeratechnology.com) - Hiring via Lever (aeratechnology).
 - [Agency](https://getagency.com) - Agency replaces traditional security and compliance headcount with AI.
 - [AgentMail](https://agentmail.to) - Email Inboxes for AI Agents
+- [Akamai](https://akamai.com) - Content delivery and edge security.
 - [Algolia](https://algolia.com) - A developer-friendly and enterprise-grade search API.
 - [Anysphere](https://anysphere.inc) - AI developer-tooling company behind Cursor.
 - [Aperia Technologies, Inc](https://aperiatechnologiesinc.com) - Hiring via Greenhouse (aperiatechnologies).
 - [Apex Technology Inc](https://apextechnologyinc.com) - Hiring via Ashby (apex-technology-inc).
+- [Aqua Security](https://aquasec.com) - Container and cloud-native application security.
 - [Arketa](https://arketa.com) - Everything for your fitness or wellness business.
 - [Armory](https://armory.io) - Continuous Deployment at any scale, for all developers.
 - [Artie](https://artie.com) - Software that streams data from databases to warehouses in real-time
@@ -19,6 +21,7 @@ Developer tools, cloud, infrastructure, security, observability, and B2B technic
 - [authzed](https://authzed.com) - Cloud Infrastructure for Authorization
 - [Aviator](https://aviator.co) - Google-level engineering productivity suite
 - [Axiom.ai](https://axiom.ai) - No-code Browser RPA
+- [Backblaze](https://backblaze.com) - Cloud storage and backup.
 - [Bird](https://bird.com) - The world’s largest omnichannel communications platform
 - [Birdie](https://getbirdie.io) - Connect LinkedIn to your CRM to automate and track LinkedIn outreach.
 - [Bitmovin](https://bitmovin.com) - Powers OTT online video providers with video developer tools.
@@ -29,19 +32,23 @@ Developer tools, cloud, infrastructure, security, observability, and B2B technic
 - [Butter](https://butter.dev) - Embedded Sandboxes for Agents
 - [Canary Technologies](https://canarytechnologies.com) - Modernizing the hospitality tech stack.
 - [Catalog](https://catalog.com) - Hiring via Ashby (catalog).
+- [Cisco](https://cisco.com) - Networking hardware and enterprise security.
 - [Clerk](https://clerk.com) - Authentication and user management platform for developers.
 - [Close](https://close.com) - CRM and sales automation tools for startups and SMBs
 - [Cloudflare](https://cloudflare.com) - Edge cloud, security, networking, and developer platform company.
 - [Clutch](https://clutch.io) - An easy to integrate library for native iOS applications designed to…
 - [Coast](https://trycoast.com) - Demo Platform for API-First Companies
 - [Cockroach Labs](https://cockroachlabs.com) - Distributed SQL database company building CockroachDB.
+- [Coder](https://coder.com) - Cloud development environments with parallel AI coding agents.
 - [Complete](https://complete.so) - The complete way to do compensation
 - [Conductor](https://conductor.build) - Run a team of coding agents on your Mac
 - [Conveo](https://conveo.ai) - Confident decisions in days with AI-led interviews.
 - [Cortex](https://cortex.io) - Cortex is the Internal Developer Portal eliminating “developer tax”…
+- [CrowdStrike](https://crowdstrike.com) - Endpoint and cloud security platform.
 - [Databricks](https://databricks.com) - Data and AI platform company with strong infrastructure, database, and ML roles.
 - [Datadog](https://datadoghq.com) - Observability and monitoring platform spanning infrastructure, applications, logs, and security.
 - [David](https://shipdavid.com) - Build and host internal tools
+- [DigitalOcean](https://digitalocean.com) - Developer-friendly cloud infrastructure.
 - [Ditto](https://dittowords.com) - Manage the words across your team’s product from design to production.
 - [Docker](https://docker.com) - Software development platform.
 - [Doppler](https://doppler.com) - Secure secrets. Prevent breaches. Keep teams moving.
@@ -71,23 +78,29 @@ Developer tools, cloud, infrastructure, security, observability, and B2B technic
 - [Grafana Labs](https://grafana.com) - Observability platform company behind Grafana, Loki, Tempo, Mimir, and related infrastructure tools.
 - [HackerRank](https://hackerrank.com) - Change the world to value skills over pedigree
 - [Happl](https://happl.com) - Your personalised benefits and engagement platform for global teams
+- [HashiCorp](https://hashicorp.com) - Open-source infrastructure automation (Terraform, Vault, IBM).
 - [Hive](https://hive.co) - Marketing automation for event promoters (email, sms, ads, CRM)
+- [HPE](https://hpe.com) - Hewlett Packard Enterprise — servers, networking, storage.
 - [Hudu](https://hudu.com) - The Most-Loved IT Documentation Platform
 - [Hugging Face](https://huggingface.co) - Open AI platform and model community with infrastructure, ML, and open-source roles.
 - [Humaans](https://humaans.io) - AI-Powered HRIS for high performing teams
 - [Infisical](https://infisical.com) - Unified platform for secrets, certs, and privileged access management
 - [Infracost](https://infracost.io) - Shift FinOps Left: Proactively Find & Fix Cloud Cost Issues
 - [Inkeep](https://inkeep.com) - Build AI Agent teammates and automations in code or no-code
+- [JFrog](https://jfrog.com) - Artifact management and software supply chain.
 - [Keep](https://keephq.dev) - The open-source AIOps platform
 - [KERNEL](https://kernel.sh) - Crazy fast, open source infra for AI agents to use the Internet
+- [Lacework](https://lacework.com) - Cloud-native application security platform.
 - [Lark](https://getlark.ai) - The E2E testing layer for AI-driven development
 - [Lattice](https://lattice.com) - People management platform for performance, engagement, and HR workflows.
 - [Linear](https://linear.app) - Product development and issue tracking platform known for high-quality engineering and design.
+- [Linode](https://linode.com) - Cloud hosting (Akamai).
 - [Logos](https://logos.com) - Hiring via Greenhouse (logos).
 - [Luminai](https://luminai.com) - Luminai helps automate repetitive manual work away from your mission…
 - [Mantis](https://mantisbiotech.com) - Digital Twins of humans
 - [Maven](https://trymaven.com) - Payments Infrastructure for Voice Agents
 - [Mesh](https://mesh.ai) - Performance management platform that fits the way you work
+- [Microsoft](https://microsoft.com) - Cloud (Azure), productivity (Office), Windows, and developer tools.
 - [Mintlify](https://mintlify.com) - The intelligent knowledge platform
 - [Mistral AI](https://mistral.ai) - AI company building open and commercial frontier models.
 - [Modal](https://modal.com) - Cloud platform for AI, data, and compute-intensive workloads.
@@ -95,6 +108,7 @@ Developer tools, cloud, infrastructure, security, observability, and B2B technic
 - [MongoDB](https://mongodb.com) - Developer data platform and document database company.
 - [Moss](https://moss.dev) - Real-time semantic search for Conversational AI
 - [Mux](https://mux.com) - Video infrastructure for developers
+- [Namespace](https://namespace.so) - AI-accelerated developer infrastructure for builds and tests.
 - [Nango](https://nango.dev) - A single API for all your integrations
 - [NanoNets](https://nanonets.com) - Automatic Data Extraction
 - [Neon](https://neon.tech) - Serverless Postgres platform for developers.
@@ -103,6 +117,7 @@ Developer tools, cloud, infrastructure, security, observability, and B2B technic
 - [Observe.AI](https://observe.ai) - Contact center AI platform.
 - [Onebrief](https://onebrief.com) - Onebrief makes military headquarters run seamlessly
 - [OpenAI](https://openai.com) - AI research and product company with roles across research, engineering, infrastructure, policy, and go-to-market.
+- [Oracle](https://oracle.com) - Database, cloud, and enterprise applications.
 - [PagerDuty](https://pagerduty.com) - Real-time visibility into critical apps and services all in one place.
 - [Paragon](https://useparagon.com) - The embedded integration platform for SaaS apps.
 - [Pipekit](https://pipekit.io) - Pipekit scales data & CI pipelines for enterprises
@@ -122,6 +137,7 @@ Developer tools, cloud, infrastructure, security, observability, and B2B technic
 - [SalesPatriot](https://salespatriot.com) - AI powered operating system for distributors and OEMs
 - [Salt Security](https://salt.security) - Protects organizations from getting breached through their APIs.
 - [Sazabi](https://sazabi.com) - The AI-native observability platform for fast-moving engineering teams
+- [SentinelOne](https://sentinelone.com) - Autonomous endpoint protection.
 - [Sentry](https://sentry.io) - Application monitoring platform for errors, performance, and developer workflows.
 - [SF Tensor](https://sf-tensor.com) - Infrastructure for AI labs to focus on research.
 - [Sieve](https://sievedata.com) - Video datasets for frontier AI
@@ -129,9 +145,11 @@ Developer tools, cloud, infrastructure, security, observability, and B2B technic
 - [SingleStore](https://singlestore.com) - The cloud-native, operational database built for speed and scale.
 - [Sourcegraph](https://sourcegraph.com) - Code intelligence and AI coding platform for large engineering organizations.
 - [Sphere Secure Workspace](https://sphere.works) - Hiring via Ashby (sphere).
+- [Splunk](https://splunk.com) - Operational intelligence and SIEM platform (Cisco).
 - [Stacker](https://stackerhq.com) - Turns spreadsheets into internal apps and customer portals
 - [Stage](https://stagereview.app) - A better code review platform
 - [Submittable](https://submittable.com) - The best way to launch, manage and measure social impact programs
+- [Sumo Logic](https://sumologic.com) - Cloud log management and observability.
 - [Supabase](https://supabase.com) - Open-source Firebase alternative built around Postgres, edge functions, auth, and storage.
 - [Superside](https://superside.com) - Creative-as-a-service
 - [Svix](https://svix.com) - Enterprise ready webhooks service, open-source and in the cloud
@@ -147,11 +165,14 @@ Developer tools, cloud, infrastructure, security, observability, and B2B technic
 - [Truffle Security](https://trufflesecurity.com) - Hiring via Greenhouse (trufflesecurity).
 - [Twenty](https://twenty.com) - Open Source CRM
 - [Twilio](https://twilio.com) - Customer engagement platform with communications APIs for voice, messaging, email, and identity.
+- [Unity](https://unity.com) - Real-time 3D engine for games and beyond.
 - [UpKeep](https://upkeep.com) - Mobile-first software for maintenance teams.
 - [Vanta](https://vanta.com) - Vanta—the proven leader in automated compliance helping startups…
 - [Vercel](https://vercel.com) - Frontend cloud platform for web application deployment and developer workflows.
 - [Verygoodsecurity](https://verygoodsecurity.com) - Hiring via Lever (verygoodsecurity).
 - [Vibe](https://vibe.codes) - Making everyone a software engineer
+- [VMware](https://vmware.com) - Virtualization and cloud infrastructure (Broadcom).
+- [Vultr](https://vultr.com) - Cloud compute and bare-metal hosting.
 - [Weave](https://getweave.com) - Customer communication and payments platform.
 - [Webflow](https://webflow.com) - Professional website design and publishing platform.
 - [Windmill](https://windmill.dev) - Open-source platform to turn scripts into internal apps & workflows

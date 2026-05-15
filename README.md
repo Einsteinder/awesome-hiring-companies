@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **2000 companies** across 8 categories.
+Currently tracking **2144 companies** across 8 categories.
 
 This repository is designed for two uses:
 
@@ -38,14 +38,14 @@ Each category lives in its own file under [`docs/categories/`](docs/categories/)
 
 | Category | Companies |
 | --- | ---: |
-| [AI and Data](docs/categories/ai-and-data.md) | 175 |
-| [Developer Infrastructure](docs/categories/developer-infrastructure.md) | 156 |
-| [Fintech](docs/categories/fintech.md) | 178 |
-| [Consumer and Marketplace](docs/categories/consumer-and-marketplace.md) | 92 |
-| [Healthcare and Biotech](docs/categories/healthcare-and-biotech.md) | 116 |
-| [Industrials and Climate](docs/categories/industrials-and-climate.md) | 150 |
-| [B2B Enterprise](docs/categories/b2b-enterprise.md) | 63 |
-| [Open Source and Platform](docs/categories/open-source-and-platform.md) | 1070 |
+| [AI and Data](docs/categories/ai-and-data.md) | 186 |
+| [Developer Infrastructure](docs/categories/developer-infrastructure.md) | 177 |
+| [Fintech](docs/categories/fintech.md) | 199 |
+| [Consumer and Marketplace](docs/categories/consumer-and-marketplace.md) | 124 |
+| [Healthcare and Biotech](docs/categories/healthcare-and-biotech.md) | 133 |
+| [Industrials and Climate](docs/categories/industrials-and-climate.md) | 189 |
+| [B2B Enterprise](docs/categories/b2b-enterprise.md) | 68 |
+| [Open Source and Platform](docs/categories/open-source-and-platform.md) | 1068 |
 
 ## Data Format
 

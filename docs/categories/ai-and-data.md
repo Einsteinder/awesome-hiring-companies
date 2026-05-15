@@ -4,7 +4,9 @@ AI, machine learning, analytics, databases, and data infrastructure.
 
 - [Abundant](https://abundant.ai) - Agent simulation and RL for researchers
 - [Acceldata](https://acceldata.com) - Hiring via Lever (acceldata).
+- [Adept](https://adept.ai) - AI agents for software actions.
 - [AfterQuery](https://afterquery.com) - Applied research lab curating data solutions for foundation model…
+- [AI21 Labs](https://ai21.com) - Enterprise LLMs and reading comprehension.
 - [Aida](https://aida.com) - Hiring via Ashby (aida).
 - [Airbyte](https://airbyte.com) - Context layer for production-grade AI agents
 - [Aircapture](https://aircapture.com) - Hiring via Greenhouse (aircapture).
@@ -29,6 +31,8 @@ AI, machine learning, analytics, databases, and data infrastructure.
 - [CAPSULE](https://shopcapsule.ai) - Buy anything you find on social media
 - [Capy](https://capy.ai) - The IDE for the parallel age
 - [Centralize](https://usecentralize.com) - The relationship intelligence platform for enterprise revenue
+- [Cerebras](https://cerebras.net) - Wafer-scale AI accelerator hardware and inference platform.
+- [Character AI](https://character.ai) - Consumer AI characters and chat.
 - [Checkr](https://checkr.com) - People infrastructure for the future of work
 - [Civis Analytics](https://civisanalytics.com) - Hiring via Greenhouse (civisanalytics).
 - [ClickHouse](https://clickhouse.com) - Real-time analytics database company built around open-source ClickHouse.
@@ -71,11 +75,13 @@ AI, machine learning, analytics, databases, and data infrastructure.
 - [hud](https://hud.ai) - Platform for building RL environments and evals
 - [Hyperbound](https://hyperbound.ai) - Revenue Activation Platform
 - [Hyperspell](https://hyperspell.com) - Memory for AI Agents
+- [Inflection AI](https://inflection.ai) - Frontier AI for enterprise (Microsoft-aligned).
 - [InfluxData](https://influxdata.com) - The platform for building and operating time series applications.
 - [Intersect Labs](https://intersectlabs.io) - Collaborative data noteboook for business teams
 - [Journey](https://journey.io) - No code platform for sales to tell better stories and win more deals.
 - [Juicebox](https://juicebox.ai) - AI-powered talent sourcing for recruiters
 - [Julius](https://julius.ai) - AI Data Scientist
+- [Lambda](https://lambda.ai) - GPU cloud platform for AI training and inference.
 - [LanceDB](https://lancedb.com) - Open-source, serverless vectordb for production-scale generative AI
 - [LangChain](https://langchain.com) - Developer platform for building, testing, and deploying LLM applications.
 - [Langdock](https://langdock.com) - The all-in-one AI platform for companies.
@@ -91,6 +97,7 @@ AI, machine learning, analytics, databases, and data infrastructure.
 - [Maya Labs](https://mayalabs.io) - Building self-programming machines
 - [Mem0](https://mem0.ai) - The Memory layer for your AI apps
 - [Mercator](https://mercator.tech) - AI-assisted data analytics
+- [Midjourney](https://midjourney.com) - Generative image AI.
 - [Miso](https://miso.kr) - We make booking services as easy as buying products online.
 - [Mixpanel](https://mixpanel.com) - Mixpanel is event analytics for builders that need answers.
 - [Modus](https://himodus.com) - Unlock revenue per employee with AI-powered headcount management
@@ -101,6 +108,7 @@ AI, machine learning, analytics, databases, and data infrastructure.
 - [Neuralink](https://neuralink.com) - Hiring via Greenhouse (neuralink).
 - [Nexus](https://agent.nexus) - We help non-technical teams build AI agents without engineers
 - [Notion](https://notion.com) - Workspace, docs, and productivity platform with collaboration and AI product work.
+- [NVIDIA](https://nvidia.com) - GPU hardware and AI computing platform.
 - [Omni](https://addomni.com) - Fast, up-to-date answers for Sales & Support
 - [Oneleet](https://oneleet.com) - YC's most popular security compliance platform (SOC 2, ISO 27001,…
 - [OneSchema](https://oneschema.co) - The AI Agent for Autonomous Data Operations
@@ -113,6 +121,7 @@ AI, machine learning, analytics, databases, and data infrastructure.
 - [Perplexity](https://perplexity.ai) - AI answer engine company with roles across search, inference, product, and applied AI.
 - [Phonic](https://phonic.ai) - The best way to collect and analyze voice and video feedback
 - [Photoroom](https://photoroom.com) - Power commerce photography with generative AI
+- [Pika](https://pika.art) - Generative video AI.
 - [Pinecone](https://pinecone.io) - Managed vector database for semantic search, retrieval, and AI applications.
 - [Playground](https://playground.com) - Make graphics like a Pro without being one
 - [Plivo](https://plivo.com) - Voice AI Agents for customer engagement, including WhatsApp, SMS &…
@@ -129,6 +138,7 @@ AI, machine learning, analytics, databases, and data infrastructure.
 - [Recall.ai](https://recall.ai) - The API to get recordings, transcripts, and metadata from meetings
 - [Reducto](https://reducto.ai) - The most accurate API to parse documents
 - [Reflex](https://reflex.dev) - The operating system for building mission-critical enterprise apps.
+- [Reka](https://reka.ai) - Multimodal foundation models.
 - [Replo](https://replo.app) - Sell anything
 - [Retell AI](https://retellai.com) - Supercharge Your Contact Center Operations with AI Phone Agents
 - [Roboflow](https://roboflow.com) - 🖼️ Give your software the sense of sight.
@@ -150,6 +160,7 @@ AI, machine learning, analytics, databases, and data infrastructure.
 - [Solari AI](https://usesolari.ai) - Gives non-technical team members agents that work right out of the box
 - [Speak](https://speak.com) - A superhuman, AI-powered language tutor in your pocket
 - [Spellbrush](https://spellbrush.com) - Making Anime Real
+- [Stability AI](https://stability.ai) - Open-model image and audio generation.
 - [Stellar](https://stellarapp.io) - AI-powered business goals
 - [Strong Compute](https://strongcompute.com) - 10x-1000x faster compute for Neural Network training
 - [Subsets](https://subsets.com) - AI-driven Retention Automation for subscription media businesses.

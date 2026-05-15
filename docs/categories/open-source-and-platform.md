@@ -539,7 +539,6 @@ Open-source companies, broad platforms, productivity, collaboration, and entries
 - [Labelbox](https://labelbox.com) - Hiring via Greenhouse (labelbox).
 - [Ladders](https://ladders.com) - Hiring via Lever (ladders).
 - [Lalamove](https://lalamove.com) - Hiring via Lever (lalamove).
-- [Lambda](https://lambda.com) - Hiring via Ashby (lambda).
 - [Lapel](https://lapel.com) - Hiring via Ashby (lapel).
 - [Lassie](https://lassie.com) - Hiring via Ashby (lassie).
 - [Latch](https://latch.com) - Hiring via Lever (latch).
@@ -863,7 +862,6 @@ Open-source companies, broad platforms, productivity, collaboration, and entries
 - [Shapes](https://shapes.com) - Hiring via Ashby (shapes).
 - [Share](https://share.com) - Hiring via Ashby (share).
 - [SharkNinja](https://sharkninja.com) - Hiring via Greenhouse (sharkninjaoperatingllc).
-- [Shieldai](https://shieldai.com) - Hiring via Lever (shieldai).
 - [Shook](https://shook.com) - Hiring via Ashby (shook).
 - [Siftstack](https://siftstack.com) - Hiring via Ashby (siftstack).
 - [Sigma Computing](https://sigmacomputing.com) - Hiring via Greenhouse (sigmacomputing).
