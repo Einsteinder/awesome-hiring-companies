@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1750 companies**.
+Currently tracking **1760 companies**.
 
 This repository is designed for two uses:
 
@@ -1806,6 +1806,16 @@ Open source video player (video.js)
 - [Mozilla](https://mozilla.com) - Hiring via Greenhouse (mozilla).
 - [Backbase](https://backbase.com) - Hiring via Greenhouse (workatbackbase).
 - [Fin](https://fin.com) - Hiring via Greenhouse (intercom).
+- [Monzo](https://monzo.com) - Hiring via Greenhouse (monzo).
+- [Adyen](https://adyen.com) - Hiring via Greenhouse (adyen).
+- [NPR](https://npr.com) - Hiring via Greenhouse (nationalpublicradioinc).
+- [Fireworks AI](https://fireworksai.com) - Hiring via Greenhouse (fireworksai).
+- [Guardsquare](https://guardsquare.com) - Hiring via Greenhouse (guardsquare).
+- [AlphaGrep Securities](https://alphagrepsecurities.com) - Hiring via Greenhouse (alphagrepsecurities).
+- [The New York Times](https://thenewyorktimes.com) - Hiring via Greenhouse (thenewyorktimes).
+- [MasterClass](https://masterclass.com) - Hiring via Greenhouse (masterclass).
+- [Khan Academy](https://khanacademy.com) - Hiring via Greenhouse (khanacademy).
+- [Team Rubicon](https://teamrubicon.com) - Hiring via Greenhouse (teamrubicon).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

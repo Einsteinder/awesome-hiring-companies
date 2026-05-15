@@ -23009,3 +23009,123 @@
   - open
   sources:
   - https://boards.greenhouse.io/intercom
+
+- name: Monzo
+  slug: monzo
+  domain: monzo.com
+  careers_url: https://boards.greenhouse.io/monzo
+  category: open-source-and-platform
+  ats:
+    greenhouse: monzo
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/monzo
+
+- name: Adyen
+  slug: adyen
+  domain: adyen.com
+  careers_url: https://boards.greenhouse.io/adyen
+  category: open-source-and-platform
+  ats:
+    greenhouse: adyen
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/adyen
+
+- name: NPR
+  slug: npr
+  domain: npr.com
+  careers_url: https://boards.greenhouse.io/nationalpublicradioinc
+  category: open-source-and-platform
+  ats:
+    greenhouse: nationalpublicradioinc
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/nationalpublicradioinc
+
+- name: Fireworks AI
+  slug: fireworks-ai
+  domain: fireworksai.com
+  careers_url: https://boards.greenhouse.io/fireworksai
+  category: open-source-and-platform
+  ats:
+    greenhouse: fireworksai
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/fireworksai
+
+- name: Guardsquare
+  slug: guardsquare
+  domain: guardsquare.com
+  careers_url: https://boards.greenhouse.io/guardsquare
+  category: open-source-and-platform
+  ats:
+    greenhouse: guardsquare
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/guardsquare
+
+- name: AlphaGrep Securities
+  slug: alphagrep-securities
+  domain: alphagrepsecurities.com
+  careers_url: https://boards.greenhouse.io/alphagrepsecurities
+  category: open-source-and-platform
+  ats:
+    greenhouse: alphagrepsecurities
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/alphagrepsecurities
+
+- name: The New York Times
+  slug: the-new-york-times
+  domain: thenewyorktimes.com
+  careers_url: https://boards.greenhouse.io/thenewyorktimes
+  category: open-source-and-platform
+  ats:
+    greenhouse: thenewyorktimes
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/thenewyorktimes
+
+- name: MasterClass
+  slug: masterclass
+  domain: masterclass.com
+  careers_url: https://boards.greenhouse.io/masterclass
+  category: open-source-and-platform
+  ats:
+    greenhouse: masterclass
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/masterclass
+
+- name: Khan Academy
+  slug: khan-academy
+  domain: khanacademy.com
+  careers_url: https://boards.greenhouse.io/khanacademy
+  category: open-source-and-platform
+  ats:
+    greenhouse: khanacademy
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/khanacademy
+
+- name: Team Rubicon
+  slug: team-rubicon
+  domain: teamrubicon.com
+  careers_url: https://boards.greenhouse.io/teamrubicon
+  category: open-source-and-platform
+  ats:
+    greenhouse: teamrubicon
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/teamrubicon
