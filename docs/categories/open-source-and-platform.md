@@ -227,7 +227,7 @@ Open-source companies, broad platforms, productivity, collaboration, and entries
 - [Conception](https://conception.com) - Hiring via Ashby (conception).
 - [Concurrency](https://concurrency.com) - Hiring via Lever (concurrency).
 - [Conduct](https://conduct.com) - Hiring via Ashby (conduct).
-- [Confluent](https://confluent.com) - Hiring via Ashby (confluent).
+- [Confluent](https://confluent.io) - Hiring via Ashby (confluent).
 - [ConnectWise](https://connectwise.com) - Hiring via Greenhouse (connectwise).
 - [Conquest](https://conquest.com) - Hiring via Ashby (conquest).
 - [Consensys](https://consensys.com) - Hiring via Greenhouse (consensys).
@@ -365,7 +365,6 @@ Open-source companies, broad platforms, productivity, collaboration, and entries
 - [Flipper](https://flipper.com) - Hiring via Ashby (flipper).
 - [Flock](https://flock.com) - Hiring via Ashby (flock).
 - [Flora](https://flora.com) - Hiring via Ashby (flora).
-- [Florence](https://florence.com) - Hiring via Lever (florence).
 - [FlowFuse](https://flowfuse.com) - Hiring via Greenhouse (flowfuse).
 - [Fluency](https://fluency.com) - Hiring via Ashby (fluency).
 - [Focus](https://focus.com) - Hiring via Ashby (focus).
@@ -398,7 +397,7 @@ Open-source companies, broad platforms, productivity, collaboration, and entries
 - [Genies](https://genies.com) - Hiring via Ashby (genies).
 - [Genius Sports](https://geniussports.com) - Hiring via Greenhouse (geniussports).
 - [Genmo](https://genmo.com) - Hiring via Ashby (genmo).
-- [Ghost](https://ghost.com) - Hiring via Ashby (ghost).
+- [Ghost](https://ghost.org) - Hiring via Ashby (ghost).
 - [Gigaml](https://gigaml.com) - Hiring via Ashby (gigaml).
 - [Gimlet](https://gimlet.com) - Hiring via Ashby (gimlet).
 - [Girlswhocode](https://girlswhocode.com) - Hiring via Lever (girlswhocode).
@@ -603,7 +602,6 @@ Open-source companies, broad platforms, productivity, collaboration, and entries
 - [Marshmallow](https://marshmallow.com) - Hiring via Ashby (marshmallow).
 - [MasterClass](https://masterclass.com) - Hiring via Greenhouse (masterclass).
 - [Mastodon](https://mastodon.com) - Hiring via Ashby (mastodon).
-- [Material](https://material.com) - Hiring via Ashby (material).
 - [Materialize](https://materialize.com) - Hiring via Ashby (materialize).
 - [Matterworks](https://matterworks.com) - Hiring via Ashby (matterworks).
 - [Maxima](https://maxima.com) - Hiring via Ashby (maxima).
@@ -650,7 +648,7 @@ Open-source companies, broad platforms, productivity, collaboration, and entries
 - [Mural](https://mural.com) - Hiring via Ashby (mural).
 - [Mystenlabs](https://mystenlabs.com) - Hiring via Ashby (mystenlabs).
 - [N1](https://n1.com) - Hiring via Ashby (n1).
-- [N8N](https://n8n.com) - Hiring via Ashby (n8n).
+- [N8N](https://n8n.io) - Hiring via Ashby (n8n).
 - [Nascent](https://nascent.com) - Hiring via Ashby (nascent).
 - [Nav](https://nav.com) - Hiring via Greenhouse (navtechnologies).
 - [Nava Benefits](https://navabenefits.com) - Hiring via Ashby (nava-benefits).
@@ -802,7 +800,6 @@ Open-source companies, broad platforms, productivity, collaboration, and entries
 - [Relay](https://relay.com) - Hiring via Ashby (relay).
 - [Remote](https://remote.com) - Hiring via Greenhouse (remotecom).
 - [Render](https://render.com) - Hiring via Ashby (render).
-- [Renegade](https://renegade.com) - Hiring via Lever (renegade).
 - [Replicated](https://replicated.com) - Hiring via Ashby (replicated).
 - [Reply](https://reply.com) - Hiring via Lever (reply).
 - [Reprise](https://reprise.com) - Hiring via Ashby (reprise).
@@ -1048,7 +1045,6 @@ Open-source companies, broad platforms, productivity, collaboration, and entries
 - [Wilson](https://wilson.com) - Hiring via Ashby (wilson).
 - [Wincent](https://wincent.com) - Hiring via Ashby (wincent).
 - [Windborne Systems](https://windbornesystems.com) - Hiring via Ashby (windborne-systems).
-- [Windranger](https://windranger.com) - Hiring via Ashby (windranger).
 - [Wisp](https://wisp.com) - Hiring via Ashby (wisp).
 - [Wonderful](https://wonderful.com) - Hiring via Ashby (wonderful).
 - [Wonderschool](https://wonderschool.com) - Hiring via Greenhouse (wonderschool).
