@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1378 companies**.
+Currently tracking **1388 companies**.
 
 This repository is designed for two uses:
 
@@ -1434,6 +1434,16 @@ Open source video player (video.js)
 - [Prefect](https://prefect.com) - Hiring via Ashby (prefect).
 - [Ranger](https://ranger.com) - Hiring via Lever (ranger).
 - [Share](https://share.com) - Hiring via Ashby (share).
+- [Shook](https://shook.com) - Hiring via Ashby (shook).
+- [Tiger](https://tiger.com) - Hiring via Ashby (tiger).
+- [Tight](https://tight.com) - Hiring via Ashby (tight).
+- [Unblocked](https://unblocked.com) - Hiring via Ashby (unblocked).
+- [Union](https://union.com) - Hiring via Ashby (union).
+- [Velocity](https://velocity.com) - Hiring via Ashby (velocity).
+- [Verdigris](https://verdigris.com) - Hiring via Lever (verdigris).
+- [Wilson](https://wilson.com) - Hiring via Ashby (wilson).
+- [Wisp](https://wisp.com) - Hiring via Ashby (wisp).
+- [Hyde](https://hyde.com) - Hiring via Ashby (hyde).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

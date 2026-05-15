@@ -18545,3 +18545,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/share
+
+- name: Shook
+  slug: shook
+  domain: shook.com
+  careers_url: https://jobs.ashbyhq.com/shook
+  category: open-source-and-platform
+  ats:
+    ashby: shook
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/shook
+
+- name: Tiger
+  slug: tiger
+  domain: tiger.com
+  careers_url: https://jobs.ashbyhq.com/tiger
+  category: open-source-and-platform
+  ats:
+    ashby: tiger
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/tiger
+
+- name: Tight
+  slug: tight
+  domain: tight.com
+  careers_url: https://jobs.ashbyhq.com/tight
+  category: open-source-and-platform
+  ats:
+    ashby: tight
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/tight
+
+- name: Unblocked
+  slug: unblocked
+  domain: unblocked.com
+  careers_url: https://jobs.ashbyhq.com/unblocked
+  category: open-source-and-platform
+  ats:
+    ashby: unblocked
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/unblocked
+
+- name: Union
+  slug: union
+  domain: union.com
+  careers_url: https://jobs.ashbyhq.com/union
+  category: open-source-and-platform
+  ats:
+    ashby: union
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/union
+
+- name: Velocity
+  slug: velocity
+  domain: velocity.com
+  careers_url: https://jobs.ashbyhq.com/velocity
+  category: open-source-and-platform
+  ats:
+    ashby: velocity
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/velocity
+
+- name: Verdigris
+  slug: verdigris
+  domain: verdigris.com
+  careers_url: https://jobs.lever.co/verdigris
+  category: open-source-and-platform
+  ats:
+    lever: verdigris
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/verdigris
+
+- name: Wilson
+  slug: wilson
+  domain: wilson.com
+  careers_url: https://jobs.ashbyhq.com/wilson
+  category: open-source-and-platform
+  ats:
+    ashby: wilson
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/wilson
+
+- name: Wisp
+  slug: wisp
+  domain: wisp.com
+  careers_url: https://jobs.ashbyhq.com/wisp
+  category: open-source-and-platform
+  ats:
+    ashby: wisp
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/wisp
+
+- name: Hyde
+  slug: hyde
+  domain: hyde.com
+  careers_url: https://jobs.ashbyhq.com/hyde
+  category: open-source-and-platform
+  ats:
+    ashby: hyde
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/hyde
