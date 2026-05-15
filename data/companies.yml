@@ -24869,3 +24869,123 @@
   - open
   sources:
   - https://jobs.lever.co/boxlunch
+
+- name: Careers at Tide
+  slug: careers-at-tide
+  domain: careersattide.com
+  careers_url: https://boards.greenhouse.io/tide
+  category: open-source-and-platform
+  ats:
+    greenhouse: tide
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/tide
+
+- name: Capital on Tap
+  slug: capital-on-tap
+  domain: capitalontap.com
+  careers_url: https://boards.greenhouse.io/capitalontap
+  category: open-source-and-platform
+  ats:
+    greenhouse: capitalontap
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/capitalontap
+
+- name: Appier
+  slug: appier
+  domain: appier.com
+  careers_url: https://boards.greenhouse.io/appier
+  category: open-source-and-platform
+  ats:
+    greenhouse: appier
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/appier
+
+- name: LaunchDarkly
+  slug: launchdarkly
+  domain: launchdarkly.com
+  careers_url: https://boards.greenhouse.io/launchdarkly
+  category: open-source-and-platform
+  ats:
+    greenhouse: launchdarkly
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/launchdarkly
+
+- name: StockX
+  slug: stockx
+  domain: stockx.com
+  careers_url: https://boards.greenhouse.io/stockx
+  category: open-source-and-platform
+  ats:
+    greenhouse: stockx
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/stockx
+
+- name: Bridgewater Associates
+  slug: bridgewater-associates
+  domain: bridgewaterassociates.com
+  careers_url: https://boards.greenhouse.io/bridgewater89
+  category: open-source-and-platform
+  ats:
+    greenhouse: bridgewater89
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/bridgewater89
+
+- name: Job Board
+  slug: job-board
+  domain: jobboard.com
+  careers_url: https://boards.greenhouse.io/corelight
+  category: open-source-and-platform
+  ats:
+    greenhouse: corelight
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/corelight
+
+- name: Schrödinger
+  slug: schr-dinger
+  domain: schrdinger.com
+  careers_url: https://boards.greenhouse.io/schrdinger
+  category: open-source-and-platform
+  ats:
+    greenhouse: schrdinger
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/schrdinger
+
+- name: Moloco
+  slug: moloco
+  domain: moloco.com
+  careers_url: https://boards.greenhouse.io/moloco
+  category: open-source-and-platform
+  ats:
+    greenhouse: moloco
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/moloco
+
+- name: Christ Fellowship
+  slug: christ-fellowship
+  domain: christfellowship.com
+  careers_url: https://boards.greenhouse.io/christfellowship
+  category: open-source-and-platform
+  ats:
+    greenhouse: christfellowship
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/christfellowship

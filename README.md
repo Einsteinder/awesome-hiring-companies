@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1905 companies**.
+Currently tracking **1915 companies**.
 
 This repository is designed for two uses:
 
@@ -1961,6 +1961,16 @@ Open source video player (video.js)
 - [Aogarciaagency](https://aogarciaagency.com) - Hiring via Lever (aogarciaagency).
 - [Airwallex](https://airwallex.com) - Hiring via Ashby (airwallex).
 - [Boxlunch](https://boxlunch.com) - Hiring via Lever (boxlunch).
+- [Careers at Tide](https://careersattide.com) - Hiring via Greenhouse (tide).
+- [Capital on Tap](https://capitalontap.com) - Hiring via Greenhouse (capitalontap).
+- [Appier](https://appier.com) - Hiring via Greenhouse (appier).
+- [LaunchDarkly](https://launchdarkly.com) - Hiring via Greenhouse (launchdarkly).
+- [StockX](https://stockx.com) - Hiring via Greenhouse (stockx).
+- [Bridgewater Associates](https://bridgewaterassociates.com) - Hiring via Greenhouse (bridgewater89).
+- [Job Board](https://jobboard.com) - Hiring via Greenhouse (corelight).
+- [Schrödinger](https://schrdinger.com) - Hiring via Greenhouse (schrdinger).
+- [Moloco](https://moloco.com) - Hiring via Greenhouse (moloco).
+- [Christ Fellowship](https://christfellowship.com) - Hiring via Greenhouse (christfellowship).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
