@@ -17945,3 +17945,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/smallest
+
+- name: Spacial
+  slug: spacial
+  domain: spacial.com
+  careers_url: https://jobs.ashbyhq.com/spacial
+  category: open-source-and-platform
+  ats:
+    ashby: spacial
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/spacial
+
+- name: Source
+  slug: source
+  domain: source.com
+  careers_url: https://jobs.lever.co/source
+  category: open-source-and-platform
+  ats:
+    lever: source
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/source
+
+- name: Spare
+  slug: spare
+  domain: spare.com
+  careers_url: https://jobs.ashbyhq.com/spare
+  category: open-source-and-platform
+  ats:
+    ashby: spare
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/spare
+
+- name: Sprig
+  slug: sprig
+  domain: sprig.com
+  careers_url: https://jobs.ashbyhq.com/sprig
+  category: open-source-and-platform
+  ats:
+    ashby: sprig
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/sprig
+
+- name: Swans
+  slug: swans
+  domain: swans.com
+  careers_url: https://jobs.ashbyhq.com/swans
+  category: open-source-and-platform
+  ats:
+    ashby: swans
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/swans
+
+- name: Tread
+  slug: tread
+  domain: tread.com
+  careers_url: https://jobs.ashbyhq.com/tread
+  category: open-source-and-platform
+  ats:
+    ashby: tread
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/tread
+
+- name: Waterfall
+  slug: waterfall
+  domain: waterfall.com
+  careers_url: https://jobs.lever.co/waterfall
+  category: open-source-and-platform
+  ats:
+    lever: waterfall
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/waterfall
+
+- name: Zeno
+  slug: zeno
+  domain: zeno.com
+  careers_url: https://jobs.ashbyhq.com/zeno
+  category: open-source-and-platform
+  ats:
+    ashby: zeno
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/zeno
+
+- name: Inference
+  slug: inference
+  domain: inference.com
+  careers_url: https://jobs.ashbyhq.com/inference
+  category: open-source-and-platform
+  ats:
+    ashby: inference
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/inference
+
+- name: Interaction
+  slug: interaction
+  domain: interaction.com
+  careers_url: https://jobs.ashbyhq.com/interaction
+  category: open-source-and-platform
+  ats:
+    ashby: interaction
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/interaction

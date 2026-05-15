@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1328 companies**.
+Currently tracking **1338 companies**.
 
 This repository is designed for two uses:
 
@@ -1384,6 +1384,16 @@ Open source video player (video.js)
 - [Slant](https://slant.com) - Hiring via Ashby (slant).
 - [Slate](https://slate.com) - Hiring via Ashby (slate).
 - [Smallest](https://smallest.com) - Hiring via Ashby (smallest).
+- [Spacial](https://spacial.com) - Hiring via Ashby (spacial).
+- [Source](https://source.com) - Hiring via Lever (source).
+- [Spare](https://spare.com) - Hiring via Ashby (spare).
+- [Sprig](https://sprig.com) - Hiring via Ashby (sprig).
+- [Swans](https://swans.com) - Hiring via Ashby (swans).
+- [Tread](https://tread.com) - Hiring via Ashby (tread).
+- [Waterfall](https://waterfall.com) - Hiring via Lever (waterfall).
+- [Zeno](https://zeno.com) - Hiring via Ashby (zeno).
+- [Inference](https://inference.com) - Hiring via Ashby (inference).
+- [Interaction](https://interaction.com) - Hiring via Ashby (interaction).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
