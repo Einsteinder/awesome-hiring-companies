@@ -14849,3 +14849,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/clasp
+
+- name: Clubhouse
+  slug: clubhouse
+  domain: clubhouse.com
+  careers_url: https://jobs.ashbyhq.com/clubhouse
+  category: open-source-and-platform
+  ats:
+    ashby: clubhouse
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/clubhouse
+
+- name: Complement
+  slug: complement
+  domain: complement.com
+  careers_url: https://jobs.ashbyhq.com/complement
+  category: open-source-and-platform
+  ats:
+    ashby: complement
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/complement
+
+- name: Constructor
+  slug: constructor
+  domain: constructor.com
+  careers_url: https://jobs.ashbyhq.com/constructor
+  category: open-source-and-platform
+  ats:
+    ashby: constructor
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/constructor
+
+- name: Contextual
+  slug: contextual
+  domain: contextual.com
+  careers_url: https://jobs.ashbyhq.com/contextual
+  category: open-source-and-platform
+  ats:
+    ashby: contextual
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/contextual
+
+- name: Curie
+  slug: curie
+  domain: curie.com
+  careers_url: https://jobs.ashbyhq.com/curie
+  category: open-source-and-platform
+  ats:
+    ashby: curie
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/curie
+
+- name: Dune
+  slug: dune
+  domain: dune.com
+  careers_url: https://jobs.ashbyhq.com/dune
+  category: open-source-and-platform
+  ats:
+    ashby: dune
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/dune
+
+- name: Electric
+  slug: electric
+  domain: electric.com
+  careers_url: https://jobs.ashbyhq.com/electric
+  category: open-source-and-platform
+  ats:
+    ashby: electric
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/electric
+
+- name: Engine
+  slug: engine
+  domain: engine.com
+  careers_url: https://jobs.lever.co/engine
+  category: open-source-and-platform
+  ats:
+    lever: engine
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/engine
+
+- name: Euphoric
+  slug: euphoric
+  domain: euphoric.com
+  careers_url: https://jobs.ashbyhq.com/euphoric
+  category: open-source-and-platform
+  ats:
+    ashby: euphoric
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/euphoric
+
+- name: Felicity
+  slug: felicity
+  domain: felicity.com
+  careers_url: https://jobs.ashbyhq.com/felicity
+  category: open-source-and-platform
+  ats:
+    ashby: felicity
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/felicity

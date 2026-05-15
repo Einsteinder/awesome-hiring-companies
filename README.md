@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1070 companies**.
+Currently tracking **1080 companies**.
 
 This repository is designed for two uses:
 
@@ -1126,6 +1126,16 @@ Open source video player (video.js)
 - [Checker](https://checker.com) - Hiring via Lever (checker).
 - [Clarify](https://clarify.com) - Hiring via Ashby (clarify).
 - [Clasp](https://clasp.com) - Hiring via Ashby (clasp).
+- [Clubhouse](https://clubhouse.com) - Hiring via Ashby (clubhouse).
+- [Complement](https://complement.com) - Hiring via Ashby (complement).
+- [Constructor](https://constructor.com) - Hiring via Ashby (constructor).
+- [Contextual](https://contextual.com) - Hiring via Ashby (contextual).
+- [Curie](https://curie.com) - Hiring via Ashby (curie).
+- [Dune](https://dune.com) - Hiring via Ashby (dune).
+- [Electric](https://electric.com) - Hiring via Ashby (electric).
+- [Engine](https://engine.com) - Hiring via Lever (engine).
+- [Euphoric](https://euphoric.com) - Hiring via Ashby (euphoric).
+- [Felicity](https://felicity.com) - Hiring via Ashby (felicity).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
