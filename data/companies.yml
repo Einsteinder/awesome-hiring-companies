@@ -9097,3 +9097,143 @@
   - sales
   sources:
   - https://jobs.ashbyhq.com/hyperbound
+
+- name: Elyos AI
+  slug: elyos-ai
+  domain: elyos.ai
+  careers_url: https://jobs.ashbyhq.com/elyos
+  category: ai-and-data
+  ats:
+    ashby: elyos
+  tags:
+  - b2b
+  - b2b-operations
+  - artificial-intelligence
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/elyos
+
+- name: Electric Air
+  slug: electric-air
+  domain: electricair.io
+  careers_url: https://jobs.ashbyhq.com/electricair
+  category: consumer-and-marketplace
+  ats:
+    ashby: electricair
+  tags:
+  - real-estate-and-construction
+  sources:
+  - https://jobs.ashbyhq.com/electricair
+
+- name: Airgoods
+  slug: airgoods
+  domain: airgoods.com
+  careers_url: https://jobs.ashbyhq.com/airgoods
+  category: consumer-and-marketplace
+  ats:
+    ashby: airgoods
+  tags:
+  - b2b
+  - b2b-retail
+  sources:
+  - https://jobs.ashbyhq.com/airgoods
+
+- name: Decoda Health
+  slug: decoda-health
+  domain: decodahealth.com
+  careers_url: https://jobs.ashbyhq.com/decodahealth
+  category: consumer-and-marketplace
+  ats:
+    ashby: decodahealth
+  tags:
+  - healthcare
+  - healthcare-healthcare-it
+  - artificial-intelligence
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/decodahealth
+
+- name: Glade
+  slug: glade
+  domain: gladestudio.ai
+  careers_url: https://jobs.ashbyhq.com/glade
+  category: ai-and-data
+  ats:
+    ashby: glade
+  tags:
+  - b2b
+  - generative-ai
+  - consumer
+  - entertainment
+  sources:
+  - https://jobs.ashbyhq.com/glade
+
+- name: Foundation
+  slug: foundation
+  domain: buildwithfoundation.com
+  careers_url: https://jobs.ashbyhq.com/foundation
+  category: ai-and-data
+  ats:
+    ashby: foundation
+  tags:
+  - real-estate-and-construction
+  - saas
+  - real-estate
+  - b2b
+  sources:
+  - https://jobs.ashbyhq.com/foundation
+
+- name: Paradigm
+  slug: paradigm
+  domain: paradigmai.com
+  careers_url: https://jobs.ashbyhq.com/paradigm
+  category: ai-and-data
+  ats:
+    ashby: paradigm
+  tags:
+  - b2b
+  sources:
+  - https://jobs.ashbyhq.com/paradigm
+
+- name: Centralize
+  slug: centralize
+  domain: usecentralize.com
+  careers_url: https://jobs.ashbyhq.com/centralize
+  category: ai-and-data
+  ats:
+    ashby: centralize
+  tags:
+  - b2b
+  - b2b-sales
+  - artificial-intelligence
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/centralize
+
+- name: Circleback
+  slug: circleback
+  domain: circleback.ai
+  careers_url: https://jobs.ashbyhq.com/circleback
+  category: ai-and-data
+  ats:
+    ashby: circleback
+  tags:
+  - b2b
+  - b2b-productivity
+  sources:
+  - https://jobs.ashbyhq.com/circleback
+
+- name: Doublezero
+  slug: doublezero
+  domain: doublezero.tech
+  careers_url: https://jobs.ashbyhq.com/doublezero
+  category: developer-infrastructure
+  ats:
+    ashby: doublezero
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - developer-tools
+  - infrastructure
+  sources:
+  - https://jobs.ashbyhq.com/doublezero

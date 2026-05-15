@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **630 companies**.
+Currently tracking **640 companies**.
 
 This repository is designed for two uses:
 
@@ -686,6 +686,16 @@ Open source video player (video.js)
 - [Yuma AI](https://yuma.ai) - The AI Support Agent for Ecommerce
 - [Wallbit](https://wallbit.io) - Neobank for global remote workers
 - [Hyperbound](https://hyperbound.ai) - Revenue Activation Platform
+- [Elyos AI](https://elyos.ai) - AI Customer Service Agents for trades and field services
+- [Electric Air](https://electricair.io) - Tech-enabled heat pump contractor that cuts costs by 60%
+- [Airgoods](https://airgoods.com) - Wholesale marketplace for food & beverage
+- [Decoda Health](https://decodahealth.com) - The all-in-one EMR built for med spas and elective care
+- [Glade](https://gladestudio.ai) - Build games at the speed of thought
+- [Foundation](https://buildwithfoundation.com) - Shopify for Homebuilders
+- [Paradigm](https://paradigmai.com) - A reimagined workspace with AI at its core
+- [Centralize](https://usecentralize.com) - The relationship intelligence platform for enterprise revenue
+- [Circleback](https://circleback.ai) - AI-powered meeting notes and automations
+- [Doublezero](https://doublezero.tech) - Platform to build, use, and monetize fully autonomous agents
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
