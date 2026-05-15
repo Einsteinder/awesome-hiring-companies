@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **2145 companies**.
+Currently tracking **2141 companies**.
 
 This repository is designed for two uses:
 
@@ -43,7 +43,6 @@ New companies must pass the full [`Inclusion Standard`](docs/inclusion-standard.
 
 AI, machine learning, analytics, databases, and data infrastructure.
 
-- [Determined AI](https://determined.ai) - ML training platform (HPE).
 - [Stability AI](https://stability.ai) - Open-model image and audio generation.
 - [Midjourney](https://midjourney.com) - Generative image AI.
 - [Pika](https://pika.art) - Generative video AI.
@@ -633,7 +632,6 @@ Consumer products, communities, marketplaces, media, travel, commerce, education
 - [Sony](https://sony.com) - Consumer electronics, gaming (PlayStation), and entertainment.
 - [Warner Bros. Discovery](https://wbd.com) - Media conglomerate (HBO Max, CNN, Warner Bros.).
 - [Paramount](https://paramount.com) - Media and entertainment company (CBS, Paramount+).
-- [Hulu](https://hulu.com) - Streaming video service (Disney).
 - [T-Mobile](https://t-mobile.com) - Mobile network carrier.
 - [Verizon](https://verizon.com) - Telecommunications and wireless carrier.
 - [AT&T](https://att.com) - Telecommunications and connectivity carrier.
@@ -756,7 +754,6 @@ Healthcare delivery, health-tech, biotech, drug discovery, medical devices, and 
 - [Insitro](https://insitro.com) - AI-driven drug discovery.
 - [Merck](https://merck.com) - Global pharmaceutical company.
 - [AstraZeneca](https://astrazeneca.com) - Global pharmaceutical company.
-- [BioNTech](https://biontech.com) - mRNA cancer and infectious-disease therapeutics.
 - [Genentech](https://gene.com) - Biotech (Roche).
 - [Illumina](https://illumina.com) - Genomic sequencing instruments and software.
 - [23andMe](https://23andme.com) - Consumer genetics and health insights.
@@ -899,7 +896,6 @@ Hardware, manufacturing, robotics, climate, energy, aviation, space, supply chai
 - [KION Group](https://kiongroup.com) - Industrial trucks and warehouse automation.
 - [Hyundai](https://hyundai.com) - Automotive manufacturer.
 - [Volvo](https://volvogroup.com) - Trucks, buses, and construction equipment.
-- [Komatsu](https://komatsu.com) - Heavy construction and mining equipment.
 - [Mercedes-Benz](https://mercedes-benz.com) - Premium automotive manufacturer.
 - [BMW](https://bmwgroup.com) - Premium automotive manufacturer.
 - [Toyota](https://toyota.com) - Global automotive manufacturer.

@@ -26446,19 +26446,6 @@
   sources:
   - https://careers.t-mobile.com/
 
-- name: Hulu
-  slug: hulu
-  domain: hulu.com
-  careers_url: https://careers.hulu.com/
-  category: consumer-and-marketplace
-  ats:
-    custom: hulu
-  tags:
-  - streaming
-  - media
-  sources:
-  - https://careers.hulu.com/
-
 - name: Paramount
   slug: paramount
   domain: paramount.com
@@ -26502,7 +26489,7 @@
 - name: Samsung
   slug: samsung
   domain: samsung.com
-  careers_url: https://www.samsung.com/global/business/careers/
+  careers_url: https://www.samsungcareers.com/
   category: consumer-and-marketplace
   ats:
     custom: samsung
@@ -26511,12 +26498,12 @@
   - hardware
   - semiconductors
   sources:
-  - https://www.samsung.com/global/business/careers/
+  - https://www.samsungcareers.com/
 
 - name: Panasonic
   slug: panasonic
   domain: panasonic.com
-  careers_url: https://jobs.panasonic.com/
+  careers_url: https://na.panasonic.com/us/about-panasonic/careers
   category: consumer-and-marketplace
   ats:
     custom: panasonic
@@ -26524,7 +26511,7 @@
   - consumer
   - hardware
   sources:
-  - https://jobs.panasonic.com/
+  - https://na.panasonic.com/us/about-panasonic/careers
 
 - name: NVIDIA
   slug: nvidia
@@ -26843,7 +26830,7 @@
 - name: JFrog
   slug: jfrog
   domain: jfrog.com
-  careers_url: https://jfrog.com/about-jfrog/careers/
+  careers_url: https://jfrog.com/careers/
   category: developer-infrastructure
   ats:
     custom: jfrog
@@ -26852,7 +26839,7 @@
   - artifacts
   - developer-tools
   sources:
-  - https://jfrog.com/about-jfrog/careers/
+  - https://jfrog.com/careers/
 
 - name: Lacework
   slug: lacework
@@ -26964,7 +26951,7 @@
 - name: Backblaze
   slug: backblaze
   domain: backblaze.com
-  careers_url: https://www.backblaze.com/company/careers
+  careers_url: https://www.backblaze.com/jobs.html
   category: developer-infrastructure
   ats:
     custom: backblaze
@@ -26973,7 +26960,7 @@
   - backup
   - cloud
   sources:
-  - https://www.backblaze.com/company/careers
+  - https://www.backblaze.com/jobs.html
 
 - name: PayPal
   slug: paypal
@@ -27394,7 +27381,7 @@
 - name: 23andMe
   slug: 23andme
   domain: 23andme.com
-  careers_url: https://www.23andme.com/about/careers/
+  careers_url: https://www.23andme.com/careers/
   category: healthcare-and-biotech
   ats:
     custom: 23andme
@@ -27402,7 +27389,7 @@
   - genetics
   - consumer-health
   sources:
-  - https://www.23andme.com/about/careers/
+  - https://www.23andme.com/careers/
 
 - name: Illumina
   slug: illumina
@@ -27429,20 +27416,6 @@
   - drug-discovery
   sources:
   - https://www.gene.com/careers
-
-- name: BioNTech
-  slug: biontech
-  domain: biontech.com
-  careers_url: https://careers.biontech.com/
-  category: healthcare-and-biotech
-  ats:
-    workday: biontech
-  tags:
-  - biotech
-  - mrna
-  - vaccines
-  sources:
-  - https://careers.biontech.com/
 
 - name: AstraZeneca
   slug: astrazeneca
@@ -27681,20 +27654,6 @@
   sources:
   - https://group.mercedes-benz.com/careers/
 
-- name: Komatsu
-  slug: komatsu
-  domain: komatsu.com
-  careers_url: https://www.komatsu.jp/en/careers
-  category: industrials-and-climate
-  ats:
-    custom: komatsu
-  tags:
-  - industrial
-  - heavy-equipment
-  - mining
-  sources:
-  - https://www.komatsu.jp/en/careers
-
 - name: Volvo
   slug: volvo
   domain: volvogroup.com
@@ -27711,15 +27670,15 @@
 - name: Hyundai
   slug: hyundai
   domain: hyundai.com
-  careers_url: https://careers.hyundai.com/
+  careers_url: https://hyundai.recruiterbox.com/
   category: industrials-and-climate
   ats:
-    custom: hyundai
+    recruiterbox: hyundai
   tags:
   - automotive
   - manufacturing
   sources:
-  - https://careers.hyundai.com/
+  - https://hyundai.recruiterbox.com/
 
 - name: KION Group
   slug: kion-group
@@ -27967,17 +27926,4 @@
   - open-source
   sources:
   - https://stability.ai/careers
-
-- name: Determined AI
-  slug: determined-ai
-  domain: determined.ai
-  careers_url: https://determined.ai/careers
-  category: ai-and-data
-  ats:
-    custom: determined
-  tags:
-  - ai
-  - ml-platform
-  sources:
-  - https://determined.ai/careers
 
