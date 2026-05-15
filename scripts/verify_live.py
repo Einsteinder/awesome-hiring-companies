@@ -65,6 +65,22 @@ ATS_ENDPOINTS: dict[str, list[str]] = {
     ],
 }
 
+# Hosts that mean "this domain is for sale / parked / not the company's site".
+# A redirect into one of these flips the domain probe from `OK` to `parked`.
+PARKING_HOSTS = frozenset({
+    "brandbucket.com",
+    "sedo.com",
+    "afternic.com",
+    "hugedomains.com",
+    "dan.com",
+    "domainmarket.com",
+    "buydomains.com",
+    "uniregistry.com",
+    "namepros.com",
+    "squadhelp.com",
+    "atom.com",
+})
+
 # Providers whose public board lives on a per-tenant domain (Workday, SAP
 # SuccessFactors) or has no canonical public probe endpoint
 # (Recruiterbox / `custom`). For these, the `careers_url` check is the real
@@ -92,16 +108,19 @@ class Result:
 
     @property
     def status(self) -> str:
-        # An entry is `fail` only when a structural identity check fails: the
-        # ATS slug doesn't resolve, or the careers_url returns a hard 404/DNS
-        # error AND the ATS slug also doesn't verify. A bot-blocked careers_url
-        # (e.g. Cloudflare 403) with a verified ATS slug downgrades to `warn`,
-        # because a human's browser can still reach the page.
+        # `fail` is reserved for structural identity failures: the ATS slug
+        # doesn't resolve anywhere, or the `domain` field doesn't point to a
+        # real company site (DNS-fail or parked at a marketplace). A
+        # bot-blocked careers_url (Cloudflare 403, etc.) with a verified ATS
+        # slug downgrades to `warn` — humans can still reach the page.
         ats_failed = any(not p.ok and p.rule.startswith("ats:") for p in self.probes)
+        domain_dead = any(
+            not p.ok and p.rule == "domain_reachable" for p in self.probes
+        )
         careers_failed = any(
             not p.ok and p.rule.startswith("careers_url") for p in self.probes
         )
-        if ats_failed:
+        if ats_failed or domain_dead:
             return "fail"
         if careers_failed:
             return "warn"
@@ -158,6 +177,40 @@ async def _try(client: httpx.AsyncClient, url: str, retries: int) -> tuple[str, 
     if isinstance(r, Exception):
         return url, None
     return url, r.status_code
+
+
+def _normalize_host(host: str) -> str:
+    return host.lower().removeprefix("www.")
+
+
+async def probe_domain(client: httpx.AsyncClient, domain: str, retries: int) -> Probe:
+    """Confirm the `domain` field points at a real company site.
+
+    Catches a class of entries where the ATS slug is valid (so careers_url
+    works) but the company's primary domain is dead, never-registered, or
+    parked at a marketplace — i.e. the inclusion-standard "stable identity:
+    canonical name, primary domain" requirement fails. A 4xx/5xx on the
+    company's own root is most often anti-bot from this network and is
+    treated as reachable; only DNS/SSL failure or a parking-host redirect
+    fails the probe.
+    """
+    if not domain:
+        return Probe("domain_reachable", False, "no domain field")
+    last: tuple[str, str] | None = None
+    for variant in (f"https://{domain}/", f"https://www.{domain}/"):
+        result = await fetch(client, variant, retries=retries)
+        if isinstance(result, Exception):
+            last = ("err", f"{variant} -> {type(result).__name__}: {result}")
+            continue
+        host = _normalize_host(result.url.host or "")
+        if host in PARKING_HOSTS:
+            return Probe("domain_reachable", False, f"{variant} -> parked at {host}")
+        if result.status_code < 400:
+            return Probe("domain_reachable", True, f"{variant} -> HTTP {result.status_code} ({host})")
+        last = ("http", f"{variant} -> HTTP {result.status_code}")
+    if last and last[0] == "http":
+        return Probe("domain_reachable", True, f"{last[1]} (treating non-DNS error as anti-bot)")
+    return Probe("domain_reachable", False, last[1] if last else "no probe attempted")
 
 
 async def probe_careers_url(
@@ -235,6 +288,7 @@ async def verify_company(
 ) -> Result:
     async with sem:
         result = Result(name=company["name"], slug=company["slug"])
+        result.probes.append(await probe_domain(client, company.get("domain", ""), retries))
         result.probes.append(
             await probe_careers_url(
                 client, company["careers_url"], company.get("domain", ""), retries

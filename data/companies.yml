@@ -1960,7 +1960,7 @@
 
 - name: Silver
   slug: silver
-  domain: scansilver.com
+  domain: silver.dev
   careers_url: https://jobs.ashbyhq.com/silver
   category: healthcare-and-biotech
   ats:
@@ -4702,7 +4702,7 @@
 
 - name: Glimpse
   slug: glimpse
-  domain: joinglimpse.com
+  domain: tryglimpse.com
   careers_url: https://jobs.ashbyhq.com/glimpse
   category: consumer-and-marketplace
   ats:
@@ -8718,7 +8718,7 @@
 
 - name: Eternal
   slug: eternal
-  domain: eternal.gg
+  domain: eternal.co
   careers_url: https://jobs.lever.co/eternal
   category: consumer-and-marketplace
   ats:
@@ -10685,7 +10685,7 @@
 
 - name: Noble
   slug: noble
-  domain: benoble.io
+  domain: noble.xyz
   careers_url: https://boards.greenhouse.io/noble
   category: fintech
   ats:
@@ -12236,7 +12236,7 @@
 
 - name: Elliptic
   slug: elliptic
-  domain: elliptic.com
+  domain: elliptic.co
   careers_url: https://jobs.ashbyhq.com/elliptic
   category: open-source-and-platform
   ats:
@@ -12392,7 +12392,7 @@
 
 - name: Bunch
   slug: bunch
-  domain: bunch.com
+  domain: bunch.capital
   careers_url: https://jobs.ashbyhq.com/bunch
   category: open-source-and-platform
   ats:
@@ -12704,7 +12704,7 @@
 
 - name: Hawk
   slug: hawk
-  domain: hawk.com
+  domain: hawk.ai
   careers_url: https://jobs.ashbyhq.com/hawk
   category: open-source-and-platform
   ats:
@@ -12836,7 +12836,7 @@
 
 - name: Biggie
   slug: biggie
-  domain: biggie.com
+  domain: biggie.co
   careers_url: https://jobs.lever.co/biggie
   category: open-source-and-platform
   ats:
@@ -13244,7 +13244,7 @@
 
 - name: Cents
   slug: cents
-  domain: cents.com
+  domain: trycents.com
   careers_url: https://jobs.lever.co/cents
   category: open-source-and-platform
   ats:
@@ -13280,7 +13280,7 @@
 
 - name: Clair
   slug: clair
-  domain: clair.com
+  domain: getclair.com
   careers_url: https://jobs.ashbyhq.com/clair
   category: open-source-and-platform
   ats:
@@ -13508,7 +13508,7 @@
 
 - name: Grotto
   slug: grotto
-  domain: grotto.com
+  domain: grotto.ai
   careers_url: https://jobs.ashbyhq.com/grotto
   category: open-source-and-platform
   ats:
@@ -13904,7 +13904,7 @@
 
 - name: Bernard
   slug: bernard
-  domain: bernard.com
+  domain: bernardhq.com
   careers_url: https://jobs.ashbyhq.com/bernard
   category: open-source-and-platform
   ats:
@@ -14132,7 +14132,7 @@
 
 - name: Apron
   slug: apron
-  domain: apron.com
+  domain: getapron.com
   careers_url: https://jobs.ashbyhq.com/apron
   category: open-source-and-platform
   ats:
@@ -14228,7 +14228,7 @@
 
 - name: Cubist
   slug: cubist
-  domain: cubist.com
+  domain: cubist.dev
   careers_url: https://jobs.ashbyhq.com/cubist
   category: open-source-and-platform
   ats:
@@ -14348,7 +14348,7 @@
 
 - name: Gauntlet
   slug: gauntlet
-  domain: gauntlet.com
+  domain: gauntlet.xyz
   careers_url: https://jobs.lever.co/gauntlet
   category: open-source-and-platform
   ats:
@@ -14900,7 +14900,7 @@
 
 - name: Curie
   slug: curie
-  domain: curie.com
+  domain: gocurie.com
   careers_url: https://jobs.ashbyhq.com/curie
   category: open-source-and-platform
   ats:
@@ -15236,7 +15236,7 @@
 
 - name: Fluency
   slug: fluency
-  domain: fluency.com
+  domain: usefluency.com
   careers_url: https://jobs.ashbyhq.com/fluency
   category: open-source-and-platform
   ats:
@@ -15284,7 +15284,7 @@
 
 - name: Heard
   slug: heard
-  domain: heard.com
+  domain: joinheard.com
   careers_url: https://jobs.lever.co/heard
   category: open-source-and-platform
   ats:
@@ -15851,7 +15851,7 @@
 
 - name: Pliant
   slug: pliant
-  domain: pliant.com
+  domain: getpliant.com
   careers_url: https://jobs.ashbyhq.com/pliant
   category: open-source-and-platform
   ats:
@@ -15983,7 +15983,7 @@
 
 - name: Merge
   slug: merge
-  domain: merge.com
+  domain: merge.io
   careers_url: https://jobs.ashbyhq.com/merge
   category: open-source-and-platform
   ats:
@@ -16175,7 +16175,7 @@
 
 - name: Orbital
   slug: orbital
-  domain: orbital.com
+  domain: orbital.tech
   careers_url: https://jobs.ashbyhq.com/orbital
   category: open-source-and-platform
   ats:
@@ -16223,7 +16223,7 @@
 
 - name: Socket
   slug: socket
-  domain: socket.com
+  domain: socket.dev
   careers_url: https://jobs.ashbyhq.com/socket
   category: open-source-and-platform
   ats:
@@ -16235,7 +16235,7 @@
 
 - name: Kepler
   slug: kepler
-  domain: kepler.com
+  domain: kepler.space
   careers_url: https://jobs.lever.co/kepler
   category: open-source-and-platform
   ats:
@@ -16271,7 +16271,7 @@
 
 - name: Junior
   slug: junior
-  domain: junior.com
+  domain: junior.ai
   careers_url: https://jobs.ashbyhq.com/junior
   category: open-source-and-platform
   ats:
@@ -16439,7 +16439,7 @@
 
 - name: Prelude
   slug: prelude
-  domain: prelude.com
+  domain: prelude.so
   careers_url: https://jobs.ashbyhq.com/prelude
   category: open-source-and-platform
   ats:
@@ -16811,7 +16811,7 @@
 
 - name: Specter
   slug: specter
-  domain: specter.com
+  domain: specter.co
   careers_url: https://jobs.ashbyhq.com/specter
   category: open-source-and-platform
   ats:
@@ -16967,7 +16967,7 @@
 
 - name: Numeric
   slug: numeric
-  domain: numeric.com
+  domain: numeric.io
   careers_url: https://jobs.ashbyhq.com/numeric
   category: open-source-and-platform
   ats:
@@ -17003,7 +17003,7 @@
 
 - name: Propel
   slug: propel
-  domain: propel.com
+  domain: propel.app
   careers_url: https://jobs.ashbyhq.com/propel
   category: open-source-and-platform
   ats:
@@ -17063,7 +17063,7 @@
 
 - name: Unwrap
   slug: unwrap
-  domain: unwrap.com
+  domain: unwrap.ai
   careers_url: https://jobs.ashbyhq.com/unwrap
   category: open-source-and-platform
   ats:
@@ -17135,7 +17135,7 @@
 
 - name: Outsmart
   slug: outsmart
-  domain: outsmart.com
+  domain: joinoutsmart.com
   careers_url: https://jobs.ashbyhq.com/outsmart
   category: open-source-and-platform
   ats:
@@ -17339,7 +17339,7 @@
 
 - name: Unstructured
   slug: unstructured
-  domain: unstructured.com
+  domain: unstructured.io
   careers_url: https://jobs.ashbyhq.com/unstructured
   category: open-source-and-platform
   ats:
@@ -17387,7 +17387,7 @@
 
 - name: Intro
   slug: intro
-  domain: intro.com
+  domain: intro.co
   careers_url: https://jobs.ashbyhq.com/intro
   category: open-source-and-platform
   ats:
@@ -17675,7 +17675,7 @@
 
 - name: Roadrunner
   slug: roadrunner
-  domain: roadrunner.com
+  domain: roadrunner.ai
   careers_url: https://jobs.ashbyhq.com/roadrunner
   category: open-source-and-platform
   ats:
@@ -17699,7 +17699,7 @@
 
 - name: Simile
   slug: simile
-  domain: simile.com
+  domain: simile.ai
   careers_url: https://jobs.ashbyhq.com/simile
   category: open-source-and-platform
   ats:
@@ -17879,7 +17879,7 @@
 
 - name: Plinth
   slug: plinth
-  domain: plinth.com
+  domain: plinth.org.uk
   careers_url: https://jobs.ashbyhq.com/plinth
   category: open-source-and-platform
   ats:
@@ -17999,7 +17999,7 @@
 
 - name: Swans
   slug: swans
-  domain: swans.com
+  domain: swans.co
   careers_url: https://jobs.ashbyhq.com/swans
   category: open-source-and-platform
   ats:
@@ -18047,7 +18047,7 @@
 
 - name: Inference
   slug: inference
-  domain: inference.com
+  domain: inference.net
   careers_url: https://jobs.ashbyhq.com/inference
   category: open-source-and-platform
   ats:
@@ -18167,7 +18167,7 @@
 
 - name: Membrane
   slug: membrane
-  domain: membrane.com
+  domain: getmembrane.com
   careers_url: https://jobs.ashbyhq.com/membrane
   category: open-source-and-platform
   ats:
@@ -18311,7 +18311,7 @@
 
 - name: Stronghold
   slug: stronghold
-  domain: stronghold.com
+  domain: stronghold.co
   careers_url: https://jobs.ashbyhq.com/stronghold
   category: open-source-and-platform
   ats:
@@ -18599,7 +18599,7 @@
 
 - name: Union
   slug: union
-  domain: union.com
+  domain: union.ai
   careers_url: https://jobs.ashbyhq.com/union
   category: open-source-and-platform
   ats:
@@ -19067,7 +19067,7 @@
 
 - name: Tides
   slug: tides
-  domain: tides.com
+  domain: tides.org
   careers_url: https://jobs.ashbyhq.com/tides
   category: open-source-and-platform
   ats:
@@ -19836,7 +19836,7 @@
 
 - name: Succinct
   slug: succinct
-  domain: succinct.com
+  domain: succinct.xyz
   careers_url: https://jobs.ashbyhq.com/succinct
   category: open-source-and-platform
   ats:
@@ -20208,7 +20208,7 @@
 
 - name: Intrinsic
   slug: intrinsic
-  domain: intrinsic.com
+  domain: intrinsic.ai
   careers_url: https://boards.greenhouse.io/intrinsicrobotics
   category: open-source-and-platform
   ats:
@@ -21240,7 +21240,7 @@
 
 - name: Titan Msp
   slug: titan-msp
-  domain: titanmsp.com
+  domain: titanmsp.ai
   careers_url: https://jobs.ashbyhq.com/titan-msp
   category: open-source-and-platform
   ats:
@@ -21408,7 +21408,7 @@
 
 - name: Sentra
   slug: sentra
-  domain: sentra.com
+  domain: sentra.app
   careers_url: https://jobs.ashbyhq.com/sentra
   category: open-source-and-platform
   ats:
@@ -21552,7 +21552,7 @@
 
 - name: Parspec
   slug: parspec
-  domain: parspec.com
+  domain: parspec.io
   careers_url: https://jobs.ashbyhq.com/parspec
   category: open-source-and-platform
   ats:
@@ -21576,7 +21576,7 @@
 
 - name: Northwoodspace
   slug: northwoodspace
-  domain: northwoodspace.com
+  domain: northwoodspace.io
   careers_url: https://jobs.ashbyhq.com/northwoodspace
   category: industrials-and-climate
   ats:
@@ -22070,7 +22070,7 @@
 
 - name: Weride
   slug: weride
-  domain: weride.com
+  domain: weride.ai
   careers_url: https://jobs.lever.co/weride
   category: consumer-and-marketplace
   ats:
@@ -22803,7 +22803,7 @@
 
 - name: ProPublica
   slug: propublica
-  domain: propublica.com
+  domain: propublica.org
   careers_url: https://boards.greenhouse.io/propublica
   category: open-source-and-platform
   ats:
@@ -23943,7 +23943,7 @@
 
 - name: Sigp
   slug: sigp
-  domain: sigp.com
+  domain: sigp.io
   careers_url: https://jobs.ashbyhq.com/sigp
   category: open-source-and-platform
   ats:
@@ -25779,7 +25779,7 @@
 
 - name: Genmo
   slug: genmo
-  domain: genmo.com
+  domain: genmo.ai
   careers_url: https://jobs.ashbyhq.com/genmo
   category: open-source-and-platform
   ats:
@@ -25887,7 +25887,7 @@
 
 - name: Educative
   slug: educative
-  domain: educative.com
+  domain: educative.io
   careers_url: https://jobs.lever.co/educative
   category: consumer-and-marketplace
   ats:
