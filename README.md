@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **980 companies**.
+Currently tracking **990 companies**.
 
 This repository is designed for two uses:
 
@@ -1036,6 +1036,16 @@ Open source video player (video.js)
 - [Augur](https://augur.com) - Hiring via Ashby (augur).
 - [Brunswick](https://brunswick.com) - Hiring via Ashby (brunswick).
 - [Cambium](https://cambium.com) - Hiring via Ashby (cambium).
+- [Conduct](https://conduct.com) - Hiring via Ashby (conduct).
+- [Corridor](https://corridor.com) - Hiring via Ashby (corridor).
+- [Duet](https://duet.com) - Hiring via Ashby (duet).
+- [Emergence](https://emergence.com) - Hiring via Ashby (emergence).
+- [Enable](https://enable.com) - Hiring via Lever (enable).
+- [Freehand](https://freehand.com) - Hiring via Ashby (freehand).
+- [Granted](https://granted.com) - Hiring via Ashby (granted).
+- [Hang](https://hang.com) - Hiring via Ashby (hang).
+- [Anterior](https://anterior.com) - Hiring via Ashby (anterior).
+- [Anything](https://anything.com) - Hiring via Ashby (anything).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

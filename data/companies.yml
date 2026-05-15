@@ -13769,3 +13769,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/cambium
+
+- name: Conduct
+  slug: conduct
+  domain: conduct.com
+  careers_url: https://jobs.ashbyhq.com/conduct
+  category: open-source-and-platform
+  ats:
+    ashby: conduct
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/conduct
+
+- name: Corridor
+  slug: corridor
+  domain: corridor.com
+  careers_url: https://jobs.ashbyhq.com/corridor
+  category: open-source-and-platform
+  ats:
+    ashby: corridor
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/corridor
+
+- name: Duet
+  slug: duet
+  domain: duet.com
+  careers_url: https://jobs.ashbyhq.com/duet
+  category: open-source-and-platform
+  ats:
+    ashby: duet
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/duet
+
+- name: Emergence
+  slug: emergence
+  domain: emergence.com
+  careers_url: https://jobs.ashbyhq.com/emergence
+  category: open-source-and-platform
+  ats:
+    ashby: emergence
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/emergence
+
+- name: Enable
+  slug: enable
+  domain: enable.com
+  careers_url: https://jobs.lever.co/enable
+  category: open-source-and-platform
+  ats:
+    lever: enable
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/enable
+
+- name: Freehand
+  slug: freehand
+  domain: freehand.com
+  careers_url: https://jobs.ashbyhq.com/freehand
+  category: open-source-and-platform
+  ats:
+    ashby: freehand
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/freehand
+
+- name: Granted
+  slug: granted
+  domain: granted.com
+  careers_url: https://jobs.ashbyhq.com/granted
+  category: open-source-and-platform
+  ats:
+    ashby: granted
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/granted
+
+- name: Hang
+  slug: hang
+  domain: hang.com
+  careers_url: https://jobs.ashbyhq.com/hang
+  category: open-source-and-platform
+  ats:
+    ashby: hang
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/hang
+
+- name: Anterior
+  slug: anterior
+  domain: anterior.com
+  careers_url: https://jobs.ashbyhq.com/anterior
+  category: open-source-and-platform
+  ats:
+    ashby: anterior
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/anterior
+
+- name: Anything
+  slug: anything
+  domain: anything.com
+  careers_url: https://jobs.ashbyhq.com/anything
+  category: open-source-and-platform
+  ats:
+    ashby: anything
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/anything
