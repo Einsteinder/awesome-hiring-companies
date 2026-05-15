@@ -519,7 +519,7 @@
 - name: Coinbase
   slug: coinbase
   domain: coinbase.com
-  careers_url: https://boards.greenhouse.io/coinbase
+  careers_url: https://coinbase.com/careers
   category: fintech
   ats:
     greenhouse: coinbase
@@ -528,7 +528,7 @@
   - fintech
   - infrastructure
   sources:
-  - https://boards.greenhouse.io/coinbase
+  - https://coinbase.com/careers
 
 - name: Ramp
   slug: ramp
@@ -2544,7 +2544,7 @@
 - name: Pantheon
   slug: pantheon
   domain: joinpantheon.io
-  careers_url: https://boards.greenhouse.io/pantheon
+  careers_url: https://joinpantheon.io/careers
   category: consumer-and-marketplace
   ats:
     greenhouse: pantheon
@@ -2553,7 +2553,7 @@
   - gaming
   - social
   sources:
-  - https://boards.greenhouse.io/pantheon
+  - https://joinpantheon.io/careers
 
 - name: Omni
   slug: omni
@@ -9438,7 +9438,7 @@
 - name: Juno
   slug: juno
   domain: juno-chat.com
-  careers_url: https://boards.greenhouse.io/juno
+  careers_url: https://juno-chat.com/careers
   category: healthcare-and-biotech
   ats:
     greenhouse: juno
@@ -9448,7 +9448,7 @@
   - health-tech
   - health-wellness
   sources:
-  - https://boards.greenhouse.io/juno
+  - https://juno-chat.com/careers
 
 - name: Ark
   slug: ark
@@ -26091,7 +26091,7 @@
 - name: Canva
   slug: canva
   domain: canva.com
-  careers_url: https://jobs.lever.co/canva
+  careers_url: https://canva.com/careers
   category: consumer-and-marketplace
   ats:
     lever: canva
@@ -26100,7 +26100,7 @@
   - saas
   - consumer
   sources:
-  - https://jobs.lever.co/canva
+  - https://canva.com/careers
 
 - name: Sereact
   slug: sereact
