@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **660 companies**.
+Currently tracking **670 companies**.
 
 This repository is designed for two uses:
 
@@ -716,6 +716,16 @@ Open source video player (video.js)
 - [HealthSherpa](https://healthsherpa.com) - Private sector Healthcare.gov.
 - [InfluxData](https://influxdata.com) - The platform for building and operating time series applications.
 - [UserGems](https://usergems.com) - The AI Command Center for outbound and ABM
+- [Tenjin](https://tenjin.com) - Mobile marketing analytics and infrastructure
+- [ReadMe](https://readme.com) - Beautiful, personalized, interactive developer hubs
+- [Seed](https://seed.co) - Mobile banking for small business.
+- [Thunkable](https://thunkable.com) - Thunkable is the no-code platform to build powerful native mobile apps
+- [Armory](https://armory.io) - Continuous Deployment at any scale, for all developers.
+- [Tetra](https://asktetra.com) - AI notetaker for phone calls
+- [AON3D](https://aon3d.com) - Additive Manufacturing with advanced materials
+- [UpKeep](https://upkeep.com) - Mobile-first software for maintenance teams.
+- [Headstart](https://headstart.io) - Headstart uses Machine Learning to help companies decide on who to…
+- [Blueberry Pediatrics](https://blueberrypediatrics.com) - 24/7 pediatric clinic in every family's living room
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

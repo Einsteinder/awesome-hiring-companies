@@ -9523,3 +9523,149 @@
   - sales
   sources:
   - https://boards.greenhouse.io/usergems
+
+- name: Tenjin
+  slug: tenjin
+  domain: tenjin.com
+  careers_url: https://jobs.ashbyhq.com/tenjin
+  category: developer-infrastructure
+  ats:
+    ashby: tenjin
+  tags:
+  - b2b
+  - b2b-marketing
+  - analytics
+  sources:
+  - https://jobs.ashbyhq.com/tenjin
+
+- name: ReadMe
+  slug: readme
+  domain: readme.com
+  careers_url: https://jobs.ashbyhq.com/readme
+  category: developer-infrastructure
+  ats:
+    ashby: readme
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - developer-tools
+  - design-tools
+  sources:
+  - https://jobs.ashbyhq.com/readme
+
+- name: Seed
+  slug: seed
+  domain: seed.co
+  careers_url: https://boards.greenhouse.io/seed
+  category: fintech
+  ats:
+    greenhouse: seed
+  tags:
+  - fintech
+  - fintech-banking-and-exchange
+  sources:
+  - https://boards.greenhouse.io/seed
+
+- name: Thunkable
+  slug: thunkable
+  domain: thunkable.com
+  careers_url: https://jobs.lever.co/thunkable
+  category: developer-infrastructure
+  ats:
+    lever: thunkable
+  tags:
+  - b2b
+  - b2b-marketing
+  - developer-tools
+  - saas
+  sources:
+  - https://jobs.lever.co/thunkable
+
+- name: Armory
+  slug: armory
+  domain: armory.io
+  careers_url: https://jobs.ashbyhq.com/armory
+  category: developer-infrastructure
+  ats:
+    ashby: armory
+  tags:
+  - b2b
+  - b2b-infrastructure
+  - developer-tools
+  - devsecops
+  sources:
+  - https://jobs.ashbyhq.com/armory
+
+- name: Tetra
+  slug: tetra
+  domain: asktetra.com
+  careers_url: https://boards.greenhouse.io/tetra
+  category: ai-and-data
+  ats:
+    greenhouse: tetra
+  tags:
+  - b2b
+  - b2b-productivity
+  - artificial-intelligence
+  sources:
+  - https://boards.greenhouse.io/tetra
+
+- name: AON3D
+  slug: aon3d
+  domain: aon3d.com
+  careers_url: https://boards.greenhouse.io/aon3d
+  category: open-source-and-platform
+  ats:
+    greenhouse: aon3d
+  tags:
+  - industrials
+  - industrials-manufacturing-and-robotics
+  - hardware
+  - 3d-printing
+  sources:
+  - https://boards.greenhouse.io/aon3d
+
+- name: UpKeep
+  slug: upkeep
+  domain: upkeep.com
+  careers_url: https://boards.greenhouse.io/upkeep
+  category: developer-infrastructure
+  ats:
+    greenhouse: upkeep
+  tags:
+  - b2b
+  - b2b-office-management
+  - saas
+  - iot
+  sources:
+  - https://boards.greenhouse.io/upkeep
+
+- name: Headstart
+  slug: headstart
+  domain: headstart.io
+  careers_url: https://jobs.ashbyhq.com/headstart
+  category: ai-and-data
+  ats:
+    ashby: headstart
+  tags:
+  - b2b
+  - b2b-recruiting-and-talent
+  - machine-learning
+  - recruiting
+  sources:
+  - https://jobs.ashbyhq.com/headstart
+
+- name: Blueberry Pediatrics
+  slug: blueberry-pediatrics
+  domain: blueberrypediatrics.com
+  careers_url: https://jobs.ashbyhq.com/blueberrypediatrics
+  category: consumer-and-marketplace
+  ats:
+    ashby: blueberrypediatrics
+  tags:
+  - healthcare
+  - healthcare-healthcare-it
+  - consumer-health-services
+  - health-tech
+  sources:
+  - https://jobs.ashbyhq.com/blueberrypediatrics
