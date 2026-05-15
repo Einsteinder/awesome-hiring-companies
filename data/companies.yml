@@ -15209,3 +15209,99 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/dipper
+
+- name: Eagle
+  slug: eagle
+  domain: eagle.com
+  careers_url: https://jobs.ashbyhq.com/eagle
+  category: open-source-and-platform
+  ats:
+    ashby: eagle
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/eagle
+
+- name: Finally
+  slug: finally
+  domain: finally.com
+  careers_url: https://jobs.ashbyhq.com/finally
+  category: open-source-and-platform
+  ats:
+    ashby: finally
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/finally
+
+- name: Fluency
+  slug: fluency
+  domain: fluency.com
+  careers_url: https://jobs.ashbyhq.com/fluency
+  category: open-source-and-platform
+  ats:
+    ashby: fluency
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/fluency
+
+- name: Freewill
+  slug: freewill
+  domain: freewill.com
+  careers_url: https://jobs.ashbyhq.com/freewill
+  category: open-source-and-platform
+  ats:
+    ashby: freewill
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/freewill
+
+- name: Ghost
+  slug: ghost
+  domain: ghost.com
+  careers_url: https://jobs.ashbyhq.com/ghost
+  category: open-source-and-platform
+  ats:
+    ashby: ghost
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/ghost
+
+- name: Gravity
+  slug: gravity
+  domain: gravity.com
+  careers_url: https://jobs.ashbyhq.com/gravity
+  category: open-source-and-platform
+  ats:
+    ashby: gravity
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/gravity
+
+- name: Heard
+  slug: heard
+  domain: heard.com
+  careers_url: https://jobs.lever.co/heard
+  category: open-source-and-platform
+  ats:
+    lever: heard
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/heard
+
+- name: Hint
+  slug: hint
+  domain: hint.com
+  careers_url: https://jobs.lever.co/hint
+  category: open-source-and-platform
+  ats:
+    lever: hint
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/hint

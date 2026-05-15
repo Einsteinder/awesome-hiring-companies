@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1100 companies**.
+Currently tracking **1108 companies**.
 
 This repository is designed for two uses:
 
@@ -1156,6 +1156,14 @@ Open source video player (video.js)
 - [Covey](https://covey.com) - Hiring via Lever (covey).
 - [Darwin](https://darwin.com) - Hiring via Ashby (darwin).
 - [Dipper](https://dipper.com) - Hiring via Ashby (dipper).
+- [Eagle](https://eagle.com) - Hiring via Ashby (eagle).
+- [Finally](https://finally.com) - Hiring via Ashby (finally).
+- [Fluency](https://fluency.com) - Hiring via Ashby (fluency).
+- [Freewill](https://freewill.com) - Hiring via Ashby (freewill).
+- [Ghost](https://ghost.com) - Hiring via Ashby (ghost).
+- [Gravity](https://gravity.com) - Hiring via Ashby (gravity).
+- [Heard](https://heard.com) - Hiring via Lever (heard).
+- [Hint](https://hint.com) - Hiring via Lever (hint).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
