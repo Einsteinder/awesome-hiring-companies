@@ -24473,3 +24473,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/omnea
+
+- name: A Place For Mom
+  slug: a-place-for-mom
+  domain: aplaceformom.com
+  careers_url: https://jobs.ashbyhq.com/a-place-for-mom
+  category: open-source-and-platform
+  ats:
+    ashby: a-place-for-mom
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/a-place-for-mom
+
+- name: N8N
+  slug: n8n
+  domain: n8n.com
+  careers_url: https://jobs.ashbyhq.com/n8n
+  category: open-source-and-platform
+  ats:
+    ashby: n8n
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/n8n
+
+- name: Semgrep
+  slug: semgrep
+  domain: semgrep.com
+  careers_url: https://jobs.ashbyhq.com/semgrep
+  category: open-source-and-platform
+  ats:
+    ashby: semgrep
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/semgrep
+
+- name: Mapbox
+  slug: mapbox
+  domain: mapbox.com
+  careers_url: https://jobs.ashbyhq.com/mapbox
+  category: open-source-and-platform
+  ats:
+    ashby: mapbox
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/mapbox
+
+- name: Jmawireless
+  slug: jmawireless
+  domain: jmawireless.com
+  careers_url: https://jobs.lever.co/jmawireless
+  category: open-source-and-platform
+  ats:
+    lever: jmawireless
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/jmawireless
+
+- name: 3Pillarglobal
+  slug: 3pillarglobal
+  domain: 3pillarglobal.com
+  careers_url: https://jobs.lever.co/3pillarglobal
+  category: open-source-and-platform
+  ats:
+    lever: 3pillarglobal
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/3pillarglobal
+
+- name: Planner5D
+  slug: planner5d
+  domain: planner5d.com
+  careers_url: https://jobs.lever.co/planner5d
+  category: open-source-and-platform
+  ats:
+    lever: planner5d
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/planner5d
+
+- name: Tonkean
+  slug: tonkean
+  domain: tonkean.com
+  careers_url: https://jobs.lever.co/tonkean
+  category: open-source-and-platform
+  ats:
+    lever: tonkean
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/tonkean
+
+- name: Ro
+  slug: ro
+  domain: ro.com
+  careers_url: https://jobs.lever.co/ro
+  category: open-source-and-platform
+  ats:
+    lever: ro
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/ro
+
+- name: Kitware
+  slug: kitware
+  domain: kitware.com
+  careers_url: https://jobs.lever.co/kitware
+  category: open-source-and-platform
+  ats:
+    lever: kitware
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/kitware

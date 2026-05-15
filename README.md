@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1872 companies**.
+Currently tracking **1882 companies**.
 
 This repository is designed for two uses:
 
@@ -1928,6 +1928,16 @@ Open source video player (video.js)
 - [Contentsquare](https://contentsquare.com) - Hiring via Lever (contentsquare).
 - [Creatordeck](https://creatordeck.com) - Hiring via Lever (creatordeck).
 - [Omnea](https://omnea.com) - Hiring via Ashby (omnea).
+- [A Place For Mom](https://aplaceformom.com) - Hiring via Ashby (a-place-for-mom).
+- [N8N](https://n8n.com) - Hiring via Ashby (n8n).
+- [Semgrep](https://semgrep.com) - Hiring via Ashby (semgrep).
+- [Mapbox](https://mapbox.com) - Hiring via Ashby (mapbox).
+- [Jmawireless](https://jmawireless.com) - Hiring via Lever (jmawireless).
+- [3Pillarglobal](https://3pillarglobal.com) - Hiring via Lever (3pillarglobal).
+- [Planner5D](https://planner5d.com) - Hiring via Lever (planner5d).
+- [Tonkean](https://tonkean.com) - Hiring via Lever (tonkean).
+- [Ro](https://ro.com) - Hiring via Lever (ro).
+- [Kitware](https://kitware.com) - Hiring via Lever (kitware).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
