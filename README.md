@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1338 companies**.
+Currently tracking **1348 companies**.
 
 This repository is designed for two uses:
 
@@ -1394,6 +1394,16 @@ Open source video player (video.js)
 - [Zeno](https://zeno.com) - Hiring via Ashby (zeno).
 - [Inference](https://inference.com) - Hiring via Ashby (inference).
 - [Interaction](https://interaction.com) - Hiring via Ashby (interaction).
+- [Iterative](https://iterative.com) - Hiring via Lever (iterative).
+- [Keystone](https://keystone.com) - Hiring via Ashby (keystone).
+- [Kindred](https://kindred.com) - Hiring via Ashby (kindred).
+- [Knock](https://knock.com) - Hiring via Ashby (knock).
+- [Leopard](https://leopard.com) - Hiring via Ashby (leopard).
+- [Leona](https://leona.com) - Hiring via Ashby (leona).
+- [Light](https://light.com) - Hiring via Ashby (light).
+- [Mcgovern](https://mcgovern.com) - Hiring via Lever (mcgovern).
+- [Membrane](https://membrane.com) - Hiring via Ashby (membrane).
+- [Minted](https://minted.com) - Hiring via Lever (minted).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

@@ -18065,3 +18065,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/interaction
+
+- name: Iterative
+  slug: iterative
+  domain: iterative.com
+  careers_url: https://jobs.lever.co/iterative
+  category: open-source-and-platform
+  ats:
+    lever: iterative
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/iterative
+
+- name: Keystone
+  slug: keystone
+  domain: keystone.com
+  careers_url: https://jobs.ashbyhq.com/keystone
+  category: open-source-and-platform
+  ats:
+    ashby: keystone
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/keystone
+
+- name: Kindred
+  slug: kindred
+  domain: kindred.com
+  careers_url: https://jobs.ashbyhq.com/kindred
+  category: open-source-and-platform
+  ats:
+    ashby: kindred
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/kindred
+
+- name: Knock
+  slug: knock
+  domain: knock.com
+  careers_url: https://jobs.ashbyhq.com/knock
+  category: open-source-and-platform
+  ats:
+    ashby: knock
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/knock
+
+- name: Leopard
+  slug: leopard
+  domain: leopard.com
+  careers_url: https://jobs.ashbyhq.com/leopard
+  category: open-source-and-platform
+  ats:
+    ashby: leopard
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/leopard
+
+- name: Leona
+  slug: leona
+  domain: leona.com
+  careers_url: https://jobs.ashbyhq.com/leona
+  category: open-source-and-platform
+  ats:
+    ashby: leona
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/leona
+
+- name: Light
+  slug: light
+  domain: light.com
+  careers_url: https://jobs.ashbyhq.com/light
+  category: open-source-and-platform
+  ats:
+    ashby: light
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/light
+
+- name: Mcgovern
+  slug: mcgovern
+  domain: mcgovern.com
+  careers_url: https://jobs.lever.co/mcgovern
+  category: open-source-and-platform
+  ats:
+    lever: mcgovern
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/mcgovern
+
+- name: Membrane
+  slug: membrane
+  domain: membrane.com
+  careers_url: https://jobs.ashbyhq.com/membrane
+  category: open-source-and-platform
+  ats:
+    ashby: membrane
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/membrane
+
+- name: Minted
+  slug: minted
+  domain: minted.com
+  careers_url: https://jobs.lever.co/minted
+  category: open-source-and-platform
+  ats:
+    lever: minted
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/minted
