@@ -21449,3 +21449,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/opusclip
+
+- name: Northslope Technologies
+  slug: northslope-technologies
+  domain: northslopetechnologies.com
+  careers_url: https://jobs.ashbyhq.com/northslope-technologies
+  category: open-source-and-platform
+  ats:
+    ashby: northslope-technologies
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/northslope-technologies
+
+- name: 8Vc
+  slug: 8vc
+  domain: 8vc.com
+  careers_url: https://jobs.ashbyhq.com/8vc
+  category: open-source-and-platform
+  ats:
+    ashby: 8vc
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/8vc
+
+- name: Ellipsislabs
+  slug: ellipsislabs
+  domain: ellipsislabs.com
+  careers_url: https://jobs.ashbyhq.com/ellipsislabs
+  category: open-source-and-platform
+  ats:
+    ashby: ellipsislabs
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/ellipsislabs
+
+- name: Dnagenotek
+  slug: dnagenotek
+  domain: dnagenotek.com
+  careers_url: https://jobs.lever.co/dnagenotek
+  category: open-source-and-platform
+  ats:
+    lever: dnagenotek
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/dnagenotek
+
+- name: Reframesystems
+  slug: reframesystems
+  domain: reframesystems.com
+  careers_url: https://jobs.ashbyhq.com/reframesystems
+  category: open-source-and-platform
+  ats:
+    ashby: reframesystems
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/reframesystems
+
+- name: Lexeotx
+  slug: lexeotx
+  domain: lexeotx.com
+  careers_url: https://jobs.lever.co/lexeotx
+  category: open-source-and-platform
+  ats:
+    lever: lexeotx
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/lexeotx
+
+- name: Vital Lyfe
+  slug: vital-lyfe
+  domain: vitallyfe.com
+  careers_url: https://jobs.ashbyhq.com/vital-lyfe
+  category: open-source-and-platform
+  ats:
+    ashby: vital-lyfe
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/vital-lyfe
+
+- name: Nectar Social
+  slug: nectar-social
+  domain: nectarsocial.com
+  careers_url: https://jobs.ashbyhq.com/nectar-social
+  category: open-source-and-platform
+  ats:
+    ashby: nectar-social
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/nectar-social
+
+- name: Parspec
+  slug: parspec
+  domain: parspec.com
+  careers_url: https://jobs.ashbyhq.com/parspec
+  category: open-source-and-platform
+  ats:
+    ashby: parspec
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/parspec
+
+- name: Compa
+  slug: compa
+  domain: compa.com
+  careers_url: https://jobs.ashbyhq.com/compa
+  category: open-source-and-platform
+  ats:
+    ashby: compa
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/compa

@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1620 companies**.
+Currently tracking **1630 companies**.
 
 This repository is designed for two uses:
 
@@ -1676,6 +1676,16 @@ Open source video player (video.js)
 - [Exegy](https://exegy.com) - Hiring via Ashby (exegy).
 - [Zello](https://zello.com) - Hiring via Ashby (zello).
 - [Opusclip](https://opusclip.com) - Hiring via Ashby (opusclip).
+- [Northslope Technologies](https://northslopetechnologies.com) - Hiring via Ashby (northslope-technologies).
+- [8Vc](https://8vc.com) - Hiring via Ashby (8vc).
+- [Ellipsislabs](https://ellipsislabs.com) - Hiring via Ashby (ellipsislabs).
+- [Dnagenotek](https://dnagenotek.com) - Hiring via Lever (dnagenotek).
+- [Reframesystems](https://reframesystems.com) - Hiring via Ashby (reframesystems).
+- [Lexeotx](https://lexeotx.com) - Hiring via Lever (lexeotx).
+- [Vital Lyfe](https://vitallyfe.com) - Hiring via Ashby (vital-lyfe).
+- [Nectar Social](https://nectarsocial.com) - Hiring via Ashby (nectar-social).
+- [Parspec](https://parspec.com) - Hiring via Ashby (parspec).
+- [Compa](https://compa.com) - Hiring via Ashby (compa).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
