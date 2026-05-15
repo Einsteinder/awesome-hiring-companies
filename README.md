@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **640 companies**.
+Currently tracking **650 companies**.
 
 This repository is designed for two uses:
 
@@ -696,6 +696,16 @@ Open source video player (video.js)
 - [Centralize](https://usecentralize.com) - The relationship intelligence platform for enterprise revenue
 - [Circleback](https://circleback.ai) - AI-powered meeting notes and automations
 - [Doublezero](https://doublezero.tech) - Platform to build, use, and monetize fully autonomous agents
+- [Anara](https://anara.com) - AI for researchers
+- [CTGT](https://ctgt.ai) - The deterministic layer for frontier intelligence
+- [Attune](https://attunehq.com) - Faster builds, zero effort.
+- [Chestnut](https://chestnutmortgage.com) - The first AI mortgage lender
+- [Dedalus Labs](https://dedaluslabs.ai) - Compute substrate for AI agents
+- [truthsystems](https://truthsystems.ai) - Automatically blocking risky behavior with real-time governance agents
+- [Solva](https://solvatechnology.com) - Automates insurance claims and stops incorrect payouts
+- [Idler](https://idler.ai) - Reinforcement learning environments.
+- [SF Tensor](https://sf-tensor.com) - Infrastructure for AI labs to focus on research.
+- [DiligenceSquared](https://diligencesquared.com) - AI-powered market due diligence for investment decisions
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

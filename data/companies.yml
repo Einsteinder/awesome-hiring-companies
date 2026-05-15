@@ -9237,3 +9237,147 @@
   - infrastructure
   sources:
   - https://jobs.ashbyhq.com/doublezero
+
+- name: Anara
+  slug: anara
+  domain: anara.com
+  careers_url: https://jobs.ashbyhq.com/anara
+  category: ai-and-data
+  ats:
+    ashby: anara
+  tags:
+  - b2b
+  - b2b-productivity
+  - consumer
+  - ai
+  sources:
+  - https://jobs.ashbyhq.com/anara
+
+- name: CTGT
+  slug: ctgt
+  domain: ctgt.ai
+  careers_url: https://jobs.ashbyhq.com/ctgt
+  category: developer-infrastructure
+  ats:
+    ashby: ctgt
+  tags:
+  - b2b
+  - b2b-infrastructure
+  - artificial-intelligence
+  - enterprise
+  sources:
+  - https://jobs.ashbyhq.com/ctgt
+
+- name: Attune
+  slug: attune
+  domain: attunehq.com
+  careers_url: https://boards.greenhouse.io/attune
+  category: developer-infrastructure
+  ats:
+    greenhouse: attune
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - developer-tools
+  - infrastructure
+  sources:
+  - https://boards.greenhouse.io/attune
+
+- name: Chestnut
+  slug: chestnut
+  domain: chestnutmortgage.com
+  careers_url: https://jobs.ashbyhq.com/chestnut
+  category: fintech
+  ats:
+    ashby: chestnut
+  tags:
+  - fintech
+  - fintech-credit-and-lending
+  - real-estate
+  - consumer
+  sources:
+  - https://jobs.ashbyhq.com/chestnut
+
+- name: Dedalus Labs
+  slug: dedalus-labs
+  domain: dedaluslabs.ai
+  careers_url: https://jobs.ashbyhq.com/dedalus-labs
+  category: developer-infrastructure
+  ats:
+    ashby: dedalus-labs
+  tags:
+  - b2b
+  - b2b-infrastructure
+  - artificial-intelligence
+  - developer-tools
+  sources:
+  - https://jobs.ashbyhq.com/dedalus-labs
+
+- name: truthsystems
+  slug: truthsystems
+  domain: truthsystems.ai
+  careers_url: https://jobs.ashbyhq.com/truthsystems
+  category: developer-infrastructure
+  ats:
+    ashby: truthsystems
+  tags:
+  - b2b
+  - b2b-infrastructure
+  - artificial-intelligence
+  sources:
+  - https://jobs.ashbyhq.com/truthsystems
+
+- name: Solva
+  slug: solva
+  domain: solvatechnology.com
+  careers_url: https://jobs.ashbyhq.com/solva
+  category: fintech
+  ats:
+    ashby: solva
+  tags:
+  - fintech
+  - fintech-insurance
+  sources:
+  - https://jobs.ashbyhq.com/solva
+
+- name: Idler
+  slug: idler
+  domain: idler.ai
+  careers_url: https://jobs.ashbyhq.com/idler
+  category: open-source-and-platform
+  ats:
+    ashby: idler
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - reinforcement-learning
+  sources:
+  - https://jobs.ashbyhq.com/idler
+
+- name: SF Tensor
+  slug: sf-tensor
+  domain: sf-tensor.com
+  careers_url: https://jobs.ashbyhq.com/sf-tensor
+  category: developer-infrastructure
+  ats:
+    ashby: sf-tensor
+  tags:
+  - b2b
+  - b2b-infrastructure
+  sources:
+  - https://jobs.ashbyhq.com/sf-tensor
+
+- name: DiligenceSquared
+  slug: diligencesquared
+  domain: diligencesquared.com
+  careers_url: https://jobs.ashbyhq.com/diligencesquared
+  category: ai-and-data
+  ats:
+    ashby: diligencesquared
+  tags:
+  - b2b
+  - b2b-analytics
+  - artificial-intelligence
+  - analytics
+  sources:
+  - https://jobs.ashbyhq.com/diligencesquared
