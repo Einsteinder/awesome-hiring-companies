@@ -21929,3 +21929,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/astera
+
+- name: Solopulseco
+  slug: solopulseco
+  domain: solopulseco.com
+  careers_url: https://jobs.lever.co/solopulseco
+  category: open-source-and-platform
+  ats:
+    lever: solopulseco
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/solopulseco
+
+- name: Zushealth
+  slug: zushealth
+  domain: zushealth.com
+  careers_url: https://jobs.lever.co/zushealth
+  category: open-source-and-platform
+  ats:
+    lever: zushealth
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/zushealth
+
+- name: Kira
+  slug: kira
+  domain: kira.com
+  careers_url: https://jobs.ashbyhq.com/kira
+  category: open-source-and-platform
+  ats:
+    ashby: kira
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/kira
+
+- name: Siftstack
+  slug: siftstack
+  domain: siftstack.com
+  careers_url: https://jobs.ashbyhq.com/siftstack
+  category: open-source-and-platform
+  ats:
+    ashby: siftstack
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/siftstack
+
+- name: Apex Technology Inc
+  slug: apex-technology-inc
+  domain: apextechnologyinc.com
+  careers_url: https://jobs.ashbyhq.com/apex-technology-inc
+  category: open-source-and-platform
+  ats:
+    ashby: apex-technology-inc
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/apex-technology-inc
+
+- name: Make Rain
+  slug: make-rain
+  domain: makerain.com
+  careers_url: https://jobs.lever.co/make-rain
+  category: open-source-and-platform
+  ats:
+    lever: make-rain
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/make-rain
+
+- name: Oneapp
+  slug: oneapp
+  domain: oneapp.com
+  careers_url: https://jobs.ashbyhq.com/oneapp
+  category: open-source-and-platform
+  ats:
+    ashby: oneapp
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/oneapp
+
+- name: Shieldai
+  slug: shieldai
+  domain: shieldai.com
+  careers_url: https://jobs.lever.co/shieldai
+  category: open-source-and-platform
+  ats:
+    lever: shieldai
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/shieldai
+
+- name: Immuta
+  slug: immuta
+  domain: immuta.com
+  careers_url: https://jobs.lever.co/immuta
+  category: open-source-and-platform
+  ats:
+    lever: immuta
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/immuta
+
+- name: Go Cloudforce
+  slug: go-cloudforce
+  domain: gocloudforce.com
+  careers_url: https://jobs.lever.co/go-cloudforce
+  category: open-source-and-platform
+  ats:
+    lever: go-cloudforce
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/go-cloudforce

@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1660 companies**.
+Currently tracking **1670 companies**.
 
 This repository is designed for two uses:
 
@@ -1716,6 +1716,16 @@ Open source video player (video.js)
 - [Windborne Systems](https://windbornesystems.com) - Hiring via Ashby (windborne-systems).
 - [Creatify](https://creatify.com) - Hiring via Ashby (creatify).
 - [Astera](https://astera.com) - Hiring via Ashby (astera).
+- [Solopulseco](https://solopulseco.com) - Hiring via Lever (solopulseco).
+- [Zushealth](https://zushealth.com) - Hiring via Lever (zushealth).
+- [Kira](https://kira.com) - Hiring via Ashby (kira).
+- [Siftstack](https://siftstack.com) - Hiring via Ashby (siftstack).
+- [Apex Technology Inc](https://apextechnologyinc.com) - Hiring via Ashby (apex-technology-inc).
+- [Make Rain](https://makerain.com) - Hiring via Lever (make-rain).
+- [Oneapp](https://oneapp.com) - Hiring via Ashby (oneapp).
+- [Shieldai](https://shieldai.com) - Hiring via Lever (shieldai).
+- [Immuta](https://immuta.com) - Hiring via Lever (immuta).
+- [Go Cloudforce](https://gocloudforce.com) - Hiring via Lever (go-cloudforce).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
