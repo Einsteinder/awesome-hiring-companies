@@ -24,3 +24,16 @@ jobs:
       - name: Validate company data
         run: python scripts/validate.py
 
+      - name: Live-check changed entries
+        if: github.event_name == 'pull_request'
+        continue-on-error: true
+        run: |
+          git fetch --no-tags --depth=1 origin "${{ github.base_ref }}"
+          mapfile -t slugs < <(python scripts/diff_slugs.py --base "origin/${{ github.base_ref }}")
+          if [ "${#slugs[@]}" -eq 0 ]; then
+            echo "No company entries changed; skipping live check."
+            exit 0
+          fi
+          echo "Checking ${#slugs[@]} changed entries: ${slugs[*]}"
+          python scripts/verify_live.py --only "${slugs[@]}" --concurrency 10
+
