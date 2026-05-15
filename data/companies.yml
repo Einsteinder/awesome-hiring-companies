@@ -5189,3 +5189,148 @@
   - conversational-banking
   sources:
   - https://jobs.ashbyhq.com/bankjoy
+
+- name: Spellbrush
+  slug: spellbrush
+  domain: spellbrush.com
+  careers_url: https://jobs.ashbyhq.com/spellbrush
+  category: ai-and-data
+  ats:
+    ashby: spellbrush
+  tags:
+  - consumer
+  - consumer-gaming
+  - artificial-intelligence
+  - deep-learning
+  sources:
+  - https://jobs.ashbyhq.com/spellbrush
+
+- name: Verto
+  slug: verto
+  domain: vertofx.com
+  careers_url: https://jobs.ashbyhq.com/verto
+  category: fintech
+  ats:
+    ashby: verto
+  tags:
+  - fintech
+  - fintech-payments
+  - banking-as-a-service
+  - payments
+  sources:
+  - https://jobs.ashbyhq.com/verto
+
+- name: Emi Labs
+  slug: emi-labs
+  domain: emilabs.ai
+  careers_url: https://jobs.lever.co/emilabs
+  category: open-source-and-platform
+  ats:
+    lever: emilabs
+  tags:
+  - b2b
+  - b2b-recruiting-and-talent
+  - recruiting
+  sources:
+  - https://jobs.lever.co/emilabs
+
+- name: Carbon-12 Labs
+  slug: carbon-12-labs
+  domain: carbon.money
+  careers_url: https://boards.greenhouse.io/carbon
+  category: fintech
+  ats:
+    greenhouse: carbon
+  tags:
+  - fintech
+  - fintech-payments
+  - payments
+  - api
+  sources:
+  - https://boards.greenhouse.io/carbon
+
+- name: Benepass
+  slug: benepass
+  domain: getbenepass.com
+  careers_url: https://jobs.ashbyhq.com/benepass
+  category: fintech
+  ats:
+    ashby: benepass
+  tags:
+  - b2b
+  - b2b-human-resources
+  - fintech
+  - hr-tech
+  sources:
+  - https://jobs.ashbyhq.com/benepass
+
+- name: Sieve
+  slug: sieve
+  domain: sievedata.com
+  careers_url: https://jobs.ashbyhq.com/sieve
+  category: developer-infrastructure
+  ats:
+    ashby: sieve
+  tags:
+  - b2b
+  - b2b-infrastructure
+  - developer-tools
+  - video
+  sources:
+  - https://jobs.ashbyhq.com/sieve
+
+- name: Fleek
+  slug: fleek
+  domain: joinfleek.com
+  careers_url: https://jobs.ashbyhq.com/fleek
+  category: consumer-and-marketplace
+  ats:
+    ashby: fleek
+  tags:
+  - b2b
+  - b2b-retail
+  - marketplace
+  - e-commerce
+  sources:
+  - https://jobs.ashbyhq.com/fleek
+
+- name: Alma
+  slug: alma
+  domain: myalmafi.com
+  careers_url: https://boards.greenhouse.io/alma
+  category: fintech
+  ats:
+    greenhouse: alma
+  tags:
+  - fintech
+  - fintech-consumer-finance
+  - payments
+  - gaming
+  sources:
+  - https://boards.greenhouse.io/alma
+
+- name: Blee
+  slug: blee
+  domain: blee.com
+  careers_url: https://jobs.ashbyhq.com/blee
+  category: ai-and-data
+  ats:
+    ashby: blee
+  tags:
+  - fintech
+  - legaltech
+  - ai
+  sources:
+  - https://jobs.ashbyhq.com/blee
+
+- name: Kombo
+  slug: kombo
+  domain: kombo.dev
+  careers_url: https://jobs.ashbyhq.com/kombo
+  category: fintech
+  ats:
+    ashby: kombo
+  tags:
+  - b2b
+  sources:
+  - https://jobs.ashbyhq.com/kombo

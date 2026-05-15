@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **360 companies**.
+Currently tracking **370 companies**.
 
 This repository is designed for two uses:
 
@@ -415,6 +415,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [Zerocater](https://zerocater.com) - Zerocater is revolutionizing how companies feed their employees
 - [Close](https://close.com) - CRM and sales automation tools for startups and SMBs
 - [Bankjoy](https://bankjoy.com) - An end-to-end digital banking solution for banks and credit unions
+- [Spellbrush](https://spellbrush.com) - Making Anime Real
+- [Verto](https://vertofx.com) - Cross-Border Payments and FX Simplified
+- [Emi Labs](https://emilabs.ai) - Helping great teams hire better frontline workers, faster.
+- [Carbon-12 Labs](https://carbon.money) - A Global Payouts API for Startups
+- [Benepass](https://getbenepass.com) - Fintech for corporate compensation
+- [Sieve](https://sievedata.com) - Video datasets for frontier AI
+- [Fleek](https://joinfleek.com) - A B2B marketplace for wholesale second hand fashion
+- [Alma](https://myalmafi.com) - Gamified mobile banking app where people can win $1M every Wednesday
+- [Blee](https://blee.com) - Smart, fast, and collaborative compliance reviews
+- [Kombo](https://kombo.dev) - Unified API for HR, payroll and recruiting software
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
