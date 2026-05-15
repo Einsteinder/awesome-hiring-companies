@@ -22529,3 +22529,123 @@
   - open
   sources:
   - https://boards.greenhouse.io/postman
+
+- name: Bosa Properties Inc.
+  slug: bosa-properties-inc
+  domain: bosapropertiesinc.com
+  careers_url: https://boards.greenhouse.io/bosapropertiesinc
+  category: open-source-and-platform
+  ats:
+    greenhouse: bosapropertiesinc
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/bosapropertiesinc
+
+- name: Schonfeld
+  slug: schonfeld
+  domain: schonfeld.com
+  careers_url: https://boards.greenhouse.io/schonfeld
+  category: open-source-and-platform
+  ats:
+    greenhouse: schonfeld
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/schonfeld
+
+- name: Mochi Health
+  slug: mochi-health
+  domain: mochihealth.com
+  careers_url: https://boards.greenhouse.io/mochihealth
+  category: open-source-and-platform
+  ats:
+    greenhouse: mochihealth
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/mochihealth
+
+- name: Huntress
+  slug: huntress
+  domain: huntress.com
+  careers_url: https://boards.greenhouse.io/huntress
+  category: open-source-and-platform
+  ats:
+    greenhouse: huntress
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/huntress
+
+- name: Garda Capital Partners
+  slug: garda-capital-partners
+  domain: gardacapitalpartners.com
+  careers_url: https://boards.greenhouse.io/gardacp
+  category: open-source-and-platform
+  ats:
+    greenhouse: gardacp
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/gardacp
+
+- name: Runpod, Inc.
+  slug: runpod-inc
+  domain: runpodinc.com
+  careers_url: https://boards.greenhouse.io/runpod
+  category: open-source-and-platform
+  ats:
+    greenhouse: runpod
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/runpod
+
+- name: Wellhub
+  slug: wellhub
+  domain: wellhub.com
+  careers_url: https://boards.greenhouse.io/gympass
+  category: open-source-and-platform
+  ats:
+    greenhouse: gympass
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/gympass
+
+- name: Pallet
+  slug: pallet
+  domain: pallet.com
+  careers_url: https://boards.greenhouse.io/pallet
+  category: open-source-and-platform
+  ats:
+    greenhouse: pallet
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/pallet
+
+- name: Rocket Lab Corporation
+  slug: rocket-lab-corporation
+  domain: rocketlabcorporation.com
+  careers_url: https://boards.greenhouse.io/rocketlab
+  category: open-source-and-platform
+  ats:
+    greenhouse: rocketlab
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/rocketlab
+
+- name: Sidecar Health
+  slug: sidecar-health
+  domain: sidecarhealth.com
+  careers_url: https://boards.greenhouse.io/sidecarhealth
+  category: open-source-and-platform
+  ats:
+    greenhouse: sidecarhealth
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/sidecarhealth

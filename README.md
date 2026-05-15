@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1710 companies**.
+Currently tracking **1720 companies**.
 
 This repository is designed for two uses:
 
@@ -1766,6 +1766,16 @@ Open source video player (video.js)
 - [Smartling](https://smartling.com) - Hiring via Greenhouse (smartling).
 - [Nav](https://nav.com) - Hiring via Greenhouse (navtechnologies).
 - [Postman](https://postman.com) - Hiring via Greenhouse (postman).
+- [Bosa Properties Inc.](https://bosapropertiesinc.com) - Hiring via Greenhouse (bosapropertiesinc).
+- [Schonfeld](https://schonfeld.com) - Hiring via Greenhouse (schonfeld).
+- [Mochi Health](https://mochihealth.com) - Hiring via Greenhouse (mochihealth).
+- [Huntress](https://huntress.com) - Hiring via Greenhouse (huntress).
+- [Garda Capital Partners](https://gardacapitalpartners.com) - Hiring via Greenhouse (gardacp).
+- [Runpod, Inc.](https://runpodinc.com) - Hiring via Greenhouse (runpod).
+- [Wellhub](https://wellhub.com) - Hiring via Greenhouse (gympass).
+- [Pallet](https://pallet.com) - Hiring via Greenhouse (pallet).
+- [Rocket Lab Corporation](https://rocketlabcorporation.com) - Hiring via Greenhouse (rocketlab).
+- [Sidecar Health](https://sidecarhealth.com) - Hiring via Greenhouse (sidecarhealth).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
