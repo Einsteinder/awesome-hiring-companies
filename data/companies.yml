@@ -54,6 +54,90 @@
   sources:
     - https://jobs.ashbyhq.com/browserbase
 
+- name: Anthropic
+  slug: anthropic
+  domain: anthropic.com
+  careers_url: https://jobs.ashbyhq.com/Anthropic
+  category: ai-and-data
+  ats:
+    ashby: Anthropic
+  tags:
+    - ai
+    - research
+    - safety
+  sources:
+    - https://jobs.ashbyhq.com/Anthropic
+
+- name: Scale AI
+  slug: scale-ai
+  domain: scale.com
+  careers_url: https://job-boards.greenhouse.io/scaleai
+  category: ai-and-data
+  ats:
+    greenhouse: scaleai
+  tags:
+    - ai
+    - data
+    - evaluation
+  sources:
+    - https://job-boards.greenhouse.io/scaleai
+
+- name: Together AI
+  slug: together-ai
+  domain: together.ai
+  careers_url: https://jobs.ashbyhq.com/togetherai
+  category: ai-and-data
+  ats:
+    ashby: togetherai
+  tags:
+    - ai
+    - infrastructure
+    - inference
+  sources:
+    - https://jobs.ashbyhq.com/togetherai
+
+- name: Anysphere
+  slug: anysphere
+  domain: anysphere.inc
+  careers_url: https://jobs.ashbyhq.com/anysphere
+  category: ai-and-data
+  ats:
+    ashby: anysphere
+  tags:
+    - ai
+    - developer-tools
+    - productivity
+  sources:
+    - https://jobs.ashbyhq.com/anysphere
+
+- name: Harvey
+  slug: harvey
+  domain: harvey.ai
+  careers_url: https://jobs.ashbyhq.com/harvey
+  category: ai-and-data
+  ats:
+    ashby: harvey
+  tags:
+    - ai
+    - legal-tech
+    - enterprise
+  sources:
+    - https://jobs.ashbyhq.com/harvey
+
+- name: Hugging Face
+  slug: hugging-face
+  domain: huggingface.co
+  careers_url: https://apply.workable.com/huggingface/
+  category: ai-and-data
+  ats:
+    workable: huggingface
+  tags:
+    - ai
+    - open-source
+    - infrastructure
+  sources:
+    - https://apply.workable.com/huggingface/
+
 - name: Linear
   slug: linear
   domain: linear.app
@@ -124,6 +208,76 @@
   sources:
     - https://boards.greenhouse.io/elastic
 
+- name: Supabase
+  slug: supabase
+  domain: supabase.com
+  careers_url: https://jobs.ashbyhq.com/supabase
+  category: developer-infrastructure
+  ats:
+    ashby: supabase
+  tags:
+    - open-source
+    - postgres
+    - developer-tools
+  sources:
+    - https://jobs.ashbyhq.com/supabase
+
+- name: Grafana Labs
+  slug: grafana-labs
+  domain: grafana.com
+  careers_url: https://job-boards.greenhouse.io/grafanalabs
+  category: developer-infrastructure
+  ats:
+    greenhouse: grafanalabs
+  tags:
+    - observability
+    - open-source
+    - infrastructure
+  sources:
+    - https://job-boards.greenhouse.io/grafanalabs
+
+- name: Temporal
+  slug: temporal
+  domain: temporal.io
+  careers_url: https://jobs.ashbyhq.com/temporal-technologies
+  category: developer-infrastructure
+  ats:
+    ashby: temporal-technologies
+  tags:
+    - infrastructure
+    - workflows
+    - developer-tools
+  sources:
+    - https://jobs.ashbyhq.com/temporal-technologies
+
+- name: MongoDB
+  slug: mongodb
+  domain: mongodb.com
+  careers_url: https://job-boards.greenhouse.io/mongodb
+  category: developer-infrastructure
+  ats:
+    greenhouse: mongodb
+  tags:
+    - database
+    - developer-tools
+    - cloud
+  sources:
+    - https://job-boards.greenhouse.io/mongodb
+
+- name: Cockroach Labs
+  slug: cockroach-labs
+  domain: cockroachlabs.com
+  careers_url: https://boards.greenhouse.io/cockroachlabs
+  category: developer-infrastructure
+  ats:
+    greenhouse: cockroachlabs
+  tags:
+    - database
+    - distributed-systems
+    - infrastructure
+  sources:
+    - https://boards.greenhouse.io/cockroachlabs
+
 - name: Stripe
   slug: stripe
   domain: stripe.com
@@ -193,6 +347,48 @@
     - api
   sources:
     - https://jobs.lever.co/plaid
+
+- name: Mercury
+  slug: mercury
+  domain: mercury.com
+  careers_url: https://jobs.ashbyhq.com/mercury
+  category: fintech
+  ats:
+    ashby: mercury
+  tags:
+    - fintech
+    - banking
+    - startups
+  sources:
+    - https://jobs.ashbyhq.com/mercury
+
+- name: Affirm
+  slug: affirm
+  domain: affirm.com
+  careers_url: https://job-boards.greenhouse.io/affirm
+  category: fintech
+  ats:
+    greenhouse: affirm
+  tags:
+    - fintech
+    - payments
+    - consumer
+  sources:
+    - https://job-boards.greenhouse.io/affirm
+
+- name: Brex
+  slug: brex
+  domain: brex.com
+  careers_url: https://boards.greenhouse.io/brex
+  category: fintech
+  ats:
+    greenhouse: brex
+  tags:
+    - fintech
+    - spend-management
+    - b2b-saas
+  sources:
+    - https://boards.greenhouse.io/brex
 
 - name: Airbnb
   slug: airbnb
@@ -277,6 +473,20 @@
     - recommendations
   sources:
     - https://jobs.lever.co/spotify
+
+- name: Duolingo
+  slug: duolingo
+  domain: duolingo.com
+  careers_url: https://boards.greenhouse.io/duolingo
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: duolingo
+  tags:
+    - consumer
+    - education
+    - mobile
+  sources:
+    - https://boards.greenhouse.io/duolingo
 
 - name: GitLab
   slug: gitlab
@@ -376,3 +586,44 @@
   sources:
     - https://jobs.lever.co/neon
 
+- name: Sourcegraph
+  slug: sourcegraph
+  domain: sourcegraph.com
+  careers_url: https://jobs.ashbyhq.com/sourcegraph
+  category: open-source-and-platform
+  ats:
+    ashby: sourcegraph
+  tags:
+    - developer-tools
+    - code-search
+    - ai
+  sources:
+    - https://jobs.ashbyhq.com/sourcegraph
+
+- name: Notion
+  slug: notion
+  domain: notion.com
+  careers_url: https://jobs.ashbyhq.com/notion
+  category: open-source-and-platform
+  ats:
+    ashby: notion
+  tags:
+    - productivity
+    - collaboration
+    - ai
+  sources:
+    - https://jobs.ashbyhq.com/notion
+
+- name: Zapier
+  slug: zapier
+  domain: zapier.com
+  careers_url: https://jobs.ashbyhq.com/zapier
+  category: open-source-and-platform
+  ats:
+    ashby: zapier
+  tags:
+    - automation
+    - productivity
+    - remote
+  sources:
+    - https://jobs.ashbyhq.com/zapier

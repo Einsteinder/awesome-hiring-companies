@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **27 companies**.
+Currently tracking **45 companies**.
 
 This repository is designed for two uses:
 
@@ -42,6 +42,12 @@ New companies must pass the full [`Inclusion Standard`](docs/inclusion-standard.
 - [Mistral AI](https://mistral.ai) - AI company building open and commercial frontier models.
 - [Databricks](https://databricks.com) - Data and AI platform company with strong infrastructure, database, and ML roles.
 - [Browserbase](https://browserbase.com) - Browser automation infrastructure for AI agents and web automation.
+- [Anthropic](https://anthropic.com) - AI safety and frontier model company with research, product, infrastructure, and go-to-market roles.
+- [Scale AI](https://scale.com) - Data and evaluation infrastructure company serving AI labs, enterprises, and public-sector customers.
+- [Together AI](https://together.ai) - AI cloud and model platform company for training, fine-tuning, and inference.
+- [Anysphere](https://anysphere.inc) - AI developer-tooling company behind Cursor.
+- [Harvey](https://harvey.ai) - Legal AI platform company hiring across applied AI, product, engineering, and go-to-market.
+- [Hugging Face](https://huggingface.co) - Open AI platform and model community with infrastructure, ML, and open-source roles.
 
 ## Developer Infrastructure
 
@@ -50,6 +56,11 @@ New companies must pass the full [`Inclusion Standard`](docs/inclusion-standard.
 - [Ashby](https://ashbyhq.com) - Recruiting platform and ATS company with engineering-heavy product work.
 - [Vercel](https://vercel.com) - Frontend cloud platform for web application deployment and developer workflows.
 - [Elastic](https://elastic.co) - Search, observability, and security platform company.
+- [Supabase](https://supabase.com) - Open-source Firebase alternative built around Postgres, edge functions, auth, and storage.
+- [Grafana Labs](https://grafana.com) - Observability platform company behind Grafana, Loki, Tempo, Mimir, and related infrastructure tools.
+- [Temporal](https://temporal.io) - Durable execution and workflow orchestration platform for distributed systems.
+- [MongoDB](https://mongodb.com) - Developer data platform and document database company.
+- [Cockroach Labs](https://cockroachlabs.com) - Distributed SQL database company building CockroachDB.
 
 ## Fintech
 
@@ -58,6 +69,9 @@ New companies must pass the full [`Inclusion Standard`](docs/inclusion-standard.
 - [Ramp](https://ramp.com) - Finance automation platform for corporate cards, expense management, and procurement.
 - [Robinhood](https://robinhood.com) - Consumer finance and investing platform.
 - [Plaid](https://plaid.com) - Financial data network and banking API platform.
+- [Mercury](https://mercury.com) - Banking and financial workflow platform for startups and businesses.
+- [Affirm](https://affirm.com) - Consumer finance platform for pay-over-time products and merchant financial services.
+- [Brex](https://brex.com) - Spend management and corporate card platform for companies.
 
 ## Consumer and Marketplace
 
@@ -67,6 +81,7 @@ New companies must pass the full [`Inclusion Standard`](docs/inclusion-standard.
 - [Reddit](https://reddit.com) - Community platform with consumer, ads, moderation, and infrastructure roles.
 - [Discord](https://discord.com) - Communications platform for communities, gaming, and social products.
 - [Spotify](https://spotify.com) - Audio streaming platform with consumer, personalization, creator, and ads systems.
+- [Duolingo](https://duolingo.com) - Consumer learning platform with product, growth, ML, and mobile engineering roles.
 
 ## Open Source and Platform
 
@@ -77,6 +92,9 @@ New companies must pass the full [`Inclusion Standard`](docs/inclusion-standard.
 - [Asana](https://asana.com) - Work management platform for teams and organizations.
 - [Palantir](https://palantir.com) - Data platform company serving commercial and government customers.
 - [Neon](https://neon.tech) - Serverless Postgres platform for developers.
+- [Sourcegraph](https://sourcegraph.com) - Code intelligence and AI coding platform for large engineering organizations.
+- [Notion](https://notion.com) - Workspace, docs, and productivity platform with collaboration and AI product work.
+- [Zapier](https://zapier.com) - Automation platform connecting apps, workflows, and AI-enabled operations.
 
 ## Data Format
 
