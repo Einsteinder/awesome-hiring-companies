@@ -2291,3 +2291,149 @@
   - saas
   sources:
   - https://jobs.ashbyhq.com/ditto
+
+- name: Stepful
+  slug: stepful
+  domain: stepful.com
+  careers_url: https://jobs.ashbyhq.com/stepful
+  category: consumer-and-marketplace
+  ats:
+    ashby: stepful
+  tags:
+  - education
+  - elearning
+  - healthcare
+  sources:
+  - https://jobs.ashbyhq.com/stepful
+
+- name: Promise
+  slug: promise
+  domain: promise-pay.com
+  careers_url: https://jobs.ashbyhq.com/promise
+  category: fintech
+  ats:
+    ashby: promise
+  tags:
+  - government
+  - artificial-intelligence
+  - fintech
+  - govtech
+  sources:
+  - https://jobs.ashbyhq.com/promise
+
+- name: RevenueCat
+  slug: revenuecat
+  domain: revenuecat.com
+  careers_url: https://jobs.ashbyhq.com/revenuecat
+  category: developer-infrastructure
+  ats:
+    ashby: revenuecat
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - developer-tools
+  - subscriptions
+  sources:
+  - https://jobs.ashbyhq.com/revenuecat
+
+- name: Mesh
+  slug: mesh
+  domain: mesh.ai
+  careers_url: https://boards.greenhouse.io/mesh
+  category: developer-infrastructure
+  ats:
+    greenhouse: mesh
+  tags:
+  - b2b
+  - b2b-human-resources
+  - saas
+  sources:
+  - https://boards.greenhouse.io/mesh
+
+- name: Exa
+  slug: exa
+  domain: exa.ai
+  careers_url: https://jobs.ashbyhq.com/exa
+  category: ai-and-data
+  ats:
+    ashby: exa
+  tags:
+  - b2b
+  - developer-tools
+  - search
+  - ai
+  sources:
+  - https://jobs.ashbyhq.com/exa
+
+- name: Twenty
+  slug: twenty
+  domain: twenty.com
+  careers_url: https://jobs.ashbyhq.com/twenty
+  category: developer-infrastructure
+  ats:
+    ashby: twenty
+  tags:
+  - b2b
+  - saas
+  - open-source
+  - sales
+  sources:
+  - https://jobs.ashbyhq.com/twenty
+
+- name: Kalshi
+  slug: kalshi
+  domain: kalshi.com
+  careers_url: https://boards.greenhouse.io/kalshi
+  category: fintech
+  ats:
+    greenhouse: kalshi
+  tags:
+  - fintech
+  - trading
+  sources:
+  - https://boards.greenhouse.io/kalshi
+
+- name: Tandem
+  slug: tandem
+  domain: tandem.chat
+  careers_url: https://jobs.ashbyhq.com/tandem
+  category: developer-infrastructure
+  ats:
+    ashby: tandem
+  tags:
+  - b2b
+  - b2b-productivity
+  - saas
+  - collaboration
+  sources:
+  - https://jobs.ashbyhq.com/tandem
+
+- name: Superside
+  slug: superside
+  domain: superside.com
+  careers_url: https://jobs.lever.co/superside
+  category: developer-infrastructure
+  ats:
+    lever: superside
+  tags:
+  - b2b
+  - b2b-productivity
+  - saas
+  - design-tools
+  sources:
+  - https://jobs.lever.co/superside
+
+- name: Gigs Live
+  slug: gigs-live
+  domain: gigs.live
+  careers_url: https://boards.greenhouse.io/gigs
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: gigs
+  tags:
+  - consumer
+  - saas
+  - entertainment
+  - media
+  sources:
+  - https://boards.greenhouse.io/gigs

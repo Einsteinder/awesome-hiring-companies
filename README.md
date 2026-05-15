@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **160 companies**.
+Currently tracking **170 companies**.
 
 This repository is designed for two uses:
 
@@ -215,6 +215,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [Alchemy](https://alchemynano.com) - Nanotechnology-enabled coatings for automotive and defence sectors
 - [Firsthand](https://shopfirsthand.com) - Firsthand makes software-enabled, self-serve retail kiosks that carry…
 - [Ditto](https://dittowords.com) - Manage the words across your team’s product from design to production.
+- [Stepful](https://stepful.com) - Online Training for Healthcare Jobs
+- [Promise](https://promise-pay.com) - Better payment systems for governments and the communities they serve.
+- [RevenueCat](https://revenuecat.com) - A simple API for managing in-app subscriptions
+- [Mesh](https://mesh.ai) - Performance management platform that fits the way you work
+- [Exa](https://exa.ai) - Web search rebuilt for LLMs
+- [Twenty](https://twenty.com) - Open Source CRM
+- [Kalshi](https://kalshi.com) - 1st federally regulated exchange where people can trade on events
+- [Tandem](https://tandem.chat) - Tandem is a virtual office for remote and distributed teams.
+- [Superside](https://superside.com) - Creative-as-a-service
+- [Gigs Live](https://gigs.live) - Video publishing and monetization platform for creators and artists
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
