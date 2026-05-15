@@ -19625,3 +19625,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/keel
+
+- name: Literati
+  slug: literati
+  domain: literati.com
+  careers_url: https://jobs.ashbyhq.com/literati
+  category: open-source-and-platform
+  ats:
+    ashby: literati
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/literati
+
+- name: Luminary
+  slug: luminary
+  domain: luminary.com
+  careers_url: https://jobs.ashbyhq.com/luminary
+  category: open-source-and-platform
+  ats:
+    ashby: luminary
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/luminary
+
+- name: Mastodon
+  slug: mastodon
+  domain: mastodon.com
+  careers_url: https://jobs.ashbyhq.com/mastodon
+  category: open-source-and-platform
+  ats:
+    ashby: mastodon
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/mastodon
+
+- name: Molecule
+  slug: molecule
+  domain: molecule.com
+  careers_url: https://jobs.ashbyhq.com/molecule
+  category: open-source-and-platform
+  ats:
+    ashby: molecule
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/molecule
+
+- name: Nobody
+  slug: nobody
+  domain: nobody.com
+  careers_url: https://jobs.lever.co/nobody
+  category: open-source-and-platform
+  ats:
+    lever: nobody
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/nobody
+
+- name: Procure
+  slug: procure
+  domain: procure.com
+  careers_url: https://jobs.ashbyhq.com/procure
+  category: open-source-and-platform
+  ats:
+    ashby: procure
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/procure
+
+- name: Replicated
+  slug: replicated
+  domain: replicated.com
+  careers_url: https://jobs.ashbyhq.com/replicated
+  category: open-source-and-platform
+  ats:
+    ashby: replicated
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/replicated
+
+- name: Reprise
+  slug: reprise
+  domain: reprise.com
+  careers_url: https://jobs.ashbyhq.com/reprise
+  category: open-source-and-platform
+  ats:
+    ashby: reprise
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/reprise
+
+- name: Reserve
+  slug: reserve
+  domain: reserve.com
+  careers_url: https://jobs.ashbyhq.com/reserve
+  category: open-source-and-platform
+  ats:
+    ashby: reserve
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/reserve
+
+- name: Reset
+  slug: reset
+  domain: reset.com
+  careers_url: https://jobs.ashbyhq.com/reset
+  category: open-source-and-platform
+  ats:
+    ashby: reset
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/reset

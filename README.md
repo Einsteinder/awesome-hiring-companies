@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1468 companies**.
+Currently tracking **1478 companies**.
 
 This repository is designed for two uses:
 
@@ -1524,6 +1524,16 @@ Open source video player (video.js)
 - [Horizon](https://horizon.com) - Hiring via Lever (horizon).
 - [Illumination](https://illumination.com) - Hiring via Lever (illumination).
 - [Keel](https://keel.com) - Hiring via Ashby (keel).
+- [Literati](https://literati.com) - Hiring via Ashby (literati).
+- [Luminary](https://luminary.com) - Hiring via Ashby (luminary).
+- [Mastodon](https://mastodon.com) - Hiring via Ashby (mastodon).
+- [Molecule](https://molecule.com) - Hiring via Ashby (molecule).
+- [Nobody](https://nobody.com) - Hiring via Lever (nobody).
+- [Procure](https://procure.com) - Hiring via Ashby (procure).
+- [Replicated](https://replicated.com) - Hiring via Ashby (replicated).
+- [Reprise](https://reprise.com) - Hiring via Ashby (reprise).
+- [Reserve](https://reserve.com) - Hiring via Ashby (reserve).
+- [Reset](https://reset.com) - Hiring via Ashby (reset).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
