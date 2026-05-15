@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **67 companies**.
+Currently tracking **77 companies**.
 
 This repository is designed for two uses:
 
@@ -118,6 +118,20 @@ New companies must pass the full [`Inclusion Standard`](docs/inclusion-standard.
 - [Lattice](https://lattice.com) - People management platform for performance, engagement, and HR workflows.
 - [Twilio](https://twilio.com) - Customer engagement platform with communications APIs for voice, messaging, email, and identity.
 
+
+## Verified Boards Catalog
+
+Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry was checked against the public ATS API and confirmed to return at least one active job at discovery time. Descriptions, where available, are sourced from the YC OSS company dataset.
+- [Pulse](https://getpulse.care) - Electronic Medical Records for India
+- [Agency](https://getagency.com) - Agency replaces traditional security and compliance headcount with AI.
+- [Assembly](https://asm.co) - Advanced manufacturing and distribution solutions (for China-based…
+- [Sila](https://silahq.com) - AI Work Messaging
+- [Whatnot](https://whatnot.com) - Whatnot is the largest livestream shopping platform in the U.S.
+- [Prolific](https://prolific.com) - Making diverse, high-quality data easily available to anyone, anywhere
+- [Distro](https://distro.app) - The AI co-pilot for sales reps at industrial wholesale distributors.
+- [Stage](https://stagereview.app) - A better code review platform
+- [Astranis](https://astranis.com) - Advanced satellites for high orbits.
+- [Legora](https://legora.com) - The AI workspace for lawyers
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
