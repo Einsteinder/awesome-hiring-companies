@@ -1,0 +1,33 @@
+name: Fix an entry
+description: Broken careers URL, wrong ATS slug, or dead listing. The agent will open a PR.
+title: "Fix: <slug>"
+labels: ["agent-task", "fix-entry"]
+body:
+  - type: input
+    id: slug
+    attributes:
+      label: Company slug (from data/companies.yml)
+      placeholder: anthropic
+    validations:
+      required: true
+
+  - type: dropdown
+    id: problem
+    attributes:
+      label: What is wrong?
+      options:
+        - Careers URL is broken or 404
+        - Careers URL redirects to a different company
+        - ATS slug is wrong
+        - Listing is dead (remove entry)
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: What is the correct URL/ATS slug, or evidence the listing is dead.
+    validations:
+      required: true

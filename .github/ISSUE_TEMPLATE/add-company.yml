@@ -1,0 +1,62 @@
+name: Add a company
+description: Request a new company entry. The agent will open a PR.
+title: "Add: <company name>"
+labels: ["agent-task", "add-company"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Company name
+      placeholder: Anthropic
+    validations:
+      required: true
+
+  - type: input
+    id: careers_url
+    attributes:
+      label: Careers URL
+      description: Public careers or jobs page.
+      placeholder: https://www.anthropic.com/careers
+    validations:
+      required: true
+
+  - type: input
+    id: domain
+    attributes:
+      label: Primary domain
+      placeholder: anthropic.com
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - AI and Data
+        - Developer Infrastructure
+        - Fintech
+        - Consumer and Marketplace
+        - Healthcare and Biotech
+        - Industrials and Climate
+        - B2B Enterprise
+        - Open Source and Platform
+    validations:
+      required: true
+
+  - type: input
+    id: ats
+    attributes:
+      label: ATS slug (optional)
+      description: "e.g. greenhouse:anthropic, lever:stripe, workday:<host>/<site>. Leave blank if unknown."
+
+  - type: textarea
+    id: sources
+    attributes:
+      label: Source URLs
+      description: One per line. At least one required.
+      placeholder: |
+        https://www.anthropic.com/careers
+        https://news.ycombinator.com/...
+    validations:
+      required: true
