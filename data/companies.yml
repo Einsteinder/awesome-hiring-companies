@@ -14969,3 +14969,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/felicity
+
+- name: Galatea
+  slug: galatea
+  domain: galatea.com
+  careers_url: https://jobs.lever.co/galatea
+  category: open-source-and-platform
+  ats:
+    lever: galatea
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/galatea
+
+- name: Grapevine
+  slug: grapevine
+  domain: grapevine.com
+  careers_url: https://jobs.ashbyhq.com/grapevine
+  category: open-source-and-platform
+  ats:
+    ashby: grapevine
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/grapevine
+
+- name: Green
+  slug: green
+  domain: green.com
+  careers_url: https://jobs.ashbyhq.com/green
+  category: open-source-and-platform
+  ats:
+    ashby: green
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/green
+
+- name: Alden
+  slug: alden
+  domain: alden.com
+  careers_url: https://jobs.ashbyhq.com/alden
+  category: open-source-and-platform
+  ats:
+    ashby: alden
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/alden
+
+- name: Anomaly
+  slug: anomaly
+  domain: anomaly.com
+  careers_url: https://jobs.lever.co/anomaly
+  category: open-source-and-platform
+  ats:
+    lever: anomaly
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/anomaly
+
+- name: Assemble
+  slug: assemble
+  domain: assemble.com
+  careers_url: https://jobs.ashbyhq.com/assemble
+  category: open-source-and-platform
+  ats:
+    ashby: assemble
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/assemble
+
+- name: Believer
+  slug: believer
+  domain: believer.com
+  careers_url: https://jobs.ashbyhq.com/believer
+  category: open-source-and-platform
+  ats:
+    ashby: believer
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/believer
+
+- name: Beside
+  slug: beside
+  domain: beside.com
+  careers_url: https://jobs.ashbyhq.com/beside
+  category: open-source-and-platform
+  ats:
+    ashby: beside
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/beside
+
+- name: Boon
+  slug: boon
+  domain: boon.com
+  careers_url: https://jobs.ashbyhq.com/boon
+  category: open-source-and-platform
+  ats:
+    ashby: boon
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/boon
+
+- name: Buffer
+  slug: buffer
+  domain: buffer.com
+  careers_url: https://jobs.ashbyhq.com/buffer
+  category: open-source-and-platform
+  ats:
+    ashby: buffer
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/buffer

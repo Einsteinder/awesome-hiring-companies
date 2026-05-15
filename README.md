@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1080 companies**.
+Currently tracking **1090 companies**.
 
 This repository is designed for two uses:
 
@@ -1136,6 +1136,16 @@ Open source video player (video.js)
 - [Engine](https://engine.com) - Hiring via Lever (engine).
 - [Euphoric](https://euphoric.com) - Hiring via Ashby (euphoric).
 - [Felicity](https://felicity.com) - Hiring via Ashby (felicity).
+- [Galatea](https://galatea.com) - Hiring via Lever (galatea).
+- [Grapevine](https://grapevine.com) - Hiring via Ashby (grapevine).
+- [Green](https://green.com) - Hiring via Ashby (green).
+- [Alden](https://alden.com) - Hiring via Ashby (alden).
+- [Anomaly](https://anomaly.com) - Hiring via Lever (anomaly).
+- [Assemble](https://assemble.com) - Hiring via Ashby (assemble).
+- [Believer](https://believer.com) - Hiring via Ashby (believer).
+- [Beside](https://beside.com) - Hiring via Ashby (beside).
+- [Boon](https://boon.com) - Hiring via Ashby (boon).
+- [Buffer](https://buffer.com) - Hiring via Ashby (buffer).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
