@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **2144 companies**.
+Currently tracking **2174 companies**.
 
 This repository is designed for two uses:
 
@@ -43,6 +43,8 @@ New companies must pass the full [`Inclusion Standard`](docs/inclusion-standard.
 
 AI, machine learning, analytics, databases, and data infrastructure.
 
+- [Mindee](https://mindee.com) - Document parsing and OCR APIs.
+- [Docsumo](https://docsumo.com) - Document AI for intelligent data extraction.
 - [Stability AI](https://stability.ai) - Open-model image and audio generation.
 - [Midjourney](https://midjourney.com) - Generative image AI.
 - [Pika](https://pika.art) - Generative video AI.
@@ -234,6 +236,12 @@ AI, machine learning, analytics, databases, and data infrastructure.
 
 Developer tools, cloud, infrastructure, security, observability, and B2B technical platforms.
 
+- [Pure Storage](https://purestorage.com) - All-flash enterprise storage.
+- [Nutanix](https://nutanix.com) - Hybrid multicloud and hyperconverged infrastructure.
+- [MariaDB](https://mariadb.com) - Open-source relational database and managed cloud.
+- [GitKraken](https://gitkraken.com) - Git GUI and developer-collaboration tools.
+- [Appsmith](https://appsmith.com) - Open-source internal-tool builder.
+- [Equinix](https://equinix.com) - Global data-center and interconnection platform.
 - [Unity](https://unity.com) - Real-time 3D engine for games and beyond.
 - [Backblaze](https://backblaze.com) - Cloud storage and backup.
 - [Vultr](https://vultr.com) - Cloud compute and bare-metal hosting.
@@ -416,6 +424,7 @@ Developer tools, cloud, infrastructure, security, observability, and B2B technic
 
 Payments, banking, investing, crypto, expense, payroll, and financial infrastructure.
 
+- [TrueLayer](https://truelayer.com) - Open-banking payments and data APIs.
 - [Fidelity](https://fidelity.com) - Brokerage, asset management, and retirement.
 - [Charles Schwab](https://schwab.com) - Brokerage and wealth management.
 - [Capital One](https://capitalone.com) - Consumer credit card and digital banking.
@@ -620,6 +629,17 @@ Payments, banking, investing, crypto, expense, payroll, and financial infrastruc
 
 Consumer products, communities, marketplaces, media, travel, commerce, education, and gaming.
 
+- [NBCUniversal](https://nbcuni.com) - Media and entertainment (NBC, Peacock, Universal).
+- [The Home Depot](https://homedepot.com) - Home improvement retailer with sizable e-commerce and supply-chain tech.
+- [Costco](https://costco.com) - Membership-based wholesale retailer.
+- [Walmart](https://walmart.com) - Global retailer with large tech and supply-chain orgs.
+- [Target](https://target.com) - Mass-market retailer with strong digital and supply-chain tech.
+- [eBay](https://ebay.com) - Consumer e-commerce marketplace.
+- [Weebly](https://weebly.com) - DIY website and online-store builder (Square / Block).
+- [Nextdoor](https://nextdoor.com) - Neighborhood-focused social network.
+- [Ubisoft](https://ubisoft.com) - Video-game publisher (Assassin's Creed, Far Cry).
+- [Skyscanner](https://skyscanner.net) - Travel-fare aggregator and flights marketplace.
+- [McDonald's](https://mcdonalds.com) - Global quick-service restaurant chain.
 - [Hulu](https://hulu.com) - Streaming video service (Disney).
 - [Zynga](https://zynga.com) - Mobile games (Take-Two).
 - [Niantic](https://nianticlabs.com) - Pokémon GO and AR location games.
@@ -887,6 +907,8 @@ Healthcare delivery, health-tech, biotech, drug discovery, medical devices, and 
 
 Hardware, manufacturing, robotics, climate, energy, aviation, space, supply chain, logistics, real estate, and construction.
 
+- [General Dynamics](https://gd.com) - Defense, aerospace, and information-systems contractor.
+- [Bosch](https://bosch.com) - Industrial engineering, mobility, and consumer goods conglomerate.
 - [Komatsu](https://komatsu.com) - Heavy construction and mining equipment.
 - [Bloom Energy](https://bloomenergy.com) - Solid-oxide fuel cells for distributed energy.
 - [TAE Technologies](https://tae.com) - Fusion energy and applied physics.
@@ -1081,6 +1103,14 @@ Hardware, manufacturing, robotics, climate, energy, aviation, space, supply chai
 
 B2B SaaS that does not fit `developer-infrastructure` — HR, sales, marketing, operations, recruiting, legal, and procurement.
 
+- [Atlassian](https://atlassian.com) - Team collaboration software (Jira, Confluence, Trello).
+- [Mews](https://mews.com) - Cloud property-management system for hotels.
+- [Loom](https://loom.com) - Async video messaging (Atlassian).
+- [Jobvite](https://jobvite.com) - Talent-acquisition and applicant-tracking suite.
+- [Codility](https://codility.com) - Technical-assessment and engineering-hiring platform.
+- [NielsenIQ](https://nielseniq.com) - Consumer measurement and retail-insights data company.
+- [Hitachi Vantara](https://hitachivantara.com) - Enterprise data infrastructure and digital services.
+- [Hootsuite](https://hootsuite.com) - Social-media management for businesses.
 - [IBM](https://ibm.com) - Enterprise IT, hybrid cloud, and AI services.
 - [SAP](https://sap.com) - ERP and enterprise applications.
 - [Workday](https://workday.com) - Cloud HR and finance enterprise platform.
