@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1690 companies**.
+Currently tracking **1700 companies**.
 
 This repository is designed for two uses:
 
@@ -1746,6 +1746,16 @@ Open source video player (video.js)
 - [Vox Media, LLC](https://voxmediallc.com) - Hiring via Greenhouse (voxmedia).
 - [Prismatic](https://prismatic.com) - Hiring via Greenhouse (prismatic).
 - [Opendoor](https://opendoor.com) - Hiring via Greenhouse (opendoor).
+- [Shopmonkey](https://shopmonkey.com) - Hiring via Greenhouse (shopmonkey).
+- [Konrad](https://konrad.com) - Hiring via Greenhouse (konradgroup).
+- [Tripadvisor](https://tripadvisor.com) - Hiring via Greenhouse (tripadvisor).
+- [xAI](https://xai.com) - Hiring via Greenhouse (xai).
+- [CircleCI](https://circleci.com) - Hiring via Greenhouse (circleci).
+- [Taboola](https://taboola.com) - Hiring via Greenhouse (taboola).
+- [Verkada](https://verkada.com) - Hiring via Greenhouse (verkada).
+- [Hudson River Trading](https://hudsonrivertrading.com) - Hiring via Greenhouse (wehrtyou).
+- [Bolt.new](https://boltnew.com) - Hiring via Greenhouse (stackblitz).
+- [Cerebral](https://cerebral.com) - Hiring via Greenhouse (cerebral).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

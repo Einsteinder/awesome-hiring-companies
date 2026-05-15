@@ -22289,3 +22289,123 @@
   - open
   sources:
   - https://boards.greenhouse.io/opendoor
+
+- name: Shopmonkey
+  slug: shopmonkey
+  domain: shopmonkey.com
+  careers_url: https://boards.greenhouse.io/shopmonkey
+  category: open-source-and-platform
+  ats:
+    greenhouse: shopmonkey
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/shopmonkey
+
+- name: Konrad
+  slug: konrad
+  domain: konrad.com
+  careers_url: https://boards.greenhouse.io/konradgroup
+  category: open-source-and-platform
+  ats:
+    greenhouse: konradgroup
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/konradgroup
+
+- name: Tripadvisor
+  slug: tripadvisor
+  domain: tripadvisor.com
+  careers_url: https://boards.greenhouse.io/tripadvisor
+  category: open-source-and-platform
+  ats:
+    greenhouse: tripadvisor
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/tripadvisor
+
+- name: xAI
+  slug: xai
+  domain: xai.com
+  careers_url: https://boards.greenhouse.io/xai
+  category: open-source-and-platform
+  ats:
+    greenhouse: xai
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/xai
+
+- name: CircleCI
+  slug: circleci
+  domain: circleci.com
+  careers_url: https://boards.greenhouse.io/circleci
+  category: open-source-and-platform
+  ats:
+    greenhouse: circleci
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/circleci
+
+- name: Taboola
+  slug: taboola
+  domain: taboola.com
+  careers_url: https://boards.greenhouse.io/taboola
+  category: open-source-and-platform
+  ats:
+    greenhouse: taboola
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/taboola
+
+- name: Verkada
+  slug: verkada
+  domain: verkada.com
+  careers_url: https://boards.greenhouse.io/verkada
+  category: open-source-and-platform
+  ats:
+    greenhouse: verkada
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/verkada
+
+- name: Hudson River Trading
+  slug: hudson-river-trading
+  domain: hudsonrivertrading.com
+  careers_url: https://boards.greenhouse.io/wehrtyou
+  category: open-source-and-platform
+  ats:
+    greenhouse: wehrtyou
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/wehrtyou
+
+- name: Bolt.new
+  slug: bolt-new
+  domain: boltnew.com
+  careers_url: https://boards.greenhouse.io/stackblitz
+  category: open-source-and-platform
+  ats:
+    greenhouse: stackblitz
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/stackblitz
+
+- name: Cerebral
+  slug: cerebral
+  domain: cerebral.com
+  careers_url: https://boards.greenhouse.io/cerebral
+  category: open-source-and-platform
+  ats:
+    greenhouse: cerebral
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/cerebral
