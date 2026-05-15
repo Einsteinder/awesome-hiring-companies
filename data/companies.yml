@@ -20129,3 +20129,123 @@
   - open
   sources:
   - https://boards.greenhouse.io/point72
+
+- name: Cobalt
+  slug: cobalt
+  domain: cobalt.com
+  careers_url: https://boards.greenhouse.io/cobaltio
+  category: open-source-and-platform
+  ats:
+    greenhouse: cobaltio
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/cobaltio
+
+- name: Geneva Trading
+  slug: geneva-trading
+  domain: genevatrading.com
+  careers_url: https://boards.greenhouse.io/genevatrading
+  category: open-source-and-platform
+  ats:
+    greenhouse: genevatrading
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/genevatrading
+
+- name: GlossGenius
+  slug: glossgenius
+  domain: glossgenius.com
+  careers_url: https://boards.greenhouse.io/glossgenius
+  category: open-source-and-platform
+  ats:
+    greenhouse: glossgenius
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/glossgenius
+
+- name: Lightmatter
+  slug: lightmatter
+  domain: lightmatter.com
+  careers_url: https://boards.greenhouse.io/lightmatter
+  category: open-source-and-platform
+  ats:
+    greenhouse: lightmatter
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/lightmatter
+
+- name: Trumid
+  slug: trumid
+  domain: trumid.com
+  careers_url: https://boards.greenhouse.io/trumid
+  category: open-source-and-platform
+  ats:
+    greenhouse: trumid
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/trumid
+
+- name: Vera Institute of Justice
+  slug: vera-institute-of-justice
+  domain: verainstituteofjustice.com
+  careers_url: https://boards.greenhouse.io/verainstituteofjustice
+  category: open-source-and-platform
+  ats:
+    greenhouse: verainstituteofjustice
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/verainstituteofjustice
+
+- name: Intrinsic
+  slug: intrinsic
+  domain: intrinsic.com
+  careers_url: https://boards.greenhouse.io/intrinsicrobotics
+  category: open-source-and-platform
+  ats:
+    greenhouse: intrinsicrobotics
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/intrinsicrobotics
+
+- name: DiDi Labs
+  slug: didi-labs
+  domain: didilabs.com
+  careers_url: https://boards.greenhouse.io/didi
+  category: open-source-and-platform
+  ats:
+    greenhouse: didi
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/didi
+
+- name: Instabase
+  slug: instabase
+  domain: instabase.com
+  careers_url: https://boards.greenhouse.io/instabase
+  category: open-source-and-platform
+  ats:
+    greenhouse: instabase
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/instabase
+
+- name: Everlaw
+  slug: everlaw
+  domain: everlaw.com
+  careers_url: https://boards.greenhouse.io/everlaw
+  category: open-source-and-platform
+  ats:
+    greenhouse: everlaw
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/everlaw

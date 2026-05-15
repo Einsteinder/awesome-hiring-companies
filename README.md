@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1510 companies**.
+Currently tracking **1520 companies**.
 
 This repository is designed for two uses:
 
@@ -1566,6 +1566,16 @@ Open source video player (video.js)
 - [Constant Contact](https://constantcontact.com) - Hiring via Greenhouse (constantcontact).
 - [Loop](https://loop.com) - Hiring via Greenhouse (loop).
 - [Point72](https://point72.com) - Hiring via Greenhouse (point72).
+- [Cobalt](https://cobalt.com) - Hiring via Greenhouse (cobaltio).
+- [Geneva Trading](https://genevatrading.com) - Hiring via Greenhouse (genevatrading).
+- [GlossGenius](https://glossgenius.com) - Hiring via Greenhouse (glossgenius).
+- [Lightmatter](https://lightmatter.com) - Hiring via Greenhouse (lightmatter).
+- [Trumid](https://trumid.com) - Hiring via Greenhouse (trumid).
+- [Vera Institute of Justice](https://verainstituteofjustice.com) - Hiring via Greenhouse (verainstituteofjustice).
+- [Intrinsic](https://intrinsic.com) - Hiring via Greenhouse (intrinsicrobotics).
+- [DiDi Labs](https://didilabs.com) - Hiring via Greenhouse (didi).
+- [Instabase](https://instabase.com) - Hiring via Greenhouse (instabase).
+- [Everlaw](https://everlaw.com) - Hiring via Greenhouse (everlaw).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
