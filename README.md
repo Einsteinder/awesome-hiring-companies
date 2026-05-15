@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **920 companies**.
+Currently tracking **930 companies**.
 
 This repository is designed for two uses:
 
@@ -976,6 +976,16 @@ Open source video player (video.js)
 - [Allocate](https://allocate.com) - Hiring via Ashby (allocate).
 - [Anagram](https://anagram.com) - Hiring via Ashby (anagram).
 - [Conversion](https://conversion.com) - Hiring via Ashby (conversion).
+- [Florence](https://florence.com) - Hiring via Lever (florence).
+- [Foxglove](https://foxglove.com) - Hiring via Ashby (foxglove).
+- [Graphite](https://graphite.com) - Hiring via Ashby (graphite).
+- [Handspring](https://handspring.com) - Hiring via Ashby (handspring).
+- [Artemis](https://artemis.com) - Hiring via Ashby (artemis).
+- [Base](https://base.com) - Hiring via Ashby (base).
+- [Deputy](https://deputy.com) - Hiring via Lever (deputy).
+- [Flock](https://flock.com) - Hiring via Ashby (flock).
+- [Gorilla](https://gorilla.com) - Hiring via Ashby (gorilla).
+- [Grand](https://grand.com) - Hiring via Lever (grand).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

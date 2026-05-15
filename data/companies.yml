@@ -13049,3 +13049,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/conversion
+
+- name: Florence
+  slug: florence
+  domain: florence.com
+  careers_url: https://jobs.lever.co/florence
+  category: open-source-and-platform
+  ats:
+    lever: florence
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/florence
+
+- name: Foxglove
+  slug: foxglove
+  domain: foxglove.com
+  careers_url: https://jobs.ashbyhq.com/foxglove
+  category: open-source-and-platform
+  ats:
+    ashby: foxglove
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/foxglove
+
+- name: Graphite
+  slug: graphite
+  domain: graphite.com
+  careers_url: https://jobs.ashbyhq.com/graphite
+  category: open-source-and-platform
+  ats:
+    ashby: graphite
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/graphite
+
+- name: Handspring
+  slug: handspring
+  domain: handspring.com
+  careers_url: https://jobs.ashbyhq.com/handspring
+  category: open-source-and-platform
+  ats:
+    ashby: handspring
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/handspring
+
+- name: Artemis
+  slug: artemis
+  domain: artemis.com
+  careers_url: https://jobs.ashbyhq.com/artemis
+  category: open-source-and-platform
+  ats:
+    ashby: artemis
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/artemis
+
+- name: Base
+  slug: base
+  domain: base.com
+  careers_url: https://jobs.ashbyhq.com/base
+  category: open-source-and-platform
+  ats:
+    ashby: base
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/base
+
+- name: Deputy
+  slug: deputy
+  domain: deputy.com
+  careers_url: https://jobs.lever.co/deputy
+  category: open-source-and-platform
+  ats:
+    lever: deputy
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/deputy
+
+- name: Flock
+  slug: flock
+  domain: flock.com
+  careers_url: https://jobs.ashbyhq.com/flock
+  category: open-source-and-platform
+  ats:
+    ashby: flock
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/flock
+
+- name: Gorilla
+  slug: gorilla
+  domain: gorilla.com
+  careers_url: https://jobs.ashbyhq.com/gorilla
+  category: open-source-and-platform
+  ats:
+    ashby: gorilla
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/gorilla
+
+- name: Grand
+  slug: grand
+  domain: grand.com
+  careers_url: https://jobs.lever.co/grand
+  category: open-source-and-platform
+  ats:
+    lever: grand
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/grand
