@@ -20609,3 +20609,123 @@
   - open
   sources:
   - https://boards.greenhouse.io/queracomputinginc
+
+- name: Seesaw
+  slug: seesaw
+  domain: seesaw.com
+  careers_url: https://boards.greenhouse.io/seesaw
+  category: open-source-and-platform
+  ats:
+    greenhouse: seesaw
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/seesaw
+
+- name: Charles River Associates
+  slug: charles-river-associates
+  domain: charlesriverassociates.com
+  careers_url: https://boards.greenhouse.io/charlesriverassociates
+  category: open-source-and-platform
+  ats:
+    greenhouse: charlesriverassociates
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/charlesriverassociates
+
+- name: Radix Trading University Job Board
+  slug: radix-trading-university-job-board
+  domain: radixtradinguniversityjobboard.com
+  careers_url: https://boards.greenhouse.io/radixuniversity
+  category: open-source-and-platform
+  ats:
+    greenhouse: radixuniversity
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/radixuniversity
+
+- name: Inizio
+  slug: inizio
+  domain: inizio.com
+  careers_url: https://boards.greenhouse.io/inizio
+  category: open-source-and-platform
+  ats:
+    greenhouse: inizio
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/inizio
+
+- name: DLH
+  slug: dlh
+  domain: dlh.com
+  careers_url: https://boards.greenhouse.io/dlhcorporation
+  category: open-source-and-platform
+  ats:
+    greenhouse: dlhcorporation
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/dlhcorporation
+
+- name: mthree Recruiting Portal
+  slug: mthree-recruiting-portal
+  domain: mthreerecruitingportal.com
+  careers_url: https://boards.greenhouse.io/mthreerecruitingportal
+  category: open-source-and-platform
+  ats:
+    greenhouse: mthreerecruitingportal
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/mthreerecruitingportal
+
+- name: Medecins Sans Frontieres (Doctors Without Borders) - United States
+  slug: medecins-sans-frontieres-doctors-without-borders-united-states
+  domain: medecinssansfrontieresdoctorswithoutbordersunitedstates.com
+  careers_url: https://boards.greenhouse.io/msfcareers
+  category: open-source-and-platform
+  ats:
+    greenhouse: msfcareers
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/msfcareers
+
+- name: PlayStation Global
+  slug: playstation-global
+  domain: playstationglobal.com
+  careers_url: https://boards.greenhouse.io/sonyinteractiveentertainmentglobal
+  category: open-source-and-platform
+  ats:
+    greenhouse: sonyinteractiveentertainmentglobal
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/sonyinteractiveentertainmentglobal
+
+- name: Neuralink
+  slug: neuralink
+  domain: neuralink.com
+  careers_url: https://boards.greenhouse.io/neuralink
+  category: open-source-and-platform
+  ats:
+    greenhouse: neuralink
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/neuralink
+
+- name: EMARKETER
+  slug: emarketer
+  domain: emarketer.com
+  careers_url: https://boards.greenhouse.io/emarketer
+  category: open-source-and-platform
+  ats:
+    greenhouse: emarketer
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/emarketer

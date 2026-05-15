@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1550 companies**.
+Currently tracking **1560 companies**.
 
 This repository is designed for two uses:
 
@@ -1606,6 +1606,16 @@ Open source video player (video.js)
 - [Visier Solutions Inc](https://visiersolutionsinc.com) - Hiring via Greenhouse (visiersolutionsinc).
 - [Remodel Health](https://remodelhealth.com) - Hiring via Greenhouse (remodelhealth).
 - [QuEra Computing, Inc.](https://queracomputinginc.com) - Hiring via Greenhouse (queracomputinginc).
+- [Seesaw](https://seesaw.com) - Hiring via Greenhouse (seesaw).
+- [Charles River Associates](https://charlesriverassociates.com) - Hiring via Greenhouse (charlesriverassociates).
+- [Radix Trading University Job Board](https://radixtradinguniversityjobboard.com) - Hiring via Greenhouse (radixuniversity).
+- [Inizio](https://inizio.com) - Hiring via Greenhouse (inizio).
+- [DLH](https://dlh.com) - Hiring via Greenhouse (dlhcorporation).
+- [mthree Recruiting Portal](https://mthreerecruitingportal.com) - Hiring via Greenhouse (mthreerecruitingportal).
+- [Medecins Sans Frontieres (Doctors Without Borders) - United States](https://medecinssansfrontieresdoctorswithoutbordersunitedstates.com) - Hiring via Greenhouse (msfcareers).
+- [PlayStation Global](https://playstationglobal.com) - Hiring via Greenhouse (sonyinteractiveentertainmentglobal).
+- [Neuralink](https://neuralink.com) - Hiring via Greenhouse (neuralink).
+- [EMARKETER](https://emarketer.com) - Hiring via Greenhouse (emarketer).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
