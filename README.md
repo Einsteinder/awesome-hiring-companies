@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1842 companies**.
+Currently tracking **1852 companies**.
 
 This repository is designed for two uses:
 
@@ -1898,6 +1898,16 @@ Open source video player (video.js)
 - [Nerdwallet](https://nerdwallet.com) - Hiring via Ashby (nerdwallet).
 - [Meili](https://meili.com) - Hiring via Lever (meili).
 - [Reklamehealth](https://reklamehealth.com) - Hiring via Ashby (reklamehealth).
+- [Launchsquad](https://launchsquad.com) - Hiring via Lever (launchsquad).
+- [Deepl](https://deepl.com) - Hiring via Ashby (deepl).
+- [Mui](https://mui.com) - Hiring via Ashby (mui).
+- [Rula](https://rula.com) - Hiring via Ashby (rula).
+- [Mystenlabs](https://mystenlabs.com) - Hiring via Ashby (mystenlabs).
+- [Ankorstore](https://ankorstore.com) - Hiring via Ashby (ankorstore).
+- [Corti](https://corti.com) - Hiring via Ashby (corti).
+- [Prior Labs](https://priorlabs.com) - Hiring via Ashby (prior-labs).
+- [Isee](https://isee.com) - Hiring via Lever (isee).
+- [Bhg Inc](https://bhginc.com) - Hiring via Lever (bhg-inc).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

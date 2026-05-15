@@ -24113,3 +24113,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/reklamehealth
+
+- name: Launchsquad
+  slug: launchsquad
+  domain: launchsquad.com
+  careers_url: https://jobs.lever.co/launchsquad
+  category: open-source-and-platform
+  ats:
+    lever: launchsquad
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/launchsquad
+
+- name: Deepl
+  slug: deepl
+  domain: deepl.com
+  careers_url: https://jobs.ashbyhq.com/deepl
+  category: open-source-and-platform
+  ats:
+    ashby: deepl
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/deepl
+
+- name: Mui
+  slug: mui
+  domain: mui.com
+  careers_url: https://jobs.ashbyhq.com/mui
+  category: open-source-and-platform
+  ats:
+    ashby: mui
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/mui
+
+- name: Rula
+  slug: rula
+  domain: rula.com
+  careers_url: https://jobs.ashbyhq.com/rula
+  category: open-source-and-platform
+  ats:
+    ashby: rula
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/rula
+
+- name: Mystenlabs
+  slug: mystenlabs
+  domain: mystenlabs.com
+  careers_url: https://jobs.ashbyhq.com/mystenlabs
+  category: open-source-and-platform
+  ats:
+    ashby: mystenlabs
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/mystenlabs
+
+- name: Ankorstore
+  slug: ankorstore
+  domain: ankorstore.com
+  careers_url: https://jobs.ashbyhq.com/ankorstore
+  category: open-source-and-platform
+  ats:
+    ashby: ankorstore
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/ankorstore
+
+- name: Corti
+  slug: corti
+  domain: corti.com
+  careers_url: https://jobs.ashbyhq.com/corti
+  category: open-source-and-platform
+  ats:
+    ashby: corti
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/corti
+
+- name: Prior Labs
+  slug: prior-labs
+  domain: priorlabs.com
+  careers_url: https://jobs.ashbyhq.com/prior-labs
+  category: open-source-and-platform
+  ats:
+    ashby: prior-labs
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/prior-labs
+
+- name: Isee
+  slug: isee
+  domain: isee.com
+  careers_url: https://jobs.lever.co/isee
+  category: open-source-and-platform
+  ats:
+    lever: isee
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/isee
+
+- name: Bhg Inc
+  slug: bhg-inc
+  domain: bhginc.com
+  careers_url: https://jobs.lever.co/bhg-inc
+  category: open-source-and-platform
+  ats:
+    lever: bhg-inc
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/bhg-inc
