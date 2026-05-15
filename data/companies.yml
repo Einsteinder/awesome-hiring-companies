@@ -14009,3 +14009,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/decimal
+
+- name: Dusk
+  slug: dusk
+  domain: dusk.com
+  careers_url: https://jobs.ashbyhq.com/dusk
+  category: open-source-and-platform
+  ats:
+    ashby: dusk
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/dusk
+
+- name: Dutch
+  slug: dutch
+  domain: dutch.com
+  careers_url: https://jobs.lever.co/dutch
+  category: open-source-and-platform
+  ats:
+    lever: dutch
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/dutch
+
+- name: Emanate
+  slug: emanate
+  domain: emanate.com
+  careers_url: https://jobs.ashbyhq.com/emanate
+  category: open-source-and-platform
+  ats:
+    ashby: emanate
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/emanate
+
+- name: Ernest
+  slug: ernest
+  domain: ernest.com
+  careers_url: https://jobs.ashbyhq.com/ernest
+  category: open-source-and-platform
+  ats:
+    ashby: ernest
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/ernest
+
+- name: Fourier
+  slug: fourier
+  domain: fourier.com
+  careers_url: https://jobs.ashbyhq.com/fourier
+  category: open-source-and-platform
+  ats:
+    ashby: fourier
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/fourier
+
+- name: Glacier
+  slug: glacier
+  domain: glacier.com
+  careers_url: https://jobs.ashbyhq.com/glacier
+  category: open-source-and-platform
+  ats:
+    ashby: glacier
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/glacier
+
+- name: Gradient
+  slug: gradient
+  domain: gradient.com
+  careers_url: https://jobs.ashbyhq.com/gradient
+  category: open-source-and-platform
+  ats:
+    ashby: gradient
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/gradient
+
+- name: Activate
+  slug: activate
+  domain: activate.com
+  careers_url: https://boards.greenhouse.io/activate
+  category: open-source-and-platform
+  ats:
+    greenhouse: activate
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/activate
+
+- name: Adapter
+  slug: adapter
+  domain: adapter.com
+  careers_url: https://boards.greenhouse.io/adapter
+  category: open-source-and-platform
+  ats:
+    greenhouse: adapter
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/adapter
+
+- name: Adapt
+  slug: adapt
+  domain: adapt.com
+  careers_url: https://jobs.ashbyhq.com/adapt
+  category: open-source-and-platform
+  ats:
+    ashby: adapt
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/adapt
