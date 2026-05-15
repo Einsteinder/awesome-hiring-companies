@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1685 companies**.
+Currently tracking **1690 companies**.
 
 This repository is designed for two uses:
 
@@ -1741,6 +1741,11 @@ Open source video player (video.js)
 - [Wyetechllc](https://wyetechllc.com) - Hiring via Lever (wyetechllc).
 - [Pingwind](https://pingwind.com) - Hiring via Lever (pingwind).
 - [Veeva](https://veeva.com) - Hiring via Lever (veeva).
+- [Riot Games](https://riotgames.com) - Hiring via Greenhouse (riotgames).
+- [Justworks](https://justworks.com) - Hiring via Greenhouse (justworks).
+- [Vox Media, LLC](https://voxmediallc.com) - Hiring via Greenhouse (voxmedia).
+- [Prismatic](https://prismatic.com) - Hiring via Greenhouse (prismatic).
+- [Opendoor](https://opendoor.com) - Hiring via Greenhouse (opendoor).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

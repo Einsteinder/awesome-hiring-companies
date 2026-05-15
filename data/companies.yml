@@ -22229,3 +22229,63 @@
   - open
   sources:
   - https://jobs.lever.co/veeva
+
+- name: Riot Games
+  slug: riot-games
+  domain: riotgames.com
+  careers_url: https://boards.greenhouse.io/riotgames
+  category: open-source-and-platform
+  ats:
+    greenhouse: riotgames
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/riotgames
+
+- name: Justworks
+  slug: justworks
+  domain: justworks.com
+  careers_url: https://boards.greenhouse.io/justworks
+  category: open-source-and-platform
+  ats:
+    greenhouse: justworks
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/justworks
+
+- name: Vox Media, LLC
+  slug: vox-media-llc
+  domain: voxmediallc.com
+  careers_url: https://boards.greenhouse.io/voxmedia
+  category: open-source-and-platform
+  ats:
+    greenhouse: voxmedia
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/voxmedia
+
+- name: Prismatic
+  slug: prismatic
+  domain: prismatic.com
+  careers_url: https://boards.greenhouse.io/prismatic
+  category: open-source-and-platform
+  ats:
+    greenhouse: prismatic
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/prismatic
+
+- name: Opendoor
+  slug: opendoor
+  domain: opendoor.com
+  careers_url: https://boards.greenhouse.io/opendoor
+  category: open-source-and-platform
+  ats:
+    greenhouse: opendoor
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/opendoor
