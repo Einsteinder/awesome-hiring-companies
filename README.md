@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **80 companies**.
+Currently tracking **90 companies**.
 
 This repository is designed for two uses:
 
@@ -135,6 +135,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [Vanta](https://vanta.com) - Vanta—the proven leader in automated compliance helping startups…
 - [Finni Health](https://finnihealth.com) - Empowering Autism Care Providers to Go Independent
 - [Fivetran](https://fivetran.com) - The leader in automated data movement
+- [Tractian](https://tractian.com) - Physical AI for asset-heavy industries
+- [BillionToOne](https://billiontoone.com) - The genetic testing platform detecting and measuring disease.
+- [Zipio](https://dealupa.com) - Deal search service
+- [Aleph](https://getaleph.com) - One source of truth for financial data.
+- [Flexport](https://flexport.com) - Platform for global logistics.
+- [Flex](https://withflex.com) - Stripe for HSA/FSA payments
+- [ion design](https://ion.design) - AI that creates & tests 100s of landing pages for your product
+- [TRM Labs](https://trmlabs.com) - TRM is building a safer financial system for billions of people.
+- [Clutch](https://clutch.io) - An easy to integrate library for native iOS applications designed to…
+- [Clara Labs](https://claralabs.com) - Clara is a human-in-the-loop assistant that helps automate repetitive…
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

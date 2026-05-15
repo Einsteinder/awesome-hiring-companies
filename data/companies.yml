@@ -1124,3 +1124,149 @@
   - analytics
   sources:
   - https://boards.greenhouse.io/fivetran
+
+- name: Tractian
+  slug: tractian
+  domain: tractian.com
+  careers_url: https://jobs.lever.co/tractian
+  category: ai-and-data
+  ats:
+    lever: tractian
+  tags:
+  - industrials
+  - artificial-intelligence
+  - saas
+  - iot
+  sources:
+  - https://jobs.lever.co/tractian
+
+- name: BillionToOne
+  slug: billiontoone
+  domain: billiontoone.com
+  careers_url: https://boards.greenhouse.io/billiontoone
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: billiontoone
+  tags:
+  - healthcare
+  - healthcare-diagnostics
+  - diagnostics
+  - genomics
+  sources:
+  - https://boards.greenhouse.io/billiontoone
+
+- name: Zipio
+  slug: zipio
+  domain: dealupa.com
+  careers_url: https://jobs.ashbyhq.com/zip
+  category: consumer-and-marketplace
+  ats:
+    ashby: zip
+  tags:
+  - consumer
+  - consumer-social
+  - marketplace
+  sources:
+  - https://jobs.ashbyhq.com/zip
+
+- name: Aleph
+  slug: aleph
+  domain: getaleph.com
+  careers_url: https://jobs.lever.co/aleph
+  category: fintech
+  ats:
+    lever: aleph
+  tags:
+  - b2b
+  - b2b-finance-and-accounting
+  - finance
+  sources:
+  - https://jobs.lever.co/aleph
+
+- name: Flexport
+  slug: flexport
+  domain: flexport.com
+  careers_url: https://boards.greenhouse.io/flexport
+  category: developer-infrastructure
+  ats:
+    greenhouse: flexport
+  tags:
+  - b2b
+  - b2b-supply-chain-and-logistics
+  - saas
+  - logistics
+  sources:
+  - https://boards.greenhouse.io/flexport
+
+- name: Flex
+  slug: flex
+  domain: withflex.com
+  careers_url: https://boards.greenhouse.io/flex
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: flex
+  tags:
+  - fintech
+  - fintech-payments
+  - marketplace
+  - health-wellness
+  sources:
+  - https://boards.greenhouse.io/flex
+
+- name: ion design
+  slug: ion-design
+  domain: ion.design
+  careers_url: https://jobs.lever.co/ion
+  category: ai-and-data
+  ats:
+    lever: ion
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - design-tools
+  - marketing
+  sources:
+  - https://jobs.lever.co/ion
+
+- name: TRM Labs
+  slug: trm-labs
+  domain: trmlabs.com
+  careers_url: https://jobs.ashbyhq.com/trm-labs
+  category: ai-and-data
+  ats:
+    ashby: trm-labs
+  tags:
+  - b2b
+  - b2b-security
+  - fintech
+  - machine-learning
+  sources:
+  - https://jobs.ashbyhq.com/trm-labs
+
+- name: Clutch
+  slug: clutch
+  domain: clutch.io
+  careers_url: https://boards.greenhouse.io/clutch
+  category: developer-infrastructure
+  ats:
+    greenhouse: clutch
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - developer-tools
+  sources:
+  - https://boards.greenhouse.io/clutch
+
+- name: Clara Labs
+  slug: clara-labs
+  domain: claralabs.com
+  careers_url: https://boards.greenhouse.io/clara
+  category: open-source-and-platform
+  ats:
+    greenhouse: clara
+  tags:
+  - b2b
+  - b2b-productivity
+  - automation
+  sources:
+  - https://boards.greenhouse.io/clara
