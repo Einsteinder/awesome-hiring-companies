@@ -13409,3 +13409,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/april
+
+- name: Arcade
+  slug: arcade
+  domain: arcade.com
+  careers_url: https://jobs.ashbyhq.com/arcade
+  category: open-source-and-platform
+  ats:
+    ashby: arcade
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/arcade
+
+- name: Ascertain
+  slug: ascertain
+  domain: ascertain.com
+  careers_url: https://jobs.ashbyhq.com/ascertain
+  category: open-source-and-platform
+  ats:
+    ashby: ascertain
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/ascertain
+
+- name: Cloaked
+  slug: cloaked
+  domain: cloaked.com
+  careers_url: https://jobs.ashbyhq.com/cloaked
+  category: open-source-and-platform
+  ats:
+    ashby: cloaked
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/cloaked
+
+- name: Daydream
+  slug: daydream
+  domain: daydream.com
+  careers_url: https://jobs.ashbyhq.com/daydream
+  category: open-source-and-platform
+  ats:
+    ashby: daydream
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/daydream
+
+- name: Fantasy
+  slug: fantasy
+  domain: fantasy.com
+  careers_url: https://jobs.lever.co/fantasy
+  category: open-source-and-platform
+  ats:
+    lever: fantasy
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/fantasy
+
+- name: Folio
+  slug: folio
+  domain: folio.com
+  careers_url: https://jobs.ashbyhq.com/folio
+  category: open-source-and-platform
+  ats:
+    ashby: folio
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/folio
+
+- name: Freed
+  slug: freed
+  domain: freed.com
+  careers_url: https://jobs.ashbyhq.com/freed
+  category: open-source-and-platform
+  ats:
+    ashby: freed
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/freed
+
+- name: Genies
+  slug: genies
+  domain: genies.com
+  careers_url: https://jobs.ashbyhq.com/genies
+  category: open-source-and-platform
+  ats:
+    ashby: genies
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/genies
+
+- name: Grotto
+  slug: grotto
+  domain: grotto.com
+  careers_url: https://jobs.ashbyhq.com/grotto
+  category: open-source-and-platform
+  ats:
+    ashby: grotto
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/grotto
+
+- name: Harmonic
+  slug: harmonic
+  domain: harmonic.com
+  careers_url: https://jobs.ashbyhq.com/harmonic
+  category: open-source-and-platform
+  ats:
+    ashby: harmonic
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/harmonic

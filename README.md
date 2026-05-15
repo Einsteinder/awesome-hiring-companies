@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **950 companies**.
+Currently tracking **960 companies**.
 
 This repository is designed for two uses:
 
@@ -1006,6 +1006,16 @@ Open source video player (video.js)
 - [Adonis](https://adonis.com) - Hiring via Ashby (adonis).
 - [Allspice](https://allspice.com) - Hiring via Ashby (allspice).
 - [April](https://april.com) - Hiring via Ashby (april).
+- [Arcade](https://arcade.com) - Hiring via Ashby (arcade).
+- [Ascertain](https://ascertain.com) - Hiring via Ashby (ascertain).
+- [Cloaked](https://cloaked.com) - Hiring via Ashby (cloaked).
+- [Daydream](https://daydream.com) - Hiring via Ashby (daydream).
+- [Fantasy](https://fantasy.com) - Hiring via Lever (fantasy).
+- [Folio](https://folio.com) - Hiring via Ashby (folio).
+- [Freed](https://freed.com) - Hiring via Ashby (freed).
+- [Genies](https://genies.com) - Hiring via Ashby (genies).
+- [Grotto](https://grotto.com) - Hiring via Ashby (grotto).
+- [Harmonic](https://harmonic.com) - Hiring via Ashby (harmonic).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
