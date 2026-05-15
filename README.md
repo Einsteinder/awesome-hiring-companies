@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1428 companies**.
+Currently tracking **1438 companies**.
 
 This repository is designed for two uses:
 
@@ -1484,6 +1484,16 @@ Open source video player (video.js)
 - [Unlikely](https://unlikely.com) - Hiring via Lever (unlikely).
 - [Humanist](https://humanist.com) - Hiring via Ashby (humanist).
 - [Incandescent](https://incandescent.com) - Hiring via Ashby (incandescent).
+- [Kinetic](https://kinetic.com) - Hiring via Ashby (kinetic).
+- [Kiwi](https://kiwi.com) - Hiring via Ashby (kiwi).
+- [Ladders](https://ladders.com) - Hiring via Lever (ladders).
+- [Latch](https://latch.com) - Hiring via Lever (latch).
+- [Layer](https://layer.com) - Hiring via Ashby (layer).
+- [Ledge](https://ledge.com) - Hiring via Ashby (ledge).
+- [Lens](https://lens.com) - Hiring via Ashby (lens).
+- [Lottie](https://lottie.com) - Hiring via Ashby (lottie).
+- [Markham](https://markham.com) - Hiring via Lever (markham).
+- [Mona](https://mona.com) - Hiring via Ashby (mona).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

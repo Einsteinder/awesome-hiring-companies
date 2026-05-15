@@ -19145,3 +19145,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/incandescent
+
+- name: Kinetic
+  slug: kinetic
+  domain: kinetic.com
+  careers_url: https://jobs.ashbyhq.com/kinetic
+  category: open-source-and-platform
+  ats:
+    ashby: kinetic
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/kinetic
+
+- name: Kiwi
+  slug: kiwi
+  domain: kiwi.com
+  careers_url: https://jobs.ashbyhq.com/kiwi
+  category: open-source-and-platform
+  ats:
+    ashby: kiwi
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/kiwi
+
+- name: Ladders
+  slug: ladders
+  domain: ladders.com
+  careers_url: https://jobs.lever.co/ladders
+  category: open-source-and-platform
+  ats:
+    lever: ladders
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/ladders
+
+- name: Latch
+  slug: latch
+  domain: latch.com
+  careers_url: https://jobs.lever.co/latch
+  category: open-source-and-platform
+  ats:
+    lever: latch
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/latch
+
+- name: Layer
+  slug: layer
+  domain: layer.com
+  careers_url: https://jobs.ashbyhq.com/layer
+  category: open-source-and-platform
+  ats:
+    ashby: layer
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/layer
+
+- name: Ledge
+  slug: ledge
+  domain: ledge.com
+  careers_url: https://jobs.ashbyhq.com/ledge
+  category: open-source-and-platform
+  ats:
+    ashby: ledge
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/ledge
+
+- name: Lens
+  slug: lens
+  domain: lens.com
+  careers_url: https://jobs.ashbyhq.com/lens
+  category: open-source-and-platform
+  ats:
+    ashby: lens
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/lens
+
+- name: Lottie
+  slug: lottie
+  domain: lottie.com
+  careers_url: https://jobs.ashbyhq.com/lottie
+  category: open-source-and-platform
+  ats:
+    ashby: lottie
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/lottie
+
+- name: Markham
+  slug: markham
+  domain: markham.com
+  careers_url: https://jobs.lever.co/markham
+  category: open-source-and-platform
+  ats:
+    lever: markham
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/markham
+
+- name: Mona
+  slug: mona
+  domain: mona.com
+  careers_url: https://jobs.ashbyhq.com/mona
+  category: open-source-and-platform
+  ats:
+    ashby: mona
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/mona
