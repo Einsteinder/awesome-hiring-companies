@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1610 companies**.
+Currently tracking **1620 companies**.
 
 This repository is designed for two uses:
 
@@ -1666,6 +1666,16 @@ Open source video player (video.js)
 - [Seconddinner](https://seconddinner.com) - Hiring via Ashby (seconddinner).
 - [N1](https://n1.com) - Hiring via Ashby (n1).
 - [Tldraw](https://tldraw.com) - Hiring via Ashby (tldraw).
+- [Kognitos](https://kognitos.com) - Hiring via Ashby (kognitos).
+- [Poshmark](https://poshmark.com) - Hiring via Ashby (poshmark).
+- [Tessera Labs](https://tesseralabs.com) - Hiring via Ashby (tessera-labs).
+- [Klue](https://klue.com) - Hiring via Ashby (klue).
+- [Matterworks](https://matterworks.com) - Hiring via Ashby (matterworks).
+- [Orb](https://orb.com) - Hiring via Ashby (orb).
+- [Sentra](https://sentra.com) - Hiring via Ashby (sentra).
+- [Exegy](https://exegy.com) - Hiring via Ashby (exegy).
+- [Zello](https://zello.com) - Hiring via Ashby (zello).
+- [Opusclip](https://opusclip.com) - Hiring via Ashby (opusclip).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

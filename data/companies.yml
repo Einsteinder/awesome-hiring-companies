@@ -21329,3 +21329,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/tldraw
+
+- name: Kognitos
+  slug: kognitos
+  domain: kognitos.com
+  careers_url: https://jobs.ashbyhq.com/kognitos
+  category: open-source-and-platform
+  ats:
+    ashby: kognitos
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/kognitos
+
+- name: Poshmark
+  slug: poshmark
+  domain: poshmark.com
+  careers_url: https://jobs.ashbyhq.com/poshmark
+  category: open-source-and-platform
+  ats:
+    ashby: poshmark
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/poshmark
+
+- name: Tessera Labs
+  slug: tessera-labs
+  domain: tesseralabs.com
+  careers_url: https://jobs.ashbyhq.com/tessera-labs
+  category: open-source-and-platform
+  ats:
+    ashby: tessera-labs
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/tessera-labs
+
+- name: Klue
+  slug: klue
+  domain: klue.com
+  careers_url: https://jobs.ashbyhq.com/klue
+  category: open-source-and-platform
+  ats:
+    ashby: klue
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/klue
+
+- name: Matterworks
+  slug: matterworks
+  domain: matterworks.com
+  careers_url: https://jobs.ashbyhq.com/matterworks
+  category: open-source-and-platform
+  ats:
+    ashby: matterworks
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/matterworks
+
+- name: Orb
+  slug: orb
+  domain: orb.com
+  careers_url: https://jobs.ashbyhq.com/orb
+  category: open-source-and-platform
+  ats:
+    ashby: orb
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/orb
+
+- name: Sentra
+  slug: sentra
+  domain: sentra.com
+  careers_url: https://jobs.ashbyhq.com/sentra
+  category: open-source-and-platform
+  ats:
+    ashby: sentra
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/sentra
+
+- name: Exegy
+  slug: exegy
+  domain: exegy.com
+  careers_url: https://jobs.ashbyhq.com/exegy
+  category: open-source-and-platform
+  ats:
+    ashby: exegy
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/exegy
+
+- name: Zello
+  slug: zello
+  domain: zello.com
+  careers_url: https://jobs.ashbyhq.com/zello
+  category: open-source-and-platform
+  ats:
+    ashby: zello
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/zello
+
+- name: Opusclip
+  slug: opusclip
+  domain: opusclip.com
+  careers_url: https://jobs.ashbyhq.com/opusclip
+  category: open-source-and-platform
+  ats:
+    ashby: opusclip
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/opusclip
