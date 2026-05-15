@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1148 companies**.
+Currently tracking **1158 companies**.
 
 This repository is designed for two uses:
 
@@ -1204,6 +1204,16 @@ Open source video player (video.js)
 - [Jobber](https://jobber.com) - Hiring via Ashby (jobber).
 - [Lambda](https://lambda.com) - Hiring via Ashby (lambda).
 - [Steadily](https://steadily.com) - Hiring via Ashby (steadily).
+- [Sesame](https://sesame.com) - Hiring via Ashby (sesame).
+- [Swap](https://swap.com) - Hiring via Ashby (swap).
+- [Vacancies](https://vacancies.com) - Hiring via Lever (vacancies).
+- [Nooks](https://nooks.com) - Hiring via Ashby (nooks).
+- [Sanity](https://sanity.com) - Hiring via Ashby (sanity).
+- [Pliant](https://pliant.com) - Hiring via Ashby (pliant).
+- [Paddle](https://paddle.com) - Hiring via Ashby (paddle).
+- [Incident](https://incident.com) - Hiring via Ashby (incident).
+- [Rise](https://rise.com) - Hiring via Lever (rise).
+- [Uncountable](https://uncountable.com) - Hiring via Ashby (uncountable).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

@@ -15785,3 +15785,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/steadily
+
+- name: Sesame
+  slug: sesame
+  domain: sesame.com
+  careers_url: https://jobs.ashbyhq.com/sesame
+  category: open-source-and-platform
+  ats:
+    ashby: sesame
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/sesame
+
+- name: Swap
+  slug: swap
+  domain: swap.com
+  careers_url: https://jobs.ashbyhq.com/swap
+  category: open-source-and-platform
+  ats:
+    ashby: swap
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/swap
+
+- name: Vacancies
+  slug: vacancies
+  domain: vacancies.com
+  careers_url: https://jobs.lever.co/vacancies
+  category: open-source-and-platform
+  ats:
+    lever: vacancies
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/vacancies
+
+- name: Nooks
+  slug: nooks
+  domain: nooks.com
+  careers_url: https://jobs.ashbyhq.com/nooks
+  category: open-source-and-platform
+  ats:
+    ashby: nooks
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/nooks
+
+- name: Sanity
+  slug: sanity
+  domain: sanity.com
+  careers_url: https://jobs.ashbyhq.com/sanity
+  category: open-source-and-platform
+  ats:
+    ashby: sanity
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/sanity
+
+- name: Pliant
+  slug: pliant
+  domain: pliant.com
+  careers_url: https://jobs.ashbyhq.com/pliant
+  category: open-source-and-platform
+  ats:
+    ashby: pliant
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/pliant
+
+- name: Paddle
+  slug: paddle
+  domain: paddle.com
+  careers_url: https://jobs.ashbyhq.com/paddle
+  category: open-source-and-platform
+  ats:
+    ashby: paddle
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/paddle
+
+- name: Incident
+  slug: incident
+  domain: incident.com
+  careers_url: https://jobs.ashbyhq.com/incident
+  category: open-source-and-platform
+  ats:
+    ashby: incident
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/incident
+
+- name: Rise
+  slug: rise
+  domain: rise.com
+  careers_url: https://jobs.lever.co/rise
+  category: open-source-and-platform
+  ats:
+    lever: rise
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/rise
+
+- name: Uncountable
+  slug: uncountable
+  domain: uncountable.com
+  careers_url: https://jobs.ashbyhq.com/uncountable
+  category: open-source-and-platform
+  ats:
+    ashby: uncountable
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/uncountable
