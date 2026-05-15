@@ -133,7 +133,7 @@ jobs:
 
             // Split between two free-tier agents to lift the daily ceiling.
             // Jules free: 15 tasks/day. OpenHands free: 10 conversations/day.
-            // First N -> Jules (jules label); next M -> OpenHands (fix-me label).
+            // First N -> Jules (jules label); next M -> OpenHands (openhands label).
             // Each one routes to exactly one agent to prevent racing PRs.
             const JULES_CAP = 5;
             const OPENHANDS_CAP = 7;
@@ -156,7 +156,7 @@ jobs:
                 core.info(`Skip ${c.slug} — already has an open issue.`);
                 continue;
               }
-              const agentLabel = i < JULES_CAP ? 'jules' : 'fix-me';
+              const agentLabel = i < JULES_CAP ? 'jules' : 'openhands';
               const agentName = i < JULES_CAP ? 'Jules' : 'OpenHands';
               const detailBlock = '```\n' + c.details.join('\n') + '\n```';
               const body = c.fix === 'url_swap'
