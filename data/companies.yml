@@ -6052,3 +6052,151 @@
   - international
   sources:
   - https://jobs.ashbyhq.com/backpack
+
+- name: Cinder
+  slug: cinder
+  domain: cindercooks.com
+  careers_url: https://jobs.ashbyhq.com/cinder
+  category: consumer-and-marketplace
+  ats:
+    ashby: cinder
+  tags:
+  - consumer
+  - consumer-consumer-electronics
+  - hardware
+  sources:
+  - https://jobs.ashbyhq.com/cinder
+
+- name: Copia
+  slug: copia
+  domain: gocopia.com
+  careers_url: https://jobs.lever.co/copia
+  category: consumer-and-marketplace
+  ats:
+    lever: copia
+  tags:
+  - b2b
+  - b2b-office-management
+  - saas
+  - food-tech
+  sources:
+  - https://jobs.lever.co/copia
+
+- name: Boom
+  slug: boom
+  domain: boomsupersonic.com
+  careers_url: https://jobs.ashbyhq.com/boom
+  category: consumer-and-marketplace
+  ats:
+    ashby: boom
+  tags:
+  - industrials
+  - industrials-aviation-and-space
+  - transportation
+  - aerospace
+  sources:
+  - https://jobs.ashbyhq.com/boom
+
+- name: Roofr
+  slug: roofr
+  domain: roofr.com
+  careers_url: https://boards.greenhouse.io/roofr
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: roofr
+  tags:
+  - consumer
+  - consumer-home-and-personal
+  - saas
+  - construction
+  sources:
+  - https://boards.greenhouse.io/roofr
+
+- name: Ben
+  slug: ben
+  domain: ben.co
+  careers_url: https://jobs.ashbyhq.com/ben
+  category: fintech
+  ats:
+    ashby: ben
+  tags:
+  - fintech
+  - fintech-banking-and-exchange
+  - crypto-web3
+  sources:
+  - https://jobs.ashbyhq.com/ben
+
+- name: Postscript
+  slug: postscript
+  domain: postscript.io
+  careers_url: https://boards.greenhouse.io/postscript
+  category: developer-infrastructure
+  ats:
+    greenhouse: postscript
+  tags:
+  - b2b
+  - b2b-marketing
+  - saas
+  - e-commerce
+  sources:
+  - https://boards.greenhouse.io/postscript
+
+- name: Volta Labs, Inc.
+  slug: volta-labs-inc
+  domain: voltalabs.com
+  careers_url: https://jobs.lever.co/voltalabs
+  category: consumer-and-marketplace
+  ats:
+    lever: voltalabs
+  tags:
+  - healthcare
+  - healthcare-industrial-bio
+  - hard-tech
+  - hardware
+  sources:
+  - https://jobs.lever.co/voltalabs
+
+- name: Embrace
+  slug: embrace
+  domain: embrace.io
+  careers_url: https://boards.greenhouse.io/embrace
+  category: developer-infrastructure
+  ats:
+    greenhouse: embrace
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - developer-tools
+  - saas
+  sources:
+  - https://boards.greenhouse.io/embrace
+
+- name: Blissway
+  slug: blissway
+  domain: blissway.com
+  careers_url: https://jobs.ashbyhq.com/blissway
+  category: developer-infrastructure
+  ats:
+    ashby: blissway
+  tags:
+  - government
+  - hardware
+  - machine-learning
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/blissway
+
+- name: Vitable Health
+  slug: vitable-health
+  domain: vitablehealth.com
+  careers_url: https://boards.greenhouse.io/vitablehealth
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: vitablehealth
+  tags:
+  - healthcare
+  - healthcare-healthcare-services
+  - digital-health
+  - health-insurance
+  sources:
+  - https://boards.greenhouse.io/vitablehealth

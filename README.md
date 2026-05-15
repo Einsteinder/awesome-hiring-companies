@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **420 companies**.
+Currently tracking **430 companies**.
 
 This repository is designed for two uses:
 
@@ -475,6 +475,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [Icarus](https://icarus.one) - Stratospheric birds for defense
 - [OpenWork](https://openworklabs.com) - The open source alternative to Claude Cowork
 - [Backpack](https://backpackbang.com) - Marketplace to get stuff from overseas
+- [Cinder](https://cindercooks.com) - The World’s First Countertop Precision Grill –  using two ceramic…
+- [Copia](https://gocopia.com) - Copia's a for-profit technology company that solves food waste &…
+- [Boom](https://boomsupersonic.com) - Economically and environmentally sustainable supersonic travel
+- [Roofr](https://roofr.com) - Sales software for roofers. Aerial measurements + proposals in seconds
+- [Ben](https://ben.co) - The easiest way to learn about, buy, and store cryptocurrency.
+- [Postscript](https://postscript.io) - The SMS revenue platform for e-commerce merchants
+- [Volta Labs, Inc.](https://voltalabs.com) - Unlocking the utility of genomics for the world.
+- [Embrace](https://embrace.io) - Modern mobile observability built on OpenTelemetry
+- [Blissway](https://blissway.com) - The tolling industry’s prime tech infrastructure
+- [Vitable Health](https://vitablehealth.com) - Affordable care via ICHRA and primary care with visits, meds, labs…
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
