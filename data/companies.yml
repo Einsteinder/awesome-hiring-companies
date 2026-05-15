@@ -19025,3 +19025,123 @@
   - open
   sources:
   - https://jobs.lever.co/syntax
+
+- name: Tact
+  slug: tact
+  domain: tact.com
+  careers_url: https://jobs.lever.co/tact
+  category: open-source-and-platform
+  ats:
+    lever: tact
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/tact
+
+- name: Teller
+  slug: teller
+  domain: teller.com
+  careers_url: https://jobs.lever.co/teller
+  category: open-source-and-platform
+  ats:
+    lever: teller
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/teller
+
+- name: Texture
+  slug: texture
+  domain: texture.com
+  careers_url: https://jobs.ashbyhq.com/texture
+  category: open-source-and-platform
+  ats:
+    ashby: texture
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/texture
+
+- name: Tides
+  slug: tides
+  domain: tides.com
+  careers_url: https://jobs.ashbyhq.com/tides
+  category: open-source-and-platform
+  ats:
+    ashby: tides
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/tides
+
+- name: Timely
+  slug: timely
+  domain: timely.com
+  careers_url: https://jobs.ashbyhq.com/timely
+  category: open-source-and-platform
+  ats:
+    ashby: timely
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/timely
+
+- name: Trig
+  slug: trig
+  domain: trig.com
+  careers_url: https://jobs.ashbyhq.com/trig
+  category: open-source-and-platform
+  ats:
+    ashby: trig
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/trig
+
+- name: Trio
+  slug: trio
+  domain: trio.com
+  careers_url: https://jobs.lever.co/trio
+  category: open-source-and-platform
+  ats:
+    lever: trio
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/trio
+
+- name: Unlikely
+  slug: unlikely
+  domain: unlikely.com
+  careers_url: https://jobs.lever.co/unlikely
+  category: open-source-and-platform
+  ats:
+    lever: unlikely
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/unlikely
+
+- name: Humanist
+  slug: humanist
+  domain: humanist.com
+  careers_url: https://jobs.ashbyhq.com/humanist
+  category: open-source-and-platform
+  ats:
+    ashby: humanist
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/humanist
+
+- name: Incandescent
+  slug: incandescent
+  domain: incandescent.com
+  careers_url: https://jobs.ashbyhq.com/incandescent
+  category: open-source-and-platform
+  ats:
+    ashby: incandescent
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/incandescent

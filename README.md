@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1418 companies**.
+Currently tracking **1428 companies**.
 
 This repository is designed for two uses:
 
@@ -1474,6 +1474,16 @@ Open source video player (video.js)
 - [Superconductor](https://superconductor.com) - Hiring via Ashby (superconductor).
 - [Symmetry](https://symmetry.com) - Hiring via Ashby (symmetry).
 - [Syntax](https://syntax.com) - Hiring via Lever (syntax).
+- [Tact](https://tact.com) - Hiring via Lever (tact).
+- [Teller](https://teller.com) - Hiring via Lever (teller).
+- [Texture](https://texture.com) - Hiring via Ashby (texture).
+- [Tides](https://tides.com) - Hiring via Ashby (tides).
+- [Timely](https://timely.com) - Hiring via Ashby (timely).
+- [Trig](https://trig.com) - Hiring via Ashby (trig).
+- [Trio](https://trio.com) - Hiring via Lever (trio).
+- [Unlikely](https://unlikely.com) - Hiring via Lever (unlikely).
+- [Humanist](https://humanist.com) - Hiring via Ashby (humanist).
+- [Incandescent](https://incandescent.com) - Hiring via Ashby (incandescent).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
