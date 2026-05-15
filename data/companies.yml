@@ -3164,3 +3164,145 @@
   - data-labeling
   sources:
   - https://jobs.ashbyhq.com/afterquery
+
+- name: Tremendous
+  slug: tremendous
+  domain: tremendous.com
+  careers_url: https://jobs.ashbyhq.com/tremendous
+  category: fintech
+  ats:
+    ashby: tremendous
+  tags:
+  - fintech
+  - fintech-payments
+  - payments
+  sources:
+  - https://jobs.ashbyhq.com/tremendous
+
+- name: Pair Team
+  slug: pair-team
+  domain: pairteam.com
+  careers_url: https://boards.greenhouse.io/pairteam
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: pairteam
+  tags:
+  - healthcare
+  - healthcare-healthcare-services
+  - health-tech
+  - workflow-automation
+  sources:
+  - https://boards.greenhouse.io/pairteam
+
+- name: Tendo
+  slug: tendo
+  domain: tendo.app
+  careers_url: https://jobs.lever.co/tendo
+  category: consumer-and-marketplace
+  ats:
+    lever: tendo
+  tags:
+  - consumer
+  - consumer-social
+  - fintech
+  - marketplace
+  sources:
+  - https://jobs.lever.co/tendo
+
+- name: Unify
+  slug: unify
+  domain: unify.ai
+  careers_url: https://jobs.ashbyhq.com/unify
+  category: developer-infrastructure
+  ats:
+    ashby: unify
+  tags:
+  - b2b
+  - b2b-infrastructure
+  - artificial-intelligence
+  - generative-ai
+  sources:
+  - https://jobs.ashbyhq.com/unify
+
+- name: Avoca
+  slug: avoca
+  domain: avoca.ai
+  careers_url: https://jobs.ashbyhq.com/avoca
+  category: ai-and-data
+  ats:
+    ashby: avoca
+  tags:
+  - b2b
+  sources:
+  - https://jobs.ashbyhq.com/avoca
+
+- name: Alloy
+  slug: alloy
+  domain: alloy.app
+  careers_url: https://boards.greenhouse.io/alloy
+  category: ai-and-data
+  ats:
+    greenhouse: alloy
+  tags:
+  - b2b
+  - b2b-productivity
+  - design
+  - design-tools
+  sources:
+  - https://boards.greenhouse.io/alloy
+
+- name: Tennr
+  slug: tennr
+  domain: tennr.com
+  careers_url: https://jobs.ashbyhq.com/tennr
+  category: consumer-and-marketplace
+  ats:
+    ashby: tennr
+  tags:
+  - b2b
+  - healthcare
+  sources:
+  - https://jobs.ashbyhq.com/tennr
+
+- name: Capi Money
+  slug: capi-money
+  domain: capimoney.com
+  careers_url: https://jobs.ashbyhq.com/capimoney
+  category: fintech
+  ats:
+    ashby: capimoney
+  tags:
+  - fintech
+  - fintech-payments
+  - payments
+  sources:
+  - https://jobs.ashbyhq.com/capimoney
+
+- name: Retell AI
+  slug: retell-ai
+  domain: retellai.com
+  careers_url: https://jobs.ashbyhq.com/retell-ai
+  category: ai-and-data
+  ats:
+    ashby: retell-ai
+  tags:
+  - b2b
+  - artificial-intelligence
+  - ai
+  sources:
+  - https://jobs.ashbyhq.com/retell-ai
+
+- name: Harper
+  slug: harper
+  domain: harperinsure.com
+  careers_url: https://jobs.ashbyhq.com/harperinsure
+  category: ai-and-data
+  ats:
+    ashby: harperinsure
+  tags:
+  - fintech
+  - fintech-insurance
+  - insurance
+  - ai
+  sources:
+  - https://jobs.ashbyhq.com/harperinsure

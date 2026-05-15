@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **220 companies**.
+Currently tracking **230 companies**.
 
 This repository is designed for two uses:
 
@@ -275,6 +275,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [Plume](https://plumefinder.com) - Renewable infrastructure deployment at scale.
 - [Symphony](https://getsymphony.co) - Voice AI sims for next-gen employee training
 - [AfterQuery](https://afterquery.com) - Applied research lab curating data solutions for foundation model…
+- [Tremendous](https://tremendous.com) - How businesses send money to people at scale. Fast, free, global.
+- [Pair Team](https://pairteam.com) - Building the safety net of the future
+- [Tendo](https://tendo.app) - Enabling Africans to sell online with zero capital
+- [Unify](https://unify.ai) - Hire AI — Not APIs ✨
+- [Avoca](https://avoca.ai) - AI-powered Sales Agent for Service-Based Industries
+- [Alloy](https://alloy.app) - AI Prototyping for Product Management
+- [Tennr](https://tennr.com) - Fast, Transparent Patient Experiences
+- [Capi Money](https://capimoney.com) - Helping businesses in emerging markets make pay their international…
+- [Retell AI](https://retellai.com) - Supercharge Your Contact Center Operations with AI Phone Agents
+- [Harper](https://harperinsure.com) - AI-native commercial insurance brokerage
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
