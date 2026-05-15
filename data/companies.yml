@@ -3597,3 +3597,149 @@
   - home-services
   sources:
   - https://jobs.ashbyhq.com/broccoli
+
+- name: Metriport
+  slug: metriport
+  domain: metriport.com
+  careers_url: https://jobs.ashbyhq.com/metriport
+  category: ai-and-data
+  ats:
+    ashby: metriport
+  tags:
+  - healthcare
+  - healthcare-healthcare-it
+  - artificial-intelligence
+  - b2b
+  sources:
+  - https://jobs.ashbyhq.com/metriport
+
+- name: Langdock
+  slug: langdock
+  domain: langdock.com
+  careers_url: https://jobs.ashbyhq.com/langdock
+  category: ai-and-data
+  ats:
+    ashby: langdock
+  tags:
+  - b2b
+  - b2b-productivity
+  - artificial-intelligence
+  - ai
+  sources:
+  - https://jobs.ashbyhq.com/langdock
+
+- name: Hazel
+  slug: hazel
+  domain: hazelai.com
+  careers_url: https://boards.greenhouse.io/hazel
+  category: ai-and-data
+  ats:
+    greenhouse: hazel
+  tags:
+  - government
+  - govtech
+  - procurement
+  - ai
+  sources:
+  - https://boards.greenhouse.io/hazel
+
+- name: Conveo
+  slug: conveo
+  domain: conveo.ai
+  careers_url: https://jobs.ashbyhq.com/conveo
+  category: ai-and-data
+  ats:
+    ashby: conveo
+  tags:
+  - b2b
+  - saas
+  - feedback
+  - market-research
+  sources:
+  - https://jobs.ashbyhq.com/conveo
+
+- name: Phonely
+  slug: phonely
+  domain: phonely.ai
+  careers_url: https://jobs.ashbyhq.com/phonely
+  category: ai-and-data
+  ats:
+    ashby: phonely
+  tags:
+  - b2b
+  sources:
+  - https://jobs.ashbyhq.com/phonely
+
+- name: Vibe
+  slug: vibe
+  domain: vibe.codes
+  careers_url: https://jobs.ashbyhq.com/vibe
+  category: developer-infrastructure
+  ats:
+    ashby: vibe
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - developer-tools
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/vibe
+
+- name: Primer
+  slug: primer
+  domain: startprimer.com
+  careers_url: https://jobs.ashbyhq.com/primer
+  category: ai-and-data
+  ats:
+    ashby: primer
+  tags:
+  - b2b
+  - artificial-intelligence
+  - saas
+  - sales
+  sources:
+  - https://jobs.ashbyhq.com/primer
+
+- name: Akido Labs
+  slug: akido-labs
+  domain: akidolabs.com
+  careers_url: https://boards.greenhouse.io/akidolabs
+  category: ai-and-data
+  ats:
+    greenhouse: akidolabs
+  tags:
+  - healthcare
+  - healthcare-healthcare-it
+  - artificial-intelligence
+  - deep-learning
+  sources:
+  - https://boards.greenhouse.io/akidolabs
+
+- name: Notable Labs
+  slug: notable-labs
+  domain: notablelabs.com
+  careers_url: https://jobs.ashbyhq.com/notable
+  category: consumer-and-marketplace
+  ats:
+    ashby: notable
+  tags:
+  - healthcare
+  - healthcare-diagnostics
+  - biotech
+  - drug-discovery
+  sources:
+  - https://jobs.ashbyhq.com/notable
+
+- name: Rigetti Computing
+  slug: rigetti-computing
+  domain: rigetti.com
+  careers_url: https://jobs.lever.co/rigetti
+  category: open-source-and-platform
+  ats:
+    lever: rigetti
+  tags:
+  - industrials
+  - industrials-manufacturing-and-robotics
+  - quantum-computing
+  sources:
+  - https://jobs.lever.co/rigetti

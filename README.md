@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **250 companies**.
+Currently tracking **260 companies**.
 
 This repository is designed for two uses:
 
@@ -305,6 +305,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [Odys Aviation](https://odysaviation.com) - Vertical takeoff and landing aircraft for major airlines
 - [Turion Space](https://turionspace.com) - Moving Things Around in Space, Imaging Space Objects When We're Not
 - [Broccoli AI](https://broccoli.com) - AI-native operating system for home service businesses
+- [Metriport](https://metriport.com) - Open-Source Platform for Healthcare Data Intelligence
+- [Langdock](https://langdock.com) - The all-in-one AI platform for companies.
+- [Hazel](https://hazelai.com) - AI-enabled procurement for government
+- [Conveo](https://conveo.ai) - Confident decisions in days with AI-led interviews.
+- [Phonely](https://phonely.ai) - AI call centers
+- [Vibe](https://vibe.codes) - Making everyone a software engineer
+- [Primer](https://startprimer.com) - AI Product Demos
+- [Akido Labs](https://akidolabs.com) - Rebuilding healthcare with AI at the core
+- [Notable Labs](https://notablelabs.com) - Personalized drug discovery for blood cancer.
+- [Rigetti Computing](https://rigetti.com) - Quantum coherent supercomputing.
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
