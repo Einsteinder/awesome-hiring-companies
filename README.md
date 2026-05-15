@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **940 companies**.
+Currently tracking **950 companies**.
 
 This repository is designed for two uses:
 
@@ -996,6 +996,16 @@ Open source video player (video.js)
 - [Change](https://change.com) - Hiring via Ashby (change).
 - [Chromatic](https://chromatic.com) - Hiring via Ashby (chromatic).
 - [Clair](https://clair.com) - Hiring via Ashby (clair).
+- [Comity](https://comity.com) - Hiring via Ashby (comity).
+- [Dimensional](https://dimensional.com) - Hiring via Ashby (dimensional).
+- [Flipper](https://flipper.com) - Hiring via Ashby (flipper).
+- [Gimlet](https://gimlet.com) - Hiring via Ashby (gimlet).
+- [Goody](https://goody.com) - Hiring via Ashby (goody).
+- [Harmony](https://harmony.com) - Hiring via Lever (harmony).
+- [Accrue](https://accrue.com) - Hiring via Greenhouse (accrue).
+- [Adonis](https://adonis.com) - Hiring via Ashby (adonis).
+- [Allspice](https://allspice.com) - Hiring via Ashby (allspice).
+- [April](https://april.com) - Hiring via Ashby (april).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

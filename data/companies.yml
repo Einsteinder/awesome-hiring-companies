@@ -13289,3 +13289,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/clair
+
+- name: Comity
+  slug: comity
+  domain: comity.com
+  careers_url: https://jobs.ashbyhq.com/comity
+  category: open-source-and-platform
+  ats:
+    ashby: comity
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/comity
+
+- name: Dimensional
+  slug: dimensional
+  domain: dimensional.com
+  careers_url: https://jobs.ashbyhq.com/dimensional
+  category: open-source-and-platform
+  ats:
+    ashby: dimensional
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/dimensional
+
+- name: Flipper
+  slug: flipper
+  domain: flipper.com
+  careers_url: https://jobs.ashbyhq.com/flipper
+  category: open-source-and-platform
+  ats:
+    ashby: flipper
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/flipper
+
+- name: Gimlet
+  slug: gimlet
+  domain: gimlet.com
+  careers_url: https://jobs.ashbyhq.com/gimlet
+  category: open-source-and-platform
+  ats:
+    ashby: gimlet
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/gimlet
+
+- name: Goody
+  slug: goody
+  domain: goody.com
+  careers_url: https://jobs.ashbyhq.com/goody
+  category: open-source-and-platform
+  ats:
+    ashby: goody
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/goody
+
+- name: Harmony
+  slug: harmony
+  domain: harmony.com
+  careers_url: https://jobs.lever.co/harmony
+  category: open-source-and-platform
+  ats:
+    lever: harmony
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/harmony
+
+- name: Accrue
+  slug: accrue
+  domain: accrue.com
+  careers_url: https://boards.greenhouse.io/accrue
+  category: open-source-and-platform
+  ats:
+    greenhouse: accrue
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/accrue
+
+- name: Adonis
+  slug: adonis
+  domain: adonis.com
+  careers_url: https://jobs.ashbyhq.com/adonis
+  category: open-source-and-platform
+  ats:
+    ashby: adonis
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/adonis
+
+- name: Allspice
+  slug: allspice
+  domain: allspice.com
+  careers_url: https://jobs.ashbyhq.com/allspice
+  category: open-source-and-platform
+  ats:
+    ashby: allspice
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/allspice
+
+- name: April
+  slug: april
+  domain: april.com
+  careers_url: https://jobs.ashbyhq.com/april
+  category: open-source-and-platform
+  ats:
+    ashby: april
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/april
