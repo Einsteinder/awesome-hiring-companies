@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1020 companies**.
+Currently tracking **1030 companies**.
 
 This repository is designed for two uses:
 
@@ -1076,6 +1076,16 @@ Open source video player (video.js)
 - [Cosmos](https://cosmos.com) - Hiring via Ashby (cosmos).
 - [Cubist](https://cubist.com) - Hiring via Ashby (cubist).
 - [Dovetail](https://dovetail.com) - Hiring via Ashby (dovetail).
+- [Duckbill](https://duckbill.com) - Hiring via Ashby (duckbill).
+- [Employ](https://employ.com) - Hiring via Lever (employ).
+- [Espresso](https://espresso.com) - Hiring via Ashby (espresso).
+- [Evolve](https://evolve.com) - Hiring via Ashby (evolve).
+- [Fizz](https://fizz.com) - Hiring via Ashby (fizz).
+- [Flagstone](https://flagstone.com) - Hiring via Ashby (flagstone).
+- [Foley](https://foley.com) - Hiring via Ashby (foley).
+- [Foursquare](https://foursquare.com) - Hiring via Ashby (foursquare).
+- [Gauntlet](https://gauntlet.com) - Hiring via Lever (gauntlet).
+- [Griffin](https://griffin.com) - Hiring via Ashby (griffin).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

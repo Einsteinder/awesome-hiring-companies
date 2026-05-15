@@ -14249,3 +14249,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/dovetail
+
+- name: Duckbill
+  slug: duckbill
+  domain: duckbill.com
+  careers_url: https://jobs.ashbyhq.com/duckbill
+  category: open-source-and-platform
+  ats:
+    ashby: duckbill
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/duckbill
+
+- name: Employ
+  slug: employ
+  domain: employ.com
+  careers_url: https://jobs.lever.co/employ
+  category: open-source-and-platform
+  ats:
+    lever: employ
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/employ
+
+- name: Espresso
+  slug: espresso
+  domain: espresso.com
+  careers_url: https://jobs.ashbyhq.com/espresso
+  category: open-source-and-platform
+  ats:
+    ashby: espresso
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/espresso
+
+- name: Evolve
+  slug: evolve
+  domain: evolve.com
+  careers_url: https://jobs.ashbyhq.com/evolve
+  category: open-source-and-platform
+  ats:
+    ashby: evolve
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/evolve
+
+- name: Fizz
+  slug: fizz
+  domain: fizz.com
+  careers_url: https://jobs.ashbyhq.com/fizz
+  category: open-source-and-platform
+  ats:
+    ashby: fizz
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/fizz
+
+- name: Flagstone
+  slug: flagstone
+  domain: flagstone.com
+  careers_url: https://jobs.ashbyhq.com/flagstone
+  category: open-source-and-platform
+  ats:
+    ashby: flagstone
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/flagstone
+
+- name: Foley
+  slug: foley
+  domain: foley.com
+  careers_url: https://jobs.ashbyhq.com/foley
+  category: open-source-and-platform
+  ats:
+    ashby: foley
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/foley
+
+- name: Foursquare
+  slug: foursquare
+  domain: foursquare.com
+  careers_url: https://jobs.ashbyhq.com/foursquare
+  category: open-source-and-platform
+  ats:
+    ashby: foursquare
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/foursquare
+
+- name: Gauntlet
+  slug: gauntlet
+  domain: gauntlet.com
+  careers_url: https://jobs.lever.co/gauntlet
+  category: open-source-and-platform
+  ats:
+    lever: gauntlet
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/gauntlet
+
+- name: Griffin
+  slug: griffin
+  domain: griffin.com
+  careers_url: https://jobs.ashbyhq.com/griffin
+  category: open-source-and-platform
+  ats:
+    ashby: griffin
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/griffin
