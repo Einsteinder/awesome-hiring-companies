@@ -20009,3 +20009,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/zero
+
+- name: True Anomaly
+  slug: true-anomaly
+  domain: trueanomaly.com
+  careers_url: https://boards.greenhouse.io/trueanomalyinc
+  category: open-source-and-platform
+  ats:
+    greenhouse: trueanomalyinc
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/trueanomalyinc
+
+- name: Horace Mann
+  slug: horace-mann
+  domain: horacemann.com
+  careers_url: https://boards.greenhouse.io/horacemannservicecorporation
+  category: open-source-and-platform
+  ats:
+    greenhouse: horacemannservicecorporation
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/horacemannservicecorporation
+
+- name: General Matter
+  slug: general-matter
+  domain: generalmatter.com
+  careers_url: https://boards.greenhouse.io/generalmatter
+  category: open-source-and-platform
+  ats:
+    greenhouse: generalmatter
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/generalmatter
+
+- name: Glydways
+  slug: glydways
+  domain: glydways.com
+  careers_url: https://boards.greenhouse.io/glydways
+  category: open-source-and-platform
+  ats:
+    greenhouse: glydways
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/glydways
+
+- name: XPENG
+  slug: xpeng
+  domain: xpeng.com
+  careers_url: https://boards.greenhouse.io/xpengmotors
+  category: open-source-and-platform
+  ats:
+    greenhouse: xpengmotors
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/xpengmotors
+
+- name: Alarm.com
+  slug: alarm-com
+  domain: alarmcom.com
+  careers_url: https://boards.greenhouse.io/alarmcom
+  category: open-source-and-platform
+  ats:
+    greenhouse: alarmcom
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/alarmcom
+
+- name: Rocket Lawyer
+  slug: rocket-lawyer
+  domain: rocketlawyer.com
+  careers_url: https://boards.greenhouse.io/rocketlawyer
+  category: open-source-and-platform
+  ats:
+    greenhouse: rocketlawyer
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/rocketlawyer
+
+- name: Constant Contact
+  slug: constant-contact
+  domain: constantcontact.com
+  careers_url: https://boards.greenhouse.io/constantcontact
+  category: open-source-and-platform
+  ats:
+    greenhouse: constantcontact
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/constantcontact
+
+- name: Loop
+  slug: loop
+  domain: loop.com
+  careers_url: https://boards.greenhouse.io/loop
+  category: open-source-and-platform
+  ats:
+    greenhouse: loop
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/loop
+
+- name: Point72
+  slug: point72
+  domain: point72.com
+  careers_url: https://boards.greenhouse.io/point72
+  category: open-source-and-platform
+  ats:
+    greenhouse: point72
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/point72

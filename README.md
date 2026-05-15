@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1500 companies**.
+Currently tracking **1510 companies**.
 
 This repository is designed for two uses:
 
@@ -1556,6 +1556,16 @@ Open source video player (video.js)
 - [Whereby](https://whereby.com) - Hiring via Lever (whereby).
 - [Whisk](https://whisk.com) - Hiring via Ashby (whisk).
 - [Zero](https://zero.com) - Hiring via Ashby (zero).
+- [True Anomaly](https://trueanomaly.com) - Hiring via Greenhouse (trueanomalyinc).
+- [Horace Mann](https://horacemann.com) - Hiring via Greenhouse (horacemannservicecorporation).
+- [General Matter](https://generalmatter.com) - Hiring via Greenhouse (generalmatter).
+- [Glydways](https://glydways.com) - Hiring via Greenhouse (glydways).
+- [XPENG](https://xpeng.com) - Hiring via Greenhouse (xpengmotors).
+- [Alarm.com](https://alarmcom.com) - Hiring via Greenhouse (alarmcom).
+- [Rocket Lawyer](https://rocketlawyer.com) - Hiring via Greenhouse (rocketlawyer).
+- [Constant Contact](https://constantcontact.com) - Hiring via Greenhouse (constantcontact).
+- [Loop](https://loop.com) - Hiring via Greenhouse (loop).
+- [Point72](https://point72.com) - Hiring via Greenhouse (point72).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
