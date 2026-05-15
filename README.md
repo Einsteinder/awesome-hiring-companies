@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **200 companies**.
+Currently tracking **210 companies**.
 
 This repository is designed for two uses:
 
@@ -255,6 +255,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [Xendit](https://xendit.co) - Provides payment infrastructure for Southeast Asia
 - [Camber](https://camber.health) - Admin automation for healthcare
 - [Parallel Bio](https://parallel.bio) - Using the immune system to cure disease
+- [voize](https://voize.de) - We build the AI companion for nurses, to create time for care.
+- [Numeral](https://numeral.com) - The AI-native sales tax solution.
+- [Latent](https://latenthealth.com) - Medical language models to automate healthcare operations
+- [Echo](https://echothat.ai) - Founder-led sales co-pilot for B2B startups.
+- [Gecko Robotics](https://geckorobotics.com) - AI + Robotics for the Built World
+- [Sendbird](https://sendbird.com) - The AI agent that doesn’t just support, it delights.
+- [Pelago](https://pelagohealth.com) - The world's first digital clinic for substance use management
+- [Veriff](https://veriff.com) - AI-powered identity verification solution for fraud prevention.
+- [Pine Park Health](https://pineparkhealth.com) - We provide primary care in senior living communities.
+- [Glide](https://glideapps.com) - Glide turns spreadsheets into beautiful, intelligent apps.
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
