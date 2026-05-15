@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **170 companies**.
+Currently tracking **180 companies**.
 
 This repository is designed for two uses:
 
@@ -225,6 +225,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [Tandem](https://tandem.chat) - Tandem is a virtual office for remote and distributed teams.
 - [Superside](https://superside.com) - Creative-as-a-service
 - [Gigs Live](https://gigs.live) - Video publishing and monetization platform for creators and artists
+- [Verse Medical](https://versemedical.com) - Software platform for in-home healthcare
+- [Savvy](https://gosavvy.com) - Flexible stipends for employee health insurance
+- [Homebase](https://gethomebase.com) - Personalized rent-to-own real estate financing using technology in SEA
+- [Confido](https://confidotech.com) - AI-enabled financial automation and intelligence for CPG Brands
+- [Affinity](https://itsaffinity.com) - A compliance training platform built for regulated industries.
+- [Snappr](https://snappr.com) - Snappr is the one-stop-shop for visual content creation
+- [Heart Aerospace](https://heartaerospace.com) - Heart makes electric airplanes with an all-electric range of 250 miles
+- [Pantheon](https://joinpantheon.io) - A competitive community of the brightest students in the world
+- [Omni](https://addomni.com) - Fast, up-to-date answers for Sales & Support
+- [Vapi](https://vapi.ai) - Voice AI for developers.
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

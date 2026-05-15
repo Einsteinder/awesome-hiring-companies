@@ -2437,3 +2437,148 @@
   - media
   sources:
   - https://boards.greenhouse.io/gigs
+
+- name: Verse Medical
+  slug: verse-medical
+  domain: versemedical.com
+  careers_url: https://jobs.ashbyhq.com/versemedical
+  category: consumer-and-marketplace
+  ats:
+    ashby: versemedical
+  tags:
+  - healthcare
+  - healthcare-consumer-health-and-wellness
+  - consumer-health-services
+  - medical-devices
+  sources:
+  - https://jobs.ashbyhq.com/versemedical
+
+- name: Savvy
+  slug: savvy
+  domain: gosavvy.com
+  careers_url: https://jobs.ashbyhq.com/savvy
+  category: fintech
+  ats:
+    ashby: savvy
+  tags:
+  - fintech
+  - fintech-insurance
+  - healthcare
+  - health-insurance
+  sources:
+  - https://jobs.ashbyhq.com/savvy
+
+- name: Homebase
+  slug: homebase
+  domain: gethomebase.com
+  careers_url: https://jobs.ashbyhq.com/homebase
+  category: fintech
+  ats:
+    ashby: homebase
+  tags:
+  - real-estate-and-construction
+  - fintech
+  - proptech
+  sources:
+  - https://jobs.ashbyhq.com/homebase
+
+- name: Confido
+  slug: confido
+  domain: confidotech.com
+  careers_url: https://jobs.ashbyhq.com/confido
+  category: ai-and-data
+  ats:
+    ashby: confido
+  tags:
+  - b2b
+  - b2b-finance-and-accounting
+  - artificial-intelligence
+  - fintech
+  sources:
+  - https://jobs.ashbyhq.com/confido
+
+- name: Affinity
+  slug: affinity
+  domain: itsaffinity.com
+  careers_url: https://boards.greenhouse.io/affinity
+  category: fintech
+  ats:
+    greenhouse: affinity
+  tags:
+  - b2b
+  - fintech
+  - workflow-automation
+  - team-collaboration
+  sources:
+  - https://boards.greenhouse.io/affinity
+
+- name: Snappr
+  slug: snappr
+  domain: snappr.com
+  careers_url: https://jobs.lever.co/snappr
+  category: consumer-and-marketplace
+  ats:
+    lever: snappr
+  tags:
+  - b2b
+  - marketplace
+  - workflow-automation
+  sources:
+  - https://jobs.lever.co/snappr
+
+- name: Heart Aerospace
+  slug: heart-aerospace
+  domain: heartaerospace.com
+  careers_url: https://boards.greenhouse.io/heartaerospace
+  category: open-source-and-platform
+  ats:
+    greenhouse: heartaerospace
+  tags:
+  - industrials
+  - industrials-aviation-and-space
+  - climate
+  - electric-vehicles
+  sources:
+  - https://boards.greenhouse.io/heartaerospace
+
+- name: Pantheon
+  slug: pantheon
+  domain: joinpantheon.io
+  careers_url: https://boards.greenhouse.io/pantheon
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: pantheon
+  tags:
+  - education
+  - gaming
+  - social
+  sources:
+  - https://boards.greenhouse.io/pantheon
+
+- name: Omni
+  slug: omni
+  domain: addomni.com
+  careers_url: https://jobs.ashbyhq.com/omni
+  category: ai-and-data
+  ats:
+    ashby: omni
+  tags:
+  - b2b
+  - b2b-productivity
+  - artificial-intelligence
+  sources:
+  - https://jobs.ashbyhq.com/omni
+
+- name: Vapi
+  slug: vapi
+  domain: vapi.ai
+  careers_url: https://jobs.ashbyhq.com/vapi
+  category: ai-and-data
+  ats:
+    ashby: vapi
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - artificial-intelligence
+  sources:
+  - https://jobs.ashbyhq.com/vapi
