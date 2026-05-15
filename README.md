@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **530 companies**.
+Currently tracking **540 companies**.
 
 This repository is designed for two uses:
 
@@ -585,6 +585,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [Terminal](https://withterminal.com) - Plaid for Telematics Data in Commercial Trucking
 - [Outset](https://outset.ai) - AI-powered user interviews
 - [Healthtech 1](https://healthtech1.uk) - Automating repetitive processes in healthcare
+- [Tamarind Bio](https://tamarind.bio) - AI Inference Platform for Drug Discovery
+- [Spaceium Inc](https://spaceium.com) - In-Space Refueling
+- [Zeit AI](https://zeit-ai.com) - From data to enterprise insights in just a few words.
+- [Blaxel](https://blaxel.ai) - The perpetual sandbox platform
+- [b12 Labs](https://b12-labs.com) - Chemical Copilot for Pharma and Biotech
+- [Spotlight Realty](https://spotlight.realty) - AI powered brokerage reducing residential rental commissions in NYC…
+- [Mantis](https://mantisbiotech.com) - Digital Twins of humans
+- [Clever](https://clever.com) - The platform that powers technology in the classroom.
+- [Submittable](https://submittable.com) - The best way to launch, manage and measure social impact programs
+- [Legalist](https://legalist.com) - Legal investment firm
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

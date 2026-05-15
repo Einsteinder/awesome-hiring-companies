@@ -7656,3 +7656,143 @@
   - workflow-automation
   sources:
   - https://jobs.ashbyhq.com/healthtech-1
+
+- name: Tamarind Bio
+  slug: tamarind-bio
+  domain: tamarind.bio
+  careers_url: https://jobs.ashbyhq.com/tamarindbio
+  category: ai-and-data
+  ats:
+    ashby: tamarindbio
+  tags:
+  - b2b
+  - ai-powered-drug-discovery
+  - artificial-intelligence
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/tamarindbio
+
+- name: Spaceium Inc
+  slug: spaceium-inc
+  domain: spaceium.com
+  careers_url: https://boards.greenhouse.io/spaceium
+  category: open-source-and-platform
+  ats:
+    greenhouse: spaceium
+  tags:
+  - industrials
+  - industrials-aviation-and-space
+  - hard-tech
+  - robotics
+  sources:
+  - https://boards.greenhouse.io/spaceium
+
+- name: Zeit AI
+  slug: zeit-ai
+  domain: zeit-ai.com
+  careers_url: https://jobs.ashbyhq.com/zeit-ai
+  category: ai-and-data
+  ats:
+    ashby: zeit-ai
+  tags:
+  - b2b
+  - b2b-analytics
+  sources:
+  - https://jobs.ashbyhq.com/zeit-ai
+
+- name: Blaxel
+  slug: blaxel
+  domain: blaxel.ai
+  careers_url: https://jobs.ashbyhq.com/blaxel
+  category: developer-infrastructure
+  ats:
+    ashby: blaxel
+  tags:
+  - b2b
+  - artificial-intelligence
+  - developer-tools
+  - cloud-computing
+  sources:
+  - https://jobs.ashbyhq.com/blaxel
+
+- name: b12 Labs
+  slug: b12-labs
+  domain: b12-labs.com
+  careers_url: https://boards.greenhouse.io/b12
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: b12
+  tags:
+  - healthcare
+  - healthcare-drug-discovery-and-delivery
+  - ai-powered-drug-discovery
+  - robotics
+  sources:
+  - https://boards.greenhouse.io/b12
+
+- name: Spotlight Realty
+  slug: spotlight-realty
+  domain: spotlight.realty
+  careers_url: https://jobs.ashbyhq.com/spotlight
+  category: ai-and-data
+  ats:
+    ashby: spotlight
+  tags:
+  - real-estate-and-construction
+  - machine-learning
+  - real-estate
+  sources:
+  - https://jobs.ashbyhq.com/spotlight
+
+- name: Mantis
+  slug: mantis
+  domain: mantisbiotech.com
+  careers_url: https://boards.greenhouse.io/mantis
+  category: developer-infrastructure
+  ats:
+    greenhouse: mantis
+  tags:
+  - b2b
+  - b2b-infrastructure
+  sources:
+  - https://boards.greenhouse.io/mantis
+
+- name: Clever
+  slug: clever
+  domain: clever.com
+  careers_url: https://boards.greenhouse.io/clever
+  category: developer-infrastructure
+  ats:
+    greenhouse: clever
+  tags:
+  - education
+  - saas
+  sources:
+  - https://boards.greenhouse.io/clever
+
+- name: Submittable
+  slug: submittable
+  domain: submittable.com
+  careers_url: https://boards.greenhouse.io/submittable
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: submittable
+  tags:
+  - b2b
+  - saas
+  sources:
+  - https://boards.greenhouse.io/submittable
+
+- name: Legalist
+  slug: legalist
+  domain: legalist.com
+  careers_url: https://boards.greenhouse.io/legalist
+  category: fintech
+  ats:
+    greenhouse: legalist
+  tags:
+  - fintech
+  - fintech-credit-and-lending
+  - legaltech
+  sources:
+  - https://boards.greenhouse.io/legalist
