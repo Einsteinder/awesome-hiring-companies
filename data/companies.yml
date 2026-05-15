@@ -13529,3 +13529,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/harmonic
+
+- name: Aisle
+  slug: aisle
+  domain: aisle.com
+  careers_url: https://jobs.ashbyhq.com/aisle
+  category: open-source-and-platform
+  ats:
+    ashby: aisle
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/aisle
+
+- name: Arable
+  slug: arable
+  domain: arable.com
+  careers_url: https://jobs.lever.co/arable
+  category: open-source-and-platform
+  ats:
+    lever: arable
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/arable
+
+- name: Bastion
+  slug: bastion
+  domain: bastion.com
+  careers_url: https://jobs.ashbyhq.com/bastion
+  category: open-source-and-platform
+  ats:
+    ashby: bastion
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/bastion
+
+- name: Bedrock
+  slug: bedrock
+  domain: bedrock.com
+  careers_url: https://jobs.ashbyhq.com/bedrock
+  category: open-source-and-platform
+  ats:
+    ashby: bedrock
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/bedrock
+
+- name: Chief
+  slug: chief
+  domain: chief.com
+  careers_url: https://jobs.ashbyhq.com/chief
+  category: open-source-and-platform
+  ats:
+    ashby: chief
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/chief
+
+- name: Colonist
+  slug: colonist
+  domain: colonist.com
+  careers_url: https://jobs.ashbyhq.com/colonist
+  category: open-source-and-platform
+  ats:
+    ashby: colonist
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/colonist
+
+- name: Convey
+  slug: convey
+  domain: convey.com
+  careers_url: https://jobs.ashbyhq.com/convey
+  category: open-source-and-platform
+  ats:
+    ashby: convey
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/convey
+
+- name: Dave
+  slug: dave
+  domain: dave.com
+  careers_url: https://jobs.ashbyhq.com/dave
+  category: open-source-and-platform
+  ats:
+    ashby: dave
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/dave
+
+- name: Delphi
+  slug: delphi
+  domain: delphi.com
+  careers_url: https://jobs.ashbyhq.com/delphi
+  category: open-source-and-platform
+  ats:
+    ashby: delphi
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/delphi
+
+- name: Factor
+  slug: factor
+  domain: factor.com
+  careers_url: https://jobs.lever.co/factor
+  category: open-source-and-platform
+  ats:
+    lever: factor
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/factor

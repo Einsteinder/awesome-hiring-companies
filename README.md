@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **960 companies**.
+Currently tracking **970 companies**.
 
 This repository is designed for two uses:
 
@@ -1016,6 +1016,16 @@ Open source video player (video.js)
 - [Genies](https://genies.com) - Hiring via Ashby (genies).
 - [Grotto](https://grotto.com) - Hiring via Ashby (grotto).
 - [Harmonic](https://harmonic.com) - Hiring via Ashby (harmonic).
+- [Aisle](https://aisle.com) - Hiring via Ashby (aisle).
+- [Arable](https://arable.com) - Hiring via Lever (arable).
+- [Bastion](https://bastion.com) - Hiring via Ashby (bastion).
+- [Bedrock](https://bedrock.com) - Hiring via Ashby (bedrock).
+- [Chief](https://chief.com) - Hiring via Ashby (chief).
+- [Colonist](https://colonist.com) - Hiring via Ashby (colonist).
+- [Convey](https://convey.com) - Hiring via Ashby (convey).
+- [Dave](https://dave.com) - Hiring via Ashby (dave).
+- [Delphi](https://delphi.com) - Hiring via Ashby (delphi).
+- [Factor](https://factor.com) - Hiring via Lever (factor).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
