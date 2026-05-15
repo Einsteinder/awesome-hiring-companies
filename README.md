@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **460 companies**.
+Currently tracking **470 companies**.
 
 This repository is designed for two uses:
 
@@ -515,6 +515,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [CareMessage](https://caremessage.org) - Patient engagement for low-income populations
 - [People.ai](https://people.ai) - Harnesses business activity to unlock growth.
 - [Mytos](https://mytos.bio) - Robotic human cell manufacturing
+- [Lucid Bots](https://lucidbots.com) - We build robots for dull, dirty, and dangerous jobs.
+- [Stable](https://usestable.com) - A virtual address + mailbox for business
+- [STARK BANK](https://starkbank.com) - Challenger bank for enterprises
+- [Flint](https://withflint.com) - Securing Nurses for Your Future
+- [Heron Data](https://herondata.io) - We automate document-heavy workflows in financial services and beyond
+- [Verifiable](https://verifiable.com) - API for healthcare compliance
+- [Firstbase.io](https://firstbase.io) - The all-in-one startup operating system
+- [Axle Health](https://axlehealth.com) - Scheduling and workforce management SaaS for home healthcare providers
+- [Popl](https://popl.co) - Your Complete In-Person GTM Platform
+- [Blink](https://blinklastmile.com) - Same-day delivery for e-commerce companies in Europe.
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

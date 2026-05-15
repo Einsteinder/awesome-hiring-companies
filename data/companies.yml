@@ -6637,3 +6637,148 @@
   - iot
   sources:
   - https://jobs.lever.co/mytos
+
+- name: Lucid Bots
+  slug: lucid-bots
+  domain: lucidbots.com
+  careers_url: https://boards.greenhouse.io/lucidbots
+  category: open-source-and-platform
+  ats:
+    greenhouse: lucidbots
+  tags:
+  - industrials
+  - industrials-manufacturing-and-robotics
+  - robotics
+  - drones
+  sources:
+  - https://boards.greenhouse.io/lucidbots
+
+- name: Stable
+  slug: stable
+  domain: usestable.com
+  careers_url: https://jobs.ashbyhq.com/stable
+  category: open-source-and-platform
+  ats:
+    ashby: stable
+  tags:
+  - b2b
+  - b2b-office-management
+  - remote-work
+  sources:
+  - https://jobs.ashbyhq.com/stable
+
+- name: STARK BANK
+  slug: stark-bank
+  domain: starkbank.com
+  careers_url: https://jobs.lever.co/starkbank
+  category: fintech
+  ats:
+    lever: starkbank
+  tags:
+  - fintech
+  - fintech-banking-and-exchange
+  - neobank
+  sources:
+  - https://jobs.lever.co/starkbank
+
+- name: Flint
+  slug: flint
+  domain: withflint.com
+  careers_url: https://jobs.ashbyhq.com/flint
+  category: consumer-and-marketplace
+  ats:
+    ashby: flint
+  tags:
+  - healthcare
+  sources:
+  - https://jobs.ashbyhq.com/flint
+
+- name: Heron Data
+  slug: heron-data
+  domain: herondata.io
+  careers_url: https://jobs.ashbyhq.com/herondata
+  category: ai-and-data
+  ats:
+    ashby: herondata
+  tags:
+  - b2b
+  - fintech
+  - saas
+  - ai
+  sources:
+  - https://jobs.ashbyhq.com/herondata
+
+- name: Verifiable
+  slug: verifiable
+  domain: verifiable.com
+  careers_url: https://jobs.lever.co/verifiable
+  category: consumer-and-marketplace
+  ats:
+    lever: verifiable
+  tags:
+  - healthcare
+  - healthcare-healthcare-it
+  - compliance
+  - api
+  sources:
+  - https://jobs.lever.co/verifiable
+
+- name: Firstbase.io
+  slug: firstbase-io
+  domain: firstbase.io
+  careers_url: https://jobs.ashbyhq.com/firstbaseio
+  category: developer-infrastructure
+  ats:
+    ashby: firstbaseio
+  tags:
+  - b2b
+  - b2b-operations
+  - saas
+  - legaltech
+  sources:
+  - https://jobs.ashbyhq.com/firstbaseio
+
+- name: Axle Health
+  slug: axle-health
+  domain: axlehealth.com
+  careers_url: https://jobs.ashbyhq.com/axle-health
+  category: consumer-and-marketplace
+  ats:
+    ashby: axle-health
+  tags:
+  - healthcare
+  - healthcare-healthcare-it
+  - scheduling
+  - logistics
+  sources:
+  - https://jobs.ashbyhq.com/axle-health
+
+- name: Popl
+  slug: popl
+  domain: popl.co
+  careers_url: https://jobs.ashbyhq.com/popl
+  category: ai-and-data
+  ats:
+    ashby: popl
+  tags:
+  - b2b
+  - artificial-intelligence
+  - saas
+  - emerging-markets
+  sources:
+  - https://jobs.ashbyhq.com/popl
+
+- name: Blink
+  slug: blink
+  domain: blinklastmile.com
+  careers_url: https://jobs.ashbyhq.com/blink
+  category: consumer-and-marketplace
+  ats:
+    ashby: blink
+  tags:
+  - industrials
+  - industrials-automotive
+  - e-commerce
+  - logistics
+  sources:
+  - https://jobs.ashbyhq.com/blink
