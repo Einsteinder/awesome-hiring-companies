@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1488 companies**.
+Currently tracking **1498 companies**.
 
 This repository is designed for two uses:
 
@@ -1544,6 +1544,16 @@ Open source video player (video.js)
 - [Succinct](https://succinct.com) - Hiring via Ashby (succinct).
 - [Suzy](https://suzy.com) - Hiring via Ashby (suzy).
 - [Symbiotic](https://symbiotic.com) - Hiring via Ashby (symbiotic).
+- [Tango](https://tango.com) - Hiring via Ashby (tango).
+- [Tern](https://tern.com) - Hiring via Ashby (tern).
+- [Terrarium](https://terrarium.com) - Hiring via Ashby (terrarium).
+- [Thimble](https://thimble.com) - Hiring via Lever (thimble).
+- [Trajectory](https://trajectory.com) - Hiring via Ashby (trajectory).
+- [Turnstile](https://turnstile.com) - Hiring via Ashby (turnstile).
+- [Vega](https://vega.com) - Hiring via Ashby (vega).
+- [Vitally](https://vitally.com) - Hiring via Ashby (vitally).
+- [Walrus](https://walrus.com) - Hiring via Ashby (walrus).
+- [Whereby](https://whereby.com) - Hiring via Lever (whereby).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

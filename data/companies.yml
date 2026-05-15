@@ -19865,3 +19865,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/symbiotic
+
+- name: Tango
+  slug: tango
+  domain: tango.com
+  careers_url: https://jobs.ashbyhq.com/tango
+  category: open-source-and-platform
+  ats:
+    ashby: tango
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/tango
+
+- name: Tern
+  slug: tern
+  domain: tern.com
+  careers_url: https://jobs.ashbyhq.com/tern
+  category: open-source-and-platform
+  ats:
+    ashby: tern
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/tern
+
+- name: Terrarium
+  slug: terrarium
+  domain: terrarium.com
+  careers_url: https://jobs.ashbyhq.com/terrarium
+  category: open-source-and-platform
+  ats:
+    ashby: terrarium
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/terrarium
+
+- name: Thimble
+  slug: thimble
+  domain: thimble.com
+  careers_url: https://jobs.lever.co/thimble
+  category: open-source-and-platform
+  ats:
+    lever: thimble
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/thimble
+
+- name: Trajectory
+  slug: trajectory
+  domain: trajectory.com
+  careers_url: https://jobs.ashbyhq.com/trajectory
+  category: open-source-and-platform
+  ats:
+    ashby: trajectory
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/trajectory
+
+- name: Turnstile
+  slug: turnstile
+  domain: turnstile.com
+  careers_url: https://jobs.ashbyhq.com/turnstile
+  category: open-source-and-platform
+  ats:
+    ashby: turnstile
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/turnstile
+
+- name: Vega
+  slug: vega
+  domain: vega.com
+  careers_url: https://jobs.ashbyhq.com/vega
+  category: open-source-and-platform
+  ats:
+    ashby: vega
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/vega
+
+- name: Vitally
+  slug: vitally
+  domain: vitally.com
+  careers_url: https://jobs.ashbyhq.com/vitally
+  category: open-source-and-platform
+  ats:
+    ashby: vitally
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/vitally
+
+- name: Walrus
+  slug: walrus
+  domain: walrus.com
+  careers_url: https://jobs.ashbyhq.com/walrus
+  category: open-source-and-platform
+  ats:
+    ashby: walrus
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/walrus
+
+- name: Whereby
+  slug: whereby
+  domain: whereby.com
+  careers_url: https://jobs.lever.co/whereby
+  category: open-source-and-platform
+  ats:
+    lever: whereby
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/whereby
