@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **410 companies**.
+Currently tracking **420 companies**.
 
 This repository is designed for two uses:
 
@@ -465,6 +465,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [Fleetzero](https://fleetzero.com) - Making all ships robots.
 - [Bitstack](https://bitstack-app.com) - All things money, with better money
 - [Langfuse](https://langfuse.com) - Open source LLM engineering platform
+- [Honeydew](https://honeydew.ai) - The home for shared data logic
+- [Casca](https://cascading.ai) - Make Banking Magical
+- [SafetyKit](https://safetykit.com) - AI agents for risk, compliance, and safety
+- [Garage](https://shopgarage.com) - Marketplace for America's most essential assets
+- [David AI](https://withdavid.ai) - Data for audio AI
+- [Starcloud](https://starcloud.com) - Data centers in space
+- [Solidroad](https://solidroad.com) - AI agents for CX teams, starting with training and QA.
+- [Icarus](https://icarus.one) - Stratospheric birds for defense
+- [OpenWork](https://openworklabs.com) - The open source alternative to Claude Cowork
+- [Backpack](https://backpackbang.com) - Marketplace to get stuff from overseas
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

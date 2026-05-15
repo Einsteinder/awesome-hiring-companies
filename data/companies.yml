@@ -5912,3 +5912,143 @@
   - developer-tools
   sources:
   - https://jobs.ashbyhq.com/langfuse
+
+- name: Honeydew
+  slug: honeydew
+  domain: honeydew.ai
+  careers_url: https://jobs.ashbyhq.com/honeydew
+  category: ai-and-data
+  ats:
+    ashby: honeydew
+  tags:
+  - b2b
+  - b2b-analytics
+  - saas
+  - analytics
+  sources:
+  - https://jobs.ashbyhq.com/honeydew
+
+- name: Casca
+  slug: casca
+  domain: cascading.ai
+  careers_url: https://jobs.ashbyhq.com/casca
+  category: fintech
+  ats:
+    ashby: casca
+  tags:
+  - fintech
+  - conversational-banking
+  - machine-learning
+  - finance
+  sources:
+  - https://jobs.ashbyhq.com/casca
+
+- name: SafetyKit
+  slug: safetykit
+  domain: safetykit.com
+  careers_url: https://jobs.ashbyhq.com/safetykit
+  category: ai-and-data
+  ats:
+    ashby: safetykit
+  tags:
+  - b2b
+  - fintech
+  - compliance
+  - trust-safety
+  sources:
+  - https://jobs.ashbyhq.com/safetykit
+
+- name: Garage
+  slug: garage
+  domain: shopgarage.com
+  careers_url: https://jobs.ashbyhq.com/garage
+  category: consumer-and-marketplace
+  ats:
+    ashby: garage
+  tags:
+  - b2b
+  - marketplace
+  sources:
+  - https://jobs.ashbyhq.com/garage
+
+- name: David AI
+  slug: david-ai
+  domain: withdavid.ai
+  careers_url: https://jobs.ashbyhq.com/david-ai
+  category: ai-and-data
+  ats:
+    ashby: david-ai
+  tags:
+  - b2b
+  sources:
+  - https://jobs.ashbyhq.com/david-ai
+
+- name: Starcloud
+  slug: starcloud
+  domain: starcloud.com
+  careers_url: https://boards.greenhouse.io/starcloud
+  category: ai-and-data
+  ats:
+    greenhouse: starcloud
+  tags:
+  - industrials
+  - industrials-aviation-and-space
+  - hard-tech
+  - satellites
+  sources:
+  - https://boards.greenhouse.io/starcloud
+
+- name: Solidroad
+  slug: solidroad
+  domain: solidroad.com
+  careers_url: https://jobs.ashbyhq.com/solidroad
+  category: ai-and-data
+  ats:
+    ashby: solidroad
+  tags:
+  - b2b
+  sources:
+  - https://jobs.ashbyhq.com/solidroad
+
+- name: Icarus
+  slug: icarus
+  domain: icarus.one
+  careers_url: https://boards.greenhouse.io/icarus
+  category: open-source-and-platform
+  ats:
+    greenhouse: icarus
+  tags:
+  - industrials
+  - industrials-defense
+  - hardware
+  - aerospace
+  sources:
+  - https://boards.greenhouse.io/icarus
+
+- name: OpenWork
+  slug: openwork
+  domain: openworklabs.com
+  careers_url: https://boards.greenhouse.io/openwork
+  category: open-source-and-platform
+  ats:
+    greenhouse: openwork
+  tags:
+  - b2b
+  - b2b-productivity
+  sources:
+  - https://boards.greenhouse.io/openwork
+
+- name: Backpack
+  slug: backpack
+  domain: backpackbang.com
+  careers_url: https://jobs.ashbyhq.com/backpack
+  category: consumer-and-marketplace
+  ats:
+    ashby: backpack
+  tags:
+  - consumer
+  - consumer-home-and-personal
+  - marketplace
+  - international
+  sources:
+  - https://jobs.ashbyhq.com/backpack
