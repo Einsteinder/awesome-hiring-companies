@@ -19385,3 +19385,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/raft
+
+- name: Scholarly
+  slug: scholarly
+  domain: scholarly.com
+  careers_url: https://jobs.ashbyhq.com/scholarly
+  category: open-source-and-platform
+  ats:
+    ashby: scholarly
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/scholarly
+
+- name: Sealed
+  slug: sealed
+  domain: sealed.com
+  careers_url: https://jobs.ashbyhq.com/sealed
+  category: open-source-and-platform
+  ats:
+    ashby: sealed
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/sealed
+
+- name: Smalls
+  slug: smalls
+  domain: smalls.com
+  careers_url: https://jobs.ashbyhq.com/smalls
+  category: open-source-and-platform
+  ats:
+    ashby: smalls
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/smalls
+
+- name: Speckle
+  slug: speckle
+  domain: speckle.com
+  careers_url: https://jobs.ashbyhq.com/speckle
+  category: open-source-and-platform
+  ats:
+    ashby: speckle
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/speckle
+
+- name: Spiral
+  slug: spiral
+  domain: spiral.com
+  careers_url: https://jobs.ashbyhq.com/spiral
+  category: open-source-and-platform
+  ats:
+    ashby: spiral
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/spiral
+
+- name: Steel
+  slug: steel
+  domain: steel.com
+  careers_url: https://jobs.ashbyhq.com/steel
+  category: open-source-and-platform
+  ats:
+    ashby: steel
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/steel
+
+- name: Synthetic
+  slug: synthetic
+  domain: synthetic.com
+  careers_url: https://jobs.ashbyhq.com/synthetic
+  category: open-source-and-platform
+  ats:
+    ashby: synthetic
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/synthetic
+
+- name: Tenor
+  slug: tenor
+  domain: tenor.com
+  careers_url: https://jobs.ashbyhq.com/tenor
+  category: open-source-and-platform
+  ats:
+    ashby: tenor
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/tenor
+
+- name: Tightrope
+  slug: tightrope
+  domain: tightrope.com
+  careers_url: https://jobs.ashbyhq.com/tightrope
+  category: open-source-and-platform
+  ats:
+    ashby: tightrope
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/tightrope
+
+- name: Toms
+  slug: toms
+  domain: toms.com
+  careers_url: https://jobs.ashbyhq.com/toms
+  category: open-source-and-platform
+  ats:
+    ashby: toms
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/toms

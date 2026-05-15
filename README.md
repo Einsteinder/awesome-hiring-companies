@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1448 companies**.
+Currently tracking **1458 companies**.
 
 This repository is designed for two uses:
 
@@ -1504,6 +1504,16 @@ Open source video player (video.js)
 - [Permute](https://permute.com) - Hiring via Ashby (permute).
 - [Plasma](https://plasma.com) - Hiring via Ashby (plasma).
 - [Raft](https://raft.com) - Hiring via Ashby (raft).
+- [Scholarly](https://scholarly.com) - Hiring via Ashby (scholarly).
+- [Sealed](https://sealed.com) - Hiring via Ashby (sealed).
+- [Smalls](https://smalls.com) - Hiring via Ashby (smalls).
+- [Speckle](https://speckle.com) - Hiring via Ashby (speckle).
+- [Spiral](https://spiral.com) - Hiring via Ashby (spiral).
+- [Steel](https://steel.com) - Hiring via Ashby (steel).
+- [Synthetic](https://synthetic.com) - Hiring via Ashby (synthetic).
+- [Tenor](https://tenor.com) - Hiring via Ashby (tenor).
+- [Tightrope](https://tightrope.com) - Hiring via Ashby (tightrope).
+- [Toms](https://toms.com) - Hiring via Ashby (toms).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
