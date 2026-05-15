@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1398 companies**.
+Currently tracking **1408 companies**.
 
 This repository is designed for two uses:
 
@@ -1454,6 +1454,16 @@ Open source video player (video.js)
 - [Magnify](https://magnify.com) - Hiring via Lever (magnify).
 - [Materialize](https://materialize.com) - Hiring via Ashby (materialize).
 - [Noodle](https://noodle.com) - Hiring via Lever (noodle).
+- [Parity](https://parity.com) - Hiring via Ashby (parity).
+- [Plot](https://plot.com) - Hiring via Ashby (plot).
+- [Precede](https://precede.com) - Hiring via Lever (precede).
+- [Prime](https://prime.com) - Hiring via Ashby (prime).
+- [Prose](https://prose.com) - Hiring via Ashby (prose).
+- [Provable](https://provable.com) - Hiring via Ashby (provable).
+- [Quanta](https://quanta.com) - Hiring via Ashby (quanta).
+- [Recharge](https://recharge.com) - Hiring via Ashby (recharge).
+- [Renegade](https://renegade.com) - Hiring via Lever (renegade).
+- [Rerun](https://rerun.com) - Hiring via Ashby (rerun).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

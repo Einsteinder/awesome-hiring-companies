@@ -18785,3 +18785,123 @@
   - open
   sources:
   - https://jobs.lever.co/noodle
+
+- name: Parity
+  slug: parity
+  domain: parity.com
+  careers_url: https://jobs.ashbyhq.com/parity
+  category: open-source-and-platform
+  ats:
+    ashby: parity
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/parity
+
+- name: Plot
+  slug: plot
+  domain: plot.com
+  careers_url: https://jobs.ashbyhq.com/plot
+  category: open-source-and-platform
+  ats:
+    ashby: plot
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/plot
+
+- name: Precede
+  slug: precede
+  domain: precede.com
+  careers_url: https://jobs.lever.co/precede
+  category: open-source-and-platform
+  ats:
+    lever: precede
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/precede
+
+- name: Prime
+  slug: prime
+  domain: prime.com
+  careers_url: https://jobs.ashbyhq.com/prime
+  category: open-source-and-platform
+  ats:
+    ashby: prime
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/prime
+
+- name: Prose
+  slug: prose
+  domain: prose.com
+  careers_url: https://jobs.ashbyhq.com/prose
+  category: open-source-and-platform
+  ats:
+    ashby: prose
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/prose
+
+- name: Provable
+  slug: provable
+  domain: provable.com
+  careers_url: https://jobs.ashbyhq.com/provable
+  category: open-source-and-platform
+  ats:
+    ashby: provable
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/provable
+
+- name: Quanta
+  slug: quanta
+  domain: quanta.com
+  careers_url: https://jobs.ashbyhq.com/quanta
+  category: open-source-and-platform
+  ats:
+    ashby: quanta
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/quanta
+
+- name: Recharge
+  slug: recharge
+  domain: recharge.com
+  careers_url: https://jobs.ashbyhq.com/recharge
+  category: open-source-and-platform
+  ats:
+    ashby: recharge
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/recharge
+
+- name: Renegade
+  slug: renegade
+  domain: renegade.com
+  careers_url: https://jobs.lever.co/renegade
+  category: open-source-and-platform
+  ats:
+    lever: renegade
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/renegade
+
+- name: Rerun
+  slug: rerun
+  domain: rerun.com
+  careers_url: https://jobs.ashbyhq.com/rerun
+  category: open-source-and-platform
+  ats:
+    ashby: rerun
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/rerun
