@@ -10247,3 +10247,148 @@
   - healthcare
   sources:
   - https://jobs.ashbyhq.com/claim-health
+
+- name: Prox
+  slug: prox
+  domain: useprox.com
+  careers_url: https://jobs.ashbyhq.com/prox
+  category: ai-and-data
+  ats:
+    ashby: prox
+  tags:
+  - b2b
+  - b2b-retail
+  - artificial-intelligence
+  - customer-success
+  sources:
+  - https://jobs.ashbyhq.com/prox
+
+- name: Lark
+  slug: lark
+  domain: getlark.ai
+  careers_url: https://jobs.ashbyhq.com/lark
+  category: ai-and-data
+  ats:
+    ashby: lark
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - developer-tools
+  - devops
+  sources:
+  - https://jobs.ashbyhq.com/lark
+
+- name: Flai
+  slug: flai
+  domain: useflai.com
+  careers_url: https://jobs.ashbyhq.com/flai
+  category: open-source-and-platform
+  ats:
+    ashby: flai
+  tags:
+  - industrials
+  - industrials-automotive
+  sources:
+  - https://jobs.ashbyhq.com/flai
+
+- name: Interface
+  slug: interface
+  domain: theinterface.com
+  careers_url: https://jobs.ashbyhq.com/interface
+  category: consumer-and-marketplace
+  ats:
+    ashby: interface
+  tags:
+  - consumer
+  - entertainment
+  - gaming
+  - media
+  sources:
+  - https://jobs.ashbyhq.com/interface
+
+- name: Doe
+  slug: doe
+  domain: doe.so
+  careers_url: https://jobs.ashbyhq.com/doe
+  category: ai-and-data
+  ats:
+    ashby: doe
+  tags:
+  - b2b
+  - artificial-intelligence
+  - generative-ai
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/doe
+
+- name: Blue
+  slug: blue
+  domain: heyblue.com
+  careers_url: https://jobs.lever.co/blue
+  category: ai-and-data
+  ats:
+    lever: blue
+  tags:
+  - consumer
+  - hardware
+  - productivity
+  - ai
+  sources:
+  - https://jobs.lever.co/blue
+
+- name: Sidekick
+  slug: sidekick
+  domain: textsidekick.com
+  careers_url: https://jobs.ashbyhq.com/sidekick
+  category: ai-and-data
+  ats:
+    ashby: sidekick
+  tags:
+  - b2b
+  - b2b-operations
+  - saas
+  - ai-assistant
+  sources:
+  - https://jobs.ashbyhq.com/sidekick
+
+- name: A Thinking Ape
+  slug: a-thinking-ape
+  domain: athinkingape.com
+  careers_url: https://boards.greenhouse.io/athinkingape
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: athinkingape
+  tags:
+  - b2b
+  - b2b-marketing
+  - gaming
+  sources:
+  - https://boards.greenhouse.io/athinkingape
+
+- name: Cheddar
+  slug: cheddar
+  domain: cheddar.io
+  careers_url: https://boards.greenhouse.io/cheddar
+  category: fintech
+  ats:
+    greenhouse: cheddar
+  tags:
+  - fintech
+  - fintech-banking-and-exchange
+  - neobank
+  sources:
+  - https://boards.greenhouse.io/cheddar
+
+- name: SIRUM
+  slug: sirum
+  domain: sirum.org
+  careers_url: https://boards.greenhouse.io/sirum
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: sirum
+  tags:
+  - unspecified
+  - consumer-health-services
+  - nonprofit
+  sources:
+  - https://boards.greenhouse.io/sirum

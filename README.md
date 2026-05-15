@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **710 companies**.
+Currently tracking **720 companies**.
 
 This repository is designed for two uses:
 
@@ -766,6 +766,16 @@ Open source video player (video.js)
 - [Cedar](https://mail.cedarcopilot.com) - Execute the best sales playbook in industry
 - [Butter](https://butter.dev) - Embedded Sandboxes for Agents
 - [Claim Health](https://claimhealth.com) - AI Revenue Platform for Post-Acute Care
+- [Prox](https://useprox.com) - AI technical support for complex physical products
+- [Lark](https://getlark.ai) - The E2E testing layer for AI-driven development
+- [Flai](https://useflai.com) - We Bring Customers to Your Dealership
+- [Interface](https://theinterface.com) - The world model research lab
+- [Doe](https://doe.so) - The boring stuff, handled. Everything else, supercharged.
+- [Blue](https://heyblue.com) - Your phone finally has someone to run it. Plug in Blue, just ask.
+- [Sidekick](https://textsidekick.com) - AI-powered SMS assistant for deskless workers.
+- [A Thinking Ape](https://athinkingape.com) - We build communities through massively multiplayer mobile games
+- [Cheddar](https://cheddar.io) - The Best Mobile Checking Account
+- [SIRUM](https://sirum.org) - SIRUM is a “match.com” for unused medicine. We connect institutional…
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
