@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **720 companies**.
+Currently tracking **730 companies**.
 
 This repository is designed for two uses:
 
@@ -776,6 +776,16 @@ Open source video player (video.js)
 - [A Thinking Ape](https://athinkingape.com) - We build communities through massively multiplayer mobile games
 - [Cheddar](https://cheddar.io) - The Best Mobile Checking Account
 - [SIRUM](https://sirum.org) - SIRUM is a “match.com” for unused medicine. We connect institutional…
+- [PickTrace](https://picktrace.com) - Workforce Management for Large Farms
+- [Mux](https://mux.com) - Video infrastructure for developers
+- [Castle](https://entercastle.com) - Castle manages rental homes using automation and on-demand labor.
+- [REZI](https://rentrezi.com) - Rent Better
+- [UpCodes](https://up.codes) - AI platform for unifying codes, assemblies, products, and specs
+- [Plexus](https://plexus.im) - High-performance gloves for VR and AR
+- [Cocoon](https://cocoon.com) - Bring your most important groups closer together
+- [Pronto](https://tuprontomx.com) - Ride-sharing for second-tier cities in Latin America.
+- [OutRival, Inc.](https://outrival.com) - Outbound AI Agents for Education, Insurance, and Travel
+- [Prometheus](https://prometheusfuels.com) - We use solar and wind power to make zero net carbon electrofuels
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

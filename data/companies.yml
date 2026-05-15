@@ -10392,3 +10392,148 @@
   - nonprofit
   sources:
   - https://boards.greenhouse.io/sirum
+
+- name: PickTrace
+  slug: picktrace
+  domain: picktrace.com
+  careers_url: https://jobs.lever.co/picktrace
+  category: developer-infrastructure
+  ats:
+    lever: picktrace
+  tags:
+  - industrials
+  - industrials-agriculture
+  - saas
+  sources:
+  - https://jobs.lever.co/picktrace
+
+- name: Mux
+  slug: mux
+  domain: mux.com
+  careers_url: https://jobs.ashbyhq.com/mux
+  category: developer-infrastructure
+  ats:
+    ashby: mux
+  tags:
+  - b2b
+  - b2b-infrastructure
+  - developer-tools
+  - video
+  sources:
+  - https://jobs.ashbyhq.com/mux
+
+- name: Castle
+  slug: castle
+  domain: entercastle.com
+  careers_url: https://jobs.ashbyhq.com/castle
+  category: consumer-and-marketplace
+  ats:
+    ashby: castle
+  tags:
+  - real-estate-and-construction
+  - real-estate
+  sources:
+  - https://jobs.ashbyhq.com/castle
+
+- name: REZI
+  slug: rezi
+  domain: rentrezi.com
+  careers_url: https://jobs.ashbyhq.com/rezi
+  category: consumer-and-marketplace
+  ats:
+    ashby: rezi
+  tags:
+  - real-estate-and-construction
+  - real-estate
+  - proptech
+  sources:
+  - https://jobs.ashbyhq.com/rezi
+
+- name: UpCodes
+  slug: upcodes
+  domain: up.codes
+  careers_url: https://jobs.ashbyhq.com/upcodes
+  category: ai-and-data
+  ats:
+    ashby: upcodes
+  tags:
+  - real-estate-and-construction
+  - govtech
+  - construction
+  - b2b
+  sources:
+  - https://jobs.ashbyhq.com/upcodes
+
+- name: Plexus
+  slug: plexus
+  domain: plexus.im
+  careers_url: https://jobs.lever.co/plexus
+  category: consumer-and-marketplace
+  ats:
+    lever: plexus
+  tags:
+  - consumer
+  - consumer-virtual-and-augmented-reality
+  - ar
+  sources:
+  - https://jobs.lever.co/plexus
+
+- name: Cocoon
+  slug: cocoon
+  domain: cocoon.com
+  careers_url: https://boards.greenhouse.io/cocoon
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: cocoon
+  tags:
+  - consumer
+  - consumer-social
+  - team-collaboration
+  - collaboration
+  sources:
+  - https://boards.greenhouse.io/cocoon
+
+- name: Pronto
+  slug: pronto
+  domain: tuprontomx.com
+  careers_url: https://boards.greenhouse.io/pronto
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: pronto
+  tags:
+  - consumer
+  - consumer-transportation-services
+  - latin-america
+  - transportation
+  sources:
+  - https://boards.greenhouse.io/pronto
+
+- name: OutRival, Inc.
+  slug: outrival-inc
+  domain: outrival.com
+  careers_url: https://jobs.ashbyhq.com/outrival
+  category: ai-and-data
+  ats:
+    ashby: outrival
+  tags:
+  - b2b
+  - artificial-intelligence
+  - education
+  - travel
+  sources:
+  - https://jobs.ashbyhq.com/outrival
+
+- name: Prometheus
+  slug: prometheus
+  domain: prometheusfuels.com
+  careers_url: https://jobs.ashbyhq.com/prometheus
+  category: open-source-and-platform
+  ats:
+    ashby: prometheus
+  tags:
+  - industrials
+  - industrials-energy
+  - energy-storage
+  - climate
+  sources:
+  - https://jobs.ashbyhq.com/prometheus
