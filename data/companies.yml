@@ -14729,3 +14729,123 @@
   - open
   sources:
   - https://jobs.lever.co/autonomous
+
+- name: Blockhouse
+  slug: blockhouse
+  domain: blockhouse.com
+  careers_url: https://jobs.ashbyhq.com/blockhouse
+  category: open-source-and-platform
+  ats:
+    ashby: blockhouse
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/blockhouse
+
+- name: Brimstone
+  slug: brimstone
+  domain: brimstone.com
+  careers_url: https://jobs.ashbyhq.com/brimstone
+  category: open-source-and-platform
+  ats:
+    ashby: brimstone
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/brimstone
+
+- name: Button
+  slug: button
+  domain: button.com
+  careers_url: https://jobs.ashbyhq.com/button
+  category: open-source-and-platform
+  ats:
+    ashby: button
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/button
+
+- name: Catalog
+  slug: catalog
+  domain: catalog.com
+  careers_url: https://jobs.ashbyhq.com/catalog
+  category: open-source-and-platform
+  ats:
+    ashby: catalog
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/catalog
+
+- name: Catalyze
+  slug: catalyze
+  domain: catalyze.com
+  careers_url: https://jobs.lever.co/catalyze
+  category: open-source-and-platform
+  ats:
+    lever: catalyze
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/catalyze
+
+- name: Causal
+  slug: causal
+  domain: causal.com
+  careers_url: https://jobs.ashbyhq.com/causal
+  category: open-source-and-platform
+  ats:
+    ashby: causal
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/causal
+
+- name: Centrifuge
+  slug: centrifuge
+  domain: centrifuge.com
+  careers_url: https://jobs.lever.co/centrifuge
+  category: open-source-and-platform
+  ats:
+    lever: centrifuge
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/centrifuge
+
+- name: Checker
+  slug: checker
+  domain: checker.com
+  careers_url: https://jobs.lever.co/checker
+  category: open-source-and-platform
+  ats:
+    lever: checker
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/checker
+
+- name: Clarify
+  slug: clarify
+  domain: clarify.com
+  careers_url: https://jobs.ashbyhq.com/clarify
+  category: open-source-and-platform
+  ats:
+    ashby: clarify
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/clarify
+
+- name: Clasp
+  slug: clasp
+  domain: clasp.com
+  careers_url: https://jobs.ashbyhq.com/clasp
+  category: open-source-and-platform
+  ats:
+    ashby: clasp
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/clasp

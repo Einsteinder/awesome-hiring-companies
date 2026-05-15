@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1060 companies**.
+Currently tracking **1070 companies**.
 
 This repository is designed for two uses:
 
@@ -1116,6 +1116,16 @@ Open source video player (video.js)
 - [Argonaut](https://argonaut.com) - Hiring via Lever (argonaut).
 - [Arthur](https://arthur.com) - Hiring via Ashby (arthur).
 - [Autonomous](https://autonomous.com) - Hiring via Lever (autonomous).
+- [Blockhouse](https://blockhouse.com) - Hiring via Ashby (blockhouse).
+- [Brimstone](https://brimstone.com) - Hiring via Ashby (brimstone).
+- [Button](https://button.com) - Hiring via Ashby (button).
+- [Catalog](https://catalog.com) - Hiring via Ashby (catalog).
+- [Catalyze](https://catalyze.com) - Hiring via Lever (catalyze).
+- [Causal](https://causal.com) - Hiring via Ashby (causal).
+- [Centrifuge](https://centrifuge.com) - Hiring via Lever (centrifuge).
+- [Checker](https://checker.com) - Hiring via Lever (checker).
+- [Clarify](https://clarify.com) - Hiring via Ashby (clarify).
+- [Clasp](https://clasp.com) - Hiring via Ashby (clasp).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
