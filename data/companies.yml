@@ -16985,3 +16985,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/opal
+
+- name: Oyster
+  slug: oyster
+  domain: oyster.com
+  careers_url: https://jobs.ashbyhq.com/oyster
+  category: open-source-and-platform
+  ats:
+    ashby: oyster
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/oyster
+
+- name: Propel
+  slug: propel
+  domain: propel.com
+  careers_url: https://jobs.ashbyhq.com/propel
+  category: open-source-and-platform
+  ats:
+    ashby: propel
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/propel
+
+- name: Radiant
+  slug: radiant
+  domain: radiant.com
+  careers_url: https://jobs.ashbyhq.com/radiant
+  category: open-source-and-platform
+  ats:
+    ashby: radiant
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/radiant
+
+- name: Singular
+  slug: singular
+  domain: singular.com
+  careers_url: https://jobs.ashbyhq.com/singular
+  category: open-source-and-platform
+  ats:
+    ashby: singular
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/singular
+
+- name: Stacks
+  slug: stacks
+  domain: stacks.com
+  careers_url: https://jobs.ashbyhq.com/stacks
+  category: open-source-and-platform
+  ats:
+    ashby: stacks
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/stacks
+
+- name: Tonal
+  slug: tonal
+  domain: tonal.com
+  careers_url: https://jobs.ashbyhq.com/tonal
+  category: open-source-and-platform
+  ats:
+    ashby: tonal
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/tonal
+
+- name: Unwrap
+  slug: unwrap
+  domain: unwrap.com
+  careers_url: https://jobs.ashbyhq.com/unwrap
+  category: open-source-and-platform
+  ats:
+    ashby: unwrap
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/unwrap
+
+- name: Virtuous
+  slug: virtuous
+  domain: virtuous.com
+  careers_url: https://jobs.ashbyhq.com/virtuous
+  category: open-source-and-platform
+  ats:
+    ashby: virtuous
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/virtuous
+
+- name: Zilch
+  slug: zilch
+  domain: zilch.com
+  careers_url: https://jobs.ashbyhq.com/zilch
+  category: open-source-and-platform
+  ats:
+    ashby: zilch
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/zilch
+
+- name: Mandolin
+  slug: mandolin
+  domain: mandolin.com
+  careers_url: https://jobs.ashbyhq.com/mandolin
+  category: open-source-and-platform
+  ats:
+    ashby: mandolin
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/mandolin

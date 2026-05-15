@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1248 companies**.
+Currently tracking **1258 companies**.
 
 This repository is designed for two uses:
 
@@ -1304,6 +1304,16 @@ Open source video player (video.js)
 - [Moment](https://moment.com) - Hiring via Ashby (moment).
 - [Numeric](https://numeric.com) - Hiring via Ashby (numeric).
 - [Opal](https://opal.com) - Hiring via Ashby (opal).
+- [Oyster](https://oyster.com) - Hiring via Ashby (oyster).
+- [Propel](https://propel.com) - Hiring via Ashby (propel).
+- [Radiant](https://radiant.com) - Hiring via Ashby (radiant).
+- [Singular](https://singular.com) - Hiring via Ashby (singular).
+- [Stacks](https://stacks.com) - Hiring via Ashby (stacks).
+- [Tonal](https://tonal.com) - Hiring via Ashby (tonal).
+- [Unwrap](https://unwrap.com) - Hiring via Ashby (unwrap).
+- [Virtuous](https://virtuous.com) - Hiring via Ashby (virtuous).
+- [Zilch](https://zilch.com) - Hiring via Ashby (zilch).
+- [Mandolin](https://mandolin.com) - Hiring via Ashby (mandolin).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
