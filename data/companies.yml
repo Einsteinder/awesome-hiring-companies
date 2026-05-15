@@ -7511,3 +7511,148 @@
   - machine-learning
   sources:
   - https://jobs.ashbyhq.com/lancedb
+
+- name: Two Dots
+  slug: two-dots
+  domain: twodots.net
+  careers_url: https://jobs.ashbyhq.com/two-dots
+  category: ai-and-data
+  ats:
+    ashby: two-dots
+  tags:
+  - b2b
+  - fintech
+  - ai
+  sources:
+  - https://jobs.ashbyhq.com/two-dots
+
+- name: Pivot
+  slug: pivot
+  domain: trypivot.xyz
+  careers_url: https://jobs.ashbyhq.com/pivot
+  category: fintech
+  ats:
+    ashby: pivot
+  tags:
+  - b2b
+  - b2b-finance-and-accounting
+  - saas
+  - finance
+  sources:
+  - https://jobs.ashbyhq.com/pivot
+
+- name: Ekho
+  slug: ekho
+  domain: ekho.com
+  careers_url: https://jobs.ashbyhq.com/ekho
+  category: fintech
+  ats:
+    ashby: ekho
+  tags:
+  - b2b
+  - b2b-supply-chain-and-logistics
+  - auto-commerce
+  - fintech
+  sources:
+  - https://jobs.ashbyhq.com/ekho
+
+- name: Salient
+  slug: salient
+  domain: trysalient.com
+  careers_url: https://jobs.ashbyhq.com/salient
+  category: ai-and-data
+  ats:
+    ashby: salient
+  tags:
+  - b2b
+  - fintech
+  - generative-ai
+  - operations
+  sources:
+  - https://jobs.ashbyhq.com/salient
+
+- name: David
+  slug: david
+  domain: shipdavid.com
+  careers_url: https://boards.greenhouse.io/david
+  category: developer-infrastructure
+  ats:
+    greenhouse: david
+  tags:
+  - b2b
+  - b2b-infrastructure
+  sources:
+  - https://boards.greenhouse.io/david
+
+- name: Relace
+  slug: relace
+  domain: relace.ai
+  careers_url: https://jobs.ashbyhq.com/relace
+  category: developer-infrastructure
+  ats:
+    ashby: relace
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  sources:
+  - https://jobs.ashbyhq.com/relace
+
+- name: Subsets
+  slug: subsets
+  domain: subsets.com
+  careers_url: https://jobs.ashbyhq.com/subsets
+  category: ai-and-data
+  ats:
+    ashby: subsets
+  tags:
+  - b2b
+  - machine-learning
+  - enterprise-software
+  - ai
+  sources:
+  - https://jobs.ashbyhq.com/subsets
+
+- name: Terminal
+  slug: terminal
+  domain: withterminal.com
+  careers_url: https://jobs.ashbyhq.com/terminal
+  category: developer-infrastructure
+  ats:
+    ashby: terminal
+  tags:
+  - b2b
+  - b2b-supply-chain-and-logistics
+  - developer-tools
+  - logistics
+  sources:
+  - https://jobs.ashbyhq.com/terminal
+
+- name: Outset
+  slug: outset
+  domain: outset.ai
+  careers_url: https://jobs.ashbyhq.com/outset
+  category: ai-and-data
+  ats:
+    ashby: outset
+  tags:
+  - b2b
+  - b2b-analytics
+  - saas
+  - market-research
+  sources:
+  - https://jobs.ashbyhq.com/outset
+
+- name: Healthtech 1
+  slug: healthtech-1
+  domain: healthtech1.uk
+  careers_url: https://jobs.ashbyhq.com/healthtech-1
+  category: consumer-and-marketplace
+  ats:
+    ashby: healthtech-1
+  tags:
+  - healthcare
+  - healthcare-healthcare-it
+  - health-tech
+  - workflow-automation
+  sources:
+  - https://jobs.ashbyhq.com/healthtech-1

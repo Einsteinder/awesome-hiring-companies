@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **520 companies**.
+Currently tracking **530 companies**.
 
 This repository is designed for two uses:
 
@@ -575,6 +575,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [Zuma](https://getzuma.com) - We help businesses convert leads into sales in minutes using text
 - [Beam](https://beam.cloud) - AI-Native Cloud Platform
 - [LanceDB](https://lancedb.com) - Open-source, serverless vectordb for production-scale generative AI
+- [Two Dots](https://twodots.net) - AI fraud prevention and underwriting agent
+- [Pivot](https://trypivot.xyz) - Your AI FP&A Analyst
+- [Ekho](https://ekho.com) - Shopify for vehicles
+- [Salient](https://trysalient.com) - AI Servicing for Auto Lenders
+- [David](https://shipdavid.com) - Build and host internal tools
+- [Relace](https://relace.ai) - Models and infra for coding agents
+- [Subsets](https://subsets.com) - AI-driven Retention Automation for subscription media businesses.
+- [Terminal](https://withterminal.com) - Plaid for Telematics Data in Commercial Trucking
+- [Outset](https://outset.ai) - AI-powered user interviews
+- [Healthtech 1](https://healthtech1.uk) - Automating repetitive processes in healthcare
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
