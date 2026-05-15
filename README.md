@@ -17,6 +17,9 @@ This repository is designed for two uses:
 - [Developer Infrastructure](#developer-infrastructure)
 - [Fintech](#fintech)
 - [Consumer and Marketplace](#consumer-and-marketplace)
+- [Healthcare and Biotech](#healthcare-and-biotech)
+- [Industrials and Climate](#industrials-and-climate)
+- [B2B Enterprise](#b2b-enterprise)
 - [Open Source and Platform](#open-source-and-platform)
 - [Data Format](#data-format)
 - [Contributing](#contributing)
@@ -100,6 +103,18 @@ New companies must pass the full [`Inclusion Standard`](docs/inclusion-standard.
 - [Spotify](https://spotify.com) - Audio streaming platform with consumer, personalization, creator, and ads systems.
 - [Duolingo](https://duolingo.com) - Consumer learning platform with product, growth, ML, and mobile engineering roles.
 - [DoorDash](https://doordash.com) - Local commerce and logistics marketplace with consumer, merchant, ads, and delivery systems.
+
+## Healthcare and Biotech
+
+Healthcare delivery, health-tech, biotech, drug discovery, medical devices, and wellness. See [Verified Boards Catalog](#verified-boards-catalog) for the full bulk-discovered list.
+
+## Industrials and Climate
+
+Hardware, manufacturing, robotics, climate, energy, aviation, space, supply chain, logistics, real estate, and construction. See [Verified Boards Catalog](#verified-boards-catalog) for the full bulk-discovered list.
+
+## B2B Enterprise
+
+Broad B2B SaaS that does not fit `developer-infrastructure` — HR, sales, marketing, operations, recruiting, legal, and procurement. See [Verified Boards Catalog](#verified-boards-catalog) for the full bulk-discovered list.
 
 ## Open Source and Platform
 

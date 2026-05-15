@@ -2,57 +2,57 @@
   slug: openai
   domain: openai.com
   careers_url: https://jobs.ashbyhq.com/openai
-  category: ai-and-data
+  category: developer-infrastructure
   ats:
     ashby: openai
   tags:
-    - ai
-    - research
-    - infrastructure
+  - ai
+  - research
+  - infrastructure
   sources:
-    - https://jobs.ashbyhq.com/openai
+  - https://jobs.ashbyhq.com/openai
 
 - name: Mistral AI
   slug: mistral-ai
   domain: mistral.ai
   careers_url: https://jobs.lever.co/mistral
-  category: ai-and-data
+  category: developer-infrastructure
   ats:
     lever: mistral
   tags:
-    - ai
-    - research
-    - infrastructure
+  - ai
+  - research
+  - infrastructure
   sources:
-    - https://jobs.lever.co/mistral
+  - https://jobs.lever.co/mistral
 
 - name: Databricks
   slug: databricks
   domain: databricks.com
   careers_url: https://boards.greenhouse.io/databricks
-  category: ai-and-data
+  category: developer-infrastructure
   ats:
     greenhouse: databricks
   tags:
-    - data
-    - ai
-    - infrastructure
+  - data
+  - ai
+  - infrastructure
   sources:
-    - https://boards.greenhouse.io/databricks
+  - https://boards.greenhouse.io/databricks
 
 - name: Browserbase
   slug: browserbase
   domain: browserbase.com
   careers_url: https://jobs.ashbyhq.com/browserbase
-  category: ai-and-data
+  category: developer-infrastructure
   ats:
     ashby: browserbase
   tags:
-    - ai
-    - browser-automation
-    - developer-tools
+  - ai
+  - browser-automation
+  - developer-tools
   sources:
-    - https://jobs.ashbyhq.com/browserbase
+  - https://jobs.ashbyhq.com/browserbase
 
 - name: Anthropic
   slug: anthropic
@@ -62,11 +62,11 @@
   ats:
     ashby: anthropic
   tags:
-    - ai
-    - research
-    - safety
+  - ai
+  - research
+  - safety
   sources:
-    - https://jobs.ashbyhq.com/anthropic
+  - https://jobs.ashbyhq.com/anthropic
 
 - name: Scale AI
   slug: scale-ai
@@ -76,39 +76,39 @@
   ats:
     greenhouse: scaleai
   tags:
-    - ai
-    - data
-    - evaluation
+  - ai
+  - data
+  - evaluation
   sources:
-    - https://job-boards.greenhouse.io/scaleai
+  - https://job-boards.greenhouse.io/scaleai
 
 - name: Together AI
   slug: together-ai
   domain: together.ai
   careers_url: https://jobs.ashbyhq.com/togetherai
-  category: ai-and-data
+  category: developer-infrastructure
   ats:
     ashby: togetherai
   tags:
-    - ai
-    - infrastructure
-    - inference
+  - ai
+  - infrastructure
+  - inference
   sources:
-    - https://jobs.ashbyhq.com/togetherai
+  - https://jobs.ashbyhq.com/togetherai
 
 - name: Anysphere
   slug: anysphere
   domain: anysphere.inc
   careers_url: https://jobs.ashbyhq.com/anysphere
-  category: ai-and-data
+  category: developer-infrastructure
   ats:
     ashby: anysphere
   tags:
-    - ai
-    - developer-tools
-    - productivity
+  - ai
+  - developer-tools
+  - productivity
   sources:
-    - https://jobs.ashbyhq.com/anysphere
+  - https://jobs.ashbyhq.com/anysphere
 
 - name: Harvey
   slug: harvey
@@ -118,25 +118,25 @@
   ats:
     ashby: harvey
   tags:
-    - ai
-    - legal-tech
-    - enterprise
+  - ai
+  - legal-tech
+  - enterprise
   sources:
-    - https://jobs.ashbyhq.com/harvey
+  - https://jobs.ashbyhq.com/harvey
 
 - name: Hugging Face
   slug: hugging-face
   domain: huggingface.co
   careers_url: https://apply.workable.com/huggingface/
-  category: ai-and-data
+  category: developer-infrastructure
   ats:
     workable: huggingface
   tags:
-    - ai
-    - open-source
-    - infrastructure
+  - ai
+  - open-source
+  - infrastructure
   sources:
-    - https://apply.workable.com/huggingface/
+  - https://apply.workable.com/huggingface/
 
 - name: Perplexity
   slug: perplexity
@@ -146,11 +146,11 @@
   ats:
     ashby: perplexity
   tags:
-    - ai
-    - search
-    - product
+  - ai
+  - search
+  - product
   sources:
-    - https://jobs.ashbyhq.com/perplexity
+  - https://jobs.ashbyhq.com/perplexity
 
 - name: ElevenLabs
   slug: elevenlabs
@@ -160,11 +160,11 @@
   ats:
     ashby: elevenlabs
   tags:
-    - ai
-    - audio
-    - generative-ai
+  - ai
+  - audio
+  - generative-ai
   sources:
-    - https://jobs.ashbyhq.com/elevenlabs
+  - https://jobs.ashbyhq.com/elevenlabs
 
 - name: Sierra
   slug: sierra
@@ -174,11 +174,11 @@
   ats:
     ashby: sierra
   tags:
-    - ai
-    - agents
-    - enterprise
+  - ai
+  - agents
+  - enterprise
   sources:
-    - https://jobs.ashbyhq.com/sierra
+  - https://jobs.ashbyhq.com/sierra
 
 - name: Glean
   slug: glean
@@ -188,39 +188,39 @@
   ats:
     greenhouse: gleanwork
   tags:
-    - ai
-    - search
-    - enterprise
+  - ai
+  - search
+  - enterprise
   sources:
-    - https://job-boards.greenhouse.io/gleanwork
+  - https://job-boards.greenhouse.io/gleanwork
 
 - name: Modal
   slug: modal
   domain: modal.com
   careers_url: https://jobs.ashbyhq.com/modal
-  category: ai-and-data
+  category: developer-infrastructure
   ats:
     ashby: modal
   tags:
-    - ai
-    - cloud
-    - infrastructure
+  - ai
+  - cloud
+  - infrastructure
   sources:
-    - https://jobs.ashbyhq.com/modal
+  - https://jobs.ashbyhq.com/modal
 
 - name: Replit
   slug: replit
   domain: replit.com
   careers_url: https://jobs.ashbyhq.com/replit
-  category: ai-and-data
+  category: developer-infrastructure
   ats:
     ashby: replit
   tags:
-    - ai
-    - developer-tools
-    - coding
+  - ai
+  - developer-tools
+  - coding
   sources:
-    - https://jobs.ashbyhq.com/replit
+  - https://jobs.ashbyhq.com/replit
 
 - name: LangChain
   slug: langchain
@@ -230,11 +230,11 @@
   ats:
     ashby: langchain
   tags:
-    - ai
-    - developer-tools
-    - llm
+  - ai
+  - developer-tools
+  - llm
   sources:
-    - https://jobs.ashbyhq.com/langchain
+  - https://jobs.ashbyhq.com/langchain
 
 - name: Writer
   slug: writer
@@ -244,11 +244,11 @@
   ats:
     ashby: writer
   tags:
-    - ai
-    - enterprise
-    - generative-ai
+  - ai
+  - enterprise
+  - generative-ai
   sources:
-    - https://jobs.ashbyhq.com/writer
+  - https://jobs.ashbyhq.com/writer
 
 - name: Cohere
   slug: cohere
@@ -258,11 +258,11 @@
   ats:
     ashby: cohere
   tags:
-    - ai
-    - research
-    - enterprise
+  - ai
+  - research
+  - enterprise
   sources:
-    - https://jobs.ashbyhq.com/cohere
+  - https://jobs.ashbyhq.com/cohere
 
 - name: Pinecone
   slug: pinecone
@@ -272,11 +272,11 @@
   ats:
     ashby: pinecone
   tags:
-    - ai
-    - vector-database
-    - infrastructure
+  - ai
+  - vector-database
+  - infrastructure
   sources:
-    - https://jobs.ashbyhq.com/pinecone
+  - https://jobs.ashbyhq.com/pinecone
 
 - name: Linear
   slug: linear
@@ -286,25 +286,25 @@
   ats:
     ashby: linear
   tags:
-    - developer-tools
-    - productivity
-    - design
+  - developer-tools
+  - productivity
+  - design
   sources:
-    - https://jobs.ashbyhq.com/linear
+  - https://jobs.ashbyhq.com/linear
 
 - name: PostHog
   slug: posthog
   domain: posthog.com
   careers_url: https://jobs.ashbyhq.com/posthog
-  category: developer-infrastructure
+  category: ai-and-data
   ats:
     ashby: posthog
   tags:
-    - open-source
-    - analytics
-    - developer-tools
+  - open-source
+  - analytics
+  - developer-tools
   sources:
-    - https://jobs.ashbyhq.com/posthog
+  - https://jobs.ashbyhq.com/posthog
 
 - name: Ashby
   slug: ashby
@@ -314,11 +314,11 @@
   ats:
     ashby: ashbyhq
   tags:
-    - recruiting
-    - ats
-    - b2b-saas
+  - recruiting
+  - ats
+  - b2b-saas
   sources:
-    - https://jobs.ashbyhq.com/ashbyhq
+  - https://jobs.ashbyhq.com/ashbyhq
 
 - name: Vercel
   slug: vercel
@@ -328,11 +328,11 @@
   ats:
     greenhouse: vercel
   tags:
-    - developer-tools
-    - cloud
-    - frontend
+  - developer-tools
+  - cloud
+  - frontend
   sources:
-    - https://boards.greenhouse.io/vercel
+  - https://boards.greenhouse.io/vercel
 
 - name: Elastic
   slug: elastic
@@ -342,11 +342,11 @@
   ats:
     greenhouse: elastic
   tags:
-    - search
-    - observability
-    - security
+  - search
+  - observability
+  - security
   sources:
-    - https://boards.greenhouse.io/elastic
+  - https://boards.greenhouse.io/elastic
 
 - name: Supabase
   slug: supabase
@@ -356,11 +356,11 @@
   ats:
     ashby: supabase
   tags:
-    - open-source
-    - postgres
-    - developer-tools
+  - open-source
+  - postgres
+  - developer-tools
   sources:
-    - https://jobs.ashbyhq.com/supabase
+  - https://jobs.ashbyhq.com/supabase
 
 - name: Grafana Labs
   slug: grafana-labs
@@ -370,11 +370,11 @@
   ats:
     greenhouse: grafanalabs
   tags:
-    - observability
-    - open-source
-    - infrastructure
+  - observability
+  - open-source
+  - infrastructure
   sources:
-    - https://job-boards.greenhouse.io/grafanalabs
+  - https://job-boards.greenhouse.io/grafanalabs
 
 - name: Temporal
   slug: temporal
@@ -384,11 +384,11 @@
   ats:
     ashby: temporal-technologies
   tags:
-    - infrastructure
-    - workflows
-    - developer-tools
+  - infrastructure
+  - workflows
+  - developer-tools
   sources:
-    - https://jobs.ashbyhq.com/temporal-technologies
+  - https://jobs.ashbyhq.com/temporal-technologies
 
 - name: MongoDB
   slug: mongodb
@@ -398,11 +398,11 @@
   ats:
     greenhouse: mongodb
   tags:
-    - database
-    - developer-tools
-    - cloud
+  - database
+  - developer-tools
+  - cloud
   sources:
-    - https://job-boards.greenhouse.io/mongodb
+  - https://job-boards.greenhouse.io/mongodb
 
 - name: Cockroach Labs
   slug: cockroach-labs
@@ -412,11 +412,11 @@
   ats:
     greenhouse: cockroachlabs
   tags:
-    - database
-    - distributed-systems
-    - infrastructure
+  - database
+  - distributed-systems
+  - infrastructure
   sources:
-    - https://boards.greenhouse.io/cockroachlabs
+  - https://boards.greenhouse.io/cockroachlabs
 
 - name: Tailscale
   slug: tailscale
@@ -426,11 +426,11 @@
   ats:
     ashby: tailscale
   tags:
-    - networking
-    - security
-    - infrastructure
+  - networking
+  - security
+  - infrastructure
   sources:
-    - https://jobs.ashbyhq.com/tailscale
+  - https://jobs.ashbyhq.com/tailscale
 
 - name: Clerk
   slug: clerk
@@ -440,25 +440,25 @@
   ats:
     ashby: clerk
   tags:
-    - authentication
-    - developer-tools
-    - security
+  - authentication
+  - developer-tools
+  - security
   sources:
-    - https://jobs.ashbyhq.com/clerk
+  - https://jobs.ashbyhq.com/clerk
 
 - name: ClickHouse
   slug: clickhouse
   domain: clickhouse.com
   careers_url: https://jobs.ashbyhq.com/clickhouse
-  category: developer-infrastructure
+  category: ai-and-data
   ats:
     ashby: clickhouse
   tags:
-    - database
-    - analytics
-    - open-source
+  - database
+  - analytics
+  - open-source
   sources:
-    - https://jobs.ashbyhq.com/clickhouse
+  - https://jobs.ashbyhq.com/clickhouse
 
 - name: Sentry
   slug: sentry
@@ -468,11 +468,11 @@
   ats:
     ashby: sentry
   tags:
-    - observability
-    - developer-tools
-    - monitoring
+  - observability
+  - developer-tools
+  - monitoring
   sources:
-    - https://jobs.ashbyhq.com/sentry
+  - https://jobs.ashbyhq.com/sentry
 
 - name: Datadog
   slug: datadog
@@ -482,11 +482,11 @@
   ats:
     greenhouse: datadog
   tags:
-    - observability
-    - monitoring
-    - infrastructure
+  - observability
+  - monitoring
+  - infrastructure
   sources:
-    - https://job-boards.greenhouse.io/datadog
+  - https://job-boards.greenhouse.io/datadog
 
 - name: Wiz
   slug: wiz
@@ -496,11 +496,11 @@
   ats:
     greenhouse: wizinc
   tags:
-    - security
-    - cloud
-    - infrastructure
+  - security
+  - cloud
+  - infrastructure
   sources:
-    - https://job-boards.greenhouse.io/wizinc
+  - https://job-boards.greenhouse.io/wizinc
 
 - name: Stripe
   slug: stripe
@@ -510,11 +510,11 @@
   ats:
     greenhouse: stripe
   tags:
-    - payments
-    - fintech
-    - infrastructure
+  - payments
+  - fintech
+  - infrastructure
   sources:
-    - https://boards.greenhouse.io/stripe
+  - https://boards.greenhouse.io/stripe
 
 - name: Coinbase
   slug: coinbase
@@ -524,11 +524,11 @@
   ats:
     greenhouse: coinbase
   tags:
-    - crypto
-    - fintech
-    - infrastructure
+  - crypto
+  - fintech
+  - infrastructure
   sources:
-    - https://boards.greenhouse.io/coinbase
+  - https://boards.greenhouse.io/coinbase
 
 - name: Ramp
   slug: ramp
@@ -538,11 +538,11 @@
   ats:
     ashby: ramp
   tags:
-    - fintech
-    - finance-automation
-    - b2b-saas
+  - fintech
+  - finance-automation
+  - b2b-saas
   sources:
-    - https://jobs.ashbyhq.com/ramp
+  - https://jobs.ashbyhq.com/ramp
 
 - name: Robinhood
   slug: robinhood
@@ -552,11 +552,11 @@
   ats:
     greenhouse: robinhood
   tags:
-    - fintech
-    - consumer
-    - trading
+  - fintech
+  - consumer
+  - trading
   sources:
-    - https://boards.greenhouse.io/robinhood
+  - https://boards.greenhouse.io/robinhood
 
 - name: Plaid
   slug: plaid
@@ -566,11 +566,11 @@
   ats:
     lever: plaid
   tags:
-    - fintech
-    - banking
-    - api
+  - fintech
+  - banking
+  - api
   sources:
-    - https://jobs.lever.co/plaid
+  - https://jobs.lever.co/plaid
 
 - name: Mercury
   slug: mercury
@@ -580,11 +580,11 @@
   ats:
     ashby: mercury
   tags:
-    - fintech
-    - banking
-    - startups
+  - fintech
+  - banking
+  - startups
   sources:
-    - https://jobs.ashbyhq.com/mercury
+  - https://jobs.ashbyhq.com/mercury
 
 - name: Affirm
   slug: affirm
@@ -594,11 +594,11 @@
   ats:
     greenhouse: affirm
   tags:
-    - fintech
-    - payments
-    - consumer
+  - fintech
+  - payments
+  - consumer
   sources:
-    - https://job-boards.greenhouse.io/affirm
+  - https://job-boards.greenhouse.io/affirm
 
 - name: Brex
   slug: brex
@@ -608,11 +608,11 @@
   ats:
     greenhouse: brex
   tags:
-    - fintech
-    - spend-management
-    - b2b-saas
+  - fintech
+  - spend-management
+  - b2b-saas
   sources:
-    - https://boards.greenhouse.io/brex
+  - https://boards.greenhouse.io/brex
 
 - name: Deel
   slug: deel
@@ -622,11 +622,11 @@
   ats:
     ashby: deel
   tags:
-    - fintech
-    - payroll
-    - hr
+  - fintech
+  - payroll
+  - hr
   sources:
-    - https://jobs.ashbyhq.com/deel
+  - https://jobs.ashbyhq.com/deel
 
 - name: Airbnb
   slug: airbnb
@@ -636,25 +636,25 @@
   ats:
     greenhouse: airbnb
   tags:
-    - marketplace
-    - travel
-    - consumer
+  - marketplace
+  - travel
+  - consumer
   sources:
-    - https://boards.greenhouse.io/airbnb
+  - https://boards.greenhouse.io/airbnb
 
 - name: Instacart
   slug: instacart
   domain: instacart.com
   careers_url: https://boards.greenhouse.io/instacart
-  category: consumer-and-marketplace
+  category: industrials-and-climate
   ats:
     greenhouse: instacart
   tags:
-    - marketplace
-    - logistics
-    - retail
+  - marketplace
+  - logistics
+  - retail
   sources:
-    - https://boards.greenhouse.io/instacart
+  - https://boards.greenhouse.io/instacart
 
 - name: Pinterest
   slug: pinterest
@@ -664,11 +664,11 @@
   ats:
     greenhouse: pinterest
   tags:
-    - consumer
-    - recommendations
-    - ads
+  - consumer
+  - recommendations
+  - ads
   sources:
-    - https://boards.greenhouse.io/pinterest
+  - https://boards.greenhouse.io/pinterest
 
 - name: Reddit
   slug: reddit
@@ -678,11 +678,11 @@
   ats:
     greenhouse: reddit
   tags:
-    - consumer
-    - community
-    - ads
+  - consumer
+  - community
+  - ads
   sources:
-    - https://boards.greenhouse.io/reddit
+  - https://boards.greenhouse.io/reddit
 
 - name: Discord
   slug: discord
@@ -692,11 +692,11 @@
   ats:
     greenhouse: discord
   tags:
-    - consumer
-    - social
-    - communications
+  - consumer
+  - social
+  - communications
   sources:
-    - https://boards.greenhouse.io/discord
+  - https://boards.greenhouse.io/discord
 
 - name: Spotify
   slug: spotify
@@ -706,11 +706,11 @@
   ats:
     lever: spotify
   tags:
-    - consumer
-    - audio
-    - recommendations
+  - consumer
+  - audio
+  - recommendations
   sources:
-    - https://jobs.lever.co/spotify
+  - https://jobs.lever.co/spotify
 
 - name: Duolingo
   slug: duolingo
@@ -720,67 +720,67 @@
   ats:
     greenhouse: duolingo
   tags:
-    - consumer
-    - education
-    - mobile
+  - consumer
+  - education
+  - mobile
   sources:
-    - https://boards.greenhouse.io/duolingo
+  - https://boards.greenhouse.io/duolingo
 
 - name: DoorDash
   slug: doordash
   domain: doordash.com
   careers_url: https://job-boards.greenhouse.io/doordashusa
-  category: consumer-and-marketplace
+  category: industrials-and-climate
   ats:
     greenhouse: doordashusa
   tags:
-    - marketplace
-    - logistics
-    - commerce
+  - marketplace
+  - logistics
+  - commerce
   sources:
-    - https://job-boards.greenhouse.io/doordashusa
+  - https://job-boards.greenhouse.io/doordashusa
 
 - name: GitLab
   slug: gitlab
   domain: gitlab.com
   careers_url: https://boards.greenhouse.io/gitlab
-  category: open-source-and-platform
+  category: developer-infrastructure
   ats:
     greenhouse: gitlab
   tags:
-    - devops
-    - open-source
-    - remote
+  - devops
+  - open-source
+  - remote
   sources:
-    - https://boards.greenhouse.io/gitlab
+  - https://boards.greenhouse.io/gitlab
 
 - name: Cloudflare
   slug: cloudflare
   domain: cloudflare.com
   careers_url: https://boards.greenhouse.io/cloudflare
-  category: open-source-and-platform
+  category: developer-infrastructure
   ats:
     greenhouse: cloudflare
   tags:
-    - cloud
-    - security
-    - networking
+  - cloud
+  - security
+  - networking
   sources:
-    - https://boards.greenhouse.io/cloudflare
+  - https://boards.greenhouse.io/cloudflare
 
 - name: Dropbox
   slug: dropbox
   domain: dropbox.com
   careers_url: https://boards.greenhouse.io/dropbox
-  category: open-source-and-platform
+  category: b2b-enterprise
   ats:
     greenhouse: dropbox
   tags:
-    - productivity
-    - storage
-    - collaboration
+  - productivity
+  - storage
+  - collaboration
   sources:
-    - https://boards.greenhouse.io/dropbox
+  - https://boards.greenhouse.io/dropbox
 
 - name: Figma
   slug: figma
@@ -790,157 +790,157 @@
   ats:
     greenhouse: figma
   tags:
-    - design
-    - collaboration
-    - product
+  - design
+  - collaboration
+  - product
   sources:
-    - https://boards.greenhouse.io/figma
+  - https://boards.greenhouse.io/figma
 
 - name: Asana
   slug: asana
   domain: asana.com
   careers_url: https://boards.greenhouse.io/asana
-  category: open-source-and-platform
+  category: developer-infrastructure
   ats:
     greenhouse: asana
   tags:
-    - productivity
-    - collaboration
-    - b2b-saas
+  - productivity
+  - collaboration
+  - b2b-saas
   sources:
-    - https://boards.greenhouse.io/asana
+  - https://boards.greenhouse.io/asana
 
 - name: Palantir
   slug: palantir
   domain: palantir.com
   careers_url: https://jobs.lever.co/palantir
-  category: open-source-and-platform
+  category: ai-and-data
   ats:
     lever: palantir
   tags:
-    - data
-    - platform
-    - enterprise
+  - data
+  - platform
+  - enterprise
   sources:
-    - https://jobs.lever.co/palantir
+  - https://jobs.lever.co/palantir
 
 - name: Neon
   slug: neon
   domain: neon.tech
   careers_url: https://jobs.lever.co/neon
-  category: open-source-and-platform
+  category: developer-infrastructure
   ats:
     lever: neon
   tags:
-    - database
-    - postgres
-    - developer-tools
+  - database
+  - postgres
+  - developer-tools
   sources:
-    - https://jobs.lever.co/neon
+  - https://jobs.lever.co/neon
 
 - name: Sourcegraph
   slug: sourcegraph
   domain: sourcegraph.com
   careers_url: https://jobs.ashbyhq.com/sourcegraph
-  category: open-source-and-platform
+  category: developer-infrastructure
   ats:
     ashby: sourcegraph
   tags:
-    - developer-tools
-    - code-search
-    - ai
+  - developer-tools
+  - code-search
+  - ai
   sources:
-    - https://jobs.ashbyhq.com/sourcegraph
+  - https://jobs.ashbyhq.com/sourcegraph
 
 - name: Notion
   slug: notion
   domain: notion.com
   careers_url: https://jobs.ashbyhq.com/notion
-  category: open-source-and-platform
+  category: ai-and-data
   ats:
     ashby: notion
   tags:
-    - productivity
-    - collaboration
-    - ai
+  - productivity
+  - collaboration
+  - ai
   sources:
-    - https://jobs.ashbyhq.com/notion
+  - https://jobs.ashbyhq.com/notion
 
 - name: Zapier
   slug: zapier
   domain: zapier.com
   careers_url: https://jobs.ashbyhq.com/zapier
-  category: open-source-and-platform
+  category: b2b-enterprise
   ats:
     ashby: zapier
   tags:
-    - automation
-    - productivity
-    - remote
+  - automation
+  - productivity
+  - remote
   sources:
-    - https://jobs.ashbyhq.com/zapier
+  - https://jobs.ashbyhq.com/zapier
 
 - name: Airtable
   slug: airtable
   domain: airtable.com
   careers_url: https://job-boards.greenhouse.io/airtable
-  category: open-source-and-platform
+  category: b2b-enterprise
   ats:
     greenhouse: airtable
   tags:
-    - productivity
-    - collaboration
-    - no-code
+  - productivity
+  - collaboration
+  - no-code
   sources:
-    - https://job-boards.greenhouse.io/airtable
+  - https://job-boards.greenhouse.io/airtable
 
 - name: Amplitude
   slug: amplitude
   domain: amplitude.com
   careers_url: https://job-boards.greenhouse.io/amplitude
-  category: open-source-and-platform
+  category: ai-and-data
   ats:
     greenhouse: amplitude
   tags:
-    - analytics
-    - product
-    - b2b-saas
+  - analytics
+  - product
+  - b2b-saas
   sources:
-    - https://job-boards.greenhouse.io/amplitude
+  - https://job-boards.greenhouse.io/amplitude
 
 - name: Lattice
   slug: lattice
   domain: lattice.com
   careers_url: https://jobs.ashbyhq.com/lattice
-  category: open-source-and-platform
+  category: developer-infrastructure
   ats:
     ashby: lattice
   tags:
-    - hr
-    - b2b-saas
-    - productivity
+  - hr
+  - b2b-saas
+  - productivity
   sources:
-    - https://jobs.ashbyhq.com/lattice
+  - https://jobs.ashbyhq.com/lattice
 
 - name: Twilio
   slug: twilio
   domain: twilio.com
   careers_url: https://job-boards.greenhouse.io/twilio
-  category: open-source-and-platform
+  category: developer-infrastructure
   ats:
     greenhouse: twilio
   tags:
-    - communications
-    - api
-    - platform
+  - communications
+  - api
+  - platform
   sources:
-    - https://job-boards.greenhouse.io/twilio
+  - https://job-boards.greenhouse.io/twilio
 
 - name: Pulse
   slug: pulse
   domain: getpulse.care
   careers_url: https://boards.greenhouse.io/pulse
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     greenhouse: pulse
   tags:
@@ -970,7 +970,7 @@
   slug: assembly
   domain: asm.co
   careers_url: https://boards.greenhouse.io/asm
-  category: consumer-and-marketplace
+  category: industrials-and-climate
   ats:
     greenhouse: asm
   tags:
@@ -985,7 +985,7 @@
   slug: sila
   domain: silahq.com
   careers_url: https://jobs.lever.co/sila
-  category: ai-and-data
+  category: b2b-enterprise
   ats:
     lever: sila
   tags:
@@ -1012,7 +1012,7 @@
   slug: prolific
   domain: prolific.com
   careers_url: https://boards.greenhouse.io/prolific
-  category: ai-and-data
+  category: consumer-and-marketplace
   ats:
     greenhouse: prolific
   tags:
@@ -1026,7 +1026,7 @@
   slug: distro
   domain: distro.app
   careers_url: https://jobs.lever.co/distro
-  category: ai-and-data
+  category: industrials-and-climate
   ats:
     lever: distro
   tags:
@@ -1056,7 +1056,7 @@
   slug: astranis
   domain: astranis.com
   careers_url: https://boards.greenhouse.io/astranis
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     greenhouse: astranis
   tags:
@@ -1101,7 +1101,7 @@
   slug: finni-health
   domain: finnihealth.com
   careers_url: https://jobs.ashbyhq.com/finni-health
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     ashby: finni-health
   tags:
@@ -1114,7 +1114,7 @@
   slug: fivetran
   domain: fivetran.com
   careers_url: https://boards.greenhouse.io/fivetran
-  category: developer-infrastructure
+  category: ai-and-data
   ats:
     greenhouse: fivetran
   tags:
@@ -1129,7 +1129,7 @@
   slug: tractian
   domain: tractian.com
   careers_url: https://jobs.lever.co/tractian
-  category: ai-and-data
+  category: industrials-and-climate
   ats:
     lever: tractian
   tags:
@@ -1144,7 +1144,7 @@
   slug: billiontoone
   domain: billiontoone.com
   careers_url: https://boards.greenhouse.io/billiontoone
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     greenhouse: billiontoone
   tags:
@@ -1187,7 +1187,7 @@
   slug: flexport
   domain: flexport.com
   careers_url: https://boards.greenhouse.io/flexport
-  category: developer-infrastructure
+  category: industrials-and-climate
   ats:
     greenhouse: flexport
   tags:
@@ -1202,7 +1202,7 @@
   slug: flex
   domain: withflex.com
   careers_url: https://boards.greenhouse.io/flex
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     greenhouse: flex
   tags:
@@ -1217,7 +1217,7 @@
   slug: ion-design
   domain: ion.design
   careers_url: https://jobs.lever.co/ion
-  category: ai-and-data
+  category: b2b-enterprise
   ats:
     lever: ion
   tags:
@@ -1232,7 +1232,7 @@
   slug: trm-labs
   domain: trmlabs.com
   careers_url: https://jobs.ashbyhq.com/trm-labs
-  category: ai-and-data
+  category: fintech
   ats:
     ashby: trm-labs
   tags:
@@ -1261,7 +1261,7 @@
   slug: clara-labs
   domain: claralabs.com
   careers_url: https://boards.greenhouse.io/clara
-  category: open-source-and-platform
+  category: b2b-enterprise
   ats:
     greenhouse: clara
   tags:
@@ -1335,7 +1335,7 @@
   slug: checkr
   domain: checkr.com
   careers_url: https://boards.greenhouse.io/checkr
-  category: developer-infrastructure
+  category: ai-and-data
   ats:
     greenhouse: checkr
   tags:
@@ -1393,7 +1393,7 @@
   slug: hightouch
   domain: hightouch.com
   careers_url: https://boards.greenhouse.io/hightouch
-  category: ai-and-data
+  category: b2b-enterprise
   ats:
     greenhouse: hightouch
   tags:
@@ -1408,7 +1408,7 @@
   slug: powerx
   domain: powerx.co
   careers_url: https://boards.greenhouse.io/powerx
-  category: ai-and-data
+  category: industrials-and-climate
   ats:
     greenhouse: powerx
   tags:
@@ -1438,7 +1438,7 @@
   slug: oklo
   domain: oklo.com
   careers_url: https://boards.greenhouse.io/oklo
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     greenhouse: oklo
   tags:
@@ -1453,7 +1453,7 @@
   slug: clipboard
   domain: clipboardworks.com
   careers_url: https://jobs.ashbyhq.com/clipboard
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     ashby: clipboard
   tags:
@@ -1483,7 +1483,7 @@
   slug: fetch
   domain: fetchtruck.com
   careers_url: https://boards.greenhouse.io/fetch
-  category: consumer-and-marketplace
+  category: industrials-and-climate
   ats:
     greenhouse: fetch
   tags:
@@ -1512,7 +1512,7 @@
   slug: alpaca
   domain: alpaca.markets
   careers_url: https://boards.greenhouse.io/alpaca
-  category: developer-infrastructure
+  category: fintech
   ats:
     greenhouse: alpaca
   tags:
@@ -1540,7 +1540,7 @@
   slug: benchling
   domain: benchling.com
   careers_url: https://jobs.ashbyhq.com/benchling
-  category: developer-infrastructure
+  category: healthcare-and-biotech
   ats:
     ashby: benchling
   tags:
@@ -1582,7 +1582,7 @@
   slug: daybreak-health
   domain: daybreakhealth.com
   careers_url: https://boards.greenhouse.io/daybreakhealth
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     greenhouse: daybreakhealth
   tags:
@@ -1610,7 +1610,7 @@
   slug: speak
   domain: speak.com
   careers_url: https://jobs.ashbyhq.com/speak
-  category: consumer-and-marketplace
+  category: ai-and-data
   ats:
     ashby: speak
   tags:
@@ -1625,7 +1625,7 @@
   slug: may-mobility
   domain: maymobility.com
   careers_url: https://boards.greenhouse.io/maymobility
-  category: ai-and-data
+  category: industrials-and-climate
   ats:
     greenhouse: maymobility
   tags:
@@ -1640,7 +1640,7 @@
   slug: skydropx
   domain: skydropx.com
   careers_url: https://jobs.ashbyhq.com/skydropx
-  category: consumer-and-marketplace
+  category: industrials-and-climate
   ats:
     ashby: skydropx
   tags:
@@ -1655,7 +1655,7 @@
   slug: eight-sleep
   domain: eightsleep.com
   careers_url: https://jobs.ashbyhq.com/eightsleep
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     ashby: eightsleep
   tags:
@@ -1714,7 +1714,7 @@
   slug: aclu
   domain: aclu.org
   careers_url: https://boards.greenhouse.io/aclu
-  category: open-source-and-platform
+  category: b2b-enterprise
   ats:
     greenhouse: aclu
   tags:
@@ -1742,7 +1742,7 @@
   slug: apollo-io
   domain: apollo.io
   careers_url: https://boards.greenhouse.io/apolloio
-  category: open-source-and-platform
+  category: b2b-enterprise
   ats:
     greenhouse: apolloio
   tags:
@@ -1757,7 +1757,7 @@
   slug: taktile
   domain: taktile.com
   careers_url: https://jobs.ashbyhq.com/taktile
-  category: ai-and-data
+  category: fintech
   ats:
     ashby: taktile
   tags:
@@ -1904,7 +1904,7 @@
   slug: camp
   domain: nouns.camp
   careers_url: https://boards.greenhouse.io/camp
-  category: developer-infrastructure
+  category: fintech
   ats:
     greenhouse: camp
   tags:
@@ -1934,7 +1934,7 @@
   slug: astro-mechanica
   domain: astromecha.co
   careers_url: https://jobs.ashbyhq.com/astro-mechanica
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     ashby: astro-mechanica
   tags:
@@ -1962,7 +1962,7 @@
   slug: silver
   domain: scansilver.com
   careers_url: https://jobs.ashbyhq.com/silver
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     ashby: silver
   tags:
@@ -1991,7 +1991,7 @@
   slug: nabis
   domain: nabis.com
   careers_url: https://boards.greenhouse.io/nabis
-  category: consumer-and-marketplace
+  category: industrials-and-climate
   ats:
     greenhouse: nabis
   tags:
@@ -2006,7 +2006,7 @@
   slug: inversion-space
   domain: inversionspace.com
   careers_url: https://boards.greenhouse.io/inversionspace
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     greenhouse: inversionspace
   tags:
@@ -2021,7 +2021,7 @@
   slug: nox-metals
   domain: noxmetals.co
   careers_url: https://jobs.ashbyhq.com/nox-metals
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     ashby: nox-metals
   tags:
@@ -2035,7 +2035,7 @@
   slug: overview
   domain: overview.ai
   careers_url: https://jobs.ashbyhq.com/overview
-  category: ai-and-data
+  category: industrials-and-climate
   ats:
     ashby: overview
   tags:
@@ -2063,7 +2063,7 @@
   slug: permitflow
   domain: permitflow.com
   careers_url: https://jobs.ashbyhq.com/permitflow
-  category: ai-and-data
+  category: industrials-and-climate
   ats:
     ashby: permitflow
   tags:
@@ -2078,7 +2078,7 @@
   slug: candid-health
   domain: joincandidhealth.com
   careers_url: https://jobs.ashbyhq.com/candidhealth
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     ashby: candidhealth
   tags:
@@ -2121,7 +2121,7 @@
   slug: lio-formerly-asklio
   domain: lio.ai
   careers_url: https://jobs.ashbyhq.com/lio
-  category: open-source-and-platform
+  category: b2b-enterprise
   ats:
     ashby: lio
   tags:
@@ -2221,7 +2221,7 @@
   slug: curri
   domain: curri.com
   careers_url: https://jobs.ashbyhq.com/curri
-  category: consumer-and-marketplace
+  category: industrials-and-climate
   ats:
     ashby: curri
   tags:
@@ -2236,7 +2236,7 @@
   slug: gridware
   domain: gridware.io
   careers_url: https://jobs.lever.co/gridware
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     lever: gridware
   tags:
@@ -2251,7 +2251,7 @@
   slug: alchemy
   domain: alchemynano.com
   careers_url: https://jobs.ashbyhq.com/alchemy
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     ashby: alchemy
   tags:
@@ -2266,7 +2266,7 @@
   slug: firsthand
   domain: shopfirsthand.com
   careers_url: https://boards.greenhouse.io/firsthand
-  category: consumer-and-marketplace
+  category: industrials-and-climate
   ats:
     greenhouse: firsthand
   tags:
@@ -2296,7 +2296,7 @@
   slug: stepful
   domain: stepful.com
   careers_url: https://jobs.ashbyhq.com/stepful
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     ashby: stepful
   tags:
@@ -2354,7 +2354,7 @@
   slug: exa
   domain: exa.ai
   careers_url: https://jobs.ashbyhq.com/exa
-  category: ai-and-data
+  category: developer-infrastructure
   ats:
     ashby: exa
   tags:
@@ -2442,7 +2442,7 @@
   slug: verse-medical
   domain: versemedical.com
   careers_url: https://jobs.ashbyhq.com/versemedical
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     ashby: versemedical
   tags:
@@ -2457,7 +2457,7 @@
   slug: savvy
   domain: gosavvy.com
   careers_url: https://jobs.ashbyhq.com/savvy
-  category: fintech
+  category: healthcare-and-biotech
   ats:
     ashby: savvy
   tags:
@@ -2472,7 +2472,7 @@
   slug: homebase
   domain: gethomebase.com
   careers_url: https://jobs.ashbyhq.com/homebase
-  category: fintech
+  category: industrials-and-climate
   ats:
     ashby: homebase
   tags:
@@ -2486,7 +2486,7 @@
   slug: confido
   domain: confidotech.com
   careers_url: https://jobs.ashbyhq.com/confido
-  category: ai-and-data
+  category: fintech
   ats:
     ashby: confido
   tags:
@@ -2530,7 +2530,7 @@
   slug: heart-aerospace
   domain: heartaerospace.com
   careers_url: https://boards.greenhouse.io/heartaerospace
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     greenhouse: heartaerospace
   tags:
@@ -2587,7 +2587,7 @@
   slug: axle
   domain: axle.insure
   careers_url: https://boards.greenhouse.io/axle
-  category: ai-and-data
+  category: fintech
   ats:
     greenhouse: axle
   tags:
@@ -2632,7 +2632,7 @@
   slug: mattermost
   domain: mattermost.com
   careers_url: https://boards.greenhouse.io/mattermost
-  category: developer-infrastructure
+  category: b2b-enterprise
   ats:
     greenhouse: mattermost
   tags:
@@ -2647,7 +2647,7 @@
   slug: vetcove
   domain: vetcove.com
   careers_url: https://jobs.ashbyhq.com/vetcove
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     ashby: vetcove
   tags:
@@ -2764,7 +2764,7 @@
   slug: skyways
   domain: skyways.com
   careers_url: https://jobs.lever.co/skyways
-  category: ai-and-data
+  category: industrials-and-climate
   ats:
     lever: skyways
   tags:
@@ -2823,7 +2823,7 @@
   slug: momentic
   domain: momentic.ai
   careers_url: https://boards.greenhouse.io/momentic
-  category: ai-and-data
+  category: developer-infrastructure
   ats:
     greenhouse: momentic
   tags:
@@ -2852,7 +2852,7 @@
   slug: camber
   domain: camber.health
   careers_url: https://jobs.ashbyhq.com/camber
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     ashby: camber
   tags:
@@ -2867,7 +2867,7 @@
   slug: parallel-bio
   domain: parallel.bio
   careers_url: https://jobs.ashbyhq.com/parallel
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     ashby: parallel
   tags:
@@ -2912,7 +2912,7 @@
   slug: latent
   domain: latenthealth.com
   careers_url: https://jobs.ashbyhq.com/latent
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     ashby: latent
   tags:
@@ -2941,7 +2941,7 @@
   slug: gecko-robotics
   domain: geckorobotics.com
   careers_url: https://jobs.ashbyhq.com/gecko-robotics
-  category: ai-and-data
+  category: industrials-and-climate
   ats:
     ashby: gecko-robotics
   tags:
@@ -2971,7 +2971,7 @@
   slug: pelago
   domain: pelagohealth.com
   careers_url: https://boards.greenhouse.io/pelago
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     greenhouse: pelago
   tags:
@@ -2984,7 +2984,7 @@
   slug: veriff
   domain: veriff.com
   careers_url: https://boards.greenhouse.io/veriff
-  category: ai-and-data
+  category: fintech
   ats:
     greenhouse: veriff
   tags:
@@ -2999,7 +2999,7 @@
   slug: pine-park-health
   domain: pineparkhealth.com
   careers_url: https://boards.greenhouse.io/pineparkhealth
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     greenhouse: pineparkhealth
   tags:
@@ -3097,7 +3097,7 @@
   slug: ora-ai
   domain: oraai.com
   careers_url: https://boards.greenhouse.io/ora
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     greenhouse: ora
   tags:
@@ -3111,7 +3111,7 @@
   slug: furtherai
   domain: furtherai.com
   careers_url: https://boards.greenhouse.io/further
-  category: ai-and-data
+  category: fintech
   ats:
     greenhouse: further
   tags:
@@ -3124,7 +3124,7 @@
   slug: plume
   domain: plumefinder.com
   careers_url: https://boards.greenhouse.io/plume
-  category: developer-infrastructure
+  category: industrials-and-climate
   ats:
     greenhouse: plume
   tags:
@@ -3183,7 +3183,7 @@
   slug: pair-team
   domain: pairteam.com
   careers_url: https://boards.greenhouse.io/pairteam
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     greenhouse: pairteam
   tags:
@@ -3198,7 +3198,7 @@
   slug: tendo
   domain: tendo.app
   careers_url: https://jobs.lever.co/tendo
-  category: consumer-and-marketplace
+  category: fintech
   ats:
     lever: tendo
   tags:
@@ -3213,7 +3213,7 @@
   slug: unify
   domain: unify.ai
   careers_url: https://jobs.ashbyhq.com/unify
-  category: developer-infrastructure
+  category: ai-and-data
   ats:
     ashby: unify
   tags:
@@ -3228,7 +3228,7 @@
   slug: avoca
   domain: avoca.ai
   careers_url: https://jobs.ashbyhq.com/avoca
-  category: ai-and-data
+  category: b2b-enterprise
   ats:
     ashby: avoca
   tags:
@@ -3240,7 +3240,7 @@
   slug: alloy
   domain: alloy.app
   careers_url: https://boards.greenhouse.io/alloy
-  category: ai-and-data
+  category: b2b-enterprise
   ats:
     greenhouse: alloy
   tags:
@@ -3255,7 +3255,7 @@
   slug: tennr
   domain: tennr.com
   careers_url: https://jobs.ashbyhq.com/tennr
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     ashby: tennr
   tags:
@@ -3296,7 +3296,7 @@
   slug: harper
   domain: harperinsure.com
   careers_url: https://jobs.ashbyhq.com/harperinsure
-  category: ai-and-data
+  category: fintech
   ats:
     ashby: harperinsure
   tags:
@@ -3311,7 +3311,7 @@
   slug: hexa
   domain: hexaagents.com
   careers_url: https://jobs.ashbyhq.com/hexa
-  category: consumer-and-marketplace
+  category: industrials-and-climate
   ats:
     ashby: hexa
   tags:
@@ -3341,7 +3341,7 @@
   slug: nimblerx
   domain: nimblerx.com
   careers_url: https://jobs.lever.co/nimblerx
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     lever: nimblerx
   tags:
@@ -3384,7 +3384,7 @@
   slug: pyka
   domain: flypyka.com
   careers_url: https://jobs.lever.co/pyka
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     lever: pyka
   tags:
@@ -3399,7 +3399,7 @@
   slug: odeko
   domain: odeko.com
   careers_url: https://boards.greenhouse.io/odeko
-  category: consumer-and-marketplace
+  category: industrials-and-climate
   ats:
     greenhouse: odeko
   tags:
@@ -3439,7 +3439,7 @@
   slug: nash
   domain: usenash.com
   careers_url: https://jobs.ashbyhq.com/nash
-  category: consumer-and-marketplace
+  category: industrials-and-climate
   ats:
     ashby: nash
   tags:
@@ -3498,7 +3498,7 @@
   slug: pearl
   domain: getpearlcoffee.com
   careers_url: https://jobs.ashbyhq.com/pearl
-  category: consumer-and-marketplace
+  category: industrials-and-climate
   ats:
     ashby: pearl
   tags:
@@ -3513,7 +3513,7 @@
   slug: nanonets
   domain: nanonets.com
   careers_url: https://boards.greenhouse.io/nanonets
-  category: ai-and-data
+  category: developer-infrastructure
   ats:
     greenhouse: nanonets
   tags:
@@ -3528,7 +3528,7 @@
   slug: fuse
   domain: letsfuse.com
   careers_url: https://jobs.ashbyhq.com/fuse
-  category: developer-infrastructure
+  category: fintech
   ats:
     ashby: fuse
   tags:
@@ -3557,7 +3557,7 @@
   slug: odys-aviation
   domain: odysaviation.com
   careers_url: https://jobs.ashbyhq.com/odys-aviation
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     ashby: odys-aviation
   tags:
@@ -3572,7 +3572,7 @@
   slug: turion-space
   domain: turionspace.com
   careers_url: https://jobs.ashbyhq.com/turion-space
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     ashby: turion-space
   tags:
@@ -3602,7 +3602,7 @@
   slug: metriport
   domain: metriport.com
   careers_url: https://jobs.ashbyhq.com/metriport
-  category: ai-and-data
+  category: healthcare-and-biotech
   ats:
     ashby: metriport
   tags:
@@ -3647,7 +3647,7 @@
   slug: conveo
   domain: conveo.ai
   careers_url: https://jobs.ashbyhq.com/conveo
-  category: ai-and-data
+  category: developer-infrastructure
   ats:
     ashby: conveo
   tags:
@@ -3662,7 +3662,7 @@
   slug: phonely
   domain: phonely.ai
   careers_url: https://jobs.ashbyhq.com/phonely
-  category: ai-and-data
+  category: b2b-enterprise
   ats:
     ashby: phonely
   tags:
@@ -3704,7 +3704,7 @@
   slug: akido-labs
   domain: akidolabs.com
   careers_url: https://boards.greenhouse.io/akidolabs
-  category: ai-and-data
+  category: healthcare-and-biotech
   ats:
     greenhouse: akidolabs
   tags:
@@ -3719,7 +3719,7 @@
   slug: notable-labs
   domain: notablelabs.com
   careers_url: https://jobs.ashbyhq.com/notable
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     ashby: notable
   tags:
@@ -3734,7 +3734,7 @@
   slug: rigetti-computing
   domain: rigetti.com
   careers_url: https://jobs.lever.co/rigetti
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     lever: rigetti
   tags:
@@ -3748,7 +3748,7 @@
   slug: shift-labs
   domain: shiftlabs.com
   careers_url: https://jobs.ashbyhq.com/shift
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     ashby: shift
   tags:
@@ -3777,7 +3777,7 @@
   slug: givecampus
   domain: go.givecampus.com
   careers_url: https://boards.greenhouse.io/givecampus
-  category: developer-infrastructure
+  category: fintech
   ats:
     greenhouse: givecampus
   tags:
@@ -3806,7 +3806,7 @@
   slug: ophelia
   domain: ophelia.com
   careers_url: https://boards.greenhouse.io/ophelia
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     greenhouse: ophelia
   tags:
@@ -3821,7 +3821,7 @@
   slug: mable
   domain: trymable.com
   careers_url: https://jobs.lever.co/mable
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     lever: mable
   tags:
@@ -3894,7 +3894,7 @@
   slug: attain
   domain: joinattain.com
   careers_url: https://boards.greenhouse.io/attain
-  category: consumer-and-marketplace
+  category: industrials-and-climate
   ats:
     greenhouse: attain
   tags:
@@ -3909,7 +3909,7 @@
   slug: array-labs
   domain: arraylabs.io
   careers_url: https://boards.greenhouse.io/array
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     greenhouse: array
   tags:
@@ -3923,7 +3923,7 @@
   slug: firecrawl
   domain: firecrawl.dev
   careers_url: https://jobs.ashbyhq.com/firecrawl
-  category: ai-and-data
+  category: developer-infrastructure
   ats:
     ashby: firecrawl
   tags:
@@ -3938,7 +3938,7 @@
   slug: bubble-lab
   domain: bubblelab.ai
   careers_url: https://jobs.ashbyhq.com/bubble
-  category: ai-and-data
+  category: b2b-enterprise
   ats:
     ashby: bubble
   tags:
@@ -3997,7 +3997,7 @@
   slug: humaans
   domain: humaans.io
   careers_url: https://jobs.ashbyhq.com/humaans
-  category: ai-and-data
+  category: developer-infrastructure
   ats:
     ashby: humaans
   tags:
@@ -4012,7 +4012,7 @@
   slug: fleetworks
   domain: fleetworks.ai
   careers_url: https://jobs.ashbyhq.com/fleetworks
-  category: consumer-and-marketplace
+  category: industrials-and-climate
   ats:
     ashby: fleetworks
   tags:
@@ -4027,7 +4027,7 @@
   slug: prosper
   domain: getprosper.ai
   careers_url: https://jobs.lever.co/prosper
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     lever: prosper
   tags:
@@ -4042,7 +4042,7 @@
   slug: rescale
   domain: rescale.com
   careers_url: https://jobs.ashbyhq.com/rescale
-  category: developer-infrastructure
+  category: b2b-enterprise
   ats:
     ashby: rescale
   tags:
@@ -4099,7 +4099,7 @@
   slug: colab
   domain: colabsoftware.com
   careers_url: https://boards.greenhouse.io/colabsoftware
-  category: ai-and-data
+  category: industrials-and-climate
   ats:
     greenhouse: colabsoftware
   tags:
@@ -4114,7 +4114,7 @@
   slug: handoff
   domain: handoff.ai
   careers_url: https://jobs.lever.co/handoff
-  category: ai-and-data
+  category: industrials-and-climate
   ats:
     lever: handoff
   tags:
@@ -4144,7 +4144,7 @@
   slug: atomic-industries
   domain: atomic.industries
   careers_url: https://jobs.ashbyhq.com/atomicindustries
-  category: ai-and-data
+  category: industrials-and-climate
   ats:
     ashby: atomicindustries
   tags:
@@ -4159,7 +4159,7 @@
   slug: topline-pro
   domain: toplinepro.com
   careers_url: https://jobs.ashbyhq.com/topline-pro
-  category: ai-and-data
+  category: developer-infrastructure
   ats:
     ashby: topline-pro
   tags:
@@ -4173,7 +4173,7 @@
   slug: shepherd
   domain: shepherdinsurance.com
   careers_url: https://jobs.ashbyhq.com/shepherd
-  category: fintech
+  category: industrials-and-climate
   ats:
     ashby: shepherd
   tags:
@@ -4188,7 +4188,7 @@
   slug: hive-health
   domain: ourhivehealth.com
   careers_url: https://jobs.ashbyhq.com/hivehealth
-  category: fintech
+  category: healthcare-and-biotech
   ats:
     ashby: hivehealth
   tags:
@@ -4217,7 +4217,7 @@
   slug: aviaryai
   domain: helloaviary.ai
   careers_url: https://boards.greenhouse.io/aviary
-  category: ai-and-data
+  category: fintech
   ats:
     greenhouse: aviary
   tags:
@@ -4232,7 +4232,7 @@
   slug: extend
   domain: extend.ai
   careers_url: https://boards.greenhouse.io/extend
-  category: ai-and-data
+  category: developer-infrastructure
   ats:
     greenhouse: extend
   tags:
@@ -4275,7 +4275,7 @@
   slug: qventus
   domain: qventus.com
   careers_url: https://boards.greenhouse.io/qventus
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     greenhouse: qventus
   tags:
@@ -4304,7 +4304,7 @@
   slug: modern-health
   domain: modernhealth.com
   careers_url: https://boards.greenhouse.io/modernhealth
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     greenhouse: modernhealth
   tags:
@@ -4378,7 +4378,7 @@
   slug: short-story
   domain: shortstorybox.com
   careers_url: https://jobs.ashbyhq.com/shortstory
-  category: consumer-and-marketplace
+  category: ai-and-data
   ats:
     ashby: shortstory
   tags:
@@ -4407,7 +4407,7 @@
   slug: teleo
   domain: teleo.ai
   careers_url: https://jobs.lever.co/teleo
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     lever: teleo
   tags:
@@ -4437,7 +4437,7 @@
   slug: nabla-bio
   domain: nabla.bio
   careers_url: https://jobs.ashbyhq.com/nabla
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     ashby: nabla
   tags:
@@ -4466,7 +4466,7 @@
   slug: regent
   domain: regentcraft.com
   careers_url: https://boards.greenhouse.io/regent
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     greenhouse: regent
   tags:
@@ -4481,7 +4481,7 @@
   slug: h3x-technologies
   domain: h3x.tech
   careers_url: https://jobs.ashbyhq.com/h3x-technologies
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     ashby: h3x-technologies
   tags:
@@ -4496,7 +4496,7 @@
   slug: charge-robotics
   domain: chargerobotics.com
   careers_url: https://jobs.ashbyhq.com/charge-robotics
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     ashby: charge-robotics
   tags:
@@ -4511,7 +4511,7 @@
   slug: novig
   domain: novig.com
   careers_url: https://jobs.ashbyhq.com/novig
-  category: consumer-and-marketplace
+  category: fintech
   ats:
     ashby: novig
   tags:
@@ -4569,7 +4569,7 @@
   slug: solve-intelligence
   domain: solveintelligence.com
   careers_url: https://jobs.ashbyhq.com/solveintelligence
-  category: ai-and-data
+  category: b2b-enterprise
   ats:
     ashby: solveintelligence
   tags:
@@ -4582,7 +4582,7 @@
   slug: gumloop
   domain: gumloop.com
   careers_url: https://jobs.ashbyhq.com/gumloop
-  category: developer-infrastructure
+  category: b2b-enterprise
   ats:
     ashby: gumloop
   tags:
@@ -4622,7 +4622,7 @@
   slug: mercura
   domain: mercura.ai
   careers_url: https://jobs.ashbyhq.com/mercura
-  category: ai-and-data
+  category: b2b-enterprise
   ats:
     ashby: mercura
   tags:
@@ -4648,7 +4648,7 @@
   slug: multiply-labs
   domain: multiplylabs.com
   careers_url: https://jobs.lever.co/multiplylabs
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     lever: multiplylabs
   tags:
@@ -4719,7 +4719,7 @@
   slug: junction
   domain: junction.com
   careers_url: https://jobs.ashbyhq.com/junction
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     ashby: junction
   tags:
@@ -4734,7 +4734,7 @@
   slug: atob
   domain: atob.com
   careers_url: https://jobs.ashbyhq.com/atob
-  category: fintech
+  category: industrials-and-climate
   ats:
     ashby: atob
   tags:
@@ -4749,7 +4749,7 @@
   slug: synapticure
   domain: synapticure.com
   careers_url: https://jobs.lever.co/synapticure
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     lever: synapticure
   tags:
@@ -4777,7 +4777,7 @@
   slug: posh
   domain: poshenergy.com
   careers_url: https://jobs.ashbyhq.com/posh
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     ashby: posh
   tags:
@@ -4836,7 +4836,7 @@
   slug: sensei
   domain: senseirobotics.com
   careers_url: https://boards.greenhouse.io/sensei
-  category: ai-and-data
+  category: industrials-and-climate
   ats:
     greenhouse: sensei
   tags:
@@ -4866,7 +4866,7 @@
   slug: eloquent-ai
   domain: eloquentai.co
   careers_url: https://jobs.ashbyhq.com/eloquentai
-  category: ai-and-data
+  category: fintech
   ats:
     ashby: eloquentai
   tags:
@@ -4894,7 +4894,7 @@
   slug: ginkgo-bioworks
   domain: ginkgobioworks.com
   careers_url: https://boards.greenhouse.io/ginkgobioworks
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     greenhouse: ginkgobioworks
   tags:
@@ -4937,7 +4937,7 @@
   slug: skip
   domain: rideskip.com
   careers_url: https://jobs.ashbyhq.com/skip
-  category: consumer-and-marketplace
+  category: industrials-and-climate
   ats:
     ashby: skip
   tags:
@@ -4980,7 +4980,7 @@
   slug: hatch
   domain: usehatch.ai
   careers_url: https://jobs.ashbyhq.com/hatch
-  category: developer-infrastructure
+  category: ai-and-data
   ats:
     ashby: hatch
   tags:
@@ -5054,7 +5054,7 @@
   slug: oneleet
   domain: oneleet.com
   careers_url: https://jobs.ashbyhq.com/oneleet
-  category: developer-infrastructure
+  category: ai-and-data
   ats:
     ashby: oneleet
   tags:
@@ -5082,7 +5082,7 @@
   slug: clarion
   domain: clarionhealth.com
   careers_url: https://jobs.ashbyhq.com/clarion
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     ashby: clarion
   tags:
@@ -5097,7 +5097,7 @@
   slug: datacurve
   domain: datacurve.ai
   careers_url: https://jobs.ashbyhq.com/datacurve
-  category: ai-and-data
+  category: b2b-enterprise
   ats:
     ashby: datacurve
   tags:
@@ -5109,7 +5109,7 @@
   slug: lucis
   domain: lucis.life
   careers_url: https://jobs.ashbyhq.com/lucis
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     ashby: lucis
   tags:
@@ -5124,7 +5124,7 @@
   slug: 9-mothers
   domain: 9mothers.com
   careers_url: https://jobs.ashbyhq.com/9-mothers
-  category: ai-and-data
+  category: industrials-and-climate
   ats:
     ashby: 9-mothers
   tags:
@@ -5137,7 +5137,7 @@
   slug: human-archive
   domain: humanarchive.ai
   careers_url: https://jobs.ashbyhq.com/humanarchive
-  category: ai-and-data
+  category: industrials-and-climate
   ats:
     ashby: humanarchive
   tags:
@@ -5224,7 +5224,7 @@
   slug: emi-labs
   domain: emilabs.ai
   careers_url: https://jobs.lever.co/emilabs
-  category: open-source-and-platform
+  category: b2b-enterprise
   ats:
     lever: emilabs
   tags:
@@ -5313,7 +5313,7 @@
   slug: blee
   domain: blee.com
   careers_url: https://jobs.ashbyhq.com/blee
-  category: ai-and-data
+  category: fintech
   ats:
     ashby: blee
   tags:
@@ -5327,7 +5327,7 @@
   slug: kombo
   domain: kombo.dev
   careers_url: https://jobs.ashbyhq.com/kombo
-  category: fintech
+  category: b2b-enterprise
   ats:
     ashby: kombo
   tags:
@@ -5339,7 +5339,7 @@
   slug: vooma
   domain: vooma.ai
   careers_url: https://jobs.ashbyhq.com/vooma
-  category: consumer-and-marketplace
+  category: industrials-and-climate
   ats:
     ashby: vooma
   tags:
@@ -5352,7 +5352,7 @@
   slug: vitalize
   domain: vitalize.care
   careers_url: https://jobs.ashbyhq.com/vitalize
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     ashby: vitalize
   tags:
@@ -5411,7 +5411,7 @@
   slug: empirical-health
   domain: empirical.health
   careers_url: https://jobs.ashbyhq.com/empirical
-  category: ai-and-data
+  category: healthcare-and-biotech
   ats:
     ashby: empirical
   tags:
@@ -5441,7 +5441,7 @@
   slug: vera-health
   domain: vera-health.ai
   careers_url: https://jobs.ashbyhq.com/verahealth
-  category: ai-and-data
+  category: healthcare-and-biotech
   ats:
     ashby: verahealth
   tags:
@@ -5471,7 +5471,7 @@
   slug: telli
   domain: telli.com
   careers_url: https://jobs.ashbyhq.com/telli
-  category: ai-and-data
+  category: b2b-enterprise
   ats:
     ashby: telli
   tags:
@@ -5498,7 +5498,7 @@
   slug: sygaldry-technologies
   domain: sygaldry.com
   careers_url: https://jobs.ashbyhq.com/sygaldry-technologies
-  category: ai-and-data
+  category: industrials-and-climate
   ats:
     ashby: sygaldry-technologies
   tags:
@@ -5510,7 +5510,7 @@
   slug: morphoai
   domain: morpho.ai
   careers_url: https://jobs.ashbyhq.com/morpho
-  category: ai-and-data
+  category: industrials-and-climate
   ats:
     ashby: morpho
   tags:
@@ -5595,7 +5595,7 @@
   slug: momentus
   domain: momentus.space
   careers_url: https://boards.greenhouse.io/momentus
-  category: developer-infrastructure
+  category: industrials-and-climate
   ats:
     greenhouse: momentus
   tags:
@@ -5610,7 +5610,7 @@
   slug: duffel
   domain: duffel.com
   careers_url: https://jobs.ashbyhq.com/duffel
-  category: consumer-and-marketplace
+  category: developer-infrastructure
   ats:
     ashby: duffel
   tags:
@@ -5670,7 +5670,7 @@
   slug: atomic
   domain: atomicvest.com
   careers_url: https://jobs.ashbyhq.com/atomic
-  category: ai-and-data
+  category: fintech
   ats:
     ashby: atomic
   tags:
@@ -5700,7 +5700,7 @@
   slug: carbonchain
   domain: carbonchain.com
   careers_url: https://boards.greenhouse.io/carbonchain
-  category: fintech
+  category: industrials-and-climate
   ats:
     greenhouse: carbonchain
   tags:
@@ -5714,7 +5714,7 @@
   slug: formal
   domain: joinformal.com
   careers_url: https://jobs.ashbyhq.com/formal
-  category: ai-and-data
+  category: developer-infrastructure
   ats:
     ashby: formal
   tags:
@@ -5727,7 +5727,7 @@
   slug: albedo
   domain: albedo.com
   careers_url: https://boards.greenhouse.io/albedo
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     greenhouse: albedo
   tags:
@@ -5742,7 +5742,7 @@
   slug: spruceid
   domain: spruceid.com
   careers_url: https://jobs.ashbyhq.com/spruceid
-  category: developer-infrastructure
+  category: fintech
   ats:
     ashby: spruceid
   tags:
@@ -5757,7 +5757,7 @@
   slug: anima
   domain: animahealth.com
   careers_url: https://jobs.ashbyhq.com/anima
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     ashby: anima
   tags:
@@ -5772,7 +5772,7 @@
   slug: phoenix
   domain: phoenix.ca
   careers_url: https://jobs.ashbyhq.com/phoenix
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     ashby: phoenix
   tags:
@@ -5817,7 +5817,7 @@
   slug: legion-health
   domain: legionhealth.com
   careers_url: https://jobs.ashbyhq.com/legionhealth
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     ashby: legionhealth
   tags:
@@ -5845,7 +5845,7 @@
   slug: adaptyv
   domain: adaptyvbio.com
   careers_url: https://jobs.ashbyhq.com/adaptyv
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     ashby: adaptyv
   tags:
@@ -5875,7 +5875,7 @@
   slug: fleetzero
   domain: fleetzero.com
   careers_url: https://jobs.lever.co/fleetzero
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     lever: fleetzero
   tags:
@@ -5947,7 +5947,7 @@
   slug: safetykit
   domain: safetykit.com
   careers_url: https://jobs.ashbyhq.com/safetykit
-  category: ai-and-data
+  category: fintech
   ats:
     ashby: safetykit
   tags:
@@ -5975,7 +5975,7 @@
   slug: david-ai
   domain: withdavid.ai
   careers_url: https://jobs.ashbyhq.com/david-ai
-  category: ai-and-data
+  category: b2b-enterprise
   ats:
     ashby: david-ai
   tags:
@@ -5987,7 +5987,7 @@
   slug: starcloud
   domain: starcloud.com
   careers_url: https://boards.greenhouse.io/starcloud
-  category: ai-and-data
+  category: industrials-and-climate
   ats:
     greenhouse: starcloud
   tags:
@@ -6002,7 +6002,7 @@
   slug: solidroad
   domain: solidroad.com
   careers_url: https://jobs.ashbyhq.com/solidroad
-  category: ai-and-data
+  category: b2b-enterprise
   ats:
     ashby: solidroad
   tags:
@@ -6014,7 +6014,7 @@
   slug: icarus
   domain: icarus.one
   careers_url: https://boards.greenhouse.io/icarus
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     greenhouse: icarus
   tags:
@@ -6029,7 +6029,7 @@
   slug: openwork
   domain: openworklabs.com
   careers_url: https://boards.greenhouse.io/openwork
-  category: open-source-and-platform
+  category: b2b-enterprise
   ats:
     greenhouse: openwork
   tags:
@@ -6057,7 +6057,7 @@
   slug: cinder
   domain: cindercooks.com
   careers_url: https://jobs.ashbyhq.com/cinder
-  category: consumer-and-marketplace
+  category: industrials-and-climate
   ats:
     ashby: cinder
   tags:
@@ -6086,7 +6086,7 @@
   slug: boom
   domain: boomsupersonic.com
   careers_url: https://jobs.ashbyhq.com/boom
-  category: consumer-and-marketplace
+  category: industrials-and-climate
   ats:
     ashby: boom
   tags:
@@ -6101,7 +6101,7 @@
   slug: roofr
   domain: roofr.com
   careers_url: https://boards.greenhouse.io/roofr
-  category: consumer-and-marketplace
+  category: industrials-and-climate
   ats:
     greenhouse: roofr
   tags:
@@ -6130,7 +6130,7 @@
   slug: postscript
   domain: postscript.io
   careers_url: https://boards.greenhouse.io/postscript
-  category: developer-infrastructure
+  category: consumer-and-marketplace
   ats:
     greenhouse: postscript
   tags:
@@ -6145,7 +6145,7 @@
   slug: volta-labs-inc
   domain: voltalabs.com
   careers_url: https://jobs.lever.co/voltalabs
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     lever: voltalabs
   tags:
@@ -6175,7 +6175,7 @@
   slug: blissway
   domain: blissway.com
   careers_url: https://jobs.ashbyhq.com/blissway
-  category: developer-infrastructure
+  category: industrials-and-climate
   ats:
     ashby: blissway
   tags:
@@ -6190,7 +6190,7 @@
   slug: vitable-health
   domain: vitablehealth.com
   careers_url: https://boards.greenhouse.io/vitablehealth
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     greenhouse: vitablehealth
   tags:
@@ -6219,7 +6219,7 @@
   slug: liveflow
   domain: liveflow.com
   careers_url: https://jobs.ashbyhq.com/liveflow
-  category: ai-and-data
+  category: fintech
   ats:
     ashby: liveflow
   tags:
@@ -6248,7 +6248,7 @@
   slug: journey
   domain: journey.io
   careers_url: https://boards.greenhouse.io/journey
-  category: developer-infrastructure
+  category: ai-and-data
   ats:
     greenhouse: journey
   tags:
@@ -6308,7 +6308,7 @@
   slug: hubble-network
   domain: hubble.com
   careers_url: https://boards.greenhouse.io/hubblenetwork
-  category: developer-infrastructure
+  category: industrials-and-climate
   ats:
     greenhouse: hubblenetwork
   tags:
@@ -6338,7 +6338,7 @@
   slug: reality-defender
   domain: realitydefender.com
   careers_url: https://jobs.ashbyhq.com/realitydefender
-  category: developer-infrastructure
+  category: ai-and-data
   ats:
     ashby: realitydefender
   tags:
@@ -6353,7 +6353,7 @@
   slug: aiprise
   domain: aiprise.com
   careers_url: https://jobs.ashbyhq.com/aiprise
-  category: ai-and-data
+  category: fintech
   ats:
     ashby: aiprise
   tags:
@@ -6368,7 +6368,7 @@
   slug: quindar
   domain: quindar.space
   careers_url: https://jobs.ashbyhq.com/quindar
-  category: developer-infrastructure
+  category: industrials-and-climate
   ats:
     ashby: quindar
   tags:
@@ -6383,7 +6383,7 @@
   slug: warp
   domain: warp.co
   careers_url: https://jobs.ashbyhq.com/warp
-  category: ai-and-data
+  category: fintech
   ats:
     ashby: warp
   tags:
@@ -6413,7 +6413,7 @@
   slug: codes-health
   domain: getcodeshealth.com
   careers_url: https://jobs.ashbyhq.com/codes-health
-  category: ai-and-data
+  category: healthcare-and-biotech
   ats:
     ashby: codes-health
   tags:
@@ -6428,7 +6428,7 @@
   slug: kastle
   domain: kastle.ai
   careers_url: https://jobs.ashbyhq.com/kastle
-  category: ai-and-data
+  category: b2b-enterprise
   ats:
     ashby: kastle
   tags:
@@ -6440,7 +6440,7 @@
   slug: forerunner-ai
   domain: tryforerunner.com
   careers_url: https://jobs.ashbyhq.com/forerunner
-  category: ai-and-data
+  category: industrials-and-climate
   ats:
     ashby: forerunner
   tags:
@@ -6455,7 +6455,7 @@
   slug: revi
   domain: revi.ai
   careers_url: https://jobs.lever.co/revi
-  category: ai-and-data
+  category: b2b-enterprise
   ats:
     lever: revi
   tags:
@@ -6468,7 +6468,7 @@
   slug: burnt
   domain: getburnt.ai
   careers_url: https://boards.greenhouse.io/burnt
-  category: consumer-and-marketplace
+  category: industrials-and-climate
   ats:
     greenhouse: burnt
   tags:
@@ -6512,7 +6512,7 @@
   slug: circuithub
   domain: circuithub.com
   careers_url: https://jobs.ashbyhq.com/circuithub
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     ashby: circuithub
   tags:
@@ -6539,7 +6539,7 @@
   slug: sift
   domain: sift.com
   careers_url: https://jobs.ashbyhq.com/sift
-  category: developer-infrastructure
+  category: fintech
   ats:
     ashby: sift
   tags:
@@ -6568,7 +6568,7 @@
   slug: snapdocs
   domain: snapdocs.com
   careers_url: https://jobs.ashbyhq.com/snapdocs
-  category: consumer-and-marketplace
+  category: industrials-and-climate
   ats:
     ashby: snapdocs
   tags:
@@ -6583,7 +6583,7 @@
   slug: permutive
   domain: permutive.com
   careers_url: https://jobs.ashbyhq.com/permutive
-  category: ai-and-data
+  category: b2b-enterprise
   ats:
     ashby: permutive
   tags:
@@ -6598,7 +6598,7 @@
   slug: caremessage
   domain: caremessage.org
   careers_url: https://jobs.lever.co/caremessage
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     lever: caremessage
   tags:
@@ -6627,7 +6627,7 @@
   slug: mytos
   domain: mytos.bio
   careers_url: https://jobs.lever.co/mytos
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     lever: mytos
   tags:
@@ -6642,7 +6642,7 @@
   slug: lucid-bots
   domain: lucidbots.com
   careers_url: https://boards.greenhouse.io/lucidbots
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     greenhouse: lucidbots
   tags:
@@ -6657,7 +6657,7 @@
   slug: stable
   domain: usestable.com
   careers_url: https://jobs.ashbyhq.com/stable
-  category: open-source-and-platform
+  category: b2b-enterprise
   ats:
     ashby: stable
   tags:
@@ -6685,7 +6685,7 @@
   slug: flint
   domain: withflint.com
   careers_url: https://jobs.ashbyhq.com/flint
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     ashby: flint
   tags:
@@ -6697,7 +6697,7 @@
   slug: heron-data
   domain: herondata.io
   careers_url: https://jobs.ashbyhq.com/herondata
-  category: ai-and-data
+  category: fintech
   ats:
     ashby: herondata
   tags:
@@ -6712,7 +6712,7 @@
   slug: verifiable
   domain: verifiable.com
   careers_url: https://jobs.lever.co/verifiable
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     lever: verifiable
   tags:
@@ -6742,7 +6742,7 @@
   slug: axle-health
   domain: axlehealth.com
   careers_url: https://jobs.ashbyhq.com/axle-health
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     ashby: axle-health
   tags:
@@ -6772,7 +6772,7 @@
   slug: blink
   domain: blinklastmile.com
   careers_url: https://jobs.ashbyhq.com/blink
-  category: consumer-and-marketplace
+  category: industrials-and-climate
   ats:
     ashby: blink
   tags:
@@ -6802,7 +6802,7 @@
   slug: meticulous
   domain: meticulous.ai
   careers_url: https://jobs.ashbyhq.com/meticulous
-  category: developer-infrastructure
+  category: industrials-and-climate
   ats:
     ashby: meticulous
   tags:
@@ -6861,7 +6861,7 @@
   slug: maverickx
   domain: maverickx.com
   careers_url: https://jobs.lever.co/maverickx
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     lever: maverickx
   tags:
@@ -6875,7 +6875,7 @@
   slug: knowtex
   domain: knowtex.ai
   careers_url: https://jobs.ashbyhq.com/knowtex
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     ashby: knowtex
   tags:
@@ -6905,7 +6905,7 @@
   slug: suger
   domain: suger.io
   careers_url: https://jobs.lever.co/suger
-  category: developer-infrastructure
+  category: consumer-and-marketplace
   ats:
     lever: suger
   tags:
@@ -6920,7 +6920,7 @@
   slug: inkeep
   domain: inkeep.com
   careers_url: https://jobs.ashbyhq.com/inkeep
-  category: ai-and-data
+  category: developer-infrastructure
   ats:
     ashby: inkeep
   tags:
@@ -6935,7 +6935,7 @@
   slug: corgi-labs
   domain: corgilabs.ai
   careers_url: https://jobs.ashbyhq.com/corgi
-  category: ai-and-data
+  category: fintech
   ats:
     ashby: corgi
   tags:
@@ -6950,7 +6950,7 @@
   slug: resend
   domain: resend.com
   careers_url: https://jobs.ashbyhq.com/resend
-  category: developer-infrastructure
+  category: b2b-enterprise
   ats:
     ashby: resend
   tags:
@@ -6993,7 +6993,7 @@
   slug: diligent
   domain: godiligent.ai
   careers_url: https://boards.greenhouse.io/diligent
-  category: ai-and-data
+  category: fintech
   ats:
     greenhouse: diligent
   tags:
@@ -7008,7 +7008,7 @@
   slug: poka-labs
   domain: pokalabs.com
   careers_url: https://boards.greenhouse.io/poka
-  category: ai-and-data
+  category: industrials-and-climate
   ats:
     greenhouse: poka
   tags:
@@ -7023,7 +7023,7 @@
   slug: greenboard
   domain: greenboard.com
   careers_url: https://jobs.ashbyhq.com/greenboard
-  category: ai-and-data
+  category: fintech
   ats:
     ashby: greenboard
   tags:
@@ -7053,7 +7053,7 @@
   slug: forge
   domain: forgehq.com
   careers_url: https://jobs.ashbyhq.com/forge
-  category: ai-and-data
+  category: industrials-and-climate
   ats:
     ashby: forge
   tags:
@@ -7068,7 +7068,7 @@
   slug: substrate
   domain: substrate.cc
   careers_url: https://jobs.ashbyhq.com/substrate
-  category: ai-and-data
+  category: b2b-enterprise
   ats:
     ashby: substrate
   tags:
@@ -7080,7 +7080,7 @@
   slug: saturn
   domain: saturnos.com
   careers_url: https://jobs.ashbyhq.com/saturn
-  category: ai-and-data
+  category: fintech
   ats:
     ashby: saturn
   tags:
@@ -7124,7 +7124,7 @@
   slug: sphinx
   domain: sphinxhq.com
   careers_url: https://jobs.ashbyhq.com/sphinx
-  category: ai-and-data
+  category: fintech
   ats:
     ashby: sphinx
   tags:
@@ -7179,7 +7179,7 @@
   slug: lob
   domain: lob.com
   careers_url: https://boards.greenhouse.io/lob
-  category: developer-infrastructure
+  category: b2b-enterprise
   ats:
     greenhouse: lob
   tags:
@@ -7193,7 +7193,7 @@
   slug: tempo
   domain: tempo.fit
   careers_url: https://jobs.ashbyhq.com/tempo
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     ashby: tempo
   tags:
@@ -7221,7 +7221,7 @@
   slug: sage-care
   domain: getsagecare.com
   careers_url: https://jobs.ashbyhq.com/sagecare
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     ashby: sagecare
   tags:
@@ -7265,7 +7265,7 @@
   slug: carrot-fertility
   domain: get-carrot.com
   careers_url: https://boards.greenhouse.io/carrotfertility
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     greenhouse: carrotfertility
   tags:
@@ -7280,7 +7280,7 @@
   slug: assemblyai
   domain: assemblyai.com
   careers_url: https://boards.greenhouse.io/assemblyai
-  category: developer-infrastructure
+  category: ai-and-data
   ats:
     greenhouse: assemblyai
   tags:
@@ -7295,7 +7295,7 @@
   slug: evry-health
   domain: evryhealth.com
   careers_url: https://jobs.lever.co/evry-health
-  category: fintech
+  category: healthcare-and-biotech
   ats:
     lever: evry-health
   tags:
@@ -7310,7 +7310,7 @@
   slug: corvus-robotics
   domain: corvus-robotics.com
   careers_url: https://jobs.ashbyhq.com/corvus-robotics
-  category: consumer-and-marketplace
+  category: industrials-and-climate
   ats:
     ashby: corvus-robotics
   tags:
@@ -7325,7 +7325,7 @@
   slug: golinks
   domain: golinks.io
   careers_url: https://jobs.ashbyhq.com/golinks
-  category: ai-and-data
+  category: developer-infrastructure
   ats:
     ashby: golinks
   tags:
@@ -7340,7 +7340,7 @@
   slug: bunkerhill-health
   domain: bunkerhillhealth.com
   careers_url: https://jobs.ashbyhq.com/bunkerhillhealth
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     ashby: bunkerhillhealth
   tags:
@@ -7368,7 +7368,7 @@
   slug: general-proximity
   domain: generalproximity.bio
   careers_url: https://boards.greenhouse.io/generalproximity
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     greenhouse: generalproximity
   tags:
@@ -7398,7 +7398,7 @@
   slug: trident-bioscience
   domain: trident.bio
   careers_url: https://boards.greenhouse.io/trident
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     greenhouse: trident
   tags:
@@ -7427,7 +7427,7 @@
   slug: skio
   domain: skio.com
   careers_url: https://jobs.lever.co/skio
-  category: consumer-and-marketplace
+  category: fintech
   ats:
     lever: skio
   tags:
@@ -7442,7 +7442,7 @@
   slug: finch
   domain: tryfinch.com
   careers_url: https://jobs.lever.co/finch
-  category: developer-infrastructure
+  category: fintech
   ats:
     lever: finch
   tags:
@@ -7486,7 +7486,7 @@
   slug: beam
   domain: beam.cloud
   careers_url: https://boards.greenhouse.io/beam
-  category: developer-infrastructure
+  category: ai-and-data
   ats:
     greenhouse: beam
   tags:
@@ -7516,7 +7516,7 @@
   slug: two-dots
   domain: twodots.net
   careers_url: https://jobs.ashbyhq.com/two-dots
-  category: ai-and-data
+  category: fintech
   ats:
     ashby: two-dots
   tags:
@@ -7545,7 +7545,7 @@
   slug: ekho
   domain: ekho.com
   careers_url: https://jobs.ashbyhq.com/ekho
-  category: fintech
+  category: industrials-and-climate
   ats:
     ashby: ekho
   tags:
@@ -7560,7 +7560,7 @@
   slug: salient
   domain: trysalient.com
   careers_url: https://jobs.ashbyhq.com/salient
-  category: ai-and-data
+  category: fintech
   ats:
     ashby: salient
   tags:
@@ -7588,7 +7588,7 @@
   slug: relace
   domain: relace.ai
   careers_url: https://jobs.ashbyhq.com/relace
-  category: developer-infrastructure
+  category: b2b-enterprise
   ats:
     ashby: relace
   tags:
@@ -7616,7 +7616,7 @@
   slug: terminal
   domain: withterminal.com
   careers_url: https://jobs.ashbyhq.com/terminal
-  category: developer-infrastructure
+  category: industrials-and-climate
   ats:
     ashby: terminal
   tags:
@@ -7646,7 +7646,7 @@
   slug: healthtech-1
   domain: healthtech1.uk
   careers_url: https://jobs.ashbyhq.com/healthtech-1
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     ashby: healthtech-1
   tags:
@@ -7661,7 +7661,7 @@
   slug: tamarind-bio
   domain: tamarind.bio
   careers_url: https://jobs.ashbyhq.com/tamarindbio
-  category: ai-and-data
+  category: healthcare-and-biotech
   ats:
     ashby: tamarindbio
   tags:
@@ -7676,7 +7676,7 @@
   slug: spaceium-inc
   domain: spaceium.com
   careers_url: https://boards.greenhouse.io/spaceium
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     greenhouse: spaceium
   tags:
@@ -7704,7 +7704,7 @@
   slug: blaxel
   domain: blaxel.ai
   careers_url: https://jobs.ashbyhq.com/blaxel
-  category: developer-infrastructure
+  category: ai-and-data
   ats:
     ashby: blaxel
   tags:
@@ -7719,7 +7719,7 @@
   slug: b12-labs
   domain: b12-labs.com
   careers_url: https://boards.greenhouse.io/b12
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     greenhouse: b12
   tags:
@@ -7734,7 +7734,7 @@
   slug: spotlight-realty
   domain: spotlight.realty
   careers_url: https://jobs.ashbyhq.com/spotlight
-  category: ai-and-data
+  category: industrials-and-climate
   ats:
     ashby: spotlight
   tags:
@@ -7761,7 +7761,7 @@
   slug: clever
   domain: clever.com
   careers_url: https://boards.greenhouse.io/clever
-  category: developer-infrastructure
+  category: consumer-and-marketplace
   ats:
     greenhouse: clever
   tags:
@@ -7774,7 +7774,7 @@
   slug: submittable
   domain: submittable.com
   careers_url: https://boards.greenhouse.io/submittable
-  category: consumer-and-marketplace
+  category: developer-infrastructure
   ats:
     greenhouse: submittable
   tags:
@@ -7801,7 +7801,7 @@
   slug: mednet
   domain: themednet.org
   careers_url: https://jobs.ashbyhq.com/mednet
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     ashby: mednet
   tags:
@@ -7829,7 +7829,7 @@
   slug: sixfold-bioscience
   domain: sixfold.bio
   careers_url: https://boards.greenhouse.io/sixfold
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     greenhouse: sixfold
   tags:
@@ -7859,7 +7859,7 @@
   slug: enveritas
   domain: enveritas.org
   careers_url: https://boards.greenhouse.io/enveritas
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     greenhouse: enveritas
   tags:
@@ -7874,7 +7874,7 @@
   slug: switchboard
   domain: onswitchboard.com
   careers_url: https://jobs.ashbyhq.com/switchboard
-  category: consumer-and-marketplace
+  category: industrials-and-climate
   ats:
     ashby: switchboard
   tags:
@@ -7932,7 +7932,7 @@
   slug: send
   domain: send.ng
   careers_url: https://boards.greenhouse.io/send
-  category: consumer-and-marketplace
+  category: industrials-and-climate
   ats:
     greenhouse: send
   tags:
@@ -8005,7 +8005,7 @@
   slug: nira-energy
   domain: niraenergy.com
   careers_url: https://boards.greenhouse.io/niraenergy
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     greenhouse: niraenergy
   tags:
@@ -8020,7 +8020,7 @@
   slug: luminate
   domain: luminatemed.com
   careers_url: https://boards.greenhouse.io/luminate
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     greenhouse: luminate
   tags:
@@ -8065,7 +8065,7 @@
   slug: spade
   domain: spade.com
   careers_url: https://boards.greenhouse.io/spade
-  category: ai-and-data
+  category: fintech
   ats:
     greenhouse: spade
   tags:
@@ -8167,7 +8167,7 @@
   slug: magic-patterns
   domain: magicpatterns.com
   careers_url: https://jobs.ashbyhq.com/magicpatterns
-  category: ai-and-data
+  category: b2b-enterprise
   ats:
     ashby: magicpatterns
   tags:
@@ -8180,7 +8180,7 @@
   slug: goveagle
   domain: goveagle.com
   careers_url: https://jobs.ashbyhq.com/goveagle
-  category: ai-and-data
+  category: open-source-and-platform
   ats:
     ashby: goveagle
   tags:
@@ -8282,7 +8282,7 @@
   slug: understood-care
   domain: understoodcare.com
   careers_url: https://boards.greenhouse.io/understoodcare
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     greenhouse: understoodcare
   tags:
@@ -8297,7 +8297,7 @@
   slug: ultra
   domain: ultra.tech
   careers_url: https://jobs.ashbyhq.com/ultra
-  category: ai-and-data
+  category: industrials-and-climate
   ats:
     ashby: ultra
   tags:
@@ -8384,7 +8384,7 @@
   slug: stilta
   domain: stilta.com
   careers_url: https://jobs.ashbyhq.com/stilta
-  category: ai-and-data
+  category: b2b-enterprise
   ats:
     ashby: stilta
   tags:
@@ -8396,7 +8396,7 @@
   slug: superset
   domain: superset.sh
   careers_url: https://boards.greenhouse.io/superset
-  category: ai-and-data
+  category: b2b-enterprise
   ats:
     greenhouse: superset
   tags:
@@ -8409,7 +8409,7 @@
   slug: polymath
   domain: polymathlabs.ai
   careers_url: https://jobs.ashbyhq.com/polymath
-  category: ai-and-data
+  category: b2b-enterprise
   ats:
     ashby: polymath
   tags:
@@ -8447,7 +8447,7 @@
   slug: post-fm
   domain: post.fm
   careers_url: https://jobs.ashbyhq.com/post
-  category: open-source-and-platform
+  category: ai-and-data
   ats:
     ashby: post
   tags:
@@ -8491,7 +8491,7 @@
   slug: shasqi
   domain: shasqi.com
   careers_url: https://jobs.ashbyhq.com/shasqi
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     ashby: shasqi
   tags:
@@ -8506,7 +8506,7 @@
   slug: reach
   domain: reachpower.com
   careers_url: https://jobs.ashbyhq.com/reach
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     ashby: reach
   tags:
@@ -8592,7 +8592,7 @@
   slug: opensea
   domain: opensea.io
   careers_url: https://jobs.ashbyhq.com/opensea
-  category: consumer-and-marketplace
+  category: fintech
   ats:
     ashby: opensea
   tags:
@@ -8607,7 +8607,7 @@
   slug: traverse-technologies
   domain: traverse.ai
   careers_url: https://jobs.ashbyhq.com/traverse
-  category: ai-and-data
+  category: industrials-and-climate
   ats:
     ashby: traverse
   tags:
@@ -8735,7 +8735,7 @@
   slug: nimbus
   domain: nimbus.green
   careers_url: https://jobs.lever.co/nimbus
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     lever: nimbus
   tags:
@@ -8750,7 +8750,7 @@
   slug: ansa-biotechnologies
   domain: ansabio.com
   careers_url: https://boards.greenhouse.io/ansabiotechnologies
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     greenhouse: ansabiotechnologies
   tags:
@@ -8765,7 +8765,7 @@
   slug: kernal-biologics
   domain: kernalbio.com
   careers_url: https://boards.greenhouse.io/kernalbio
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     greenhouse: kernalbio
   tags:
@@ -8809,7 +8809,7 @@
   slug: arketa
   domain: arketa.com
   careers_url: https://jobs.ashbyhq.com/arketa
-  category: consumer-and-marketplace
+  category: developer-infrastructure
   ats:
     ashby: arketa
   tags:
@@ -8824,7 +8824,7 @@
   slug: ready
   domain: ready.net
   careers_url: https://jobs.ashbyhq.com/ready
-  category: developer-infrastructure
+  category: fintech
   ats:
     ashby: ready
   tags:
@@ -8868,7 +8868,7 @@
   slug: remora
   domain: remoracarbon.com
   careers_url: https://boards.greenhouse.io/remoracarbon
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     greenhouse: remoracarbon
   tags:
@@ -8883,7 +8883,7 @@
   slug: enode
   domain: enode.com
   careers_url: https://jobs.ashbyhq.com/enode
-  category: developer-infrastructure
+  category: industrials-and-climate
   ats:
     ashby: enode
   tags:
@@ -8912,7 +8912,7 @@
   slug: flutterflow
   domain: flutterflow.io
   careers_url: https://jobs.ashbyhq.com/flutterflow
-  category: developer-infrastructure
+  category: b2b-enterprise
   ats:
     ashby: flutterflow
   tags:
@@ -8955,7 +8955,7 @@
   slug: kodex
   domain: kodexglobal.com
   careers_url: https://jobs.ashbyhq.com/kodex
-  category: ai-and-data
+  category: b2b-enterprise
   ats:
     ashby: kodex
   tags:
@@ -8999,7 +8999,7 @@
   slug: invert
   domain: invertbio.com
   careers_url: https://jobs.ashbyhq.com/invert
-  category: ai-and-data
+  category: healthcare-and-biotech
   ats:
     ashby: invert
   tags:
@@ -9042,7 +9042,7 @@
   slug: bluedot
   domain: thebluedot.co
   careers_url: https://jobs.ashbyhq.com/bluedot
-  category: fintech
+  category: industrials-and-climate
   ats:
     ashby: bluedot
   tags:
@@ -9117,7 +9117,7 @@
   slug: electric-air
   domain: electricair.io
   careers_url: https://jobs.ashbyhq.com/electricair
-  category: consumer-and-marketplace
+  category: industrials-and-climate
   ats:
     ashby: electricair
   tags:
@@ -9142,7 +9142,7 @@
   slug: decoda-health
   domain: decodahealth.com
   careers_url: https://jobs.ashbyhq.com/decodahealth
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     ashby: decodahealth
   tags:
@@ -9172,7 +9172,7 @@
   slug: foundation
   domain: buildwithfoundation.com
   careers_url: https://jobs.ashbyhq.com/foundation
-  category: ai-and-data
+  category: industrials-and-climate
   ats:
     ashby: foundation
   tags:
@@ -9187,7 +9187,7 @@
   slug: paradigm
   domain: paradigmai.com
   careers_url: https://jobs.ashbyhq.com/paradigm
-  category: ai-and-data
+  category: b2b-enterprise
   ats:
     ashby: paradigm
   tags:
@@ -9214,7 +9214,7 @@
   slug: circleback
   domain: circleback.ai
   careers_url: https://jobs.ashbyhq.com/circleback
-  category: ai-and-data
+  category: b2b-enterprise
   ats:
     ashby: circleback
   tags:
@@ -9242,7 +9242,7 @@
   slug: anara
   domain: anara.com
   careers_url: https://jobs.ashbyhq.com/anara
-  category: ai-and-data
+  category: consumer-and-marketplace
   ats:
     ashby: anara
   tags:
@@ -9257,7 +9257,7 @@
   slug: ctgt
   domain: ctgt.ai
   careers_url: https://jobs.ashbyhq.com/ctgt
-  category: developer-infrastructure
+  category: ai-and-data
   ats:
     ashby: ctgt
   tags:
@@ -9287,7 +9287,7 @@
   slug: chestnut
   domain: chestnutmortgage.com
   careers_url: https://jobs.ashbyhq.com/chestnut
-  category: fintech
+  category: industrials-and-climate
   ats:
     ashby: chestnut
   tags:
@@ -9302,7 +9302,7 @@
   slug: dedalus-labs
   domain: dedaluslabs.ai
   careers_url: https://jobs.ashbyhq.com/dedalus-labs
-  category: developer-infrastructure
+  category: ai-and-data
   ats:
     ashby: dedalus-labs
   tags:
@@ -9317,7 +9317,7 @@
   slug: truthsystems
   domain: truthsystems.ai
   careers_url: https://jobs.ashbyhq.com/truthsystems
-  category: developer-infrastructure
+  category: ai-and-data
   ats:
     ashby: truthsystems
   tags:
@@ -9344,7 +9344,7 @@
   slug: idler
   domain: idler.ai
   careers_url: https://jobs.ashbyhq.com/idler
-  category: open-source-and-platform
+  category: b2b-enterprise
   ats:
     ashby: idler
   tags:
@@ -9386,7 +9386,7 @@
   slug: lance
   domain: lance.live
   careers_url: https://jobs.ashbyhq.com/lance
-  category: ai-and-data
+  category: b2b-enterprise
   ats:
     ashby: lance
   tags:
@@ -9398,7 +9398,7 @@
   slug: asimov
   domain: tryasimov.ai
   careers_url: https://jobs.ashbyhq.com/asimov
-  category: ai-and-data
+  category: industrials-and-climate
   ats:
     ashby: asimov
   tags:
@@ -9424,7 +9424,7 @@
   slug: dispatch
   domain: dispatch.space
   careers_url: https://jobs.ashbyhq.com/dispatch
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     ashby: dispatch
   tags:
@@ -9439,7 +9439,7 @@
   slug: juno
   domain: juno-chat.com
   careers_url: https://boards.greenhouse.io/juno
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     greenhouse: juno
   tags:
@@ -9469,7 +9469,7 @@
   slug: quartzy
   domain: quartzy.com
   careers_url: https://jobs.lever.co/quartzy
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     lever: quartzy
   tags:
@@ -9484,7 +9484,7 @@
   slug: healthsherpa
   domain: healthsherpa.com
   careers_url: https://jobs.ashbyhq.com/healthsherpa
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     ashby: healthsherpa
   tags:
@@ -9499,7 +9499,7 @@
   slug: influxdata
   domain: influxdata.com
   careers_url: https://jobs.ashbyhq.com/influxdata
-  category: developer-infrastructure
+  category: ai-and-data
   ats:
     ashby: influxdata
   tags:
@@ -9514,7 +9514,7 @@
   slug: usergems
   domain: usergems.com
   careers_url: https://boards.greenhouse.io/usergems
-  category: ai-and-data
+  category: b2b-enterprise
   ats:
     greenhouse: usergems
   tags:
@@ -9528,7 +9528,7 @@
   slug: tenjin
   domain: tenjin.com
   careers_url: https://jobs.ashbyhq.com/tenjin
-  category: developer-infrastructure
+  category: ai-and-data
   ats:
     ashby: tenjin
   tags:
@@ -9614,7 +9614,7 @@
   slug: aon3d
   domain: aon3d.com
   careers_url: https://boards.greenhouse.io/aon3d
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     greenhouse: aon3d
   tags:
@@ -9659,7 +9659,7 @@
   slug: blueberry-pediatrics
   domain: blueberrypediatrics.com
   careers_url: https://jobs.ashbyhq.com/blueberrypediatrics
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     ashby: blueberrypediatrics
   tags:
@@ -9674,7 +9674,7 @@
   slug: grin
   domain: ongrin.com
   careers_url: https://boards.greenhouse.io/grin
-  category: fintech
+  category: industrials-and-climate
   ats:
     greenhouse: grin
   tags:
@@ -9689,7 +9689,7 @@
   slug: probably-genetic
   domain: probablygenetic.com
   careers_url: https://jobs.ashbyhq.com/probablygenetic
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     ashby: probablygenetic
   tags:
@@ -9747,7 +9747,7 @@
   slug: nomic-bio
   domain: nomic.bio
   careers_url: https://jobs.ashbyhq.com/nomic
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     ashby: nomic
   tags:
@@ -9775,7 +9775,7 @@
   slug: momence
   domain: momence.com
   careers_url: https://boards.greenhouse.io/momence
-  category: consumer-and-marketplace
+  category: fintech
   ats:
     greenhouse: momence
   tags:
@@ -9790,7 +9790,7 @@
   slug: kingdom
   domain: kingdomsuperculture.com
   careers_url: https://jobs.ashbyhq.com/kingdom
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     ashby: kingdom
   tags:
@@ -9820,7 +9820,7 @@
   slug: epsilon3
   domain: epsilon3.io
   careers_url: https://jobs.lever.co/epsilon3
-  category: ai-and-data
+  category: industrials-and-climate
   ats:
     lever: epsilon3
   tags:
@@ -9850,7 +9850,7 @@
   slug: formance
   domain: formance.com
   careers_url: https://jobs.ashbyhq.com/formance
-  category: developer-infrastructure
+  category: fintech
   ats:
     ashby: formance
   tags:
@@ -9865,7 +9865,7 @@
   slug: bolster
   domain: bolsterbuilt.com
   careers_url: https://jobs.lever.co/bolster
-  category: consumer-and-marketplace
+  category: industrials-and-climate
   ats:
     lever: bolster
   tags:
@@ -9880,7 +9880,7 @@
   slug: imt-care
   domain: imt.care
   careers_url: https://boards.greenhouse.io/imt
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     greenhouse: imt
   tags:
@@ -9924,7 +9924,7 @@
   slug: cambio
   domain: cambio.ai
   careers_url: https://jobs.ashbyhq.com/cambio
-  category: ai-and-data
+  category: industrials-and-climate
   ats:
     ashby: cambio
   tags:
@@ -9954,7 +9954,7 @@
   slug: pirros
   domain: pirros.com
   careers_url: https://jobs.ashbyhq.com/pirros
-  category: open-source-and-platform
+  category: b2b-enterprise
   ats:
     ashby: pirros
   tags:
@@ -9967,7 +9967,7 @@
   slug: loula
   domain: joinloula.com
   careers_url: https://jobs.ashbyhq.com/loula
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     ashby: loula
   tags:
@@ -9982,7 +9982,7 @@
   slug: conduit
   domain: helloconduit.com
   careers_url: https://jobs.ashbyhq.com/conduit
-  category: ai-and-data
+  category: industrials-and-climate
   ats:
     ashby: conduit
   tags:
@@ -10040,7 +10040,7 @@
   slug: newton
   domain: joinnewton.com
   careers_url: https://jobs.lever.co/newton
-  category: ai-and-data
+  category: b2b-enterprise
   ats:
     lever: newton
   tags:
@@ -10052,7 +10052,7 @@
   slug: arini
   domain: arini.ai
   careers_url: https://jobs.ashbyhq.com/arini
-  category: ai-and-data
+  category: healthcare-and-biotech
   ats:
     ashby: arini
   tags:
@@ -10082,7 +10082,7 @@
   slug: atum-works
   domain: atum.works
   careers_url: https://jobs.ashbyhq.com/atumworks
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     ashby: atumworks
   tags:
@@ -10127,7 +10127,7 @@
   slug: conductor
   domain: conductor.build
   careers_url: https://jobs.ashbyhq.com/conductor
-  category: ai-and-data
+  category: developer-infrastructure
   ats:
     ashby: conductor
   tags:
@@ -10156,7 +10156,7 @@
   slug: innate
   domain: innate.bot
   careers_url: https://jobs.ashbyhq.com/innate
-  category: ai-and-data
+  category: industrials-and-climate
   ats:
     ashby: innate
   tags:
@@ -10171,7 +10171,7 @@
   slug: apolink
   domain: apolink.space
   careers_url: https://jobs.ashbyhq.com/apolink
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     ashby: apolink
   tags:
@@ -10184,7 +10184,7 @@
   slug: peppr-ai
   domain: usepeppr.ai
   careers_url: https://jobs.ashbyhq.com/peppr
-  category: ai-and-data
+  category: b2b-enterprise
   ats:
     ashby: peppr
   tags:
@@ -10212,7 +10212,7 @@
   slug: cedar
   domain: mail.cedarcopilot.com
   careers_url: https://jobs.ashbyhq.com/cedar
-  category: open-source-and-platform
+  category: b2b-enterprise
   ats:
     ashby: cedar
   tags:
@@ -10240,7 +10240,7 @@
   slug: claim-health
   domain: claimhealth.com
   careers_url: https://jobs.ashbyhq.com/claim-health
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     ashby: claim-health
   tags:
@@ -10267,7 +10267,7 @@
   slug: lark
   domain: getlark.ai
   careers_url: https://jobs.ashbyhq.com/lark
-  category: ai-and-data
+  category: developer-infrastructure
   ats:
     ashby: lark
   tags:
@@ -10282,7 +10282,7 @@
   slug: flai
   domain: useflai.com
   careers_url: https://jobs.ashbyhq.com/flai
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     ashby: flai
   tags:
@@ -10325,7 +10325,7 @@
   slug: blue
   domain: heyblue.com
   careers_url: https://jobs.lever.co/blue
-  category: ai-and-data
+  category: industrials-and-climate
   ats:
     lever: blue
   tags:
@@ -10383,7 +10383,7 @@
   slug: sirum
   domain: sirum.org
   careers_url: https://boards.greenhouse.io/sirum
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     greenhouse: sirum
   tags:
@@ -10397,7 +10397,7 @@
   slug: picktrace
   domain: picktrace.com
   careers_url: https://jobs.lever.co/picktrace
-  category: developer-infrastructure
+  category: industrials-and-climate
   ats:
     lever: picktrace
   tags:
@@ -10426,7 +10426,7 @@
   slug: castle
   domain: entercastle.com
   careers_url: https://jobs.ashbyhq.com/castle
-  category: consumer-and-marketplace
+  category: industrials-and-climate
   ats:
     ashby: castle
   tags:
@@ -10439,7 +10439,7 @@
   slug: rezi
   domain: rentrezi.com
   careers_url: https://jobs.ashbyhq.com/rezi
-  category: consumer-and-marketplace
+  category: industrials-and-climate
   ats:
     ashby: rezi
   tags:
@@ -10453,7 +10453,7 @@
   slug: upcodes
   domain: up.codes
   careers_url: https://jobs.ashbyhq.com/upcodes
-  category: ai-and-data
+  category: industrials-and-climate
   ats:
     ashby: upcodes
   tags:
@@ -10497,7 +10497,7 @@
   slug: pronto
   domain: tuprontomx.com
   careers_url: https://boards.greenhouse.io/pronto
-  category: consumer-and-marketplace
+  category: industrials-and-climate
   ats:
     greenhouse: pronto
   tags:
@@ -10527,7 +10527,7 @@
   slug: prometheus
   domain: prometheusfuels.com
   careers_url: https://jobs.ashbyhq.com/prometheus
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     ashby: prometheus
   tags:
@@ -10542,7 +10542,7 @@
   slug: vorticity
   domain: vorticity.xyz
   careers_url: https://jobs.ashbyhq.com/vorticity
-  category: developer-infrastructure
+  category: industrials-and-climate
   ats:
     ashby: vorticity
   tags:
@@ -10556,7 +10556,7 @@
   slug: postera
   domain: postera.ai
   careers_url: https://jobs.lever.co/postera
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     lever: postera
   tags:
@@ -10599,7 +10599,7 @@
   slug: living-carbon
   domain: livingcarbon.com
   careers_url: https://jobs.lever.co/livingcarbon
-  category: open-source-and-platform
+  category: healthcare-and-biotech
   ats:
     lever: livingcarbon
   tags:
@@ -10657,7 +10657,7 @@
   slug: smartcuts
   domain: trysmartcuts.com
   careers_url: https://jobs.lever.co/smartcuts
-  category: open-source-and-platform
+  category: b2b-enterprise
   ats:
     lever: smartcuts
   tags:
@@ -10672,7 +10672,7 @@
   slug: fathom
   domain: fathom.ai
   careers_url: https://jobs.ashbyhq.com/fathom
-  category: ai-and-data
+  category: developer-infrastructure
   ats:
     ashby: fathom
   tags:
@@ -10717,7 +10717,7 @@
   slug: slope
   domain: slopepay.com
   careers_url: https://jobs.ashbyhq.com/slope
-  category: ai-and-data
+  category: fintech
   ats:
     ashby: slope
   tags:
@@ -10732,7 +10732,7 @@
   slug: jupe
   domain: jupe.com
   careers_url: https://jobs.lever.co/jupe
-  category: consumer-and-marketplace
+  category: industrials-and-climate
   ats:
     lever: jupe
   tags:
@@ -10788,7 +10788,7 @@
   slug: skylink
   domain: tryskylink.com
   careers_url: https://jobs.ashbyhq.com/skylink
-  category: ai-and-data
+  category: consumer-and-marketplace
   ats:
     ashby: skylink
   tags:
@@ -10802,7 +10802,7 @@
   slug: edge
   domain: withedge.com
   careers_url: https://boards.greenhouse.io/edge
-  category: open-source-and-platform
+  category: b2b-enterprise
   ats:
     greenhouse: edge
   tags:
@@ -10815,7 +10815,7 @@
   slug: fortuna-health
   domain: fortunahealth.com
   careers_url: https://jobs.ashbyhq.com/fortuna-health
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     ashby: fortuna-health
   tags:
@@ -10830,7 +10830,7 @@
   slug: navier-ai
   domain: navier.ai
   careers_url: https://boards.greenhouse.io/navierai
-  category: ai-and-data
+  category: industrials-and-climate
   ats:
     greenhouse: navierai
   tags:
@@ -10845,7 +10845,7 @@
   slug: pivot-robotics
   domain: pivotrobotics.com
   careers_url: https://jobs.ashbyhq.com/pivotrobotics
-  category: ai-and-data
+  category: industrials-and-climate
   ats:
     ashby: pivotrobotics
   tags:
@@ -10860,7 +10860,7 @@
   slug: trellis-ai
   domain: runtrellis.com
   careers_url: https://jobs.lever.co/trellis
-  category: ai-and-data
+  category: developer-infrastructure
   ats:
     lever: trellis
   tags:
@@ -10875,7 +10875,7 @@
   slug: offdeal
   domain: offdeal.io
   careers_url: https://jobs.ashbyhq.com/offdeal
-  category: ai-and-data
+  category: fintech
   ats:
     ashby: offdeal
   tags:
@@ -10905,7 +10905,7 @@
   slug: spherecast
   domain: spherecast.ai
   careers_url: https://jobs.ashbyhq.com/spherecast
-  category: ai-and-data
+  category: industrials-and-climate
   ats:
     ashby: spherecast
   tags:
@@ -10918,7 +10918,7 @@
   slug: thunder-compute
   domain: thundercompute.com
   careers_url: https://jobs.ashbyhq.com/thundercompute
-  category: developer-infrastructure
+  category: ai-and-data
   ats:
     ashby: thundercompute
   tags:
@@ -10963,7 +10963,7 @@
   slug: revise-robotics
   domain: reviserobotics.com
   careers_url: https://jobs.ashbyhq.com/reviserobotics
-  category: consumer-and-marketplace
+  category: industrials-and-climate
   ats:
     ashby: reviserobotics
   tags:
@@ -10978,7 +10978,7 @@
   slug: salespatriot
   domain: salespatriot.com
   careers_url: https://jobs.ashbyhq.com/salespatriot
-  category: ai-and-data
+  category: developer-infrastructure
   ats:
     ashby: salespatriot
   tags:
@@ -11021,7 +11021,7 @@
   slug: pingo-ai
   domain: pingo.ai
   careers_url: https://jobs.ashbyhq.com/pingo
-  category: ai-and-data
+  category: consumer-and-marketplace
   ats:
     ashby: pingo
   tags:
@@ -11048,7 +11048,7 @@
   slug: comena
   domain: comena.ai
   careers_url: https://jobs.ashbyhq.com/comena
-  category: ai-and-data
+  category: industrials-and-climate
   ats:
     ashby: comena
   tags:
@@ -11089,7 +11089,7 @@
   slug: fleetline
   domain: fleetline.ai
   careers_url: https://jobs.ashbyhq.com/fleetline
-  category: ai-and-data
+  category: industrials-and-climate
   ats:
     ashby: fleetline
   tags:
@@ -11104,7 +11104,7 @@
   slug: nucleo
   domain: nucleoresearch.com
   careers_url: https://boards.greenhouse.io/nucleo
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     greenhouse: nucleo
   tags:
@@ -11116,7 +11116,7 @@
   slug: clerky
   domain: clerky.com
   careers_url: https://jobs.ashbyhq.com/clerky
-  category: open-source-and-platform
+  category: b2b-enterprise
   ats:
     ashby: clerky
   tags:
@@ -11173,7 +11173,7 @@
   slug: verge-genomics
   domain: vergegenomics.com
   careers_url: https://jobs.ashbyhq.com/verge-genomics
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     ashby: verge-genomics
   tags:
@@ -11186,7 +11186,7 @@
   slug: vergesense
   domain: vergesense.com
   careers_url: https://jobs.lever.co/vergesense
-  category: ai-and-data
+  category: industrials-and-climate
   ats:
     lever: vergesense
   tags:
@@ -11200,7 +11200,7 @@
   slug: tesseract
   domain: tesseract.space
   careers_url: https://boards.greenhouse.io/tesseract
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     greenhouse: tesseract
   tags:
@@ -11245,7 +11245,7 @@
   slug: meru-health
   domain: meruhealth.com
   careers_url: https://boards.greenhouse.io/meruhealth
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     greenhouse: meruhealth
   tags:
@@ -11260,7 +11260,7 @@
   slug: papa
   domain: papa.com
   careers_url: https://boards.greenhouse.io/papa
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     greenhouse: papa
   tags:
@@ -11288,7 +11288,7 @@
   slug: culdesac
   domain: culdesac.com
   careers_url: https://jobs.lever.co/culdesac
-  category: consumer-and-marketplace
+  category: industrials-and-climate
   ats:
     lever: culdesac
   tags:
@@ -11332,7 +11332,7 @@
   slug: shiru
   domain: shiru.com
   careers_url: https://jobs.lever.co/shiru
-  category: ai-and-data
+  category: healthcare-and-biotech
   ats:
     lever: shiru
   tags:
@@ -11347,7 +11347,7 @@
   slug: rutter
   domain: rutter.com
   careers_url: https://jobs.ashbyhq.com/rutter
-  category: developer-infrastructure
+  category: fintech
   ats:
     ashby: rutter
   tags:
@@ -11362,7 +11362,7 @@
   slug: ladder
   domain: meetladder.com
   careers_url: https://jobs.ashbyhq.com/ladder
-  category: consumer-and-marketplace
+  category: industrials-and-climate
   ats:
     ashby: ladder
   tags:
@@ -11391,7 +11391,7 @@
   slug: ello
   domain: ello.com
   careers_url: https://jobs.ashbyhq.com/ello
-  category: ai-and-data
+  category: consumer-and-marketplace
   ats:
     ashby: ello
   tags:
@@ -11419,7 +11419,7 @@
   slug: syncro
   domain: runsyncro.com
   careers_url: https://boards.greenhouse.io/syncro
-  category: open-source-and-platform
+  category: b2b-enterprise
   ats:
     greenhouse: syncro
   tags:
@@ -11434,7 +11434,7 @@
   slug: humanly
   domain: humanly.io
   careers_url: https://jobs.ashbyhq.com/humanly
-  category: open-source-and-platform
+  category: b2b-enterprise
   ats:
     ashby: humanly
   tags:
@@ -11449,7 +11449,7 @@
   slug: faction
   domain: faction.us
   careers_url: https://jobs.ashbyhq.com/faction
-  category: consumer-and-marketplace
+  category: industrials-and-climate
   ats:
     ashby: faction
   tags:
@@ -11509,7 +11509,7 @@
   slug: dots
   domain: usedots.com
   careers_url: https://boards.greenhouse.io/dots
-  category: developer-infrastructure
+  category: fintech
   ats:
     greenhouse: dots
   tags:
@@ -11539,7 +11539,7 @@
   slug: medium-biosciences
   domain: medium.bio
   careers_url: https://boards.greenhouse.io/medium
-  category: ai-and-data
+  category: healthcare-and-biotech
   ats:
     greenhouse: medium
   tags:
@@ -11554,7 +11554,7 @@
   slug: agave
   domain: useagave.com
   careers_url: https://jobs.ashbyhq.com/agave
-  category: ai-and-data
+  category: industrials-and-climate
   ats:
     ashby: agave
   tags:
@@ -11569,7 +11569,7 @@
   slug: phase-biolabs
   domain: phasebiolabs.com
   careers_url: https://jobs.ashbyhq.com/phasebiolabs
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     ashby: phasebiolabs
   tags:
@@ -11642,7 +11642,7 @@
   slug: aragorn-ai
   domain: aragorn.ai
   careers_url: https://jobs.ashbyhq.com/aragorn
-  category: ai-and-data
+  category: b2b-enterprise
   ats:
     ashby: aragorn
   tags:
@@ -11655,7 +11655,7 @@
   slug: reflex
   domain: reflex.dev
   careers_url: https://boards.greenhouse.io/reflex
-  category: developer-infrastructure
+  category: ai-and-data
   ats:
     greenhouse: reflex
   tags:
@@ -11685,7 +11685,7 @@
   slug: coperniq
   domain: coperniq.io
   careers_url: https://jobs.ashbyhq.com/coperniq
-  category: consumer-and-marketplace
+  category: industrials-and-climate
   ats:
     ashby: coperniq
   tags:
@@ -11715,7 +11715,7 @@
   slug: shadeform
   domain: shadeform.ai
   careers_url: https://jobs.ashbyhq.com/shadeform
-  category: consumer-and-marketplace
+  category: b2b-enterprise
   ats:
     ashby: shadeform
   tags:
@@ -11743,7 +11743,7 @@
   slug: pharos
   domain: pharos.health
   careers_url: https://jobs.ashbyhq.com/pharos
-  category: consumer-and-marketplace
+  category: healthcare-and-biotech
   ats:
     ashby: pharos
   tags:
@@ -11785,7 +11785,7 @@
   slug: bild-ai
   domain: bild.ai
   careers_url: https://jobs.ashbyhq.com/bild-ai
-  category: ai-and-data
+  category: industrials-and-climate
   ats:
     ashby: bild-ai
   tags:
@@ -11797,7 +11797,7 @@
   slug: athenahq
   domain: athenahq.ai
   careers_url: https://boards.greenhouse.io/athena
-  category: ai-and-data
+  category: b2b-enterprise
   ats:
     greenhouse: athena
   tags:
@@ -11810,7 +11810,7 @@
   slug: ambral
   domain: ambral.com
   careers_url: https://jobs.ashbyhq.com/ambral
-  category: ai-and-data
+  category: b2b-enterprise
   ats:
     ashby: ambral
   tags:
@@ -11823,7 +11823,7 @@
   slug: bootloop
   domain: bootloop.ai
   careers_url: https://jobs.ashbyhq.com/bootloop
-  category: open-source-and-platform
+  category: b2b-enterprise
   ats:
     ashby: bootloop
   tags:
@@ -11836,7 +11836,7 @@
   slug: minimal-ai
   domain: gominimal.ai
   careers_url: https://boards.greenhouse.io/minimal
-  category: ai-and-data
+  category: b2b-enterprise
   ats:
     greenhouse: minimal
   tags:
@@ -11906,7 +11906,7 @@
   slug: general-legal
   domain: general.legal
   careers_url: https://boards.greenhouse.io/general
-  category: ai-and-data
+  category: b2b-enterprise
   ats:
     greenhouse: general
   tags:
@@ -11961,7 +11961,7 @@
   slug: candid
   domain: candid.com
   careers_url: https://boards.greenhouse.io/candid
-  category: open-source-and-platform
+  category: b2b-enterprise
   ats:
     greenhouse: candid
   tags:
@@ -11973,7 +11973,7 @@
   slug: vellum
   domain: vellum.ai
   careers_url: https://jobs.ashbyhq.com/vellum
-  category: open-source-and-platform
+  category: b2b-enterprise
   ats:
     ashby: vellum
   tags:
@@ -12022,7 +12022,7 @@
   slug: coins
   domain: coins.com
   careers_url: https://jobs.lever.co/coins
-  category: open-source-and-platform
+  category: fintech
   ats:
     lever: coins
   tags:
@@ -12142,7 +12142,7 @@
   slug: capital
   domain: capital.com
   careers_url: https://jobs.lever.co/capital
-  category: open-source-and-platform
+  category: fintech
   ats:
     lever: capital
   tags:
@@ -12682,7 +12682,7 @@
   slug: fundamental
   domain: fundamental.com
   careers_url: https://jobs.ashbyhq.com/fundamental
-  category: open-source-and-platform
+  category: fintech
   ats:
     ashby: fundamental
   tags:
@@ -13534,7 +13534,7 @@
   slug: aisle
   domain: aisle.com
   careers_url: https://jobs.ashbyhq.com/aisle
-  category: open-source-and-platform
+  category: ai-and-data
   ats:
     ashby: aisle
   tags:
@@ -14386,7 +14386,7 @@
   slug: healthcare
   domain: healthcare.com
   careers_url: https://jobs.lever.co/healthcare
-  category: open-source-and-platform
+  category: healthcare-and-biotech
   ats:
     lever: healthcare
   tags:
@@ -14398,7 +14398,7 @@
   slug: aida
   domain: aida.com
   careers_url: https://jobs.ashbyhq.com/aida
-  category: open-source-and-platform
+  category: ai-and-data
   ats:
     ashby: aida
   tags:
@@ -14518,7 +14518,7 @@
   slug: deductive
   domain: deductive.com
   careers_url: https://jobs.ashbyhq.com/deductive
-  category: open-source-and-platform
+  category: consumer-and-marketplace
   ats:
     ashby: deductive
   tags:
@@ -14770,7 +14770,7 @@
   slug: catalog
   domain: catalog.com
   careers_url: https://jobs.ashbyhq.com/catalog
-  category: open-source-and-platform
+  category: developer-infrastructure
   ats:
     ashby: catalog
   tags:
@@ -15118,7 +15118,7 @@
   slug: career
   domain: career.com
   careers_url: https://jobs.lever.co/career
-  category: open-source-and-platform
+  category: healthcare-and-biotech
   ats:
     lever: career
   tags:
@@ -17422,7 +17422,7 @@
   slug: midstream
   domain: midstream.com
   careers_url: https://jobs.ashbyhq.com/midstream
-  category: open-source-and-platform
+  category: consumer-and-marketplace
   ats:
     ashby: midstream
   tags:
@@ -19546,7 +19546,7 @@
   slug: unlearn
   domain: unlearn.com
   careers_url: https://jobs.ashbyhq.com/unlearn
-  category: open-source-and-platform
+  category: consumer-and-marketplace
   ats:
     ashby: unlearn
   tags:
@@ -19858,7 +19858,7 @@
   slug: symbiotic
   domain: symbiotic.com
   careers_url: https://jobs.ashbyhq.com/symbiotic
-  category: open-source-and-platform
+  category: healthcare-and-biotech
   ats:
     ashby: symbiotic
   tags:
@@ -20086,7 +20086,7 @@
   slug: rocket-lawyer
   domain: rocketlawyer.com
   careers_url: https://boards.greenhouse.io/rocketlawyer
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     greenhouse: rocketlawyer
   tags:
@@ -20314,7 +20314,7 @@
   slug: lunar-energy
   domain: lunarenergy.com
   careers_url: https://boards.greenhouse.io/lunarenergy
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     greenhouse: lunarenergy
   tags:
@@ -20326,7 +20326,7 @@
   slug: avride
   domain: avride.com
   careers_url: https://boards.greenhouse.io/avride
-  category: open-source-and-platform
+  category: consumer-and-marketplace
   ats:
     greenhouse: avride
   tags:
@@ -20338,7 +20338,7 @@
   slug: industrial-electric-manufacturing
   domain: industrialelectricmanufacturing.com
   careers_url: https://boards.greenhouse.io/industrialelectricmanufacturing
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     greenhouse: industrialelectricmanufacturing
   tags:
@@ -20350,7 +20350,7 @@
   slug: transmarket-group
   domain: transmarketgroup.com
   careers_url: https://boards.greenhouse.io/transmarketgroup
-  category: open-source-and-platform
+  category: consumer-and-marketplace
   ats:
     greenhouse: transmarketgroup
   tags:
@@ -20554,7 +20554,7 @@
   slug: scout-ai
   domain: scoutai.com
   careers_url: https://boards.greenhouse.io/scoutai
-  category: open-source-and-platform
+  category: ai-and-data
   ats:
     greenhouse: scoutai
   tags:
@@ -20566,7 +20566,7 @@
   slug: hone-health
   domain: honehealth.com
   careers_url: https://boards.greenhouse.io/honehealth
-  category: open-source-and-platform
+  category: healthcare-and-biotech
   ats:
     greenhouse: honehealth
   tags:
@@ -20590,7 +20590,7 @@
   slug: remodel-health
   domain: remodelhealth.com
   careers_url: https://boards.greenhouse.io/remodelhealth
-  category: open-source-and-platform
+  category: healthcare-and-biotech
   ats:
     greenhouse: remodelhealth
   tags:
@@ -20710,7 +20710,7 @@
   slug: neuralink
   domain: neuralink.com
   careers_url: https://boards.greenhouse.io/neuralink
-  category: open-source-and-platform
+  category: ai-and-data
   ats:
     greenhouse: neuralink
   tags:
@@ -20722,7 +20722,7 @@
   slug: emarketer
   domain: emarketer.com
   careers_url: https://boards.greenhouse.io/emarketer
-  category: open-source-and-platform
+  category: consumer-and-marketplace
   ats:
     greenhouse: emarketer
   tags:
@@ -20746,7 +20746,7 @@
   slug: aircapture
   domain: aircapture.com
   careers_url: https://boards.greenhouse.io/aircapture
-  category: open-source-and-platform
+  category: ai-and-data
   ats:
     greenhouse: aircapture
   tags:
@@ -20830,7 +20830,7 @@
   slug: workstream
   domain: workstream.com
   careers_url: https://boards.greenhouse.io/workstream
-  category: open-source-and-platform
+  category: consumer-and-marketplace
   ats:
     greenhouse: workstream
   tags:
@@ -20902,7 +20902,7 @@
   slug: energyhub
   domain: energyhub.com
   careers_url: https://boards.greenhouse.io/energyhub
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     greenhouse: energyhub
   tags:
@@ -20914,7 +20914,7 @@
   slug: rtw-investments
   domain: rtwinvestments.com
   careers_url: https://boards.greenhouse.io/rtwinvestments
-  category: open-source-and-platform
+  category: fintech
   ats:
     greenhouse: rtwinvestments
   tags:
@@ -20926,7 +20926,7 @@
   slug: rvo-health
   domain: rvohealth.com
   careers_url: https://boards.greenhouse.io/rvohealth
-  category: open-source-and-platform
+  category: healthcare-and-biotech
   ats:
     greenhouse: rvohealth
   tags:
@@ -20986,7 +20986,7 @@
   slug: five-rings-llc-careers
   domain: fiveringsllccareers.com
   careers_url: https://boards.greenhouse.io/fiveringsllc
-  category: open-source-and-platform
+  category: healthcare-and-biotech
   ats:
     greenhouse: fiveringsllc
   tags:
@@ -20998,7 +20998,7 @@
   slug: freedom-technology-solutions-group
   domain: freedomtechnologysolutionsgroup.com
   careers_url: https://boards.greenhouse.io/freedomconsulting
-  category: open-source-and-platform
+  category: developer-infrastructure
   ats:
     greenhouse: freedomconsulting
   tags:
@@ -21010,7 +21010,7 @@
   slug: perpay-career-s-page
   domain: perpaycareerspage.com
   careers_url: https://boards.greenhouse.io/perpay
-  category: open-source-and-platform
+  category: healthcare-and-biotech
   ats:
     greenhouse: perpay
   tags:
@@ -21034,7 +21034,7 @@
   slug: aquatic-capital-management
   domain: aquaticcapitalmanagement.com
   careers_url: https://boards.greenhouse.io/aquaticcapitalmanagement
-  category: open-source-and-platform
+  category: fintech
   ats:
     greenhouse: aquaticcapitalmanagement
   tags:
@@ -21070,7 +21070,7 @@
   slug: climateai
   domain: climateai.com
   careers_url: https://boards.greenhouse.io/climateai
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     greenhouse: climateai
   tags:
@@ -21118,7 +21118,7 @@
   slug: torc-robotics
   domain: torcrobotics.com
   careers_url: https://boards.greenhouse.io/torcrobotics
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     greenhouse: torcrobotics
   tags:
@@ -21130,7 +21130,7 @@
   slug: locus-robotics
   domain: locusrobotics.com
   careers_url: https://boards.greenhouse.io/locusrobotics
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     greenhouse: locusrobotics
   tags:
@@ -21142,7 +21142,7 @@
   slug: spacex
   domain: spacex.com
   careers_url: https://boards.greenhouse.io/spacex
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     greenhouse: spacex
   tags:
@@ -21202,7 +21202,7 @@
   slug: zone-5-technologies
   domain: zone5technologies.com
   careers_url: https://boards.greenhouse.io/zone5technologies
-  category: open-source-and-platform
+  category: developer-infrastructure
   ats:
     greenhouse: zone5technologies
   tags:
@@ -21454,7 +21454,7 @@
   slug: northslope-technologies
   domain: northslopetechnologies.com
   careers_url: https://jobs.ashbyhq.com/northslope-technologies
-  category: open-source-and-platform
+  category: developer-infrastructure
   ats:
     ashby: northslope-technologies
   tags:
@@ -21538,7 +21538,7 @@
   slug: nectar-social
   domain: nectarsocial.com
   careers_url: https://jobs.ashbyhq.com/nectar-social
-  category: open-source-and-platform
+  category: consumer-and-marketplace
   ats:
     ashby: nectar-social
   tags:
@@ -21574,7 +21574,7 @@
   slug: northwoodspace
   domain: northwoodspace.com
   careers_url: https://jobs.ashbyhq.com/northwoodspace
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     ashby: northwoodspace
   tags:
@@ -21622,7 +21622,7 @@
   slug: robust-ai
   domain: robustai.com
   careers_url: https://jobs.lever.co/robust-ai
-  category: open-source-and-platform
+  category: ai-and-data
   ats:
     lever: robust-ai
   tags:
@@ -21706,7 +21706,7 @@
   slug: verygoodsecurity
   domain: verygoodsecurity.com
   careers_url: https://jobs.lever.co/verygoodsecurity
-  category: open-source-and-platform
+  category: developer-infrastructure
   ats:
     lever: verygoodsecurity
   tags:
@@ -21814,7 +21814,7 @@
   slug: endpointclinical
   domain: endpointclinical.com
   careers_url: https://jobs.lever.co/endpointclinical
-  category: open-source-and-platform
+  category: healthcare-and-biotech
   ats:
     lever: endpointclinical
   tags:
@@ -21874,7 +21874,7 @@
   slug: acceldata
   domain: acceldata.com
   careers_url: https://jobs.lever.co/acceldata
-  category: open-source-and-platform
+  category: ai-and-data
   ats:
     lever: acceldata
   tags:
@@ -21946,7 +21946,7 @@
   slug: zushealth
   domain: zushealth.com
   careers_url: https://jobs.lever.co/zushealth
-  category: open-source-and-platform
+  category: healthcare-and-biotech
   ats:
     lever: zushealth
   tags:
@@ -21982,7 +21982,7 @@
   slug: apex-technology-inc
   domain: apextechnologyinc.com
   careers_url: https://jobs.ashbyhq.com/apex-technology-inc
-  category: open-source-and-platform
+  category: developer-infrastructure
   ats:
     ashby: apex-technology-inc
   tags:
@@ -22042,7 +22042,7 @@
   slug: go-cloudforce
   domain: gocloudforce.com
   careers_url: https://jobs.lever.co/go-cloudforce
-  category: open-source-and-platform
+  category: developer-infrastructure
   ats:
     lever: go-cloudforce
   tags:
@@ -22066,7 +22066,7 @@
   slug: weride
   domain: weride.com
   careers_url: https://jobs.lever.co/weride
-  category: open-source-and-platform
+  category: consumer-and-marketplace
   ats:
     lever: weride
   tags:
@@ -22234,7 +22234,7 @@
   slug: riot-games
   domain: riotgames.com
   careers_url: https://boards.greenhouse.io/riotgames
-  category: open-source-and-platform
+  category: consumer-and-marketplace
   ats:
     greenhouse: riotgames
   tags:
@@ -22258,7 +22258,7 @@
   slug: vox-media-llc
   domain: voxmediallc.com
   careers_url: https://boards.greenhouse.io/voxmedia
-  category: open-source-and-platform
+  category: consumer-and-marketplace
   ats:
     greenhouse: voxmedia
   tags:
@@ -22294,7 +22294,7 @@
   slug: shopmonkey
   domain: shopmonkey.com
   careers_url: https://boards.greenhouse.io/shopmonkey
-  category: open-source-and-platform
+  category: consumer-and-marketplace
   ats:
     greenhouse: shopmonkey
   tags:
@@ -22450,7 +22450,7 @@
   slug: varda-space-industries
   domain: vardaspaceindustries.com
   careers_url: https://boards.greenhouse.io/vardaspace
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     greenhouse: vardaspace
   tags:
@@ -22558,7 +22558,7 @@
   slug: mochi-health
   domain: mochihealth.com
   careers_url: https://boards.greenhouse.io/mochihealth
-  category: open-source-and-platform
+  category: healthcare-and-biotech
   ats:
     greenhouse: mochihealth
   tags:
@@ -22582,7 +22582,7 @@
   slug: garda-capital-partners
   domain: gardacapitalpartners.com
   careers_url: https://boards.greenhouse.io/gardacp
-  category: open-source-and-platform
+  category: fintech
   ats:
     greenhouse: gardacp
   tags:
@@ -22630,7 +22630,7 @@
   slug: rocket-lab-corporation
   domain: rocketlabcorporation.com
   careers_url: https://boards.greenhouse.io/rocketlab
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     greenhouse: rocketlab
   tags:
@@ -22642,7 +22642,7 @@
   slug: sidecar-health
   domain: sidecarhealth.com
   careers_url: https://boards.greenhouse.io/sidecarhealth
-  category: open-source-and-platform
+  category: healthcare-and-biotech
   ats:
     greenhouse: sidecarhealth
   tags:
@@ -22858,7 +22858,7 @@
   slug: truffle-security
   domain: trufflesecurity.com
   careers_url: https://boards.greenhouse.io/trufflesecurity
-  category: open-source-and-platform
+  category: developer-infrastructure
   ats:
     greenhouse: trufflesecurity
   tags:
@@ -23050,7 +23050,7 @@
   slug: fireworks-ai
   domain: fireworksai.com
   careers_url: https://boards.greenhouse.io/fireworksai
-  category: open-source-and-platform
+  category: ai-and-data
   ats:
     greenhouse: fireworksai
   tags:
@@ -23158,7 +23158,7 @@
   slug: civis-analytics
   domain: civisanalytics.com
   careers_url: https://boards.greenhouse.io/civisanalytics
-  category: open-source-and-platform
+  category: ai-and-data
   ats:
     greenhouse: civisanalytics
   tags:
@@ -23242,7 +23242,7 @@
   slug: nubank
   domain: nubank.com
   careers_url: https://boards.greenhouse.io/nubank
-  category: open-source-and-platform
+  category: fintech
   ats:
     greenhouse: nubank
   tags:
@@ -23266,7 +23266,7 @@
   slug: wikimedia-foundation
   domain: wikimediafoundation.com
   careers_url: https://boards.greenhouse.io/wikimedia
-  category: open-source-and-platform
+  category: consumer-and-marketplace
   ats:
     greenhouse: wikimedia
   tags:
@@ -23314,7 +23314,7 @@
   slug: epic-games
   domain: epicgames.com
   careers_url: https://boards.greenhouse.io/epicgames
-  category: open-source-and-platform
+  category: consumer-and-marketplace
   ats:
     greenhouse: epicgames
   tags:
@@ -23326,7 +23326,7 @@
   slug: misfits-market
   domain: misfitsmarket.com
   careers_url: https://boards.greenhouse.io/misfitsmarket
-  category: open-source-and-platform
+  category: consumer-and-marketplace
   ats:
     greenhouse: misfitsmarket
   tags:
@@ -23398,7 +23398,7 @@
   slug: gametime-united
   domain: gametimeunited.com
   careers_url: https://boards.greenhouse.io/gametimeunited
-  category: open-source-and-platform
+  category: consumer-and-marketplace
   ats:
     greenhouse: gametimeunited
   tags:
@@ -23434,7 +23434,7 @@
   slug: headspace
   domain: headspace.com
   careers_url: https://boards.greenhouse.io/hs
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     greenhouse: hs
   tags:
@@ -23482,7 +23482,7 @@
   slug: gofundme
   domain: gofundme.com
   careers_url: https://boards.greenhouse.io/gofundme
-  category: open-source-and-platform
+  category: fintech
   ats:
     greenhouse: gofundme
   tags:
@@ -23530,7 +23530,7 @@
   slug: databento
   domain: databento.com
   careers_url: https://boards.greenhouse.io/databento
-  category: open-source-and-platform
+  category: ai-and-data
   ats:
     greenhouse: databento
   tags:
@@ -23578,7 +23578,7 @@
   slug: blink-health
   domain: blinkhealth.com
   careers_url: https://boards.greenhouse.io/blinkhealth
-  category: open-source-and-platform
+  category: healthcare-and-biotech
   ats:
     greenhouse: blinkhealth
   tags:
@@ -23602,7 +23602,7 @@
   slug: framenergy
   domain: framenergy.com
   careers_url: https://jobs.ashbyhq.com/framenergy
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     ashby: framenergy
   tags:
@@ -23638,7 +23638,7 @@
   slug: airgarage
   domain: airgarage.com
   careers_url: https://jobs.ashbyhq.com/airgarage
-  category: open-source-and-platform
+  category: ai-and-data
   ats:
     ashby: airgarage
   tags:
@@ -23662,7 +23662,7 @@
   slug: moonshot-ai
   domain: moonshotai.com
   careers_url: https://jobs.ashbyhq.com/moonshot-ai
-  category: open-source-and-platform
+  category: ai-and-data
   ats:
     ashby: moonshot-ai
   tags:
@@ -23698,7 +23698,7 @@
   slug: prosper-ai
   domain: prosperai.com
   careers_url: https://jobs.ashbyhq.com/prosper-ai
-  category: open-source-and-platform
+  category: ai-and-data
   ats:
     ashby: prosper-ai
   tags:
@@ -23722,7 +23722,7 @@
   slug: virtahealth
   domain: virtahealth.com
   careers_url: https://jobs.ashbyhq.com/virtahealth
-  category: open-source-and-platform
+  category: healthcare-and-biotech
   ats:
     ashby: virtahealth
   tags:
@@ -23746,7 +23746,7 @@
   slug: montecarlodata
   domain: montecarlodata.com
   careers_url: https://jobs.ashbyhq.com/montecarlodata
-  category: open-source-and-platform
+  category: ai-and-data
   ats:
     ashby: montecarlodata
   tags:
@@ -23866,7 +23866,7 @@
   slug: empirical-security
   domain: empiricalsecurity.com
   careers_url: https://jobs.ashbyhq.com/empirical-security
-  category: open-source-and-platform
+  category: developer-infrastructure
   ats:
     ashby: empirical-security
   tags:
@@ -23950,7 +23950,7 @@
   slug: ansatzcapital
   domain: ansatzcapital.com
   careers_url: https://jobs.lever.co/ansatzcapital
-  category: open-source-and-platform
+  category: fintech
   ats:
     lever: ansatzcapital
   tags:
@@ -24082,7 +24082,7 @@
   slug: nerdwallet
   domain: nerdwallet.com
   careers_url: https://jobs.ashbyhq.com/nerdwallet
-  category: open-source-and-platform
+  category: fintech
   ats:
     ashby: nerdwallet
   tags:
@@ -24106,7 +24106,7 @@
   slug: reklamehealth
   domain: reklamehealth.com
   careers_url: https://jobs.ashbyhq.com/reklamehealth
-  category: open-source-and-platform
+  category: healthcare-and-biotech
   ats:
     ashby: reklamehealth
   tags:
@@ -24178,7 +24178,7 @@
   slug: ankorstore
   domain: ankorstore.com
   careers_url: https://jobs.ashbyhq.com/ankorstore
-  category: open-source-and-platform
+  category: consumer-and-marketplace
   ats:
     ashby: ankorstore
   tags:
@@ -24262,7 +24262,7 @@
   slug: vertical-aerospace
   domain: verticalaerospace.com
   careers_url: https://jobs.ashbyhq.com/vertical-aerospace
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     ashby: vertical-aerospace
   tags:
@@ -24274,7 +24274,7 @@
   slug: airops
   domain: airops.com
   careers_url: https://jobs.ashbyhq.com/airops
-  category: open-source-and-platform
+  category: ai-and-data
   ats:
     ashby: airops
   tags:
@@ -24706,7 +24706,7 @@
   slug: paytm
   domain: paytm.com
   careers_url: https://jobs.lever.co/paytm
-  category: open-source-and-platform
+  category: fintech
   ats:
     lever: paytm
   tags:
@@ -24730,7 +24730,7 @@
   slug: energyrecovery
   domain: energyrecovery.com
   careers_url: https://jobs.lever.co/energyrecovery
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     lever: energyrecovery
   tags:
@@ -24778,7 +24778,7 @@
   slug: lyrahealth
   domain: lyrahealth.com
   careers_url: https://jobs.lever.co/lyrahealth
-  category: open-source-and-platform
+  category: healthcare-and-biotech
   ats:
     lever: lyrahealth
   tags:
@@ -24802,7 +24802,7 @@
   slug: octoenergy
   domain: octoenergy.com
   careers_url: https://jobs.lever.co/octoenergy
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     lever: octoenergy
   tags:
@@ -24850,7 +24850,7 @@
   slug: airwallex
   domain: airwallex.com
   careers_url: https://jobs.ashbyhq.com/airwallex
-  category: open-source-and-platform
+  category: ai-and-data
   ats:
     ashby: airwallex
   tags:
@@ -24874,7 +24874,7 @@
   slug: careers-at-tide
   domain: careersattide.com
   careers_url: https://boards.greenhouse.io/tide
-  category: open-source-and-platform
+  category: healthcare-and-biotech
   ats:
     greenhouse: tide
   tags:
@@ -24886,7 +24886,7 @@
   slug: capital-on-tap
   domain: capitalontap.com
   careers_url: https://boards.greenhouse.io/capitalontap
-  category: open-source-and-platform
+  category: fintech
   ats:
     greenhouse: capitalontap
   tags:
@@ -25126,7 +25126,7 @@
   slug: aperia-technologies-inc
   domain: aperiatechnologiesinc.com
   careers_url: https://boards.greenhouse.io/aperiatechnologies
-  category: open-source-and-platform
+  category: developer-infrastructure
   ats:
     greenhouse: aperiatechnologies
   tags:
@@ -25162,7 +25162,7 @@
   slug: squarespace
   domain: squarespace.com
   careers_url: https://boards.greenhouse.io/squarespace
-  category: open-source-and-platform
+  category: industrials-and-climate
   ats:
     greenhouse: squarespace
   tags:
@@ -25270,7 +25270,7 @@
   slug: fernride
   domain: fernride.com
   careers_url: https://boards.greenhouse.io/fernride
-  category: open-source-and-platform
+  category: consumer-and-marketplace
   ats:
     greenhouse: fernride
   tags:
@@ -25294,7 +25294,7 @@
   slug: new-era-technology
   domain: neweratechnology.com
   careers_url: https://boards.greenhouse.io/neweratech
-  category: open-source-and-platform
+  category: developer-infrastructure
   ats:
     greenhouse: neweratech
   tags:
@@ -25366,7 +25366,7 @@
   slug: eclinical-solutions
   domain: eclinicalsolutions.com
   careers_url: https://boards.greenhouse.io/eclinicalsolutions
-  category: open-source-and-platform
+  category: healthcare-and-biotech
   ats:
     greenhouse: eclinicalsolutions
   tags:
@@ -25450,7 +25450,7 @@
   slug: maven-clinic
   domain: mavenclinic.com
   careers_url: https://boards.greenhouse.io/mavenclinic
-  category: open-source-and-platform
+  category: healthcare-and-biotech
   ats:
     greenhouse: mavenclinic
   tags:
@@ -25462,7 +25462,7 @@
   slug: xtx-markets
   domain: xtxmarkets.com
   careers_url: https://boards.greenhouse.io/xtxmarketstechnologies
-  category: open-source-and-platform
+  category: consumer-and-marketplace
   ats:
     greenhouse: xtxmarketstechnologies
   tags:
@@ -25474,7 +25474,7 @@
   slug: calendly
   domain: calendly.com
   careers_url: https://boards.greenhouse.io/calendly
-  category: open-source-and-platform
+  category: fintech
   ats:
     greenhouse: calendly
   tags:
@@ -25522,7 +25522,7 @@
   slug: chicago-public-media
   domain: chicagopublicmedia.com
   careers_url: https://boards.greenhouse.io/cpm
-  category: open-source-and-platform
+  category: consumer-and-marketplace
   ats:
     greenhouse: cpm
   tags:
@@ -25534,7 +25534,7 @@
   slug: logos
   domain: logos.com
   careers_url: https://boards.greenhouse.io/logos
-  category: open-source-and-platform
+  category: developer-infrastructure
   ats:
     greenhouse: logos
   tags:
@@ -25582,7 +25582,7 @@
   slug: paypay-india
   domain: paypayindia.com
   careers_url: https://boards.greenhouse.io/pay2dc
-  category: open-source-and-platform
+  category: fintech
   ats:
     greenhouse: pay2dc
   tags:
@@ -25630,7 +25630,7 @@
   slug: sightline-media-group
   domain: sightlinemediagroup.com
   careers_url: https://boards.greenhouse.io/sightlinemediagroup
-  category: open-source-and-platform
+  category: consumer-and-marketplace
   ats:
     greenhouse: sightlinemediagroup
   tags:
@@ -25678,7 +25678,7 @@
   slug: razorpay-software-private-limited
   domain: razorpaysoftwareprivatelimited.com
   careers_url: https://boards.greenhouse.io/razorpaysoftwareprivatelimited
-  category: open-source-and-platform
+  category: fintech
   ats:
     greenhouse: razorpaysoftwareprivatelimited
   tags:
@@ -25798,7 +25798,7 @@
   slug: arsenalbio
   domain: arsenalbio.com
   careers_url: https://jobs.lever.co/arsenalbio
-  category: open-source-and-platform
+  category: healthcare-and-biotech
   ats:
     lever: arsenalbio
   tags:
@@ -25882,7 +25882,7 @@
   slug: educative
   domain: educative.com
   careers_url: https://jobs.lever.co/educative
-  category: open-source-and-platform
+  category: consumer-and-marketplace
   ats:
     lever: educative
   tags:
@@ -26002,10 +26002,11 @@
   slug: aeratechnology
   domain: aeratechnology.com
   careers_url: https://jobs.lever.co/aeratechnology
-  category: open-source-and-platform
+  category: developer-infrastructure
   ats:
     lever: aeratechnology
   tags:
   - open
   sources:
   - https://jobs.lever.co/aeratechnology
+

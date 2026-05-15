@@ -71,8 +71,11 @@ Use the narrowest current category that fits:
 - `ai-and-data` - AI, machine learning, analytics, databases, and data infrastructure.
 - `developer-infrastructure` - Developer tools, cloud, infrastructure, security, observability, and B2B technical platforms.
 - `fintech` - Payments, banking, investing, crypto, expense, payroll, or financial infrastructure.
-- `consumer-and-marketplace` - Consumer products, communities, marketplaces, media, travel, commerce, and logistics.
-- `open-source-and-platform` - Open-source companies, broad platforms, DevOps, productivity, collaboration, and enterprise platforms.
+- `consumer-and-marketplace` - Consumer products, communities, marketplaces, media, travel, commerce, education, and gaming.
+- `healthcare-and-biotech` - Healthcare delivery, health-tech, biotech, drug discovery, medical devices, and wellness.
+- `industrials-and-climate` - Hardware, manufacturing, robotics, climate, energy, aviation, space, supply chain, logistics, real estate, and construction.
+- `b2b-enterprise` - B2B SaaS that does not fit `developer-infrastructure`: HR, sales, marketing, operations, recruiting, legal, and procurement.
+- `open-source-and-platform` - Open-source companies, broad platforms, productivity, collaboration, and entries that do not fit any other category.
 
 If no category fits, do not force the entry. Open an issue proposing the new category.
 
