@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **2009 companies**.
+Currently tracking **2013 companies**.
 
 This repository is designed for two uses:
 
@@ -43,6 +43,7 @@ New companies must pass the full [`Inclusion Standard`](docs/inclusion-standard.
 
 AI, machine learning, analytics, databases, and data infrastructure.
 
+- [Lambda](https://lambda.ai) - GPU cloud platform for AI training and inference.
 - [Cerebras](https://cerebras.net) - Wafer-scale AI accelerator hardware and inference platform.
 - [Abundant](https://abundant.ai) - Agent simulation and RL for researchers
 - [Acceldata](https://acceldata.com) - Hiring via Lever (acceldata).
@@ -387,6 +388,8 @@ Developer tools, cloud, infrastructure, security, observability, and B2B technic
 
 Payments, banking, investing, crypto, expense, payroll, and financial infrastructure.
 
+- [Revolut](https://revolut.com) - Global neobank and financial super-app for consumers and businesses.
+- [Kraken](https://kraken.com) - Crypto exchange and digital-asset financial services platform.
 - [Polymarket](https://polymarket.com) - Decentralized prediction markets for politics, sports, and current events.
 - [Abacum](https://abacum.ai) - The AI-native FP&A platform that helps Finance teams drive business…
 - [Abacus](https://abacus.com) - Making expense reports obsolete
@@ -571,6 +574,7 @@ Payments, banking, investing, crypto, expense, payroll, and financial infrastruc
 
 Consumer products, communities, marketplaces, media, travel, commerce, education, and gaming.
 
+- [ByteDance](https://bytedance.com) - TikTok parent and global consumer / AI / media company.
 - [Canva](https://canva.com) - Online design and visual communication platform.
 - [A Thinking Ape](https://athinkingape.com) - We build communities through massively multiplayer mobile games
 - [Able](https://ablejobs.co) - India's Largest Placement Platform for Early Professionals
@@ -791,6 +795,7 @@ Healthcare delivery, health-tech, biotech, drug discovery, medical devices, and 
 
 Hardware, manufacturing, robotics, climate, energy, aviation, space, supply chain, logistics, real estate, and construction.
 
+- [The Boring Company](https://boringcompany.com) - Tunnel-boring and underground transportation infrastructure company.
 - [Shield AI](https://shield.ai) - AI pilot for defense aircraft and autonomous swarm operations.
 - [Saronic](https://saronic.com) - Autonomous surface vessels for naval defense and maritime operations.
 - [Figure AI](https://figure.ai) - Humanoid robotics company building general-purpose humanoid workers.
@@ -1555,7 +1560,6 @@ Open-source companies, broad platforms, productivity, collaboration, and entries
 - [Labelbox](https://labelbox.com) - Hiring via Greenhouse (labelbox).
 - [Ladders](https://ladders.com) - Hiring via Lever (ladders).
 - [Lalamove](https://lalamove.com) - Hiring via Lever (lalamove).
-- [Lambda](https://lambda.com) - Hiring via Ashby (lambda).
 - [Lapel](https://lapel.com) - Hiring via Ashby (lapel).
 - [Lassie](https://lassie.com) - Hiring via Ashby (lassie).
 - [Latch](https://latch.com) - Hiring via Lever (latch).

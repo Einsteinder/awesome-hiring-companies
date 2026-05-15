@@ -15764,13 +15764,16 @@
 
 - name: Lambda
   slug: lambda
-  domain: lambda.com
+  domain: lambda.ai
   careers_url: https://jobs.ashbyhq.com/lambda
-  category: open-source-and-platform
+  category: ai-and-data
   ats:
     ashby: lambda
   tags:
-  - open
+  - ai
+  - gpu
+  - cloud
+  - infrastructure
   sources:
   - https://jobs.ashbyhq.com/lambda
 
@@ -26140,4 +26143,61 @@
   - ci-cd
   sources:
   - https://jobs.ashbyhq.com/namespace
+
+- name: Kraken
+  slug: kraken
+  domain: kraken.com
+  careers_url: https://jobs.ashbyhq.com/kraken
+  category: fintech
+  ats:
+    ashby: kraken
+  tags:
+  - crypto
+  - exchange
+  - fintech
+  sources:
+  - https://jobs.ashbyhq.com/kraken
+
+- name: Revolut
+  slug: revolut
+  domain: revolut.com
+  careers_url: https://www.revolut.com/careers
+  category: fintech
+  ats:
+    custom: revolut
+  tags:
+  - fintech
+  - neobanking
+  - consumer
+  sources:
+  - https://www.revolut.com/careers
+
+- name: ByteDance
+  slug: bytedance
+  domain: bytedance.com
+  careers_url: https://careers.bytedance.com/
+  category: consumer-and-marketplace
+  ats:
+    custom: bytedance
+  tags:
+  - consumer
+  - social
+  - ai
+  - media
+  sources:
+  - https://careers.bytedance.com/
+
+- name: The Boring Company
+  slug: the-boring-company
+  domain: boringcompany.com
+  careers_url: https://www.boringcompany.com/careers
+  category: industrials-and-climate
+  ats:
+    gem: boringcompany
+  tags:
+  - infrastructure
+  - tunneling
+  - hardware
+  sources:
+  - https://www.boringcompany.com/careers
 
