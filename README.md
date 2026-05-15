@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1740 companies**.
+Currently tracking **1750 companies**.
 
 This repository is designed for two uses:
 
@@ -1796,6 +1796,16 @@ Open source video player (video.js)
 - [Truffle Security](https://trufflesecurity.com) - Hiring via Greenhouse (trufflesecurity).
 - [Vast](https://vast.com) - Hiring via Greenhouse (vast).
 - [Metron](https://metron.com) - Hiring via Greenhouse (metron).
+- [Genius Sports](https://geniussports.com) - Hiring via Greenhouse (geniussports).
+- [Recursion](https://recursion.com) - Hiring via Greenhouse (recursionpharmaceuticals).
+- [Ooma](https://ooma.com) - Hiring via Greenhouse (ooma).
+- [Consensys](https://consensys.com) - Hiring via Greenhouse (consensys).
+- [The Pokémon Company International](https://thepokmoncompanyinternational.com) - Hiring via Greenhouse (pokemoncareers).
+- [Cameo](https://cameo.com) - Hiring via Greenhouse (cameo).
+- [Wynd Labs](https://wyndlabs.com) - Hiring via Greenhouse (wyndlabs).
+- [Mozilla](https://mozilla.com) - Hiring via Greenhouse (mozilla).
+- [Backbase](https://backbase.com) - Hiring via Greenhouse (workatbackbase).
+- [Fin](https://fin.com) - Hiring via Greenhouse (intercom).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

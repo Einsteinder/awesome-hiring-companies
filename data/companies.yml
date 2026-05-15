@@ -22889,3 +22889,123 @@
   - open
   sources:
   - https://boards.greenhouse.io/metron
+
+- name: Genius Sports
+  slug: genius-sports
+  domain: geniussports.com
+  careers_url: https://boards.greenhouse.io/geniussports
+  category: open-source-and-platform
+  ats:
+    greenhouse: geniussports
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/geniussports
+
+- name: Recursion
+  slug: recursion
+  domain: recursion.com
+  careers_url: https://boards.greenhouse.io/recursionpharmaceuticals
+  category: open-source-and-platform
+  ats:
+    greenhouse: recursionpharmaceuticals
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/recursionpharmaceuticals
+
+- name: Ooma
+  slug: ooma
+  domain: ooma.com
+  careers_url: https://boards.greenhouse.io/ooma
+  category: open-source-and-platform
+  ats:
+    greenhouse: ooma
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/ooma
+
+- name: Consensys
+  slug: consensys
+  domain: consensys.com
+  careers_url: https://boards.greenhouse.io/consensys
+  category: open-source-and-platform
+  ats:
+    greenhouse: consensys
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/consensys
+
+- name: The Pokémon Company International
+  slug: the-pok-mon-company-international
+  domain: thepokmoncompanyinternational.com
+  careers_url: https://boards.greenhouse.io/pokemoncareers
+  category: open-source-and-platform
+  ats:
+    greenhouse: pokemoncareers
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/pokemoncareers
+
+- name: Cameo
+  slug: cameo
+  domain: cameo.com
+  careers_url: https://boards.greenhouse.io/cameo
+  category: open-source-and-platform
+  ats:
+    greenhouse: cameo
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/cameo
+
+- name: Wynd Labs
+  slug: wynd-labs
+  domain: wyndlabs.com
+  careers_url: https://boards.greenhouse.io/wyndlabs
+  category: open-source-and-platform
+  ats:
+    greenhouse: wyndlabs
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/wyndlabs
+
+- name: Mozilla
+  slug: mozilla
+  domain: mozilla.com
+  careers_url: https://boards.greenhouse.io/mozilla
+  category: open-source-and-platform
+  ats:
+    greenhouse: mozilla
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/mozilla
+
+- name: Backbase
+  slug: backbase
+  domain: backbase.com
+  careers_url: https://boards.greenhouse.io/workatbackbase
+  category: open-source-and-platform
+  ats:
+    greenhouse: workatbackbase
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/workatbackbase
+
+- name: Fin
+  slug: fin
+  domain: fin.com
+  careers_url: https://boards.greenhouse.io/intercom
+  category: open-source-and-platform
+  ats:
+    greenhouse: intercom
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/intercom
