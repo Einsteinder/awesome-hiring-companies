@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1955 companies**.
+Currently tracking **1965 companies**.
 
 This repository is designed for two uses:
 
@@ -2011,6 +2011,16 @@ Open source video player (video.js)
 - [Sigma Computing](https://sigmacomputing.com) - Hiring via Greenhouse (sigmacomputing).
 - [Maven Clinic](https://mavenclinic.com) - Hiring via Greenhouse (mavenclinic).
 - [XTX Markets](https://xtxmarkets.com) - Hiring via Greenhouse (xtxmarketstechnologies).
+- [Calendly](https://calendly.com) - Hiring via Greenhouse (calendly).
+- [Digital Extremes](https://digitalextremes.com) - Hiring via Greenhouse (digitalextremes).
+- [Tenstorrent](https://tenstorrent.com) - Hiring via Greenhouse (tenstorrent).
+- [Oportun](https://oportun.com) - Hiring via Greenhouse (oportun).
+- [Chicago Public Media](https://chicagopublicmedia.com) - Hiring via Greenhouse (cpm).
+- [Logos](https://logos.com) - Hiring via Greenhouse (logos).
+- [Samsara](https://samsara.com) - Hiring via Greenhouse (samsara).
+- [Roku](https://roku.com) - Hiring via Greenhouse (roku).
+- [ConnectWise](https://connectwise.com) - Hiring via Greenhouse (connectwise).
+- [PayPay India](https://paypayindia.com) - Hiring via Greenhouse (pay2dc).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

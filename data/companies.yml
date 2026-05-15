@@ -25469,3 +25469,123 @@
   - open
   sources:
   - https://boards.greenhouse.io/xtxmarketstechnologies
+
+- name: Calendly
+  slug: calendly
+  domain: calendly.com
+  careers_url: https://boards.greenhouse.io/calendly
+  category: open-source-and-platform
+  ats:
+    greenhouse: calendly
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/calendly
+
+- name: Digital Extremes
+  slug: digital-extremes
+  domain: digitalextremes.com
+  careers_url: https://boards.greenhouse.io/digitalextremes
+  category: open-source-and-platform
+  ats:
+    greenhouse: digitalextremes
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/digitalextremes
+
+- name: Tenstorrent
+  slug: tenstorrent
+  domain: tenstorrent.com
+  careers_url: https://boards.greenhouse.io/tenstorrent
+  category: open-source-and-platform
+  ats:
+    greenhouse: tenstorrent
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/tenstorrent
+
+- name: Oportun
+  slug: oportun
+  domain: oportun.com
+  careers_url: https://boards.greenhouse.io/oportun
+  category: open-source-and-platform
+  ats:
+    greenhouse: oportun
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/oportun
+
+- name: Chicago Public Media
+  slug: chicago-public-media
+  domain: chicagopublicmedia.com
+  careers_url: https://boards.greenhouse.io/cpm
+  category: open-source-and-platform
+  ats:
+    greenhouse: cpm
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/cpm
+
+- name: Logos
+  slug: logos
+  domain: logos.com
+  careers_url: https://boards.greenhouse.io/logos
+  category: open-source-and-platform
+  ats:
+    greenhouse: logos
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/logos
+
+- name: Samsara
+  slug: samsara
+  domain: samsara.com
+  careers_url: https://boards.greenhouse.io/samsara
+  category: open-source-and-platform
+  ats:
+    greenhouse: samsara
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/samsara
+
+- name: Roku
+  slug: roku
+  domain: roku.com
+  careers_url: https://boards.greenhouse.io/roku
+  category: open-source-and-platform
+  ats:
+    greenhouse: roku
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/roku
+
+- name: ConnectWise
+  slug: connectwise
+  domain: connectwise.com
+  careers_url: https://boards.greenhouse.io/connectwise
+  category: open-source-and-platform
+  ats:
+    greenhouse: connectwise
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/connectwise
+
+- name: PayPay India
+  slug: paypay-india
+  domain: paypayindia.com
+  careers_url: https://boards.greenhouse.io/pay2dc
+  category: open-source-and-platform
+  ats:
+    greenhouse: pay2dc
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/pay2dc
