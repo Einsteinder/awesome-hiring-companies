@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **210 companies**.
+Currently tracking **220 companies**.
 
 This repository is designed for two uses:
 
@@ -265,6 +265,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [Veriff](https://veriff.com) - AI-powered identity verification solution for fraud prevention.
 - [Pine Park Health](https://pineparkhealth.com) - We provide primary care in senior living communities.
 - [Glide](https://glideapps.com) - Glide turns spreadsheets into beautiful, intelligent apps.
+- [Revel](https://hellorevel.com) - We Deserve More in Midlife
+- [FamPay](https://fampay.in) - India’s first neobank for teenagers
+- [Roboflow](https://roboflow.com) - 🖼️ Give your software the sense of sight.
+- [Aspora](https://aspora.com) - Single account to manage money across the world
+- [Layup](https://layuplabs.ai) - Guide your users. Right in your product.
+- [Ora AI](https://oraai.com) - Med school can be simpler
+- [FurtherAI](https://furtherai.com) - AI Workforce for the Insurance Industry
+- [Plume](https://plumefinder.com) - Renewable infrastructure deployment at scale.
+- [Symphony](https://getsymphony.co) - Voice AI sims for next-gen employee training
+- [AfterQuery](https://afterquery.com) - Applied research lab curating data solutions for foundation model…
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

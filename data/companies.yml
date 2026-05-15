@@ -3022,3 +3022,145 @@
   - developer-tools
   sources:
   - https://jobs.lever.co/glide
+
+- name: Revel
+  slug: revel
+  domain: hellorevel.com
+  careers_url: https://jobs.lever.co/revel
+  category: consumer-and-marketplace
+  ats:
+    lever: revel
+  tags:
+  - consumer
+  - consumer-social
+  - community
+  sources:
+  - https://jobs.lever.co/revel
+
+- name: FamPay
+  slug: fampay
+  domain: fampay.in
+  careers_url: https://jobs.lever.co/fampay
+  category: fintech
+  ats:
+    lever: fampay
+  tags:
+  - fintech
+  - fintech-payments
+  - payments
+  sources:
+  - https://jobs.lever.co/fampay
+
+- name: Roboflow
+  slug: roboflow
+  domain: roboflow.com
+  careers_url: https://jobs.ashbyhq.com/roboflow
+  category: ai-and-data
+  ats:
+    ashby: roboflow
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - developer-tools
+  - machine-learning
+  sources:
+  - https://jobs.ashbyhq.com/roboflow
+
+- name: Aspora
+  slug: aspora
+  domain: aspora.com
+  careers_url: https://jobs.ashbyhq.com/aspora
+  category: fintech
+  ats:
+    ashby: aspora
+  tags:
+  - fintech
+  - fintech-consumer-finance
+  sources:
+  - https://jobs.ashbyhq.com/aspora
+
+- name: Layup
+  slug: layup
+  domain: layuplabs.ai
+  careers_url: https://jobs.lever.co/layup
+  category: ai-and-data
+  ats:
+    lever: layup
+  tags:
+  - b2b
+  - artificial-intelligence
+  - saas
+  sources:
+  - https://jobs.lever.co/layup
+
+- name: Ora AI
+  slug: ora-ai
+  domain: oraai.com
+  careers_url: https://boards.greenhouse.io/ora
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: ora
+  tags:
+  - education
+  - healthcare
+  - ai
+  sources:
+  - https://boards.greenhouse.io/ora
+
+- name: FurtherAI
+  slug: furtherai
+  domain: furtherai.com
+  careers_url: https://boards.greenhouse.io/further
+  category: ai-and-data
+  ats:
+    greenhouse: further
+  tags:
+  - b2b
+  - insurance
+  sources:
+  - https://boards.greenhouse.io/further
+
+- name: Plume
+  slug: plume
+  domain: plumefinder.com
+  careers_url: https://boards.greenhouse.io/plume
+  category: developer-infrastructure
+  ats:
+    greenhouse: plume
+  tags:
+  - industrials
+  - industrials-climate
+  - artificial-intelligence
+  - solar-power
+  sources:
+  - https://boards.greenhouse.io/plume
+
+- name: Symphony
+  slug: symphony
+  domain: getsymphony.co
+  careers_url: https://boards.greenhouse.io/symphony
+  category: ai-and-data
+  ats:
+    greenhouse: symphony
+  tags:
+  - b2b
+  - saas
+  - hr-tech
+  - ai
+  sources:
+  - https://boards.greenhouse.io/symphony
+
+- name: AfterQuery
+  slug: afterquery
+  domain: afterquery.com
+  careers_url: https://jobs.ashbyhq.com/afterquery
+  category: ai-and-data
+  ats:
+    ashby: afterquery
+  tags:
+  - b2b
+  - b2b-infrastructure
+  - artificial-intelligence
+  - data-labeling
+  sources:
+  - https://jobs.ashbyhq.com/afterquery
