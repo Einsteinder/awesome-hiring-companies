@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **260 companies**.
+Currently tracking **270 companies**.
 
 This repository is designed for two uses:
 
@@ -315,6 +315,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [Akido Labs](https://akidolabs.com) - Rebuilding healthcare with AI at the core
 - [Notable Labs](https://notablelabs.com) - Personalized drug discovery for blood cancer.
 - [Rigetti Computing](https://rigetti.com) - Quantum coherent supercomputing.
+- [Shift Labs](https://shiftlabs.com) - Makers of simple, affordable medical devices. Our award-winning…
+- [Flip](https://justflip.com) - Community-driven marketplace for sneakers.
+- [GiveCampus](https://go.givecampus.com) - The fundraising platform for schools.
+- [Squad](https://squadapp.io) - Squad is an app for live communities to have shared experiences…
+- [Ophelia](https://ophelia.com) - Medication & support to beat opioid addiction from home
+- [Mable](https://trymable.com) - First personalized migraine clinic using genetics and telehealth.
+- [Coast](https://trycoast.com) - Demo Platform for API-First Companies
+- [Float](https://float.xyz) - Supply chain finance for consumer brands
+- [Proper](https://properfinance.io) - Reconciliation and financial operations platform
+- [Mintlify](https://mintlify.com) - The intelligent knowledge platform
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

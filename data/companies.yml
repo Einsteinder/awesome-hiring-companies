@@ -3743,3 +3743,149 @@
   - quantum-computing
   sources:
   - https://jobs.lever.co/rigetti
+
+- name: Shift Labs
+  slug: shift-labs
+  domain: shiftlabs.com
+  careers_url: https://jobs.ashbyhq.com/shift
+  category: consumer-and-marketplace
+  ats:
+    ashby: shift
+  tags:
+  - healthcare
+  - healthcare-medical-devices
+  - hardware
+  - medical-devices
+  sources:
+  - https://jobs.ashbyhq.com/shift
+
+- name: Flip
+  slug: flip
+  domain: justflip.com
+  careers_url: https://boards.greenhouse.io/flip
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: flip
+  tags:
+  - consumer
+  - consumer-apparel-and-cosmetics
+  - marketplace
+  sources:
+  - https://boards.greenhouse.io/flip
+
+- name: GiveCampus
+  slug: givecampus
+  domain: go.givecampus.com
+  careers_url: https://boards.greenhouse.io/givecampus
+  category: developer-infrastructure
+  ats:
+    greenhouse: givecampus
+  tags:
+  - education
+  - fintech
+  - saas
+  - b2b
+  sources:
+  - https://boards.greenhouse.io/givecampus
+
+- name: Squad
+  slug: squad
+  domain: squadapp.io
+  careers_url: https://boards.greenhouse.io/squad
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: squad
+  tags:
+  - consumer
+  - consumer-social
+  - social
+  sources:
+  - https://boards.greenhouse.io/squad
+
+- name: Ophelia
+  slug: ophelia
+  domain: ophelia.com
+  careers_url: https://boards.greenhouse.io/ophelia
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: ophelia
+  tags:
+  - healthcare
+  - healthcare-consumer-health-and-wellness
+  - mental-health-tech
+  - telemedicine
+  sources:
+  - https://boards.greenhouse.io/ophelia
+
+- name: Mable
+  slug: mable
+  domain: trymable.com
+  careers_url: https://jobs.lever.co/mable
+  category: consumer-and-marketplace
+  ats:
+    lever: mable
+  tags:
+  - healthcare
+  - healthcare-medical-devices
+  - health-tech
+  - telehealth
+  sources:
+  - https://jobs.lever.co/mable
+
+- name: Coast
+  slug: coast
+  domain: trycoast.com
+  careers_url: https://boards.greenhouse.io/coast
+  category: developer-infrastructure
+  ats:
+    greenhouse: coast
+  tags:
+  - b2b
+  - saas
+  - sales
+  - sales-enablement
+  sources:
+  - https://boards.greenhouse.io/coast
+
+- name: Float
+  slug: float
+  domain: float.xyz
+  careers_url: https://jobs.ashbyhq.com/float
+  category: fintech
+  ats:
+    ashby: float
+  tags:
+  - fintech
+  - b2b
+  - e-commerce
+  sources:
+  - https://jobs.ashbyhq.com/float
+
+- name: Proper
+  slug: proper
+  domain: properfinance.io
+  careers_url: https://jobs.lever.co/proper
+  category: fintech
+  ats:
+    lever: proper
+  tags:
+  - b2b
+  - b2b-finance-and-accounting
+  - fintech
+  - saas
+  sources:
+  - https://jobs.lever.co/proper
+
+- name: Mintlify
+  slug: mintlify
+  domain: mintlify.com
+  careers_url: https://jobs.ashbyhq.com/mintlify
+  category: developer-infrastructure
+  ats:
+    ashby: mintlify
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - developer-tools
+  sources:
+  - https://jobs.ashbyhq.com/mintlify
