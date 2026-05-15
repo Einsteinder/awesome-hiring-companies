@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **470 companies**.
+Currently tracking **480 companies**.
 
 This repository is designed for two uses:
 
@@ -525,6 +525,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [Axle Health](https://axlehealth.com) - Scheduling and workforce management SaaS for home healthcare providers
 - [Popl](https://popl.co) - Your Complete In-Person GTM Platform
 - [Blink](https://blinklastmile.com) - Same-day delivery for e-commerce companies in Europe.
+- [Replo](https://replo.app) - Sell anything
+- [Meticulous](https://meticulous.ai) - Automated e2e screenshot testing without writing or maintaining tests
+- [Baubap](https://baubap.com) - Smart micro financing for everyone
+- [Arc](https://joinarc.com) - Banking & Funding for Startups
+- [Complete](https://complete.so) - The complete way to do compensation
+- [MaverickX](https://maverickx.com) - Engineering the future of chemistry for natural resource extraction
+- [Knowtex](https://knowtex.ai) - Making doctors 2x more efficient with AI note-taking & charge capture
+- [Credal.ai](https://credal.ai) - The Control Plane for Enterprise Agents
+- [Suger](https://suger.io) - Salesforce for Cloud marketplaces on AWS, Azure, GCP
+- [Inkeep](https://inkeep.com) - Build AI Agent teammates and automations in code or no-code
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

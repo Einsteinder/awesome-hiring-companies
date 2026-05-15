@@ -6782,3 +6782,151 @@
   - logistics
   sources:
   - https://jobs.ashbyhq.com/blink
+
+- name: Replo
+  slug: replo
+  domain: replo.app
+  careers_url: https://jobs.ashbyhq.com/replo
+  category: ai-and-data
+  ats:
+    ashby: replo
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - artificial-intelligence
+  - developer-tools
+  sources:
+  - https://jobs.ashbyhq.com/replo
+
+- name: Meticulous
+  slug: meticulous
+  domain: meticulous.ai
+  careers_url: https://jobs.ashbyhq.com/meticulous
+  category: developer-infrastructure
+  ats:
+    ashby: meticulous
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - developer-tools
+  - hard-tech
+  sources:
+  - https://jobs.ashbyhq.com/meticulous
+
+- name: Baubap
+  slug: baubap
+  domain: baubap.com
+  careers_url: https://boards.greenhouse.io/baubap
+  category: fintech
+  ats:
+    greenhouse: baubap
+  tags:
+  - fintech
+  - fintech-credit-and-lending
+  - machine-learning
+  - lending
+  sources:
+  - https://boards.greenhouse.io/baubap
+
+- name: Arc
+  slug: arc
+  domain: joinarc.com
+  careers_url: https://jobs.ashbyhq.com/joinarc
+  category: fintech
+  ats:
+    ashby: joinarc
+  tags:
+  - fintech
+  - saas
+  - b2b
+  sources:
+  - https://jobs.ashbyhq.com/joinarc
+
+- name: Complete
+  slug: complete
+  domain: complete.so
+  careers_url: https://jobs.ashbyhq.com/complete
+  category: developer-infrastructure
+  ats:
+    ashby: complete
+  tags:
+  - b2b
+  - b2b-human-resources
+  - saas
+  - hr-tech
+  sources:
+  - https://jobs.ashbyhq.com/complete
+
+- name: MaverickX
+  slug: maverickx
+  domain: maverickx.com
+  careers_url: https://jobs.lever.co/maverickx
+  category: open-source-and-platform
+  ats:
+    lever: maverickx
+  tags:
+  - industrials
+  - industrials-energy
+  - energy
+  sources:
+  - https://jobs.lever.co/maverickx
+
+- name: Knowtex
+  slug: knowtex
+  domain: knowtex.ai
+  careers_url: https://jobs.ashbyhq.com/knowtex
+  category: consumer-and-marketplace
+  ats:
+    ashby: knowtex
+  tags:
+  - healthcare
+  - healthcare-healthcare-it
+  - health-tech
+  - b2b
+  sources:
+  - https://jobs.ashbyhq.com/knowtex
+
+- name: Credal.ai
+  slug: credal-ai
+  domain: credal.ai
+  careers_url: https://jobs.ashbyhq.com/credal
+  category: ai-and-data
+  ats:
+    ashby: credal
+  tags:
+  - b2b
+  - b2b-productivity
+  - artificial-intelligence
+  - generative-ai
+  sources:
+  - https://jobs.ashbyhq.com/credal
+
+- name: Suger
+  slug: suger
+  domain: suger.io
+  careers_url: https://jobs.lever.co/suger
+  category: developer-infrastructure
+  ats:
+    lever: suger
+  tags:
+  - b2b
+  - b2b-sales
+  - marketplace
+  - saas
+  sources:
+  - https://jobs.lever.co/suger
+
+- name: Inkeep
+  slug: inkeep
+  domain: inkeep.com
+  careers_url: https://jobs.ashbyhq.com/inkeep
+  category: ai-and-data
+  ats:
+    ashby: inkeep
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - developer-tools
+  - workflow-automation
+  sources:
+  - https://jobs.ashbyhq.com/inkeep
