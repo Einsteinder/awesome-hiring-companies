@@ -15425,3 +15425,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/lovable
+
+- name: Profound
+  slug: profound
+  domain: profound.com
+  careers_url: https://jobs.ashbyhq.com/profound
+  category: open-source-and-platform
+  ats:
+    ashby: profound
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/profound
+
+- name: Rehire
+  slug: rehire
+  domain: rehire.com
+  careers_url: https://jobs.ashbyhq.com/rehire
+  category: open-source-and-platform
+  ats:
+    ashby: rehire
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/rehire
+
+- name: Pigment
+  slug: pigment
+  domain: pigment.com
+  careers_url: https://jobs.lever.co/pigment
+  category: open-source-and-platform
+  ats:
+    lever: pigment
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/pigment
+
+- name: Mach
+  slug: mach
+  domain: mach.com
+  careers_url: https://jobs.ashbyhq.com/mach
+  category: open-source-and-platform
+  ats:
+    ashby: mach
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/mach
+
+- name: Meter
+  slug: meter
+  domain: meter.com
+  careers_url: https://jobs.ashbyhq.com/meter
+  category: open-source-and-platform
+  ats:
+    ashby: meter
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/meter
+
+- name: Industrious
+  slug: industrious
+  domain: industrious.com
+  careers_url: https://jobs.ashbyhq.com/industrious
+  category: open-source-and-platform
+  ats:
+    ashby: industrious
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/industrious
+
+- name: Owner
+  slug: owner
+  domain: owner.com
+  careers_url: https://jobs.ashbyhq.com/owner
+  category: open-source-and-platform
+  ats:
+    ashby: owner
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/owner
+
+- name: Humanoid
+  slug: humanoid
+  domain: humanoid.com
+  careers_url: https://jobs.ashbyhq.com/humanoid
+  category: open-source-and-platform
+  ats:
+    ashby: humanoid
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/humanoid
+
+- name: Lessen
+  slug: lessen
+  domain: lessen.com
+  careers_url: https://jobs.lever.co/lessen
+  category: open-source-and-platform
+  ats:
+    lever: lessen
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/lessen
+
+- name: Reply
+  slug: reply
+  domain: reply.com
+  careers_url: https://jobs.lever.co/reply
+  category: open-source-and-platform
+  ats:
+    lever: reply
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/reply

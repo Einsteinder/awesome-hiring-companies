@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1118 companies**.
+Currently tracking **1128 companies**.
 
 This repository is designed for two uses:
 
@@ -1174,6 +1174,16 @@ Open source video player (video.js)
 - [Spear](https://spear.com) - Hiring via Lever (spear).
 - [Kong](https://kong.com) - Hiring via Ashby (kong).
 - [Lovable](https://lovable.com) - Hiring via Ashby (lovable).
+- [Profound](https://profound.com) - Hiring via Ashby (profound).
+- [Rehire](https://rehire.com) - Hiring via Ashby (rehire).
+- [Pigment](https://pigment.com) - Hiring via Lever (pigment).
+- [Mach](https://mach.com) - Hiring via Ashby (mach).
+- [Meter](https://meter.com) - Hiring via Ashby (meter).
+- [Industrious](https://industrious.com) - Hiring via Ashby (industrious).
+- [Owner](https://owner.com) - Hiring via Ashby (owner).
+- [Humanoid](https://humanoid.com) - Hiring via Ashby (humanoid).
+- [Lessen](https://lessen.com) - Hiring via Lever (lessen).
+- [Reply](https://reply.com) - Hiring via Lever (reply).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
