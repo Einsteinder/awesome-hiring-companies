@@ -22409,3 +22409,123 @@
   - open
   sources:
   - https://boards.greenhouse.io/cerebral
+
+- name: Virtu Financial
+  slug: virtu-financial
+  domain: virtufinancial.com
+  careers_url: https://boards.greenhouse.io/virtu
+  category: open-source-and-platform
+  ats:
+    greenhouse: virtu
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/virtu
+
+- name: Ada
+  slug: ada
+  domain: ada.com
+  careers_url: https://boards.greenhouse.io/ada18
+  category: open-source-and-platform
+  ats:
+    greenhouse: ada18
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/ada18
+
+- name: Remote
+  slug: remote
+  domain: remote.com
+  careers_url: https://boards.greenhouse.io/remotecom
+  category: open-source-and-platform
+  ats:
+    greenhouse: remotecom
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/remotecom
+
+- name: Varda Space Industries
+  slug: varda-space-industries
+  domain: vardaspaceindustries.com
+  careers_url: https://boards.greenhouse.io/vardaspace
+  category: open-source-and-platform
+  ats:
+    greenhouse: vardaspace
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/vardaspace
+
+- name: SpecterOps
+  slug: specterops
+  domain: specterops.com
+  careers_url: https://boards.greenhouse.io/specterops
+  category: open-source-and-platform
+  ats:
+    greenhouse: specterops
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/specterops
+
+- name: Canonical
+  slug: canonical
+  domain: canonical.com
+  careers_url: https://boards.greenhouse.io/canonical
+  category: open-source-and-platform
+  ats:
+    greenhouse: canonical
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/canonical
+
+- name: Founders Green Animal Hospital
+  slug: founders-green-animal-hospital
+  domain: foundersgreenanimalhospital.com
+  careers_url: https://boards.greenhouse.io/founders
+  category: open-source-and-platform
+  ats:
+    greenhouse: founders
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/founders
+
+- name: Smartling
+  slug: smartling
+  domain: smartling.com
+  careers_url: https://boards.greenhouse.io/smartling
+  category: open-source-and-platform
+  ats:
+    greenhouse: smartling
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/smartling
+
+- name: Nav
+  slug: nav
+  domain: nav.com
+  careers_url: https://boards.greenhouse.io/navtechnologies
+  category: open-source-and-platform
+  ats:
+    greenhouse: navtechnologies
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/navtechnologies
+
+- name: Postman
+  slug: postman
+  domain: postman.com
+  careers_url: https://boards.greenhouse.io/postman
+  category: open-source-and-platform
+  ats:
+    greenhouse: postman
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/postman

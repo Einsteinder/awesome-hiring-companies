@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1700 companies**.
+Currently tracking **1710 companies**.
 
 This repository is designed for two uses:
 
@@ -1756,6 +1756,16 @@ Open source video player (video.js)
 - [Hudson River Trading](https://hudsonrivertrading.com) - Hiring via Greenhouse (wehrtyou).
 - [Bolt.new](https://boltnew.com) - Hiring via Greenhouse (stackblitz).
 - [Cerebral](https://cerebral.com) - Hiring via Greenhouse (cerebral).
+- [Virtu Financial](https://virtufinancial.com) - Hiring via Greenhouse (virtu).
+- [Ada](https://ada.com) - Hiring via Greenhouse (ada18).
+- [Remote](https://remote.com) - Hiring via Greenhouse (remotecom).
+- [Varda Space Industries](https://vardaspaceindustries.com) - Hiring via Greenhouse (vardaspace).
+- [SpecterOps](https://specterops.com) - Hiring via Greenhouse (specterops).
+- [Canonical](https://canonical.com) - Hiring via Greenhouse (canonical).
+- [Founders Green Animal Hospital](https://foundersgreenanimalhospital.com) - Hiring via Greenhouse (founders).
+- [Smartling](https://smartling.com) - Hiring via Greenhouse (smartling).
+- [Nav](https://nav.com) - Hiring via Greenhouse (navtechnologies).
+- [Postman](https://postman.com) - Hiring via Greenhouse (postman).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
