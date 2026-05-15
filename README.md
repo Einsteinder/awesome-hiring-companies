@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **2141 companies**.
+Currently tracking **2144 companies**.
 
 This repository is designed for two uses:
 
@@ -620,6 +620,7 @@ Payments, banking, investing, crypto, expense, payroll, and financial infrastruc
 
 Consumer products, communities, marketplaces, media, travel, commerce, education, and gaming.
 
+- [Hulu](https://hulu.com) - Streaming video service (Disney).
 - [Zynga](https://zynga.com) - Mobile games (Take-Two).
 - [Niantic](https://nianticlabs.com) - Pokémon GO and AR location games.
 - [Take-Two Interactive](https://take2games.com) - Gaming publisher — Rockstar, 2K.
@@ -748,6 +749,7 @@ Consumer products, communities, marketplaces, media, travel, commerce, education
 
 Healthcare delivery, health-tech, biotech, drug discovery, medical devices, and wellness.
 
+- [BioNTech](https://biontech.com) - mRNA cancer and infectious-disease therapeutics.
 - [Hippocratic AI](https://hippocraticai.com) - Safety-focused healthcare LLM.
 - [Atomwise](https://atomwise.com) - AI for small-molecule drug discovery.
 - [Inscripta](https://inscripta.com) - Genome engineering and digital biology tools.
@@ -885,6 +887,7 @@ Healthcare delivery, health-tech, biotech, drug discovery, medical devices, and 
 
 Hardware, manufacturing, robotics, climate, energy, aviation, space, supply chain, logistics, real estate, and construction.
 
+- [Komatsu](https://komatsu.com) - Heavy construction and mining equipment.
 - [Bloom Energy](https://bloomenergy.com) - Solid-oxide fuel cells for distributed energy.
 - [TAE Technologies](https://tae.com) - Fusion energy and applied physics.
 - [Commonwealth Fusion Systems](https://cfs.energy) - Tokamak fusion energy company (MIT spinout).

@@ -27927,3 +27927,44 @@
   sources:
   - https://stability.ai/careers
 
+- name: Hulu
+  slug: hulu
+  domain: hulu.com
+  careers_url: https://www.hulu.com/jobs
+  category: consumer-and-marketplace
+  ats:
+    custom: hulu
+  tags:
+  - streaming
+  - media
+  sources:
+  - https://www.hulu.com/jobs
+
+- name: BioNTech
+  slug: biontech
+  domain: biontech.com
+  careers_url: https://career5.successfactors.eu/career?company=biontech
+  category: healthcare-and-biotech
+  ats:
+    successfactors: biontech
+  tags:
+  - biotech
+  - mrna
+  - vaccines
+  sources:
+  - https://career5.successfactors.eu/career?company=biontech
+
+- name: Komatsu
+  slug: komatsu
+  domain: komatsu.com
+  careers_url: https://www.komatsu.com/en-us/careers
+  category: industrials-and-climate
+  ats:
+    custom: komatsu
+  tags:
+  - industrial
+  - heavy-equipment
+  - mining
+  sources:
+  - https://www.komatsu.com/en-us/careers
+
