@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1935 companies**.
+Currently tracking **1945 companies**.
 
 This repository is designed for two uses:
 
@@ -1991,6 +1991,16 @@ Open source video player (video.js)
 - [Dimagi](https://dimagi.com) - Hiring via Greenhouse (dimagi).
 - [Business Insider](https://businessinsider.com) - Hiring via Greenhouse (insider).
 - [Netlify](https://netlify.com) - Hiring via Greenhouse (netlify).
+- [Truveta](https://truveta.com) - Hiring via Greenhouse (truveta).
+- [PDT Partners](https://pdtpartners.com) - Hiring via Greenhouse (pdtpartners).
+- [BlastPoint](https://blastpoint.com) - Hiring via Greenhouse (blastpoint).
+- [Fernride](https://fernride.com) - Hiring via Greenhouse (fernride).
+- [Carta](https://carta.com) - Hiring via Greenhouse (carta).
+- [New Era Technology](https://neweratechnology.com) - Hiring via Greenhouse (neweratech).
+- [CodePath](https://codepath.com) - Hiring via Greenhouse (codepath).
+- [Catawiki](https://catawiki.com) - Hiring via Greenhouse (catawiki).
+- [Braze](https://braze.com) - Hiring via Greenhouse (braze).
+- [BigID](https://bigid.com) - Hiring via Greenhouse (bigid).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

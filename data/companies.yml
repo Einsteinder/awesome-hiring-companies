@@ -25229,3 +25229,123 @@
   - open
   sources:
   - https://boards.greenhouse.io/netlify
+
+- name: Truveta
+  slug: truveta
+  domain: truveta.com
+  careers_url: https://boards.greenhouse.io/truveta
+  category: open-source-and-platform
+  ats:
+    greenhouse: truveta
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/truveta
+
+- name: PDT Partners
+  slug: pdt-partners
+  domain: pdtpartners.com
+  careers_url: https://boards.greenhouse.io/pdtpartners
+  category: open-source-and-platform
+  ats:
+    greenhouse: pdtpartners
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/pdtpartners
+
+- name: BlastPoint
+  slug: blastpoint
+  domain: blastpoint.com
+  careers_url: https://boards.greenhouse.io/blastpoint
+  category: open-source-and-platform
+  ats:
+    greenhouse: blastpoint
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/blastpoint
+
+- name: Fernride
+  slug: fernride
+  domain: fernride.com
+  careers_url: https://boards.greenhouse.io/fernride
+  category: open-source-and-platform
+  ats:
+    greenhouse: fernride
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/fernride
+
+- name: Carta
+  slug: carta
+  domain: carta.com
+  careers_url: https://boards.greenhouse.io/carta
+  category: open-source-and-platform
+  ats:
+    greenhouse: carta
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/carta
+
+- name: New Era Technology
+  slug: new-era-technology
+  domain: neweratechnology.com
+  careers_url: https://boards.greenhouse.io/neweratech
+  category: open-source-and-platform
+  ats:
+    greenhouse: neweratech
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/neweratech
+
+- name: CodePath
+  slug: codepath
+  domain: codepath.com
+  careers_url: https://boards.greenhouse.io/codepath
+  category: open-source-and-platform
+  ats:
+    greenhouse: codepath
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/codepath
+
+- name: Catawiki
+  slug: catawiki
+  domain: catawiki.com
+  careers_url: https://boards.greenhouse.io/catawiki
+  category: open-source-and-platform
+  ats:
+    greenhouse: catawiki
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/catawiki
+
+- name: Braze
+  slug: braze
+  domain: braze.com
+  careers_url: https://boards.greenhouse.io/braze
+  category: open-source-and-platform
+  ats:
+    greenhouse: braze
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/braze
+
+- name: BigID
+  slug: bigid
+  domain: bigid.com
+  careers_url: https://boards.greenhouse.io/bigid
+  category: open-source-and-platform
+  ats:
+    greenhouse: bigid
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/bigid
