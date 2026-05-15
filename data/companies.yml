@@ -18305,3 +18305,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/squads
+
+- name: Stronghold
+  slug: stronghold
+  domain: stronghold.com
+  careers_url: https://jobs.ashbyhq.com/stronghold
+  category: open-source-and-platform
+  ats:
+    ashby: stronghold
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/stronghold
+
+- name: Tracer
+  slug: tracer
+  domain: tracer.com
+  careers_url: https://jobs.ashbyhq.com/tracer
+  category: open-source-and-platform
+  ats:
+    ashby: tracer
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/tracer
+
+- name: Victorious
+  slug: victorious
+  domain: victorious.com
+  careers_url: https://jobs.ashbyhq.com/victorious
+  category: open-source-and-platform
+  ats:
+    ashby: victorious
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/victorious
+
+- name: Worldly
+  slug: worldly
+  domain: worldly.com
+  careers_url: https://jobs.ashbyhq.com/worldly
+  category: open-source-and-platform
+  ats:
+    ashby: worldly
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/worldly
+
+- name: Zambezi
+  slug: zambezi
+  domain: zambezi.com
+  careers_url: https://jobs.lever.co/zambezi
+  category: open-source-and-platform
+  ats:
+    lever: zambezi
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/zambezi
+
+- name: Immutable
+  slug: immutable
+  domain: immutable.com
+  careers_url: https://jobs.lever.co/immutable
+  category: open-source-and-platform
+  ats:
+    lever: immutable
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/immutable
+
+- name: Impulse
+  slug: impulse
+  domain: impulse.com
+  careers_url: https://jobs.ashbyhq.com/impulse
+  category: open-source-and-platform
+  ats:
+    ashby: impulse
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/impulse
+
+- name: Inclined
+  slug: inclined
+  domain: inclined.com
+  careers_url: https://jobs.ashbyhq.com/inclined
+  category: open-source-and-platform
+  ats:
+    ashby: inclined
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/inclined
+
+- name: Indent
+  slug: indent
+  domain: indent.com
+  careers_url: https://jobs.ashbyhq.com/indent
+  category: open-source-and-platform
+  ats:
+    ashby: indent
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/indent
+
+- name: Material
+  slug: material
+  domain: material.com
+  careers_url: https://jobs.ashbyhq.com/material
+  category: open-source-and-platform
+  ats:
+    ashby: material
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/material
