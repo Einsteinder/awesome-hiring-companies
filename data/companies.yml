@@ -1,0 +1,378 @@
+- name: OpenAI
+  slug: openai
+  domain: openai.com
+  careers_url: https://jobs.ashbyhq.com/openai
+  category: ai-and-data
+  ats:
+    ashby: openai
+  tags:
+    - ai
+    - research
+    - infrastructure
+  sources:
+    - https://jobs.ashbyhq.com/openai
+
+- name: Mistral AI
+  slug: mistral-ai
+  domain: mistral.ai
+  careers_url: https://jobs.lever.co/mistral
+  category: ai-and-data
+  ats:
+    lever: mistral
+  tags:
+    - ai
+    - research
+    - infrastructure
+  sources:
+    - https://jobs.lever.co/mistral
+
+- name: Databricks
+  slug: databricks
+  domain: databricks.com
+  careers_url: https://boards.greenhouse.io/databricks
+  category: ai-and-data
+  ats:
+    greenhouse: databricks
+  tags:
+    - data
+    - ai
+    - infrastructure
+  sources:
+    - https://boards.greenhouse.io/databricks
+
+- name: Browserbase
+  slug: browserbase
+  domain: browserbase.com
+  careers_url: https://jobs.ashbyhq.com/browserbase
+  category: ai-and-data
+  ats:
+    ashby: browserbase
+  tags:
+    - ai
+    - browser-automation
+    - developer-tools
+  sources:
+    - https://jobs.ashbyhq.com/browserbase
+
+- name: Linear
+  slug: linear
+  domain: linear.app
+  careers_url: https://jobs.ashbyhq.com/linear
+  category: developer-infrastructure
+  ats:
+    ashby: linear
+  tags:
+    - developer-tools
+    - productivity
+    - design
+  sources:
+    - https://jobs.ashbyhq.com/linear
+
+- name: PostHog
+  slug: posthog
+  domain: posthog.com
+  careers_url: https://jobs.ashbyhq.com/posthog
+  category: developer-infrastructure
+  ats:
+    ashby: posthog
+  tags:
+    - open-source
+    - analytics
+    - developer-tools
+  sources:
+    - https://jobs.ashbyhq.com/posthog
+
+- name: Ashby
+  slug: ashby
+  domain: ashbyhq.com
+  careers_url: https://jobs.ashbyhq.com/ashbyhq
+  category: developer-infrastructure
+  ats:
+    ashby: ashbyhq
+  tags:
+    - recruiting
+    - ats
+    - b2b-saas
+  sources:
+    - https://jobs.ashbyhq.com/ashbyhq
+
+- name: Vercel
+  slug: vercel
+  domain: vercel.com
+  careers_url: https://boards.greenhouse.io/vercel
+  category: developer-infrastructure
+  ats:
+    greenhouse: vercel
+  tags:
+    - developer-tools
+    - cloud
+    - frontend
+  sources:
+    - https://boards.greenhouse.io/vercel
+
+- name: Elastic
+  slug: elastic
+  domain: elastic.co
+  careers_url: https://boards.greenhouse.io/elastic
+  category: developer-infrastructure
+  ats:
+    greenhouse: elastic
+  tags:
+    - search
+    - observability
+    - security
+  sources:
+    - https://boards.greenhouse.io/elastic
+
+- name: Stripe
+  slug: stripe
+  domain: stripe.com
+  careers_url: https://boards.greenhouse.io/stripe
+  category: fintech
+  ats:
+    greenhouse: stripe
+  tags:
+    - payments
+    - fintech
+    - infrastructure
+  sources:
+    - https://boards.greenhouse.io/stripe
+
+- name: Coinbase
+  slug: coinbase
+  domain: coinbase.com
+  careers_url: https://boards.greenhouse.io/coinbase
+  category: fintech
+  ats:
+    greenhouse: coinbase
+  tags:
+    - crypto
+    - fintech
+    - infrastructure
+  sources:
+    - https://boards.greenhouse.io/coinbase
+
+- name: Ramp
+  slug: ramp
+  domain: ramp.com
+  careers_url: https://jobs.ashbyhq.com/ramp
+  category: fintech
+  ats:
+    ashby: ramp
+  tags:
+    - fintech
+    - finance-automation
+    - b2b-saas
+  sources:
+    - https://jobs.ashbyhq.com/ramp
+
+- name: Robinhood
+  slug: robinhood
+  domain: robinhood.com
+  careers_url: https://boards.greenhouse.io/robinhood
+  category: fintech
+  ats:
+    greenhouse: robinhood
+  tags:
+    - fintech
+    - consumer
+    - trading
+  sources:
+    - https://boards.greenhouse.io/robinhood
+
+- name: Plaid
+  slug: plaid
+  domain: plaid.com
+  careers_url: https://jobs.lever.co/plaid
+  category: fintech
+  ats:
+    lever: plaid
+  tags:
+    - fintech
+    - banking
+    - api
+  sources:
+    - https://jobs.lever.co/plaid
+
+- name: Airbnb
+  slug: airbnb
+  domain: airbnb.com
+  careers_url: https://boards.greenhouse.io/airbnb
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: airbnb
+  tags:
+    - marketplace
+    - travel
+    - consumer
+  sources:
+    - https://boards.greenhouse.io/airbnb
+
+- name: Instacart
+  slug: instacart
+  domain: instacart.com
+  careers_url: https://boards.greenhouse.io/instacart
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: instacart
+  tags:
+    - marketplace
+    - logistics
+    - retail
+  sources:
+    - https://boards.greenhouse.io/instacart
+
+- name: Pinterest
+  slug: pinterest
+  domain: pinterest.com
+  careers_url: https://boards.greenhouse.io/pinterest
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: pinterest
+  tags:
+    - consumer
+    - recommendations
+    - ads
+  sources:
+    - https://boards.greenhouse.io/pinterest
+
+- name: Reddit
+  slug: reddit
+  domain: reddit.com
+  careers_url: https://boards.greenhouse.io/reddit
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: reddit
+  tags:
+    - consumer
+    - community
+    - ads
+  sources:
+    - https://boards.greenhouse.io/reddit
+
+- name: Discord
+  slug: discord
+  domain: discord.com
+  careers_url: https://boards.greenhouse.io/discord
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: discord
+  tags:
+    - consumer
+    - social
+    - communications
+  sources:
+    - https://boards.greenhouse.io/discord
+
+- name: Spotify
+  slug: spotify
+  domain: spotify.com
+  careers_url: https://jobs.lever.co/spotify
+  category: consumer-and-marketplace
+  ats:
+    lever: spotify
+  tags:
+    - consumer
+    - audio
+    - recommendations
+  sources:
+    - https://jobs.lever.co/spotify
+
+- name: GitLab
+  slug: gitlab
+  domain: gitlab.com
+  careers_url: https://boards.greenhouse.io/gitlab
+  category: open-source-and-platform
+  ats:
+    greenhouse: gitlab
+  tags:
+    - devops
+    - open-source
+    - remote
+  sources:
+    - https://boards.greenhouse.io/gitlab
+
+- name: Cloudflare
+  slug: cloudflare
+  domain: cloudflare.com
+  careers_url: https://boards.greenhouse.io/cloudflare
+  category: open-source-and-platform
+  ats:
+    greenhouse: cloudflare
+  tags:
+    - cloud
+    - security
+    - networking
+  sources:
+    - https://boards.greenhouse.io/cloudflare
+
+- name: Dropbox
+  slug: dropbox
+  domain: dropbox.com
+  careers_url: https://boards.greenhouse.io/dropbox
+  category: open-source-and-platform
+  ats:
+    greenhouse: dropbox
+  tags:
+    - productivity
+    - storage
+    - collaboration
+  sources:
+    - https://boards.greenhouse.io/dropbox
+
+- name: Figma
+  slug: figma
+  domain: figma.com
+  careers_url: https://boards.greenhouse.io/figma
+  category: open-source-and-platform
+  ats:
+    greenhouse: figma
+  tags:
+    - design
+    - collaboration
+    - product
+  sources:
+    - https://boards.greenhouse.io/figma
+
+- name: Asana
+  slug: asana
+  domain: asana.com
+  careers_url: https://boards.greenhouse.io/asana
+  category: open-source-and-platform
+  ats:
+    greenhouse: asana
+  tags:
+    - productivity
+    - collaboration
+    - b2b-saas
+  sources:
+    - https://boards.greenhouse.io/asana
+
+- name: Palantir
+  slug: palantir
+  domain: palantir.com
+  careers_url: https://jobs.lever.co/palantir
+  category: open-source-and-platform
+  ats:
+    lever: palantir
+  tags:
+    - data
+    - platform
+    - enterprise
+  sources:
+    - https://jobs.lever.co/palantir
+
+- name: Neon
+  slug: neon
+  domain: neon.tech
+  careers_url: https://jobs.lever.co/neon
+  category: open-source-and-platform
+  ats:
+    lever: neon
+  tags:
+    - database
+    - postgres
+    - developer-tools
+  sources:
+    - https://jobs.lever.co/neon
+
