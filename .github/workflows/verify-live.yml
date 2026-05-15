@@ -94,7 +94,7 @@ jobs:
               });
             }
 
-      - name: Open per-slug Jules issues for auto-fixable cases
+      - name: Open per-slug agent issues for auto-fixable cases
         if: steps.verify.outputs.exit_code != '0'
         uses: actions/github-script@v7
         with:
@@ -131,10 +131,14 @@ jobs:
               }
             }
 
-            // Hard cap to stay under the Jules free-tier daily quota (15/day).
-            const CAP = 5;
-            const candidates = actionable.slice(0, CAP);
-            core.info(`Found ${actionable.length} auto-fixable entries; routing ${candidates.length} to Jules.`);
+            // Split between two free-tier agents to lift the daily ceiling.
+            // Jules free: 15 tasks/day. OpenHands free: 10 conversations/day.
+            // First N -> Jules (jules label); next M -> OpenHands (fix-me label).
+            // Each one routes to exactly one agent to prevent racing PRs.
+            const JULES_CAP = 5;
+            const OPENHANDS_CAP = 7;
+            const candidates = actionable.slice(0, JULES_CAP + OPENHANDS_CAP);
+            core.info(`Found ${actionable.length} auto-fixable entries; routing ${candidates.length} (Jules: up to ${JULES_CAP}, OpenHands: up to ${OPENHANDS_CAP}).`);
 
             // Idempotency: skip slugs that already have an open issue.
             const existingOpen = await github.paginate(github.rest.issues.listForRepo, {
@@ -145,12 +149,15 @@ jobs:
             });
             const existingTitles = new Set(existingOpen.map(i => i.title));
 
-            for (const c of candidates) {
+            for (let i = 0; i < candidates.length; i++) {
+              const c = candidates[i];
               const title = `Fix: ${c.slug}`;
               if (existingTitles.has(title)) {
                 core.info(`Skip ${c.slug} — already has an open issue.`);
                 continue;
               }
+              const agentLabel = i < JULES_CAP ? 'jules' : 'fix-me';
+              const agentName = i < JULES_CAP ? 'Jules' : 'OpenHands';
               const detailBlock = '```\n' + c.details.join('\n') + '\n```';
               const body = c.fix === 'url_swap'
                 ? [
@@ -164,6 +171,8 @@ jobs:
                     `\`${c.suggested}\``,
                     '',
                     `Also update the matching line in \`docs/categories/*.md\` if the URL is shown there. Follow \`AGENTS.md\`. Confirm with \`python scripts/verify_live.py --only ${c.slug}\`.`,
+                    '',
+                    `_Routed to ${agentName}._`,
                   ].join('\n')
                 : [
                     `**${c.name}** (\`${c.slug}\`) — domain is dead or parked. Remove the entry.`,
@@ -174,6 +183,8 @@ jobs:
                     `**Fix:** remove the \`${c.slug}\` entry from \`data/companies.yml\`, the matching \`docs/categories/*.md\` file, and decrement the per-category count in \`README.md\`.`,
                     '',
                     'Follow `AGENTS.md`. Confirm with `python scripts/validate.py`.',
+                    '',
+                    `_Routed to ${agentName}._`,
                   ].join('\n');
 
               await github.rest.issues.create({
@@ -181,7 +192,7 @@ jobs:
                 repo: context.repo.repo,
                 title,
                 body,
-                labels: ['jules', 'fix-entry'],
+                labels: [agentLabel, 'fix-entry'],
               });
-              core.info(`Opened: ${title}`);
+              core.info(`Opened: ${title} -> ${agentName}`);
             }

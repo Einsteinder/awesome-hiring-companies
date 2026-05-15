@@ -1,7 +1,15 @@
 # Agent Instructions
 
-This file is read by coding agents (Jules, Codex, and others that honor the
-`AGENTS.md` convention) when they work on this repository.
+This file is read by coding agents (Jules, OpenHands, Codex, and others that
+honor the `AGENTS.md` convention) when they work on this repository.
+
+Both Jules and OpenHands are wired up. Issues are routed automatically:
+
+- Issues labeled `jules` → handled by Jules (https://jules.google).
+- Issues labeled `fix-me` → handled by OpenHands (https://app.all-hands.dev).
+
+Only one agent owns a given issue. Do not pick up an issue assigned to the
+other agent.
 
 This repository is a curated Awesome list of hiring companies. The
 machine-readable source of truth is `data/companies.yml`; `README.md` and the
