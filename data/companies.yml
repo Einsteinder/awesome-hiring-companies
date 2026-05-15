@@ -11968,3 +11968,124 @@
   - b2b
   sources:
   - https://boards.greenhouse.io/candid
+
+- name: Vellum
+  slug: vellum
+  domain: vellum.ai
+  careers_url: https://jobs.ashbyhq.com/vellum
+  category: open-source-and-platform
+  ats:
+    ashby: vellum
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  sources:
+  - https://jobs.ashbyhq.com/vellum
+
+- name: Crusoe
+  slug: crusoe
+  domain: crusoe.com
+  careers_url: https://jobs.ashbyhq.com/crusoe
+  category: open-source-and-platform
+  ats:
+    ashby: crusoe
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/crusoe
+
+- name: Ajax
+  slug: ajax
+  domain: ajax.com
+  careers_url: https://jobs.lever.co/ajax
+  category: open-source-and-platform
+  ats:
+    lever: ajax
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/ajax
+
+- name: Applied
+  slug: applied
+  domain: applied.com
+  careers_url: https://jobs.ashbyhq.com/applied
+  category: open-source-and-platform
+  ats:
+    ashby: applied
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/applied
+
+- name: Coins
+  slug: coins
+  domain: coins.com
+  careers_url: https://jobs.lever.co/coins
+  category: open-source-and-platform
+  ats:
+    lever: coins
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/coins
+
+- name: Handshake
+  slug: handshake
+  domain: handshake.com
+  careers_url: https://jobs.ashbyhq.com/handshake
+  category: open-source-and-platform
+  ats:
+    ashby: handshake
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/handshake
+
+- name: Halter
+  slug: halter
+  domain: halter.com
+  careers_url: https://jobs.ashbyhq.com/halter
+  category: open-source-and-platform
+  ats:
+    ashby: halter
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/halter
+
+- name: Alan
+  slug: alan
+  domain: alan.com
+  careers_url: https://jobs.ashbyhq.com/alan
+  category: open-source-and-platform
+  ats:
+    ashby: alan
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/alan
+
+- name: Etched
+  slug: etched
+  domain: etched.com
+  careers_url: https://jobs.ashbyhq.com/etched
+  category: open-source-and-platform
+  ats:
+    ashby: etched
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/etched
+
+- name: Cursor
+  slug: cursor
+  domain: cursor.com
+  careers_url: https://jobs.ashbyhq.com/cursor
+  category: open-source-and-platform
+  ats:
+    ashby: cursor
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/cursor

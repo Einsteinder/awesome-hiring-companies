@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **830 companies**.
+Currently tracking **840 companies**.
 
 This repository is designed for two uses:
 
@@ -886,6 +886,16 @@ Open source video player (video.js)
 - [TesterArmy](https://tester.army) - Test your app with AI, catch bugs before users do
 - [Sphere Secure Workspace](https://sphere.works) - Hiring via Ashby (sphere).
 - [Candid](https://candid.com) - Hiring via Greenhouse (candid).
+- [Vellum](https://vellum.ai) - Hiring via Ashby (vellum).
+- [Crusoe](https://crusoe.com) - Hiring via Ashby (crusoe).
+- [Ajax](https://ajax.com) - Hiring via Lever (ajax).
+- [Applied](https://applied.com) - Hiring via Ashby (applied).
+- [Coins](https://coins.com) - Hiring via Lever (coins).
+- [Handshake](https://handshake.com) - Hiring via Ashby (handshake).
+- [Halter](https://halter.com) - Hiring via Ashby (halter).
+- [Alan](https://alan.com) - Hiring via Ashby (alan).
+- [Etched](https://etched.com) - Hiring via Ashby (etched).
+- [Cursor](https://cursor.com) - Hiring via Ashby (cursor).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
