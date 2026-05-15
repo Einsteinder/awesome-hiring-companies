@@ -17345,3 +17345,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/unstructured
+
+- name: Wheel
+  slug: wheel
+  domain: wheel.com
+  careers_url: https://jobs.ashbyhq.com/wheel
+  category: open-source-and-platform
+  ats:
+    ashby: wheel
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/wheel
+
+- name: Hook
+  slug: hook
+  domain: hook.com
+  careers_url: https://jobs.ashbyhq.com/hook
+  category: open-source-and-platform
+  ats:
+    ashby: hook
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/hook
+
+- name: Instil
+  slug: instil
+  domain: instil.com
+  careers_url: https://jobs.ashbyhq.com/instil
+  category: open-source-and-platform
+  ats:
+    ashby: instil
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/instil
+
+- name: Intro
+  slug: intro
+  domain: intro.com
+  careers_url: https://jobs.ashbyhq.com/intro
+  category: open-source-and-platform
+  ats:
+    ashby: intro
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/intro
+
+- name: Irregular
+  slug: irregular
+  domain: irregular.com
+  careers_url: https://jobs.ashbyhq.com/irregular
+  category: open-source-and-platform
+  ats:
+    ashby: irregular
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/irregular
+
+- name: Marble
+  slug: marble
+  domain: marble.com
+  careers_url: https://jobs.ashbyhq.com/marble
+  category: open-source-and-platform
+  ats:
+    ashby: marble
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/marble
+
+- name: Midstream
+  slug: midstream
+  domain: midstream.com
+  careers_url: https://jobs.ashbyhq.com/midstream
+  category: open-source-and-platform
+  ats:
+    ashby: midstream
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/midstream
+
+- name: Modulate
+  slug: modulate
+  domain: modulate.com
+  careers_url: https://jobs.lever.co/modulate
+  category: open-source-and-platform
+  ats:
+    lever: modulate
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/modulate
+
+- name: Monaco
+  slug: monaco
+  domain: monaco.com
+  careers_url: https://jobs.ashbyhq.com/monaco
+  category: open-source-and-platform
+  ats:
+    ashby: monaco
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/monaco
+
+- name: Objection
+  slug: objection
+  domain: objection.com
+  careers_url: https://jobs.ashbyhq.com/objection
+  category: open-source-and-platform
+  ats:
+    ashby: objection
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/objection

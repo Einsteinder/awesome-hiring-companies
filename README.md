@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1278 companies**.
+Currently tracking **1288 companies**.
 
 This repository is designed for two uses:
 
@@ -1334,6 +1334,16 @@ Open source video player (video.js)
 - [Trenchant](https://trenchant.com) - Hiring via Ashby (trenchant).
 - [Twelve](https://twelve.com) - Hiring via Ashby (twelve).
 - [Unstructured](https://unstructured.com) - Hiring via Ashby (unstructured).
+- [Wheel](https://wheel.com) - Hiring via Ashby (wheel).
+- [Hook](https://hook.com) - Hiring via Ashby (hook).
+- [Instil](https://instil.com) - Hiring via Ashby (instil).
+- [Intro](https://intro.com) - Hiring via Ashby (intro).
+- [Irregular](https://irregular.com) - Hiring via Ashby (irregular).
+- [Marble](https://marble.com) - Hiring via Ashby (marble).
+- [Midstream](https://midstream.com) - Hiring via Ashby (midstream).
+- [Modulate](https://modulate.com) - Hiring via Lever (modulate).
+- [Monaco](https://monaco.com) - Hiring via Ashby (monaco).
+- [Objection](https://objection.com) - Hiring via Ashby (objection).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
