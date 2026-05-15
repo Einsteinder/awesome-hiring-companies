@@ -7363,3 +7363,151 @@
   - fintech-credit-and-lending
   sources:
   - https://jobs.lever.co/zippi
+
+- name: General Proximity
+  slug: general-proximity
+  domain: generalproximity.bio
+  careers_url: https://boards.greenhouse.io/generalproximity
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: generalproximity
+  tags:
+  - healthcare
+  - healthcare-drug-discovery-and-delivery
+  - biotech
+  - drug-discovery
+  sources:
+  - https://boards.greenhouse.io/generalproximity
+
+- name: Cortex
+  slug: cortex
+  domain: cortex.io
+  careers_url: https://boards.greenhouse.io/cortex
+  category: developer-infrastructure
+  ats:
+    greenhouse: cortex
+  tags:
+  - b2b
+  - b2b-infrastructure
+  - developer-tools
+  - saas
+  sources:
+  - https://boards.greenhouse.io/cortex
+
+- name: Trident Bioscience
+  slug: trident-bioscience
+  domain: trident.bio
+  careers_url: https://boards.greenhouse.io/trident
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: trident
+  tags:
+  - healthcare
+  - healthcare-drug-discovery-and-delivery
+  - hard-tech
+  - machine-learning
+  sources:
+  - https://boards.greenhouse.io/trident
+
+- name: Tajir
+  slug: tajir
+  domain: tajir.app
+  careers_url: https://jobs.ashbyhq.com/tajir
+  category: consumer-and-marketplace
+  ats:
+    ashby: tajir
+  tags:
+  - b2b
+  - b2b-retail
+  - marketplace
+  sources:
+  - https://jobs.ashbyhq.com/tajir
+
+- name: Skio
+  slug: skio
+  domain: skio.com
+  careers_url: https://jobs.lever.co/skio
+  category: consumer-and-marketplace
+  ats:
+    lever: skio
+  tags:
+  - b2b
+  - b2b-marketing
+  - fintech
+  - e-commerce
+  sources:
+  - https://jobs.lever.co/skio
+
+- name: Finch
+  slug: finch
+  domain: tryfinch.com
+  careers_url: https://jobs.lever.co/finch
+  category: developer-infrastructure
+  ats:
+    lever: finch
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - fintech
+  - hr-tech
+  sources:
+  - https://jobs.lever.co/finch
+
+- name: Mach9
+  slug: mach9
+  domain: mach9.ai
+  careers_url: https://jobs.ashbyhq.com/mach9
+  category: ai-and-data
+  ats:
+    ashby: mach9
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - artificial-intelligence
+  - machine-learning
+  sources:
+  - https://jobs.ashbyhq.com/mach9
+
+- name: Zuma
+  slug: zuma
+  domain: getzuma.com
+  careers_url: https://jobs.lever.co/getzuma
+  category: ai-and-data
+  ats:
+    lever: getzuma
+  tags:
+  - b2b
+  - proptech
+  - ai
+  sources:
+  - https://jobs.lever.co/getzuma
+
+- name: Beam
+  slug: beam
+  domain: beam.cloud
+  careers_url: https://boards.greenhouse.io/beam
+  category: developer-infrastructure
+  ats:
+    greenhouse: beam
+  tags:
+  - b2b
+  - b2b-infrastructure
+  - artificial-intelligence
+  - developer-tools
+  sources:
+  - https://boards.greenhouse.io/beam
+
+- name: LanceDB
+  slug: lancedb
+  domain: lancedb.com
+  careers_url: https://jobs.ashbyhq.com/lancedb
+  category: ai-and-data
+  ats:
+    ashby: lancedb
+  tags:
+  - b2b
+  - b2b-infrastructure
+  - aiops
+  - machine-learning
+  sources:
+  - https://jobs.ashbyhq.com/lancedb

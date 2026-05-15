@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **510 companies**.
+Currently tracking **520 companies**.
 
 This repository is designed for two uses:
 
@@ -565,6 +565,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [GoLinks](https://golinks.io) - Intuitive, easy-to-remember short links - powered by AI.
 - [Bunkerhill Health](https://bunkerhillhealth.com) - Bunkerhill Health is building the system of action for health systems
 - [Zippi](https://zippi.com.br) - Payment Platform for LatAm Micro and Small Businesses
+- [General Proximity](https://generalproximity.bio) - The next generation of induced-proximity medicines.
+- [Cortex](https://cortex.io) - Cortex is the Internal Developer Portal eliminating “developer tax”…
+- [Trident Bioscience](https://trident.bio) - Accelerating protein engineering.
+- [Tajir](https://tajir.app) - The one-stop shop for mom-and-pop stores in Pakistan to buy inventory.
+- [Skio](https://skio.com) - Subscriptions for Shopify
+- [Finch](https://tryfinch.com) - Finch is the Employment Data Platform
+- [Mach9](https://mach9.ai) - AI-native CAD software for civil engineering
+- [Zuma](https://getzuma.com) - We help businesses convert leads into sales in minutes using text
+- [Beam](https://beam.cloud) - AI-Native Cloud Platform
+- [LanceDB](https://lancedb.com) - Open-source, serverless vectordb for production-scale generative AI
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
