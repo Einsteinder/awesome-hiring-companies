@@ -11831,3 +11831,140 @@
   - b2b-engineering-product-and-design
   sources:
   - https://jobs.ashbyhq.com/bootloop
+
+- name: Minimal AI
+  slug: minimal-ai
+  domain: gominimal.ai
+  careers_url: https://boards.greenhouse.io/minimal
+  category: ai-and-data
+  ats:
+    greenhouse: minimal
+  tags:
+  - b2b
+  sources:
+  - https://boards.greenhouse.io/minimal
+
+- name: MangoDesk
+  slug: mangodesk
+  domain: mangodesk.com
+  careers_url: https://jobs.ashbyhq.com/mangodesk
+  category: ai-and-data
+  ats:
+    ashby: mangodesk
+  tags:
+  - b2b
+  - artificial-intelligence
+  sources:
+  - https://jobs.ashbyhq.com/mangodesk
+
+- name: Foresight
+  slug: foresight
+  domain: foresight.tt
+  careers_url: https://jobs.ashbyhq.com/foresight
+  category: ai-and-data
+  ats:
+    ashby: foresight
+  tags:
+  - b2b
+  - b2b-analytics
+  - artificial-intelligence
+  - consumer
+  sources:
+  - https://jobs.ashbyhq.com/foresight
+
+- name: KERNEL
+  slug: kernel
+  domain: kernel.sh
+  careers_url: https://jobs.ashbyhq.com/kernel
+  category: developer-infrastructure
+  ats:
+    ashby: kernel
+  tags:
+  - b2b
+  - b2b-infrastructure
+  - developer-tools
+  - cloud-computing
+  sources:
+  - https://jobs.ashbyhq.com/kernel
+
+- name: Hyperspell
+  slug: hyperspell
+  domain: hyperspell.com
+  careers_url: https://jobs.ashbyhq.com/hyperspell
+  category: ai-and-data
+  ats:
+    ashby: hyperspell
+  tags:
+  - b2b
+  - b2b-infrastructure
+  - artificial-intelligence
+  - machine-learning
+  sources:
+  - https://jobs.ashbyhq.com/hyperspell
+
+- name: General Legal
+  slug: general-legal
+  domain: general.legal
+  careers_url: https://boards.greenhouse.io/general
+  category: ai-and-data
+  ats:
+    greenhouse: general
+  tags:
+  - b2b
+  - b2b-legal
+  sources:
+  - https://boards.greenhouse.io/general
+
+- name: Archer
+  slug: archer
+  domain: archermoney.com
+  careers_url: https://boards.greenhouse.io/archer
+  category: fintech
+  ats:
+    greenhouse: archer
+  tags:
+  - b2b
+  - b2b-finance-and-accounting
+  - crypto-web3
+  - finance
+  sources:
+  - https://boards.greenhouse.io/archer
+
+- name: TesterArmy
+  slug: testerarmy
+  domain: tester.army
+  careers_url: https://boards.greenhouse.io/tester
+  category: ai-and-data
+  ats:
+    greenhouse: tester
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - ai
+  sources:
+  - https://boards.greenhouse.io/tester
+
+- name: Sphere Secure Workspace
+  slug: sphere-secure-workspace
+  domain: sphere.works
+  careers_url: https://jobs.ashbyhq.com/sphere
+  category: developer-infrastructure
+  ats:
+    ashby: sphere
+  tags:
+  - b2b
+  - b2b-security
+  sources:
+  - https://jobs.ashbyhq.com/sphere
+
+- name: Candid
+  slug: candid
+  domain: candid.com
+  careers_url: https://boards.greenhouse.io/candid
+  category: open-source-and-platform
+  ats:
+    greenhouse: candid
+  tags:
+  - b2b
+  sources:
+  - https://boards.greenhouse.io/candid

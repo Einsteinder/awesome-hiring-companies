@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **820 companies**.
+Currently tracking **830 companies**.
 
 This repository is designed for two uses:
 
@@ -876,6 +876,16 @@ Open source video player (video.js)
 - [AthenaHQ](https://athenahq.ai) - Be the Answer in AI Search - AI SEO across SEO, GEO & AEO
 - [Ambral](https://ambral.com) - AI for account management and customer success
 - [BootLoop](https://bootloop.ai) - Firmware in minutes, not months - rigorously tested on real hardware
+- [Minimal AI](https://gominimal.ai) - AI Agents for E-commerce Customer Support
+- [MangoDesk](https://mangodesk.com) - RL environments for software engineering
+- [Foresight](https://foresight.tt) - On-demand consumer insights
+- [KERNEL](https://kernel.sh) - Crazy fast, open source infra for AI agents to use the Internet
+- [Hyperspell](https://hyperspell.com) - Memory for AI Agents
+- [General Legal](https://general.legal) - The AI native law firm for growth stage companies
+- [Archer](https://archermoney.com) - Reward. Anything.
+- [TesterArmy](https://tester.army) - Test your app with AI, catch bugs before users do
+- [Sphere Secure Workspace](https://sphere.works) - Hiring via Ashby (sphere).
+- [Candid](https://candid.com) - Hiring via Greenhouse (candid).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
