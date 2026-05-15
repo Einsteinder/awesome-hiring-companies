@@ -6493,3 +6493,147 @@
   - saas
   sources:
   - https://jobs.ashbyhq.com/uplane
+
+- name: Sazabi
+  slug: sazabi
+  domain: sazabi.com
+  careers_url: https://jobs.ashbyhq.com/sazabi
+  category: developer-infrastructure
+  ats:
+    ashby: sazabi
+  tags:
+  - b2b
+  - b2b-infrastructure
+  - developer-tools
+  sources:
+  - https://jobs.ashbyhq.com/sazabi
+
+- name: CircuitHub
+  slug: circuithub
+  domain: circuithub.com
+  careers_url: https://jobs.ashbyhq.com/circuithub
+  category: open-source-and-platform
+  ats:
+    ashby: circuithub
+  tags:
+  - industrials
+  - industrials-manufacturing-and-robotics
+  - hard-tech
+  - hardware
+  sources:
+  - https://jobs.ashbyhq.com/circuithub
+
+- name: Y Combinator
+  slug: y-combinator
+  domain: ycombinator.com
+  careers_url: https://jobs.ashbyhq.com/ycombinator
+  category: fintech
+  ats:
+    ashby: ycombinator
+  tags:
+  - fintech
+  sources:
+  - https://jobs.ashbyhq.com/ycombinator
+
+- name: Sift
+  slug: sift
+  domain: sift.com
+  careers_url: https://jobs.ashbyhq.com/sift
+  category: developer-infrastructure
+  ats:
+    ashby: sift
+  tags:
+  - b2b
+  - b2b-security
+  - fintech
+  - machine-learning
+  sources:
+  - https://jobs.ashbyhq.com/sift
+
+- name: SmartAsset
+  slug: smartasset
+  domain: smartasset.com
+  careers_url: https://boards.greenhouse.io/smartasset
+  category: fintech
+  ats:
+    greenhouse: smartasset
+  tags:
+  - fintech
+  - fintech-consumer-finance
+  - marketplace
+  sources:
+  - https://boards.greenhouse.io/smartasset
+
+- name: Snapdocs
+  slug: snapdocs
+  domain: snapdocs.com
+  careers_url: https://jobs.ashbyhq.com/snapdocs
+  category: consumer-and-marketplace
+  ats:
+    ashby: snapdocs
+  tags:
+  - real-estate-and-construction
+  - saas
+  - b2b
+  - housing
+  sources:
+  - https://jobs.ashbyhq.com/snapdocs
+
+- name: Permutive
+  slug: permutive
+  domain: permutive.com
+  careers_url: https://jobs.ashbyhq.com/permutive
+  category: ai-and-data
+  ats:
+    ashby: permutive
+  tags:
+  - b2b
+  - b2b-marketing
+  - privacy
+  - advertising
+  sources:
+  - https://jobs.ashbyhq.com/permutive
+
+- name: CareMessage
+  slug: caremessage
+  domain: caremessage.org
+  careers_url: https://jobs.lever.co/caremessage
+  category: consumer-and-marketplace
+  ats:
+    lever: caremessage
+  tags:
+  - healthcare
+  - health-tech
+  - digital-health
+  sources:
+  - https://jobs.lever.co/caremessage
+
+- name: People.ai
+  slug: people-ai
+  domain: people.ai
+  careers_url: https://jobs.lever.co/people-ai
+  category: ai-and-data
+  ats:
+    lever: people-ai
+  tags:
+  - b2b
+  - b2b-sales
+  - artificial-intelligence
+  - saas
+  sources:
+  - https://jobs.lever.co/people-ai
+
+- name: Mytos
+  slug: mytos
+  domain: mytos.bio
+  careers_url: https://jobs.lever.co/mytos
+  category: consumer-and-marketplace
+  ats:
+    lever: mytos
+  tags:
+  - healthcare
+  - healthcare-industrial-bio
+  - hardware
+  - iot
+  sources:
+  - https://jobs.lever.co/mytos

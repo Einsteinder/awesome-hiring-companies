@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **450 companies**.
+Currently tracking **460 companies**.
 
 This repository is designed for two uses:
 
@@ -505,6 +505,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [Revi](https://revi.ai) - AI-enabled M&A deal origination
 - [burnt](https://getburnt.ai) - Agentic Operating System for Food Supply Chain
 - [Uplane](https://uplane.com) - Replace marketing agencies with AI
+- [Sazabi](https://sazabi.com) - The AI-native observability platform for fast-moving engineering teams
+- [CircuitHub](https://circuithub.com) - On-Demand Electronics Manufacturing
+- [Y Combinator](https://ycombinator.com) - Make something people want.
+- [Sift](https://sift.com) - The Leader in Digital Trust & Safety
+- [SmartAsset](https://smartasset.com) - Marketplace connecting consumers to financial advisors
+- [Snapdocs](https://snapdocs.com) - digital mortgage closing
+- [Permutive](https://permutive.com) - Rebuilding data in advertising to protect privacy
+- [CareMessage](https://caremessage.org) - Patient engagement for low-income populations
+- [People.ai](https://people.ai) - Harnesses business activity to unlock growth.
+- [Mytos](https://mytos.bio) - Robotic human cell manufacturing
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
