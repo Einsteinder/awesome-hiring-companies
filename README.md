@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **390 companies**.
+Currently tracking **400 companies**.
 
 This repository is designed for two uses:
 
@@ -445,6 +445,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [The Athletic](https://theathletic.com) - Subscription sports media.
 - [Momentus](https://momentus.space) - The space infrastructure services company
 - [Duffel](https://duffel.com) - The complete toolkit to sell travel.
+- [Dyneti Technologies](https://dyneti.com) - Reduce payment fraud
+- [Freshpaint](https://freshpaint.io) - Customer data collection, safeguarding, & activation for healthcare
+- [Airbyte](https://airbyte.com) - Context layer for production-grade AI agents
+- [Atomic](https://atomicvest.com) - API that lets companies embed investment accounts into their services
+- [Notabene](https://notabene.id) - The Notabene platform is the trust layer for global money movement.
+- [CarbonChain](https://carbonchain.com) - We help companies automate the accounting of their carbon emissions
+- [Formal](https://joinformal.com) - Take control of your data in real-time.
+- [Albedo](https://albedo.com) - Full-stack VLEO satellite missions
+- [SpruceID](https://spruceid.com) - SpruceID lets users control their data across the web.
+- [Anima](https://animahealth.com) - The next generation care enablement platform
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

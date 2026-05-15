@@ -5620,3 +5620,150 @@
   - airplanes
   sources:
   - https://jobs.ashbyhq.com/duffel
+
+- name: Dyneti Technologies
+  slug: dyneti-technologies
+  domain: dyneti.com
+  careers_url: https://jobs.ashbyhq.com/dyneti
+  category: fintech
+  ats:
+    ashby: dyneti
+  tags:
+  - b2b
+  - b2b-security
+  - payments
+  - security
+  sources:
+  - https://jobs.ashbyhq.com/dyneti
+
+- name: Freshpaint
+  slug: freshpaint
+  domain: freshpaint.io
+  careers_url: https://jobs.ashbyhq.com/freshpaint
+  category: developer-infrastructure
+  ats:
+    ashby: freshpaint
+  tags:
+  - b2b
+  - b2b-infrastructure
+  - developer-tools
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/freshpaint
+
+- name: Airbyte
+  slug: airbyte
+  domain: airbyte.com
+  careers_url: https://jobs.ashbyhq.com/airbyte
+  category: ai-and-data
+  ats:
+    ashby: airbyte
+  tags:
+  - b2b
+  - artificial-intelligence
+  - developer-tools
+  - open-source
+  sources:
+  - https://jobs.ashbyhq.com/airbyte
+
+- name: Atomic
+  slug: atomic
+  domain: atomicvest.com
+  careers_url: https://jobs.ashbyhq.com/atomic
+  category: ai-and-data
+  ats:
+    ashby: atomic
+  tags:
+  - b2b
+  - b2b-retail
+  - artificial-intelligence
+  - fintech
+  sources:
+  - https://jobs.ashbyhq.com/atomic
+
+- name: Notabene
+  slug: notabene
+  domain: notabene.id
+  careers_url: https://jobs.ashbyhq.com/notabene
+  category: fintech
+  ats:
+    ashby: notabene
+  tags:
+  - b2b
+  - b2b-security
+  - fintech
+  - crypto-web3
+  sources:
+  - https://jobs.ashbyhq.com/notabene
+
+- name: CarbonChain
+  slug: carbonchain
+  domain: carbonchain.com
+  careers_url: https://boards.greenhouse.io/carbonchain
+  category: fintech
+  ats:
+    greenhouse: carbonchain
+  tags:
+  - industrials
+  - industrials-climate
+  - climate
+  sources:
+  - https://boards.greenhouse.io/carbonchain
+
+- name: Formal
+  slug: formal
+  domain: joinformal.com
+  careers_url: https://jobs.ashbyhq.com/formal
+  category: ai-and-data
+  ats:
+    ashby: formal
+  tags:
+  - b2b
+  - cybersecurity
+  sources:
+  - https://jobs.ashbyhq.com/formal
+
+- name: Albedo
+  slug: albedo
+  domain: albedo.com
+  careers_url: https://boards.greenhouse.io/albedo
+  category: open-source-and-platform
+  ats:
+    greenhouse: albedo
+  tags:
+  - industrials
+  - industrials-aviation-and-space
+  - hard-tech
+  - satellites
+  sources:
+  - https://boards.greenhouse.io/albedo
+
+- name: SpruceID
+  slug: spruceid
+  domain: spruceid.com
+  careers_url: https://jobs.ashbyhq.com/spruceid
+  category: developer-infrastructure
+  ats:
+    ashby: spruceid
+  tags:
+  - government
+  - govtech
+  - crypto-web3
+  - identity
+  sources:
+  - https://jobs.ashbyhq.com/spruceid
+
+- name: Anima
+  slug: anima
+  domain: animahealth.com
+  careers_url: https://jobs.ashbyhq.com/anima
+  category: consumer-and-marketplace
+  ats:
+    ashby: anima
+  tags:
+  - healthcare
+  - deep-learning
+  - saas
+  - consumer-health-services
+  sources:
+  - https://jobs.ashbyhq.com/anima
