@@ -23993,3 +23993,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/gptzero
+
+- name: Syndica
+  slug: syndica
+  domain: syndica.com
+  careers_url: https://jobs.ashbyhq.com/syndica
+  category: open-source-and-platform
+  ats:
+    ashby: syndica
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/syndica
+
+- name: Polygon Labs
+  slug: polygon-labs
+  domain: polygonlabs.com
+  careers_url: https://jobs.ashbyhq.com/polygon-labs
+  category: open-source-and-platform
+  ats:
+    ashby: polygon-labs
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/polygon-labs
+
+- name: Immersivelabs
+  slug: immersivelabs
+  domain: immersivelabs.com
+  careers_url: https://jobs.ashbyhq.com/immersivelabs
+  category: open-source-and-platform
+  ats:
+    ashby: immersivelabs
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/immersivelabs
+
+- name: Doctronic
+  slug: doctronic
+  domain: doctronic.com
+  careers_url: https://jobs.ashbyhq.com/doctronic
+  category: open-source-and-platform
+  ats:
+    ashby: doctronic
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/doctronic
+
+- name: Playlab
+  slug: playlab
+  domain: playlab.com
+  careers_url: https://jobs.ashbyhq.com/playlab
+  category: open-source-and-platform
+  ats:
+    ashby: playlab
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/playlab
+
+- name: Cryptio
+  slug: cryptio
+  domain: cryptio.com
+  careers_url: https://jobs.ashbyhq.com/cryptio
+  category: open-source-and-platform
+  ats:
+    ashby: cryptio
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/cryptio
+
+- name: Anyscale
+  slug: anyscale
+  domain: anyscale.com
+  careers_url: https://jobs.ashbyhq.com/anyscale
+  category: open-source-and-platform
+  ats:
+    ashby: anyscale
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/anyscale
+
+- name: Nerdwallet
+  slug: nerdwallet
+  domain: nerdwallet.com
+  careers_url: https://jobs.ashbyhq.com/nerdwallet
+  category: open-source-and-platform
+  ats:
+    ashby: nerdwallet
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/nerdwallet
+
+- name: Meili
+  slug: meili
+  domain: meili.com
+  careers_url: https://jobs.lever.co/meili
+  category: open-source-and-platform
+  ats:
+    lever: meili
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/meili
+
+- name: Reklamehealth
+  slug: reklamehealth
+  domain: reklamehealth.com
+  careers_url: https://jobs.ashbyhq.com/reklamehealth
+  category: open-source-and-platform
+  ats:
+    ashby: reklamehealth
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/reklamehealth

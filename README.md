@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1832 companies**.
+Currently tracking **1842 companies**.
 
 This repository is designed for two uses:
 
@@ -1888,6 +1888,16 @@ Open source video player (video.js)
 - [Loancrate](https://loancrate.com) - Hiring via Ashby (loancrate).
 - [Apollo Information Systems](https://apolloinformationsystems.com) - Hiring via Ashby (apollo-information-systems).
 - [Gptzero](https://gptzero.com) - Hiring via Ashby (gptzero).
+- [Syndica](https://syndica.com) - Hiring via Ashby (syndica).
+- [Polygon Labs](https://polygonlabs.com) - Hiring via Ashby (polygon-labs).
+- [Immersivelabs](https://immersivelabs.com) - Hiring via Ashby (immersivelabs).
+- [Doctronic](https://doctronic.com) - Hiring via Ashby (doctronic).
+- [Playlab](https://playlab.com) - Hiring via Ashby (playlab).
+- [Cryptio](https://cryptio.com) - Hiring via Ashby (cryptio).
+- [Anyscale](https://anyscale.com) - Hiring via Ashby (anyscale).
+- [Nerdwallet](https://nerdwallet.com) - Hiring via Ashby (nerdwallet).
+- [Meili](https://meili.com) - Hiring via Lever (meili).
+- [Reklamehealth](https://reklamehealth.com) - Hiring via Ashby (reklamehealth).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
