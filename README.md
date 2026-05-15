@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **130 companies**.
+Currently tracking **140 companies**.
 
 This repository is designed for two uses:
 
@@ -185,6 +185,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [MarqVision](https://marqvision.com) - IP operating software for brands and content companies
 - [GOAT Group](https://goatgroup.com) - Platform for the greatest products from the past, present and future.
 - [Mixpanel](https://mixpanel.com) - Mixpanel is event analytics for builders that need answers.
+- [Multiverse](https://playmultiverse.com) - Multiverse is a web-based game creation system inspired by Dungeons &…
+- [Fieldguide](https://fieldguide.io) - Vertical AI for Audit & Advisory Firms
+- [Canary Technologies](https://canarytechnologies.com) - Modernizing the hospitality tech stack.
+- [Camp](https://nouns.camp) - A Nouns DAO governance client
+- [Tailor](https://tailor.tech) - Headless ERP for retail operations
+- [Astro Mechanica](https://astromecha.co) - Supersonics for the new Jet Age
+- [Webflow](https://webflow.com) - Professional website design and publishing platform.
+- [Silver](https://scansilver.com) - Low cost consumer device for toxin detection.
+- [CaptivateIQ](https://captivateiq.com) - Agile commission software to design, deploy & adapt commission plans.
+- [Nabis](https://nabis.com) - Nabis is the largest licensed cannabis wholesale platform.
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

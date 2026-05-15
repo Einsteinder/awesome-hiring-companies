@@ -1856,3 +1856,148 @@
   - data-visualization
   sources:
   - https://boards.greenhouse.io/mixpanel
+
+- name: Multiverse
+  slug: multiverse
+  domain: playmultiverse.com
+  careers_url: https://jobs.ashbyhq.com/multiverse
+  category: consumer-and-marketplace
+  ats:
+    ashby: multiverse
+  tags:
+  - consumer
+  - consumer-gaming
+  - gaming
+  sources:
+  - https://jobs.ashbyhq.com/multiverse
+
+- name: Fieldguide
+  slug: fieldguide
+  domain: fieldguide.io
+  careers_url: https://jobs.ashbyhq.com/fieldguide
+  category: ai-and-data
+  ats:
+    ashby: fieldguide
+  tags:
+  - b2b
+  - b2b-productivity
+  - artificial-intelligence
+  - workflow-automation
+  sources:
+  - https://jobs.ashbyhq.com/fieldguide
+
+- name: Canary Technologies
+  slug: canary-technologies
+  domain: canarytechnologies.com
+  careers_url: https://jobs.lever.co/canarytechnologies
+  category: developer-infrastructure
+  ats:
+    lever: canarytechnologies
+  tags:
+  - b2b
+  - b2b-operations
+  - saas
+  sources:
+  - https://jobs.lever.co/canarytechnologies
+
+- name: Camp
+  slug: camp
+  domain: nouns.camp
+  careers_url: https://boards.greenhouse.io/camp
+  category: developer-infrastructure
+  ats:
+    greenhouse: camp
+  tags:
+  - consumer
+  - govtech
+  - crypto-web3
+  - infrastructure
+  sources:
+  - https://boards.greenhouse.io/camp
+
+- name: Tailor
+  slug: tailor
+  domain: tailor.tech
+  careers_url: https://jobs.ashbyhq.com/tailor
+  category: developer-infrastructure
+  ats:
+    ashby: tailor
+  tags:
+  - b2b
+  - developer-tools
+  - saas
+  - api
+  sources:
+  - https://jobs.ashbyhq.com/tailor
+
+- name: Astro Mechanica
+  slug: astro-mechanica
+  domain: astromecha.co
+  careers_url: https://jobs.ashbyhq.com/astro-mechanica
+  category: open-source-and-platform
+  ats:
+    ashby: astro-mechanica
+  tags:
+  - industrials
+  - industrials-aviation-and-space
+  sources:
+  - https://jobs.ashbyhq.com/astro-mechanica
+
+- name: Webflow
+  slug: webflow
+  domain: webflow.com
+  careers_url: https://boards.greenhouse.io/webflow
+  category: developer-infrastructure
+  ats:
+    greenhouse: webflow
+  tags:
+  - b2b
+  - b2b-marketing
+  - saas
+  - design
+  sources:
+  - https://boards.greenhouse.io/webflow
+
+- name: Silver
+  slug: silver
+  domain: scansilver.com
+  careers_url: https://jobs.ashbyhq.com/silver
+  category: consumer-and-marketplace
+  ats:
+    ashby: silver
+  tags:
+  - consumer
+  - consumer-consumer-electronics
+  - hard-tech
+  - diagnostics
+  sources:
+  - https://jobs.ashbyhq.com/silver
+
+- name: CaptivateIQ
+  slug: captivateiq
+  domain: captivateiq.com
+  careers_url: https://jobs.lever.co/captivateiq
+  category: fintech
+  ats:
+    lever: captivateiq
+  tags:
+  - b2b
+  - b2b-finance-and-accounting
+  - saas
+  sources:
+  - https://jobs.lever.co/captivateiq
+
+- name: Nabis
+  slug: nabis
+  domain: nabis.com
+  careers_url: https://boards.greenhouse.io/nabis
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: nabis
+  tags:
+  - b2b
+  - b2b-supply-chain-and-logistics
+  - fintech
+  - marketplace
+  sources:
+  - https://boards.greenhouse.io/nabis
