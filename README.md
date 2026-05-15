@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **190 companies**.
+Currently tracking **200 companies**.
 
 This repository is designed for two uses:
 
@@ -245,6 +245,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [Onebrief](https://onebrief.com) - Onebrief makes military headquarters run seamlessly
 - [Sully.ai](https://sully.ai) - Autonomous team of AI agents that runs the entire hospital operations
 - [Juicebox](https://juicebox.ai) - AI-powered talent sourcing for recruiters
+- [Truebill](https://truebill.com) - Live your best financial life
+- [Miso](https://miso.kr) - We make booking services as easy as buying products online.
+- [Skyways](https://skyways.com) - Creating a new form of air transportation to advance our civilization
+- [Playground](https://playground.com) - Make graphics like a Pro without being one
+- [Prompt](https://getprompt.app) - Helping busy professionals understand and maintain their relationships
+- [Abacum](https://abacum.ai) - The AI-native FP&A platform that helps Finance teams drive business…
+- [Momentic](https://momentic.ai) - The AI-native automated testing platform
+- [Xendit](https://xendit.co) - Provides payment infrastructure for Southeast Asia
+- [Camber](https://camber.health) - Admin automation for healthcare
+- [Parallel Bio](https://parallel.bio) - Using the immune system to cure disease
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

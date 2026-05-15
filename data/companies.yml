@@ -2731,3 +2731,149 @@
   - generative-ai
   sources:
   - https://jobs.ashbyhq.com/juicebox
+
+- name: Truebill
+  slug: truebill
+  domain: truebill.com
+  careers_url: https://boards.greenhouse.io/truebill
+  category: fintech
+  ats:
+    greenhouse: truebill
+  tags:
+  - fintech
+  - fintech-consumer-finance
+  sources:
+  - https://boards.greenhouse.io/truebill
+
+- name: Miso
+  slug: miso
+  domain: miso.kr
+  careers_url: https://jobs.ashbyhq.com/miso
+  category: ai-and-data
+  ats:
+    ashby: miso
+  tags:
+  - consumer
+  - consumer-home-and-personal
+  - artificial-intelligence
+  - marketplace
+  sources:
+  - https://jobs.ashbyhq.com/miso
+
+- name: Skyways
+  slug: skyways
+  domain: skyways.com
+  careers_url: https://jobs.lever.co/skyways
+  category: ai-and-data
+  ats:
+    lever: skyways
+  tags:
+  - industrials
+  - industrials-drones
+  - air-taxis
+  - robotics
+  sources:
+  - https://jobs.lever.co/skyways
+
+- name: Playground
+  slug: playground
+  domain: playground.com
+  careers_url: https://jobs.ashbyhq.com/playground
+  category: ai-and-data
+  ats:
+    ashby: playground
+  tags:
+  - consumer
+  - consumer-home-and-personal
+  - artificial-intelligence
+  - generative-ai
+  sources:
+  - https://jobs.ashbyhq.com/playground
+
+- name: Prompt
+  slug: prompt
+  domain: getprompt.app
+  careers_url: https://jobs.ashbyhq.com/prompt
+  category: developer-infrastructure
+  ats:
+    ashby: prompt
+  tags:
+  - b2b
+  - b2b-infrastructure
+  - crm
+  sources:
+  - https://jobs.ashbyhq.com/prompt
+
+- name: Abacum
+  slug: abacum
+  domain: abacum.ai
+  careers_url: https://jobs.ashbyhq.com/abacum
+  category: fintech
+  ats:
+    ashby: abacum
+  tags:
+  - b2b
+  - b2b-finance-and-accounting
+  - finops
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/abacum
+
+- name: Momentic
+  slug: momentic
+  domain: momentic.ai
+  careers_url: https://boards.greenhouse.io/momentic
+  category: ai-and-data
+  ats:
+    greenhouse: momentic
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - developer-tools
+  - enterprise-software
+  sources:
+  - https://boards.greenhouse.io/momentic
+
+- name: Xendit
+  slug: xendit
+  domain: xendit.co
+  careers_url: https://boards.greenhouse.io/xendit
+  category: fintech
+  ats:
+    greenhouse: xendit
+  tags:
+  - fintech
+  - fintech-payments
+  - payments
+  sources:
+  - https://boards.greenhouse.io/xendit
+
+- name: Camber
+  slug: camber
+  domain: camber.health
+  careers_url: https://jobs.ashbyhq.com/camber
+  category: consumer-and-marketplace
+  ats:
+    ashby: camber
+  tags:
+  - healthcare
+  - healthcare-healthcare-it
+  - mental-health-tech
+  - health-tech
+  sources:
+  - https://jobs.ashbyhq.com/camber
+
+- name: Parallel Bio
+  slug: parallel-bio
+  domain: parallel.bio
+  careers_url: https://jobs.ashbyhq.com/parallel
+  category: consumer-and-marketplace
+  ats:
+    ashby: parallel
+  tags:
+  - healthcare
+  - healthcare-drug-discovery-and-delivery
+  - ai-powered-drug-discovery
+  - biotech
+  sources:
+  - https://jobs.ashbyhq.com/parallel
