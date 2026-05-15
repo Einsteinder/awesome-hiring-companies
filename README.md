@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1720 companies**.
+Currently tracking **1730 companies**.
 
 This repository is designed for two uses:
 
@@ -1776,6 +1776,16 @@ Open source video player (video.js)
 - [Pallet](https://pallet.com) - Hiring via Greenhouse (pallet).
 - [Rocket Lab Corporation](https://rocketlabcorporation.com) - Hiring via Greenhouse (rocketlab).
 - [Sidecar Health](https://sidecarhealth.com) - Hiring via Greenhouse (sidecarhealth).
+- [Simplify Jobs Integration Sandbox](https://simplifyjobsintegrationsandbox.com) - Hiring via Greenhouse (simplifyjobsintegrationsandbox).
+- [Axios](https://axios.com) - Hiring via Greenhouse (axios).
+- [CoreWeave](https://coreweave.com) - Hiring via Greenhouse (coreweave).
+- [Diligent Corporation](https://diligentcorporation.com) - Hiring via Greenhouse (diligentcorporation).
+- [Celonis](https://celonis.com) - Hiring via Greenhouse (celonis).
+- [In The Pocket](https://inthepocket.com) - Hiring via Greenhouse (inthepocket).
+- [OKX](https://okx.com) - Hiring via Greenhouse (okx).
+- [Visia](https://visia.com) - Hiring via Greenhouse (visia).
+- [Box](https://box.com) - Hiring via Greenhouse (boxinc).
+- [Zup Innovation](https://zupinnovation.com) - Hiring via Greenhouse (zupinnovation).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

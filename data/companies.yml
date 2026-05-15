@@ -22649,3 +22649,123 @@
   - open
   sources:
   - https://boards.greenhouse.io/sidecarhealth
+
+- name: Simplify Jobs Integration Sandbox
+  slug: simplify-jobs-integration-sandbox
+  domain: simplifyjobsintegrationsandbox.com
+  careers_url: https://boards.greenhouse.io/simplifyjobsintegrationsandbox
+  category: open-source-and-platform
+  ats:
+    greenhouse: simplifyjobsintegrationsandbox
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/simplifyjobsintegrationsandbox
+
+- name: Axios
+  slug: axios
+  domain: axios.com
+  careers_url: https://boards.greenhouse.io/axios
+  category: open-source-and-platform
+  ats:
+    greenhouse: axios
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/axios
+
+- name: CoreWeave
+  slug: coreweave
+  domain: coreweave.com
+  careers_url: https://boards.greenhouse.io/coreweave
+  category: open-source-and-platform
+  ats:
+    greenhouse: coreweave
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/coreweave
+
+- name: Diligent Corporation
+  slug: diligent-corporation
+  domain: diligentcorporation.com
+  careers_url: https://boards.greenhouse.io/diligentcorporation
+  category: open-source-and-platform
+  ats:
+    greenhouse: diligentcorporation
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/diligentcorporation
+
+- name: Celonis
+  slug: celonis
+  domain: celonis.com
+  careers_url: https://boards.greenhouse.io/celonis
+  category: open-source-and-platform
+  ats:
+    greenhouse: celonis
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/celonis
+
+- name: In The Pocket
+  slug: in-the-pocket
+  domain: inthepocket.com
+  careers_url: https://boards.greenhouse.io/inthepocket
+  category: open-source-and-platform
+  ats:
+    greenhouse: inthepocket
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/inthepocket
+
+- name: OKX
+  slug: okx
+  domain: okx.com
+  careers_url: https://boards.greenhouse.io/okx
+  category: open-source-and-platform
+  ats:
+    greenhouse: okx
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/okx
+
+- name: Visia
+  slug: visia
+  domain: visia.com
+  careers_url: https://boards.greenhouse.io/visia
+  category: open-source-and-platform
+  ats:
+    greenhouse: visia
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/visia
+
+- name: Box
+  slug: box
+  domain: box.com
+  careers_url: https://boards.greenhouse.io/boxinc
+  category: open-source-and-platform
+  ats:
+    greenhouse: boxinc
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/boxinc
+
+- name: Zup Innovation
+  slug: zup-innovation
+  domain: zupinnovation.com
+  careers_url: https://boards.greenhouse.io/zupinnovation
+  category: open-source-and-platform
+  ats:
+    greenhouse: zupinnovation
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/zupinnovation
