@@ -13889,3 +13889,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/anything
+
+- name: Basis
+  slug: basis
+  domain: basis.com
+  careers_url: https://jobs.lever.co/basis
+  category: open-source-and-platform
+  ats:
+    lever: basis
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/basis
+
+- name: Bernard
+  slug: bernard
+  domain: bernard.com
+  careers_url: https://jobs.ashbyhq.com/bernard
+  category: open-source-and-platform
+  ats:
+    ashby: bernard
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/bernard
+
+- name: Bevel
+  slug: bevel
+  domain: bevel.com
+  careers_url: https://jobs.ashbyhq.com/bevel
+  category: open-source-and-platform
+  ats:
+    ashby: bevel
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/bevel
+
+- name: Build
+  slug: build
+  domain: build.com
+  careers_url: https://jobs.ashbyhq.com/build
+  category: open-source-and-platform
+  ats:
+    ashby: build
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/build
+
+- name: Choose
+  slug: choose
+  domain: choose.com
+  careers_url: https://jobs.lever.co/choose
+  category: open-source-and-platform
+  ats:
+    lever: choose
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/choose
+
+- name: Citizen
+  slug: citizen
+  domain: citizen.com
+  careers_url: https://jobs.ashbyhq.com/citizen
+  category: open-source-and-platform
+  ats:
+    ashby: citizen
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/citizen
+
+- name: Cohort
+  slug: cohort
+  domain: cohort.com
+  careers_url: https://jobs.ashbyhq.com/cohort
+  category: open-source-and-platform
+  ats:
+    ashby: cohort
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/cohort
+
+- name: Coworker
+  slug: coworker
+  domain: coworker.com
+  careers_url: https://jobs.ashbyhq.com/coworker
+  category: open-source-and-platform
+  ats:
+    ashby: coworker
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/coworker
+
+- name: Dakota
+  slug: dakota
+  domain: dakota.com
+  careers_url: https://jobs.ashbyhq.com/dakota
+  category: open-source-and-platform
+  ats:
+    ashby: dakota
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/dakota
+
+- name: Decimal
+  slug: decimal
+  domain: decimal.com
+  careers_url: https://jobs.ashbyhq.com/decimal
+  category: open-source-and-platform
+  ats:
+    ashby: decimal
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/decimal
