@@ -81,16 +81,27 @@ PARKING_HOSTS = frozenset({
     "atom.com",
 })
 
-# Providers whose public board lives on a per-tenant domain (Workday, SAP
-# SuccessFactors) or has no canonical public probe endpoint
-# (Recruiterbox / `custom`). For these, the `careers_url` check is the real
-# signal — skip the ATS probe instead of failing the entry.
+# Providers whose public board has no canonical public probe endpoint
+# (SAP SuccessFactors, Recruiterbox, `custom`). For these, the
+# `careers_url` check is the real signal — skip the ATS probe instead
+# of failing the entry. Workday used to live in this set but moved to
+# probe_ats_workday: its value is now required to be
+# <tenant>.<pod>.myworkdayjobs.com/<site>, and we hit the cxs API
+# directly so the data is actually crawlable.
 NO_PROBE_PROVIDERS: frozenset[str] = frozenset({
-    "workday",
     "successfactors",
     "recruiterbox",
     "custom",
 })
+
+# Body sent to the Workday cxs API. Documented minimum that satisfies
+# the endpoint's schema validation; `limit=1` keeps the response cheap.
+WORKDAY_PROBE_BODY = {
+    "appliedFacets": {},
+    "limit": 1,
+    "offset": 0,
+    "searchText": "",
+}
 
 
 @dataclass
@@ -134,7 +145,7 @@ async def fetch(
     for attempt in range(retries + 1):
         try:
             return await client.request(method, url, follow_redirects=True)
-        except (httpx.HTTPError, httpx.InvalidURL) as exc:
+        except (httpx.HTTPError, httpx.InvalidURL, OSError) as exc:
             last_exc = exc
             if attempt < retries:
                 await asyncio.sleep(0.5 * (attempt + 1))
@@ -197,10 +208,17 @@ async def probe_domain(client: httpx.AsyncClient, domain: str, retries: int) -> 
     if not domain:
         return Probe("domain_reachable", False, "no domain field")
     last: tuple[str, str] | None = None
+    soft_errors: list[str] = []
+    hard_error_seen = False
     for variant in (f"https://{domain}/", f"https://www.{domain}/"):
         result = await fetch(client, variant, retries=retries)
         if isinstance(result, Exception):
-            last = ("err", f"{variant} -> {type(result).__name__}: {result}")
+            detail = f"{variant} -> {type(result).__name__}: {result}"
+            last = ("err", detail)
+            if isinstance(result, httpx.TimeoutException):
+                soft_errors.append(detail)
+            else:
+                hard_error_seen = True
             continue
         host = _normalize_host(result.url.host or "")
         if host in PARKING_HOSTS:
@@ -210,6 +228,11 @@ async def probe_domain(client: httpx.AsyncClient, domain: str, retries: int) -> 
         last = ("http", f"{variant} -> HTTP {result.status_code}")
     if last and last[0] == "http":
         return Probe("domain_reachable", True, f"{last[1]} (treating non-DNS error as anti-bot)")
+    if soft_errors and not hard_error_seen:
+        return Probe(
+            "domain_reachable", True,
+            f"{soft_errors[-1]} (treating timeout as anti-bot)",
+        )
     return Probe("domain_reachable", False, last[1] if last else "no probe attempted")
 
 
@@ -252,9 +275,75 @@ def ats_slug_values(provider_value: str | list[str]) -> list[str]:
     return provider_value if isinstance(provider_value, list) else [provider_value]
 
 
+async def probe_ats_workday(
+    client: httpx.AsyncClient, slug: str, retries: int
+) -> Probe:
+    """Verify a Workday entry against the cxs API.
+
+    Unlike the other supported ATSes, the value carried in `ats.workday`
+    must be the full `<tenant>.<pod>.myworkdayjobs.com/<site>` string —
+    the pod (wd1, wd5, wd12, …) and site key vary per tenant and can't
+    be derived from the slug. A bare slug fails this probe with a
+    pointer to CONTRIBUTING.md → Workday format.
+    """
+    rule = f"ats:workday:{slug}"
+    if "myworkdayjobs.com" not in slug:
+        return Probe(
+            rule, False,
+            f"value must be '<tenant>.<pod>.myworkdayjobs.com/<site>', got {slug!r}. "
+            "See CONTRIBUTING.md → Workday format.",
+        )
+    try:
+        host, site = slug.split("/", 1)
+    except ValueError:
+        return Probe(rule, False, f"missing '/<site>' segment in {slug!r}")
+    tenant = host.split(".", 1)[0]
+    url = f"https://{host}/wday/cxs/{tenant}/{site}/jobs"
+
+    last_exc: Exception | None = None
+    for attempt in range(retries + 1):
+        try:
+            r = await client.request(
+                "POST", url, json=WORKDAY_PROBE_BODY, follow_redirects=True,
+            )
+        except (httpx.HTTPError, httpx.InvalidURL) as exc:
+            last_exc = exc
+            if attempt < retries:
+                await asyncio.sleep(0.5 * (attempt + 1))
+            continue
+        if r.status_code == 200:
+            try:
+                data = r.json()
+            except ValueError:
+                return Probe(rule, False, f"HTTP 200 from {url} but body wasn't JSON")
+            # Accept any 200 with a jobPostings key, even when empty —
+            # an active tenant with zero open roles right now is still
+            # a valid entry.
+            if "jobPostings" in (data or {}):
+                return Probe(rule, True, f"HTTP 200 from {url}")
+            return Probe(rule, False, f"HTTP 200 from {url} but no jobPostings field")
+        if r.status_code == 422:
+            return Probe(
+                rule, False,
+                f"HTTP 422 from {url} — host exists on this pod but the site "
+                "segment is wrong; check the careers-page URL.",
+            )
+        if r.status_code == 404:
+            return Probe(
+                rule, False,
+                f"HTTP 404 from {url} — wrong pod, wrong tenant, or moved off Workday",
+            )
+        return Probe(rule, False, f"HTTP {r.status_code} from {url}")
+
+    assert last_exc is not None
+    return Probe(rule, False, f"{type(last_exc).__name__}: {last_exc}")
+
+
 async def probe_ats(
     client: httpx.AsyncClient, provider: str, slug: str, retries: int
 ) -> Probe:
+    if provider == "workday":
+        return await probe_ats_workday(client, slug, retries)
     if provider in NO_PROBE_PROVIDERS:
         return Probe(
             f"ats:{provider}:{slug}", True,
