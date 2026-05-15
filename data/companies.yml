@@ -14129,3 +14129,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/adapt
+
+- name: Apron
+  slug: apron
+  domain: apron.com
+  careers_url: https://jobs.ashbyhq.com/apron
+  category: open-source-and-platform
+  ats:
+    ashby: apron
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/apron
+
+- name: Chalkboard
+  slug: chalkboard
+  domain: chalkboard.com
+  careers_url: https://jobs.ashbyhq.com/chalkboard
+  category: open-source-and-platform
+  ats:
+    ashby: chalkboard
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/chalkboard
+
+- name: Clarity
+  slug: clarity
+  domain: clarity.com
+  careers_url: https://jobs.ashbyhq.com/clarity
+  category: open-source-and-platform
+  ats:
+    ashby: clarity
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/clarity
+
+- name: Cleric
+  slug: cleric
+  domain: cleric.com
+  careers_url: https://jobs.ashbyhq.com/cleric
+  category: open-source-and-platform
+  ats:
+    ashby: cleric
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/cleric
+
+- name: Clove
+  slug: clove
+  domain: clove.com
+  careers_url: https://jobs.ashbyhq.com/clove
+  category: open-source-and-platform
+  ats:
+    ashby: clove
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/clove
+
+- name: Concurrency
+  slug: concurrency
+  domain: concurrency.com
+  careers_url: https://jobs.lever.co/concurrency
+  category: open-source-and-platform
+  ats:
+    lever: concurrency
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/concurrency
+
+- name: Context
+  slug: context
+  domain: context.com
+  careers_url: https://jobs.ashbyhq.com/context
+  category: open-source-and-platform
+  ats:
+    ashby: context
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/context
+
+- name: Cosmos
+  slug: cosmos
+  domain: cosmos.com
+  careers_url: https://jobs.ashbyhq.com/cosmos
+  category: open-source-and-platform
+  ats:
+    ashby: cosmos
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/cosmos
+
+- name: Cubist
+  slug: cubist
+  domain: cubist.com
+  careers_url: https://jobs.ashbyhq.com/cubist
+  category: open-source-and-platform
+  ats:
+    ashby: cubist
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/cubist
+
+- name: Dovetail
+  slug: dovetail
+  domain: dovetail.com
+  careers_url: https://jobs.ashbyhq.com/dovetail
+  category: open-source-and-platform
+  ats:
+    ashby: dovetail
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/dovetail

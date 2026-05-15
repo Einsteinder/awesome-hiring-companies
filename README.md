@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1010 companies**.
+Currently tracking **1020 companies**.
 
 This repository is designed for two uses:
 
@@ -1066,6 +1066,16 @@ Open source video player (video.js)
 - [Activate](https://activate.com) - Hiring via Greenhouse (activate).
 - [Adapter](https://adapter.com) - Hiring via Greenhouse (adapter).
 - [Adapt](https://adapt.com) - Hiring via Ashby (adapt).
+- [Apron](https://apron.com) - Hiring via Ashby (apron).
+- [Chalkboard](https://chalkboard.com) - Hiring via Ashby (chalkboard).
+- [Clarity](https://clarity.com) - Hiring via Ashby (clarity).
+- [Cleric](https://cleric.com) - Hiring via Ashby (cleric).
+- [Clove](https://clove.com) - Hiring via Ashby (clove).
+- [Concurrency](https://concurrency.com) - Hiring via Lever (concurrency).
+- [Context](https://context.com) - Hiring via Ashby (context).
+- [Cosmos](https://cosmos.com) - Hiring via Ashby (cosmos).
+- [Cubist](https://cubist.com) - Hiring via Ashby (cubist).
+- [Dovetail](https://dovetail.com) - Hiring via Ashby (dovetail).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
