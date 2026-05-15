@@ -522,7 +522,7 @@
   careers_url: https://coinbase.com/careers
   category: fintech
   ats:
-    greenhouse: coinbase
+    custom: coinbase
   tags:
   - crypto
   - fintech
@@ -2547,7 +2547,7 @@
   careers_url: https://joinpantheon.io/careers
   category: consumer-and-marketplace
   ats:
-    greenhouse: pantheon
+    custom: pantheon
   tags:
   - education
   - gaming
@@ -9441,7 +9441,7 @@
   careers_url: https://juno-chat.com/careers
   category: healthcare-and-biotech
   ats:
-    greenhouse: juno
+    custom: juno
   tags:
   - healthcare
   - healthcare-consumer-health-and-wellness
@@ -9516,7 +9516,7 @@
   careers_url: https://usergems.com/careers
   category: b2b-enterprise
   ats:
-    greenhouse: usergems
+    custom: usergems
   tags:
   - b2b
   - b2b-sales
@@ -9616,7 +9616,7 @@
   careers_url: https://aon3d.com/careers
   category: industrials-and-climate
   ats:
-    greenhouse: aon3d
+    custom: aon3d
   tags:
   - industrials
   - industrials-manufacturing-and-robotics
@@ -9631,7 +9631,7 @@
   careers_url: https://upkeep.com/careers
   category: developer-infrastructure
   ats:
-    greenhouse: upkeep
+    custom: upkeep
   tags:
   - b2b
   - b2b-office-management
@@ -9735,7 +9735,7 @@
   careers_url: https://havenservicing.com/careers
   category: fintech
   ats:
-    greenhouse: haven
+    custom: haven
   tags:
   - fintech
   - fintech-credit-and-lending
@@ -9777,7 +9777,7 @@
   careers_url: https://momence.com/careers
   category: fintech
   ats:
-    greenhouse: momence
+    custom: momence
   tags:
   - consumer
   - consumer-travel-leisure-and-tourism
@@ -9807,7 +9807,7 @@
   careers_url: https://galaxysdk.com/careers
   category: developer-infrastructure
   ats:
-    greenhouse: galaxy
+    custom: galaxy
   tags:
   - b2b
   - b2b-infrastructure
@@ -21148,7 +21148,7 @@
   careers_url: https://spacex.com/careers
   category: industrials-and-climate
   ats:
-    greenhouse: spacex
+    custom: spacex
   tags:
   - open
   sources:
@@ -26094,7 +26094,7 @@
   careers_url: https://canva.com/careers
   category: consumer-and-marketplace
   ats:
-    lever: canva
+    custom: canva
   tags:
   - design
   - saas
