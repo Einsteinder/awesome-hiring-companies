@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **590 companies**.
+Currently tracking **600 companies**.
 
 This repository is designed for two uses:
 
@@ -646,6 +646,16 @@ Open source video player (video.js)
 - [Meadow](https://getmeadow.com) - Point of Sale and Compliance SaaS for Cannabis Dispensaries
 - [Shasqi](https://shasqi.com) - Targeting Cancer with Click Chemistry
 - [Reach](https://reachpower.com) - Long range, wireless energy distribution that scales
+- [Paystack](https://paystack.com) - Modern payments infrastructure for Africa
+- [Pursuit](https://revlo.co) - Revlo helps broadcasters on Twitch engage and monetize their fan…
+- [Breaker](https://breaker.audio) - A podcast company.
+- [Long Term Stock Exchange](https://ltse.com) - LTSE is an ecosystem for visionary business.
+- [Weekend (fmr. Volley)](https://weekend.com) - AI games and entertainment on TV
+- [OpenSea](https://opensea.io) - This isn't just a marketplace; we're shaping the future of digital…
+- [Traverse Technologies](https://traverse.ai) - AI driven professional engineering firm
+- [Dex](https://getdex.com) - Dex is a personal CRM that reminds you to keep in touch with the…
+- [Sable](https://sablecard.com) - Mobile bank for credit-worthy, new-to-America internationals offering…
+- [LAIKA](https://laika.com.co) - Online pets supplies for Latin America with over 4000 products & 20…
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

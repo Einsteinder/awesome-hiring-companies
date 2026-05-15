@@ -8516,3 +8516,146 @@
   - energy
   sources:
   - https://jobs.ashbyhq.com/reach
+
+- name: Paystack
+  slug: paystack
+  domain: paystack.com
+  careers_url: https://boards.greenhouse.io/paystack
+  category: fintech
+  ats:
+    greenhouse: paystack
+  tags:
+  - fintech
+  - fintech-payments
+  sources:
+  - https://boards.greenhouse.io/paystack
+
+- name: Pursuit
+  slug: pursuit
+  domain: revlo.co
+  careers_url: https://boards.greenhouse.io/pursuit
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: pursuit
+  tags:
+  - consumer
+  - consumer-gaming
+  - creator-economy
+  sources:
+  - https://boards.greenhouse.io/pursuit
+
+- name: Breaker
+  slug: breaker
+  domain: breaker.audio
+  careers_url: https://jobs.ashbyhq.com/breaker
+  category: consumer-and-marketplace
+  ats:
+    ashby: breaker
+  tags:
+  - consumer
+  - consumer-content
+  - social-media
+  - media
+  sources:
+  - https://jobs.ashbyhq.com/breaker
+
+- name: Long Term Stock Exchange
+  slug: long-term-stock-exchange
+  domain: ltse.com
+  careers_url: https://boards.greenhouse.io/ltse
+  category: fintech
+  ats:
+    greenhouse: ltse
+  tags:
+  - fintech
+  - fintech-banking-and-exchange
+  - b2b
+  sources:
+  - https://boards.greenhouse.io/ltse
+
+- name: Weekend (fmr. Volley)
+  slug: weekend-fmr-volley
+  domain: weekend.com
+  careers_url: https://jobs.ashbyhq.com/weekend
+  category: ai-and-data
+  ats:
+    ashby: weekend
+  tags:
+  - consumer
+  - consumer-gaming
+  - artificial-intelligence
+  - entertainment
+  sources:
+  - https://jobs.ashbyhq.com/weekend
+
+- name: OpenSea
+  slug: opensea
+  domain: opensea.io
+  careers_url: https://jobs.ashbyhq.com/opensea
+  category: consumer-and-marketplace
+  ats:
+    ashby: opensea
+  tags:
+  - consumer
+  - consumer-content
+  - marketplace
+  - crypto-web3
+  sources:
+  - https://jobs.ashbyhq.com/opensea
+
+- name: Traverse Technologies
+  slug: traverse-technologies
+  domain: traverse.ai
+  careers_url: https://jobs.ashbyhq.com/traverse
+  category: ai-and-data
+  ats:
+    ashby: traverse
+  tags:
+  - b2b
+  - b2b-operations
+  - robotic-process-automation
+  - climate
+  sources:
+  - https://jobs.ashbyhq.com/traverse
+
+- name: Dex
+  slug: dex
+  domain: getdex.com
+  careers_url: https://jobs.ashbyhq.com/dex
+  category: consumer-and-marketplace
+  ats:
+    ashby: dex
+  tags:
+  - consumer
+  - consumer-home-and-personal
+  - saas
+  - productivity
+  sources:
+  - https://jobs.ashbyhq.com/dex
+
+- name: Sable
+  slug: sable
+  domain: sablecard.com
+  careers_url: https://jobs.ashbyhq.com/sable
+  category: fintech
+  ats:
+    ashby: sable
+  tags:
+  - fintech
+  - fintech-consumer-finance
+  sources:
+  - https://jobs.ashbyhq.com/sable
+
+- name: LAIKA
+  slug: laika
+  domain: laika.com.co
+  careers_url: https://boards.greenhouse.io/laika
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: laika
+  tags:
+  - consumer
+  - consumer-home-and-personal
+  - marketplace
+  sources:
+  - https://boards.greenhouse.io/laika
