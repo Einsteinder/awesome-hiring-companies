@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **490 companies**.
+Currently tracking **500 companies**.
 
 This repository is designed for two uses:
 
@@ -545,6 +545,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [Aqua Voice](https://aquavoice.com) - Frontier Voice Input - write 4x faster than typing.
 - [Forge](https://forgehq.com) - Getting companies refunds on tariffs & duties
 - [Substrate](https://substrate.cc) - Artificial Intelligence for your medical billing team
+- [Saturn](https://saturnos.com) - Compliance and back office workflows for Wealth Managers.
+- [Simple AI](https://usesimple.ai) - AI voice that sells
+- [Usul](https://usul.com) - AI Platform for Winning Defense & Government Contracts
+- [Sphinx](https://sphinxhq.com) - AI Compliance Analysts for Banks & Fintechs
+- [Unusual](https://unusual.ai) - Market to AI agents
+- [Mosaic](https://mosaic.so) - Agentic video editing
+- [Finto](https://gofinto.com) - AI accounting for enterprise finance teams
+- [Lob](https://lob.com) - Lob is the only automation platform that transforms direct mail into…
+- [Tempo](https://tempo.fit) - Live home fitness training powered by computer vision.
+- [80,000 Hours](https://80000hours.org) - An online guide that tells talented graduates how to maximise the…
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

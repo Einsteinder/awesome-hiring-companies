@@ -7075,3 +7075,144 @@
   - b2b
   sources:
   - https://jobs.ashbyhq.com/substrate
+
+- name: Saturn
+  slug: saturn
+  domain: saturnos.com
+  careers_url: https://jobs.ashbyhq.com/saturn
+  category: ai-and-data
+  ats:
+    ashby: saturn
+  tags:
+  - fintech
+  - generative-ai
+  - b2b
+  sources:
+  - https://jobs.ashbyhq.com/saturn
+
+- name: Simple AI
+  slug: simple-ai
+  domain: usesimple.ai
+  careers_url: https://jobs.ashbyhq.com/simple-ai
+  category: ai-and-data
+  ats:
+    ashby: simple-ai
+  tags:
+  - b2b
+  - b2b-sales
+  - artificial-intelligence
+  - sales
+  sources:
+  - https://jobs.ashbyhq.com/simple-ai
+
+- name: Usul
+  slug: usul
+  domain: usul.com
+  careers_url: https://jobs.ashbyhq.com/usul
+  category: ai-and-data
+  ats:
+    ashby: usul
+  tags:
+  - government
+  - artificial-intelligence
+  - generative-ai
+  - govtech
+  sources:
+  - https://jobs.ashbyhq.com/usul
+
+- name: Sphinx
+  slug: sphinx
+  domain: sphinxhq.com
+  careers_url: https://jobs.ashbyhq.com/sphinx
+  category: ai-and-data
+  ats:
+    ashby: sphinx
+  tags:
+  - fintech
+  sources:
+  - https://jobs.ashbyhq.com/sphinx
+
+- name: Unusual
+  slug: unusual
+  domain: unusual.ai
+  careers_url: https://jobs.lever.co/unusual
+  category: ai-and-data
+  ats:
+    lever: unusual
+  tags:
+  - b2b
+  - b2b-marketing
+  - artificial-intelligence
+  - sales
+  sources:
+  - https://jobs.lever.co/unusual
+
+- name: Mosaic
+  slug: mosaic
+  domain: mosaic.so
+  careers_url: https://jobs.ashbyhq.com/mosaic
+  category: consumer-and-marketplace
+  ats:
+    ashby: mosaic
+  tags:
+  - consumer
+  - consumer-content
+  sources:
+  - https://jobs.ashbyhq.com/mosaic
+
+- name: Finto
+  slug: finto
+  domain: gofinto.com
+  careers_url: https://jobs.ashbyhq.com/finto
+  category: fintech
+  ats:
+    ashby: finto
+  tags:
+  - b2b
+  - b2b-finance-and-accounting
+  - artificial-intelligence
+  - fintech
+  sources:
+  - https://jobs.ashbyhq.com/finto
+
+- name: Lob
+  slug: lob
+  domain: lob.com
+  careers_url: https://boards.greenhouse.io/lob
+  category: developer-infrastructure
+  ats:
+    greenhouse: lob
+  tags:
+  - b2b
+  - b2b-marketing
+  - automation
+  sources:
+  - https://boards.greenhouse.io/lob
+
+- name: Tempo
+  slug: tempo
+  domain: tempo.fit
+  careers_url: https://jobs.ashbyhq.com/tempo
+  category: consumer-and-marketplace
+  ats:
+    ashby: tempo
+  tags:
+  - healthcare
+  - healthcare-consumer-health-and-wellness
+  - machine-learning
+  - consumer-health-services
+  sources:
+  - https://jobs.ashbyhq.com/tempo
+
+- name: 80,000 Hours
+  slug: 80-000-hours
+  domain: 80000hours.org
+  careers_url: https://jobs.ashbyhq.com/80000hours
+  category: open-source-and-platform
+  ats:
+    ashby: 80000hours
+  tags:
+  - unspecified
+  - nonprofit
+  sources:
+  - https://jobs.ashbyhq.com/80000hours
