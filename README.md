@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1298 companies**.
+Currently tracking **1308 companies**.
 
 This repository is designed for two uses:
 
@@ -1354,6 +1354,16 @@ Open source video player (video.js)
 - [Tacit](https://tacit.com) - Hiring via Ashby (tacit).
 - [Tailwind](https://tailwind.com) - Hiring via Ashby (tailwind).
 - [Kinship](https://kinship.com) - Hiring via Ashby (kinship).
+- [Known](https://known.com) - Hiring via Ashby (known).
+- [Mantra](https://mantra.com) - Hiring via Lever (mantra).
+- [Monogram](https://monogram.com) - Hiring via Ashby (monogram).
+- [Passport](https://passport.com) - Hiring via Ashby (passport).
+- [Pilgrim](https://pilgrim.com) - Hiring via Ashby (pilgrim).
+- [Restate](https://restate.com) - Hiring via Ashby (restate).
+- [Rime](https://rime.com) - Hiring via Ashby (rime).
+- [Roadrunner](https://roadrunner.com) - Hiring via Ashby (roadrunner).
+- [Shapes](https://shapes.com) - Hiring via Ashby (shapes).
+- [Simile](https://simile.com) - Hiring via Ashby (simile).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

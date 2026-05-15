@@ -17585,3 +17585,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/kinship
+
+- name: Known
+  slug: known
+  domain: known.com
+  careers_url: https://jobs.ashbyhq.com/known
+  category: open-source-and-platform
+  ats:
+    ashby: known
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/known
+
+- name: Mantra
+  slug: mantra
+  domain: mantra.com
+  careers_url: https://jobs.lever.co/mantra
+  category: open-source-and-platform
+  ats:
+    lever: mantra
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/mantra
+
+- name: Monogram
+  slug: monogram
+  domain: monogram.com
+  careers_url: https://jobs.ashbyhq.com/monogram
+  category: open-source-and-platform
+  ats:
+    ashby: monogram
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/monogram
+
+- name: Passport
+  slug: passport
+  domain: passport.com
+  careers_url: https://jobs.ashbyhq.com/passport
+  category: open-source-and-platform
+  ats:
+    ashby: passport
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/passport
+
+- name: Pilgrim
+  slug: pilgrim
+  domain: pilgrim.com
+  careers_url: https://jobs.ashbyhq.com/pilgrim
+  category: open-source-and-platform
+  ats:
+    ashby: pilgrim
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/pilgrim
+
+- name: Restate
+  slug: restate
+  domain: restate.com
+  careers_url: https://jobs.ashbyhq.com/restate
+  category: open-source-and-platform
+  ats:
+    ashby: restate
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/restate
+
+- name: Rime
+  slug: rime
+  domain: rime.com
+  careers_url: https://jobs.ashbyhq.com/rime
+  category: open-source-and-platform
+  ats:
+    ashby: rime
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/rime
+
+- name: Roadrunner
+  slug: roadrunner
+  domain: roadrunner.com
+  careers_url: https://jobs.ashbyhq.com/roadrunner
+  category: open-source-and-platform
+  ats:
+    ashby: roadrunner
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/roadrunner
+
+- name: Shapes
+  slug: shapes
+  domain: shapes.com
+  careers_url: https://jobs.ashbyhq.com/shapes
+  category: open-source-and-platform
+  ats:
+    ashby: shapes
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/shapes
+
+- name: Simile
+  slug: simile
+  domain: simile.com
+  careers_url: https://jobs.ashbyhq.com/simile
+  category: open-source-and-platform
+  ats:
+    ashby: simile
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/simile
