@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1138 companies**.
+Currently tracking **1148 companies**.
 
 This repository is designed for two uses:
 
@@ -1194,6 +1194,16 @@ Open source video player (video.js)
 - [Malt](https://malt.com) - Hiring via Lever (malt).
 - [Rain](https://rain.com) - Hiring via Ashby (rain).
 - [Watershed](https://watershed.com) - Hiring via Ashby (watershed).
+- [Mulberry](https://mulberry.com) - Hiring via Lever (mulberry).
+- [Relay](https://relay.com) - Hiring via Ashby (relay).
+- [Tabs](https://tabs.com) - Hiring via Ashby (tabs).
+- [Kayak](https://kayak.com) - Hiring via Ashby (kayak).
+- [Outreach](https://outreach.com) - Hiring via Lever (outreach).
+- [Quartermaster](https://quartermaster.com) - Hiring via Ashby (quartermaster).
+- [Solace](https://solace.com) - Hiring via Ashby (solace).
+- [Jobber](https://jobber.com) - Hiring via Ashby (jobber).
+- [Lambda](https://lambda.com) - Hiring via Ashby (lambda).
+- [Steadily](https://steadily.com) - Hiring via Ashby (steadily).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

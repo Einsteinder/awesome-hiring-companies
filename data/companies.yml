@@ -15665,3 +15665,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/watershed
+
+- name: Mulberry
+  slug: mulberry
+  domain: mulberry.com
+  careers_url: https://jobs.lever.co/mulberry
+  category: open-source-and-platform
+  ats:
+    lever: mulberry
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/mulberry
+
+- name: Relay
+  slug: relay
+  domain: relay.com
+  careers_url: https://jobs.ashbyhq.com/relay
+  category: open-source-and-platform
+  ats:
+    ashby: relay
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/relay
+
+- name: Tabs
+  slug: tabs
+  domain: tabs.com
+  careers_url: https://jobs.ashbyhq.com/tabs
+  category: open-source-and-platform
+  ats:
+    ashby: tabs
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/tabs
+
+- name: Kayak
+  slug: kayak
+  domain: kayak.com
+  careers_url: https://jobs.ashbyhq.com/kayak
+  category: open-source-and-platform
+  ats:
+    ashby: kayak
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/kayak
+
+- name: Outreach
+  slug: outreach
+  domain: outreach.com
+  careers_url: https://jobs.lever.co/outreach
+  category: open-source-and-platform
+  ats:
+    lever: outreach
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/outreach
+
+- name: Quartermaster
+  slug: quartermaster
+  domain: quartermaster.com
+  careers_url: https://jobs.ashbyhq.com/quartermaster
+  category: open-source-and-platform
+  ats:
+    ashby: quartermaster
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/quartermaster
+
+- name: Solace
+  slug: solace
+  domain: solace.com
+  careers_url: https://jobs.ashbyhq.com/solace
+  category: open-source-and-platform
+  ats:
+    ashby: solace
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/solace
+
+- name: Jobber
+  slug: jobber
+  domain: jobber.com
+  careers_url: https://jobs.ashbyhq.com/jobber
+  category: open-source-and-platform
+  ats:
+    ashby: jobber
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/jobber
+
+- name: Lambda
+  slug: lambda
+  domain: lambda.com
+  careers_url: https://jobs.ashbyhq.com/lambda
+  category: open-source-and-platform
+  ats:
+    ashby: lambda
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/lambda
+
+- name: Steadily
+  slug: steadily
+  domain: steadily.com
+  careers_url: https://jobs.ashbyhq.com/steadily
+  category: open-source-and-platform
+  ats:
+    ashby: steadily
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/steadily
