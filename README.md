@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **180 companies**.
+Currently tracking **190 companies**.
 
 This repository is designed for two uses:
 
@@ -235,6 +235,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [Pantheon](https://joinpantheon.io) - A competitive community of the brightest students in the world
 - [Omni](https://addomni.com) - Fast, up-to-date answers for Sales & Support
 - [Vapi](https://vapi.ai) - Voice AI for developers.
+- [Axle](https://axle.insure) - AI-native clearinghouse for insurance
+- [Campfire](https://campfire.ai) - The AI Native ERP for the fastest growing companies.
+- [Reducto](https://reducto.ai) - The most accurate API to parse documents
+- [Mattermost](https://mattermost.com) - Secure Collaboration for Technical Teams
+- [Vetcove](https://vetcove.com) - Powering the animal health supply chain.
+- [Observe.AI](https://observe.ai) - Contact center AI platform.
+- [Axiom.ai](https://axiom.ai) - No-code Browser RPA
+- [Onebrief](https://onebrief.com) - Onebrief makes military headquarters run seamlessly
+- [Sully.ai](https://sully.ai) - Autonomous team of AI agents that runs the entire hospital operations
+- [Juicebox](https://juicebox.ai) - AI-powered talent sourcing for recruiters
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

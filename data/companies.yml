@@ -2582,3 +2582,152 @@
   - artificial-intelligence
   sources:
   - https://jobs.ashbyhq.com/vapi
+
+- name: Axle
+  slug: axle
+  domain: axle.insure
+  careers_url: https://boards.greenhouse.io/axle
+  category: ai-and-data
+  ats:
+    greenhouse: axle
+  tags:
+  - fintech
+  - artificial-intelligence
+  - developer-tools
+  - b2b
+  sources:
+  - https://boards.greenhouse.io/axle
+
+- name: Campfire
+  slug: campfire
+  domain: campfire.ai
+  careers_url: https://jobs.ashbyhq.com/campfire
+  category: fintech
+  ats:
+    ashby: campfire
+  tags:
+  - b2b
+  - b2b-finance-and-accounting
+  - fintech
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/campfire
+
+- name: Reducto
+  slug: reducto
+  domain: reducto.ai
+  careers_url: https://jobs.ashbyhq.com/reducto
+  category: ai-and-data
+  ats:
+    ashby: reducto
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - documents
+  - artificial-intelligence
+  sources:
+  - https://jobs.ashbyhq.com/reducto
+
+- name: Mattermost
+  slug: mattermost
+  domain: mattermost.com
+  careers_url: https://boards.greenhouse.io/mattermost
+  category: developer-infrastructure
+  ats:
+    greenhouse: mattermost
+  tags:
+  - b2b
+  - b2b-productivity
+  - devsecops
+  - collaboration
+  sources:
+  - https://boards.greenhouse.io/mattermost
+
+- name: Vetcove
+  slug: vetcove
+  domain: vetcove.com
+  careers_url: https://jobs.ashbyhq.com/vetcove
+  category: consumer-and-marketplace
+  ats:
+    ashby: vetcove
+  tags:
+  - b2b
+  - b2b-supply-chain-and-logistics
+  - marketplace
+  - healthcare
+  sources:
+  - https://jobs.ashbyhq.com/vetcove
+
+- name: Observe.AI
+  slug: observe-ai
+  domain: observe.ai
+  careers_url: https://boards.greenhouse.io/observeai
+  category: developer-infrastructure
+  ats:
+    greenhouse: observeai
+  tags:
+  - b2b
+  - b2b-sales
+  - saas
+  - customer-service
+  sources:
+  - https://boards.greenhouse.io/observeai
+
+- name: Axiom.ai
+  slug: axiom-ai
+  domain: axiom.ai
+  careers_url: https://boards.greenhouse.io/axiom
+  category: developer-infrastructure
+  ats:
+    greenhouse: axiom
+  tags:
+  - b2b
+  - b2b-operations
+  - robotic-process-automation
+  - saas
+  sources:
+  - https://boards.greenhouse.io/axiom
+
+- name: Onebrief
+  slug: onebrief
+  domain: onebrief.com
+  careers_url: https://jobs.ashbyhq.com/onebrief
+  category: developer-infrastructure
+  ats:
+    ashby: onebrief
+  tags:
+  - b2b
+  - saas
+  - govtech
+  sources:
+  - https://jobs.ashbyhq.com/onebrief
+
+- name: Sully.ai
+  slug: sully-ai
+  domain: sully.ai
+  careers_url: https://jobs.ashbyhq.com/sully-ai
+  category: ai-and-data
+  ats:
+    ashby: sully-ai
+  tags:
+  - b2b
+  - b2b-productivity
+  - artificial-intelligence
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/sully-ai
+
+- name: Juicebox
+  slug: juicebox
+  domain: juicebox.ai
+  careers_url: https://jobs.ashbyhq.com/juicebox
+  category: ai-and-data
+  ats:
+    ashby: juicebox
+  tags:
+  - b2b
+  - b2b-recruiting-and-talent
+  - artificial-intelligence
+  - generative-ai
+  sources:
+  - https://jobs.ashbyhq.com/juicebox
