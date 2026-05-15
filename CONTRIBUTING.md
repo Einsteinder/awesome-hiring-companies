@@ -2,6 +2,8 @@
 
 This repository is a curated list of companies with public hiring signals. Keep entries useful for job seekers and crawler seed data.
 
+Before adding a company, confirm it passes the [`Inclusion Standard`](docs/inclusion-standard.md).
+
 ## Add a Company
 
 Update both files:
@@ -39,8 +41,8 @@ python scripts/validate.py
 
 ## Pull Request Checklist
 
+- The company passes the Inclusion Standard.
 - The company is listed in `README.md`.
 - The company is listed in `data/companies.yml`.
 - The ATS slug is verified against a public jobs page.
 - `python scripts/validate.py` passes.
-

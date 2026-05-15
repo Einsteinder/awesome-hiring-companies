@@ -1,0 +1,88 @@
+# Inclusion Standard
+
+This list accepts companies that are useful as verified hiring-discovery seeds.
+
+Add a company only when it passes every required criterion and none of the exclusion criteria. Preferred signals help prioritize additions, but they are not mandatory.
+
+## Required Criteria
+
+- The company has an official public careers page, jobs page, or ATS job board.
+- The company has a stable identity: canonical name, primary domain, and no obvious duplicate entry.
+- The careers URL is reachable without login, private access, or a one-off referral link.
+- The entry has at least one official source URL, preferably the careers page itself.
+- The company is relevant to software, data, AI, product, design, operations, finance, recruiting, sales, marketing, or other technology-adjacent roles.
+- The entry includes a crawlable hiring signal, such as an ATS slug or a stable careers URL.
+- The YAML entry follows the schema in `schemas/company.schema.json`.
+- The README entry explains why the company is useful to track.
+
+## Preferred Signals
+
+- The company has active openings or has shown recent public hiring activity.
+- The company uses a supported ATS such as Ashby, Greenhouse, or Lever.
+- The company has strong engineering, product, data, AI, platform, or go-to-market hiring relevance.
+- The company has clear public identity signals, such as a well-known domain, public funding, public market status, notable product, or open-source footprint.
+- The company has enough stable metadata to support crawler enrichment later, such as location, stage, sector, or known job-board provider.
+
+## Exclusion Criteria
+
+Do not add:
+
+- Job boards, scraping sites, staffing agencies, or recruiting agencies unless the list explicitly adds a separate category for them later.
+- Companies with no official careers or jobs page.
+- Companies whose only evidence is a third-party job post.
+- Dead, login-only, invite-only, or captcha-only job boards.
+- Duplicate companies under alternate spellings, subsidiaries, aliases, or old names unless the hiring brand is clearly separate.
+- Private notes, personal data, leaked information, or non-public sources.
+- Scam-like, deceptive, illegal, unpaid-only, or multi-level-marketing opportunities.
+
+## Data Standard
+
+Every company in `data/companies.yml` must include:
+
+```yaml
+- name: Example
+  slug: example
+  domain: example.com
+  careers_url: https://jobs.ashbyhq.com/example
+  category: developer-infrastructure
+  ats:
+    ashby: example
+  tags:
+    - developer-tools
+  sources:
+    - https://jobs.ashbyhq.com/example
+```
+
+Field rules:
+
+- `name` is the public company name.
+- `slug` is a stable lowercase kebab-case identifier.
+- `domain` is the primary company domain, without `https://`.
+- `careers_url` is the best official URL for discovering open roles.
+- `category` must use one of the categories allowed by the schema.
+- `ats` should contain verified provider slugs when known.
+- `tags` must be lowercase kebab-case and should describe sector, product area, role relevance, or platform.
+- `sources` should prefer official company URLs over third-party pages.
+
+## Category Standard
+
+Use the narrowest current category that fits:
+
+- `ai-and-data` - AI, machine learning, analytics, databases, and data infrastructure.
+- `developer-infrastructure` - Developer tools, cloud, infrastructure, security, observability, and B2B technical platforms.
+- `fintech` - Payments, banking, investing, crypto, expense, payroll, or financial infrastructure.
+- `consumer-and-marketplace` - Consumer products, communities, marketplaces, media, travel, commerce, and logistics.
+- `open-source-and-platform` - Open-source companies, broad platforms, DevOps, productivity, collaboration, and enterprise platforms.
+
+If no category fits, do not force the entry. Open an issue proposing the new category.
+
+## Review Checklist
+
+Before merging a company:
+
+- Open `careers_url` and confirm it is official.
+- Verify every ATS slug against the public job board.
+- Search `data/companies.yml` for duplicate name, domain, slug, and ATS slug.
+- Add a useful README description, not only a link.
+- Run `python scripts/validate.py`.
+

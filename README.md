@@ -12,6 +12,7 @@ This repository is designed for two uses:
 ## Contents
 
 - [Selection Criteria](#selection-criteria)
+- [Inclusion Standard](#inclusion-standard)
 - [AI and Data](#ai-and-data)
 - [Developer Infrastructure](#developer-infrastructure)
 - [Fintech](#fintech)
@@ -30,6 +31,10 @@ A company belongs here when it has:
 - Enough public signal to be useful to job seekers or recruiting tools.
 
 This is a curated list, not a dump of every company on the internet.
+
+## Inclusion Standard
+
+New companies must pass the full [`Inclusion Standard`](docs/inclusion-standard.md) before being added.
 
 ## AI and Data
 
