@@ -11399,3 +11399,153 @@
   - ai
   sources:
   - https://jobs.ashbyhq.com/ello
+
+- name: Kinter
+  slug: kinter
+  domain: kinter.ai
+  careers_url: https://jobs.lever.co/kinter
+  category: fintech
+  ats:
+    lever: kinter
+  tags:
+  - b2b
+  - b2b-finance-and-accounting
+  - artificial-intelligence
+  - saas
+  sources:
+  - https://jobs.lever.co/kinter
+
+- name: Syncro
+  slug: syncro
+  domain: runsyncro.com
+  careers_url: https://boards.greenhouse.io/syncro
+  category: open-source-and-platform
+  ats:
+    greenhouse: syncro
+  tags:
+  - b2b
+  - b2b-recruiting-and-talent
+  - workflow-automation
+  - recruiting
+  sources:
+  - https://boards.greenhouse.io/syncro
+
+- name: Humanly
+  slug: humanly
+  domain: humanly.io
+  careers_url: https://jobs.ashbyhq.com/humanly
+  category: open-source-and-platform
+  ats:
+    ashby: humanly
+  tags:
+  - b2b
+  - b2b-recruiting-and-talent
+  - recruiting
+  - hr-tech
+  sources:
+  - https://jobs.ashbyhq.com/humanly
+
+- name: Faction
+  slug: faction
+  domain: faction.us
+  careers_url: https://jobs.ashbyhq.com/faction
+  category: consumer-and-marketplace
+  ats:
+    ashby: faction
+  tags:
+  - industrials
+  - industrials-automotive
+  - autonomous-delivery
+  - robotics
+  sources:
+  - https://jobs.ashbyhq.com/faction
+
+- name: Quicknode
+  slug: quicknode
+  domain: quicknode.com
+  careers_url: https://jobs.ashbyhq.com/quicknode
+  category: developer-infrastructure
+  ats:
+    ashby: quicknode
+  tags:
+  - b2b
+  - b2b-infrastructure
+  - developer-tools
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/quicknode
+
+- name: Infracost
+  slug: infracost
+  domain: infracost.io
+  careers_url: https://jobs.ashbyhq.com/infracost
+  category: developer-infrastructure
+  ats:
+    ashby: infracost
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - developer-tools
+  - devsecops
+  sources:
+  - https://jobs.ashbyhq.com/infracost
+
+- name: Pipekit
+  slug: pipekit
+  domain: pipekit.io
+  careers_url: https://jobs.ashbyhq.com/pipekit
+  category: developer-infrastructure
+  ats:
+    ashby: pipekit
+  tags:
+  - b2b
+  - b2b-infrastructure
+  - developer-tools
+  - open-source
+  sources:
+  - https://jobs.ashbyhq.com/pipekit
+
+- name: Dots 💸
+  slug: dots
+  domain: usedots.com
+  careers_url: https://boards.greenhouse.io/dots
+  category: developer-infrastructure
+  ats:
+    greenhouse: dots
+  tags:
+  - fintech
+  - fintech-payments
+  - payments
+  - api
+  sources:
+  - https://boards.greenhouse.io/dots
+
+- name: Malga
+  slug: malga
+  domain: malga.io
+  careers_url: https://jobs.ashbyhq.com/malga
+  category: fintech
+  ats:
+    ashby: malga
+  tags:
+  - fintech
+  - fintech-payments
+  - saas
+  - payments
+  sources:
+  - https://jobs.ashbyhq.com/malga
+
+- name: Medium Biosciences
+  slug: medium-biosciences
+  domain: medium.bio
+  careers_url: https://boards.greenhouse.io/medium
+  category: ai-and-data
+  ats:
+    greenhouse: medium
+  tags:
+  - healthcare
+  - healthcare-diagnostics
+  - artificial-intelligence
+  - machine-learning
+  sources:
+  - https://boards.greenhouse.io/medium

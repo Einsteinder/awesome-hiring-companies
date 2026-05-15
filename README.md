@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **790 companies**.
+Currently tracking **800 companies**.
 
 This repository is designed for two uses:
 
@@ -846,6 +846,16 @@ Open source video player (video.js)
 - [Ladder](https://meetladder.com) - Labor Marketplace for Construction
 - [Fig](https://fig.io) - Fig adds visual apps, shortcuts, and autocomplete to your terminal.
 - [Ello](https://ello.com) - Building the world's first 1:1 AI teacher.
+- [Kinter](https://kinter.ai) - A new kind of power for finance teams
+- [Syncro](https://runsyncro.com) - Intelligence layer for internal communications and culture
+- [Humanly](https://humanly.io) - We empower the world’s hiring teams to grow engaged, high-performing…
+- [Faction](https://faction.us) - Driverless electric vehicles at a fraction of the cost of a car.
+- [Quicknode](https://quicknode.com) - Tools & infra to build and scale high-quality blockchain applications.
+- [Infracost](https://infracost.io) - Shift FinOps Left: Proactively Find & Fix Cloud Cost Issues
+- [Pipekit](https://pipekit.io) - Pipekit scales data & CI pipelines for enterprises
+- [Dots 💸](https://usedots.com) - Developer friendly drop in payouts infrastructure
+- [Malga](https://malga.io) - Malga is an API to accept payments with multiple payment providers
+- [Medium Biosciences](https://medium.bio) - AI-designed Affinity Reagents
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
