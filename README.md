@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **77 companies**.
+Currently tracking **80 companies**.
 
 This repository is designed for two uses:
 
@@ -132,6 +132,9 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [Stage](https://stagereview.app) - A better code review platform
 - [Astranis](https://astranis.com) - Advanced satellites for high orbits.
 - [Legora](https://legora.com) - The AI workspace for lawyers
+- [Vanta](https://vanta.com) - Vanta—the proven leader in automated compliance helping startups…
+- [Finni Health](https://finnihealth.com) - Empowering Autism Care Providers to Go Independent
+- [Fivetran](https://fivetran.com) - The leader in automated data movement
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

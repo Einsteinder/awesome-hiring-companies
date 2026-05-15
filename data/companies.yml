@@ -1081,3 +1081,46 @@
   - generative-ai
   sources:
   - https://jobs.ashbyhq.com/legora
+
+- name: Vanta
+  slug: vanta
+  domain: vanta.com
+  careers_url: https://jobs.ashbyhq.com/vanta
+  category: developer-infrastructure
+  ats:
+    ashby: vanta
+  tags:
+  - b2b
+  - b2b-security
+  - compliance
+  - security
+  sources:
+  - https://jobs.ashbyhq.com/vanta
+
+- name: Finni Health
+  slug: finni-health
+  domain: finnihealth.com
+  careers_url: https://jobs.ashbyhq.com/finni-health
+  category: consumer-and-marketplace
+  ats:
+    ashby: finni-health
+  tags:
+  - healthcare
+  - healthcare-consumer-health-and-wellness
+  sources:
+  - https://jobs.ashbyhq.com/finni-health
+
+- name: Fivetran
+  slug: fivetran
+  domain: fivetran.com
+  careers_url: https://boards.greenhouse.io/fivetran
+  category: developer-infrastructure
+  ats:
+    greenhouse: fivetran
+  tags:
+  - b2b
+  - b2b-infrastructure
+  - saas
+  - analytics
+  sources:
+  - https://boards.greenhouse.io/fivetran
