@@ -4476,3 +4476,144 @@
   - electric-vehicles
   sources:
   - https://boards.greenhouse.io/regent
+
+- name: H3X Technologies
+  slug: h3x-technologies
+  domain: h3x.tech
+  careers_url: https://jobs.ashbyhq.com/h3x-technologies
+  category: open-source-and-platform
+  ats:
+    ashby: h3x-technologies
+  tags:
+  - industrials
+  - industrials-aviation-and-space
+  - airplanes
+  - climate
+  sources:
+  - https://jobs.ashbyhq.com/h3x-technologies
+
+- name: Charge Robotics
+  slug: charge-robotics
+  domain: chargerobotics.com
+  careers_url: https://jobs.ashbyhq.com/charge-robotics
+  category: open-source-and-platform
+  ats:
+    ashby: charge-robotics
+  tags:
+  - industrials
+  - industrials-manufacturing-and-robotics
+  - robotics
+  - solar-power
+  sources:
+  - https://jobs.ashbyhq.com/charge-robotics
+
+- name: Novig
+  slug: novig
+  domain: novig.com
+  careers_url: https://jobs.ashbyhq.com/novig
+  category: consumer-and-marketplace
+  ats:
+    ashby: novig
+  tags:
+  - consumer
+  - consumer-gaming
+  - fintech
+  - marketplace
+  sources:
+  - https://jobs.ashbyhq.com/novig
+
+- name: Aurelian
+  slug: aurelian
+  domain: aurelian.com
+  careers_url: https://jobs.ashbyhq.com/aurelian
+  category: ai-and-data
+  ats:
+    ashby: aurelian
+  tags:
+  - b2b
+  - saas
+  - govtech
+  - ai
+  sources:
+  - https://jobs.ashbyhq.com/aurelian
+
+- name: Infisical
+  slug: infisical
+  domain: infisical.com
+  careers_url: https://jobs.ashbyhq.com/infisical
+  category: developer-infrastructure
+  ats:
+    ashby: infisical
+  tags:
+  - b2b
+  - b2b-security
+  - developer-tools
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/infisical
+
+- name: Bland AI
+  slug: bland-ai
+  domain: bland.com
+  careers_url: https://jobs.ashbyhq.com/bland
+  category: developer-infrastructure
+  ats:
+    ashby: bland
+  tags:
+  - b2b
+  - b2b-infrastructure
+  sources:
+  - https://jobs.ashbyhq.com/bland
+
+- name: Solve Intelligence
+  slug: solve-intelligence
+  domain: solveintelligence.com
+  careers_url: https://jobs.ashbyhq.com/solveintelligence
+  category: ai-and-data
+  ats:
+    ashby: solveintelligence
+  tags:
+  - b2b
+  - b2b-legal
+  sources:
+  - https://jobs.ashbyhq.com/solveintelligence
+
+- name: Gumloop
+  slug: gumloop
+  domain: gumloop.com
+  careers_url: https://jobs.ashbyhq.com/gumloop
+  category: developer-infrastructure
+  ats:
+    ashby: gumloop
+  tags:
+  - b2b
+  sources:
+  - https://jobs.ashbyhq.com/gumloop
+
+- name: Solari AI
+  slug: solari-ai
+  domain: usesolari.ai
+  careers_url: https://boards.greenhouse.io/solari
+  category: ai-and-data
+  ats:
+    greenhouse: solari
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - artificial-intelligence
+  - workflow-automation
+  sources:
+  - https://boards.greenhouse.io/solari
+
+- name: Blacksmith
+  slug: blacksmith
+  domain: blacksmith.sh
+  careers_url: https://jobs.ashbyhq.com/blacksmith
+  category: developer-infrastructure
+  ats:
+    ashby: blacksmith
+  tags:
+  - b2b
+  - b2b-infrastructure
+  sources:
+  - https://jobs.ashbyhq.com/blacksmith

@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **310 companies**.
+Currently tracking **320 companies**.
 
 This repository is designed for two uses:
 
@@ -365,6 +365,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [Nabla Bio](https://nabla.bio) - We use AI to design antibodies for intractable diseases
 - [SigNoz](https://signoz.io) - Open source alternative to DataDog
 - [REGENT](https://regentcraft.com) - All-electric seagliders for fast, affordable regional transportation
+- [H3X Technologies](https://h3x.tech) - The lightest electric aircraft motors in the world.
+- [Charge Robotics](https://chargerobotics.com) - Robots that build solar farms
+- [Novig](https://novig.com) - America's #1 Sports Trading App
+- [Aurelian](https://aurelian.com) - Automating non-emergency calls for 911 centers
+- [Infisical](https://infisical.com) - Unified platform for secrets, certs, and privileged access management
+- [Bland AI](https://bland.com) - The enterprise platform for AI phone calls
+- [Solve Intelligence](https://solveintelligence.com) - AI patent drafting, prosecution, litigation and more for legal teams.
+- [Gumloop](https://gumloop.com) - A no-code platform for creating agents and automating workflows with…
+- [Solari AI](https://usesolari.ai) - Gives non-technical team members agents that work right out of the box
+- [Blacksmith](https://blacksmith.sh) - The fastest way to run your GitHub Actions
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
