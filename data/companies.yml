@@ -16865,3 +16865,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/vesta
+
+- name: Human
+  slug: human
+  domain: human.com
+  careers_url: https://jobs.ashbyhq.com/human
+  category: open-source-and-platform
+  ats:
+    ashby: human
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/human
+
+- name: Improbable
+  slug: improbable
+  domain: improbable.com
+  careers_url: https://jobs.ashbyhq.com/improbable
+  category: open-source-and-platform
+  ats:
+    ashby: improbable
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/improbable
+
+- name: Integrate
+  slug: integrate
+  domain: integrate.com
+  careers_url: https://jobs.lever.co/integrate
+  category: open-source-and-platform
+  ats:
+    lever: integrate
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/integrate
+
+- name: January
+  slug: january
+  domain: january.com
+  careers_url: https://jobs.ashbyhq.com/january
+  category: open-source-and-platform
+  ats:
+    ashby: january
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/january
+
+- name: Jellyfish
+  slug: jellyfish
+  domain: jellyfish.com
+  careers_url: https://jobs.ashbyhq.com/jellyfish
+  category: open-source-and-platform
+  ats:
+    ashby: jellyfish
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/jellyfish
+
+- name: Libra
+  slug: libra
+  domain: libra.com
+  careers_url: https://jobs.ashbyhq.com/libra
+  category: open-source-and-platform
+  ats:
+    ashby: libra
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/libra
+
+- name: Linkup
+  slug: linkup
+  domain: linkup.com
+  careers_url: https://jobs.ashbyhq.com/linkup
+  category: open-source-and-platform
+  ats:
+    ashby: linkup
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/linkup
+
+- name: Moment
+  slug: moment
+  domain: moment.com
+  careers_url: https://jobs.ashbyhq.com/moment
+  category: open-source-and-platform
+  ats:
+    ashby: moment
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/moment
+
+- name: Numeric
+  slug: numeric
+  domain: numeric.com
+  careers_url: https://jobs.ashbyhq.com/numeric
+  category: open-source-and-platform
+  ats:
+    ashby: numeric
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/numeric
+
+- name: Opal
+  slug: opal
+  domain: opal.com
+  careers_url: https://jobs.ashbyhq.com/opal
+  category: open-source-and-platform
+  ats:
+    ashby: opal
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/opal

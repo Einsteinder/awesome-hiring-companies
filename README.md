@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1238 companies**.
+Currently tracking **1248 companies**.
 
 This repository is designed for two uses:
 
@@ -1294,6 +1294,16 @@ Open source video player (video.js)
 - [Unit](https://unit.com) - Hiring via Ashby (unit).
 - [Venn](https://venn.com) - Hiring via Ashby (venn).
 - [Vesta](https://vesta.com) - Hiring via Ashby (vesta).
+- [Human](https://human.com) - Hiring via Ashby (human).
+- [Improbable](https://improbable.com) - Hiring via Ashby (improbable).
+- [Integrate](https://integrate.com) - Hiring via Lever (integrate).
+- [January](https://january.com) - Hiring via Ashby (january).
+- [Jellyfish](https://jellyfish.com) - Hiring via Ashby (jellyfish).
+- [Libra](https://libra.com) - Hiring via Ashby (libra).
+- [Linkup](https://linkup.com) - Hiring via Ashby (linkup).
+- [Moment](https://moment.com) - Hiring via Ashby (moment).
+- [Numeric](https://numeric.com) - Hiring via Ashby (numeric).
+- [Opal](https://opal.com) - Hiring via Ashby (opal).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
