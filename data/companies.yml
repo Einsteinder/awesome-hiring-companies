@@ -16265,3 +16265,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/wonderful
+
+- name: Junior
+  slug: junior
+  domain: junior.com
+  careers_url: https://jobs.ashbyhq.com/junior
+  category: open-source-and-platform
+  ats:
+    ashby: junior
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/junior
+
+- name: Nevis
+  slug: nevis
+  domain: nevis.com
+  careers_url: https://jobs.ashbyhq.com/nevis
+  category: open-source-and-platform
+  ats:
+    ashby: nevis
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/nevis
+
+- name: Objective
+  slug: objective
+  domain: objective.com
+  careers_url: https://jobs.lever.co/objective
+  category: open-source-and-platform
+  ats:
+    lever: objective
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/objective
+
+- name: Persona
+  slug: persona
+  domain: persona.com
+  careers_url: https://jobs.ashbyhq.com/persona
+  category: open-source-and-platform
+  ats:
+    ashby: persona
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/persona
+
+- name: Phil
+  slug: phil
+  domain: phil.com
+  careers_url: https://jobs.ashbyhq.com/phil
+  category: open-source-and-platform
+  ats:
+    ashby: phil
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/phil
+
+- name: Imprint
+  slug: imprint
+  domain: imprint.com
+  careers_url: https://jobs.ashbyhq.com/imprint
+  category: open-source-and-platform
+  ats:
+    ashby: imprint
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/imprint
+
+- name: Mirage
+  slug: mirage
+  domain: mirage.com
+  careers_url: https://jobs.ashbyhq.com/mirage
+  category: open-source-and-platform
+  ats:
+    ashby: mirage
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/mirage
+
+- name: Nelly
+  slug: nelly
+  domain: nelly.com
+  careers_url: https://jobs.ashbyhq.com/nelly
+  category: open-source-and-platform
+  ats:
+    ashby: nelly
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/nelly
+
+- name: Paradox
+  slug: paradox
+  domain: paradox.com
+  careers_url: https://jobs.ashbyhq.com/paradox
+  category: open-source-and-platform
+  ats:
+    ashby: paradox
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/paradox
+
+- name: Passage
+  slug: passage
+  domain: passage.com
+  careers_url: https://jobs.ashbyhq.com/passage
+  category: open-source-and-platform
+  ats:
+    ashby: passage
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/passage

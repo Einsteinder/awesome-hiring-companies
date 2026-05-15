@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1188 companies**.
+Currently tracking **1198 companies**.
 
 This repository is designed for two uses:
 
@@ -1244,6 +1244,16 @@ Open source video player (video.js)
 - [Kepler](https://kepler.com) - Hiring via Lever (kepler).
 - [Perforce](https://perforce.com) - Hiring via Lever (perforce).
 - [Wonderful](https://wonderful.com) - Hiring via Ashby (wonderful).
+- [Junior](https://junior.com) - Hiring via Ashby (junior).
+- [Nevis](https://nevis.com) - Hiring via Ashby (nevis).
+- [Objective](https://objective.com) - Hiring via Lever (objective).
+- [Persona](https://persona.com) - Hiring via Ashby (persona).
+- [Phil](https://phil.com) - Hiring via Ashby (phil).
+- [Imprint](https://imprint.com) - Hiring via Ashby (imprint).
+- [Mirage](https://mirage.com) - Hiring via Ashby (mirage).
+- [Nelly](https://nelly.com) - Hiring via Ashby (nelly).
+- [Paradox](https://paradox.com) - Hiring via Ashby (paradox).
+- [Passage](https://passage.com) - Hiring via Ashby (passage).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
