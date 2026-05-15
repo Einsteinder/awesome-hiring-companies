@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1862 companies**.
+Currently tracking **1872 companies**.
 
 This repository is designed for two uses:
 
@@ -1918,6 +1918,16 @@ Open source video player (video.js)
 - [Composio](https://composio.com) - Hiring via Ashby (composio).
 - [Pylon Labs](https://pylonlabs.com) - Hiring via Ashby (pylon-labs).
 - [Loadsmart](https://loadsmart.com) - Hiring via Lever (loadsmart).
+- [Wincent](https://wincent.com) - Hiring via Ashby (wincent).
+- [Osaro](https://osaro.com) - Hiring via Lever (osaro).
+- [Benchsci](https://benchsci.com) - Hiring via Lever (benchsci).
+- [Autofi](https://autofi.com) - Hiring via Lever (autofi).
+- [Ema](https://ema.com) - Hiring via Ashby (ema).
+- [Listenlabs](https://listenlabs.com) - Hiring via Ashby (listenlabs).
+- [Lalamove](https://lalamove.com) - Hiring via Lever (lalamove).
+- [Contentsquare](https://contentsquare.com) - Hiring via Lever (contentsquare).
+- [Creatordeck](https://creatordeck.com) - Hiring via Lever (creatordeck).
+- [Omnea](https://omnea.com) - Hiring via Ashby (omnea).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

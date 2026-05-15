@@ -24353,3 +24353,123 @@
   - open
   sources:
   - https://jobs.lever.co/loadsmart
+
+- name: Wincent
+  slug: wincent
+  domain: wincent.com
+  careers_url: https://jobs.ashbyhq.com/wincent
+  category: open-source-and-platform
+  ats:
+    ashby: wincent
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/wincent
+
+- name: Osaro
+  slug: osaro
+  domain: osaro.com
+  careers_url: https://jobs.lever.co/osaro
+  category: open-source-and-platform
+  ats:
+    lever: osaro
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/osaro
+
+- name: Benchsci
+  slug: benchsci
+  domain: benchsci.com
+  careers_url: https://jobs.lever.co/benchsci
+  category: open-source-and-platform
+  ats:
+    lever: benchsci
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/benchsci
+
+- name: Autofi
+  slug: autofi
+  domain: autofi.com
+  careers_url: https://jobs.lever.co/autofi
+  category: open-source-and-platform
+  ats:
+    lever: autofi
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/autofi
+
+- name: Ema
+  slug: ema
+  domain: ema.com
+  careers_url: https://jobs.ashbyhq.com/ema
+  category: open-source-and-platform
+  ats:
+    ashby: ema
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/ema
+
+- name: Listenlabs
+  slug: listenlabs
+  domain: listenlabs.com
+  careers_url: https://jobs.ashbyhq.com/listenlabs
+  category: open-source-and-platform
+  ats:
+    ashby: listenlabs
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/listenlabs
+
+- name: Lalamove
+  slug: lalamove
+  domain: lalamove.com
+  careers_url: https://jobs.lever.co/lalamove
+  category: open-source-and-platform
+  ats:
+    lever: lalamove
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/lalamove
+
+- name: Contentsquare
+  slug: contentsquare
+  domain: contentsquare.com
+  careers_url: https://jobs.lever.co/contentsquare
+  category: open-source-and-platform
+  ats:
+    lever: contentsquare
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/contentsquare
+
+- name: Creatordeck
+  slug: creatordeck
+  domain: creatordeck.com
+  careers_url: https://jobs.lever.co/creatordeck
+  category: open-source-and-platform
+  ats:
+    lever: creatordeck
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/creatordeck
+
+- name: Omnea
+  slug: omnea
+  domain: omnea.com
+  careers_url: https://jobs.ashbyhq.com/omnea
+  category: open-source-and-platform
+  ats:
+    ashby: omnea
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/omnea
