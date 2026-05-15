@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1530 companies**.
+Currently tracking **1540 companies**.
 
 This repository is designed for two uses:
 
@@ -1586,6 +1586,16 @@ Open source video player (video.js)
 - [Industrial Electric Manufacturing](https://industrialelectricmanufacturing.com) - Hiring via Greenhouse (industrialelectricmanufacturing).
 - [TransMarket Group](https://transmarketgroup.com) - Hiring via Greenhouse (transmarketgroup).
 - [TrueBuilt](https://truebuilt.com) - Hiring via Greenhouse (applytotruebuilt).
+- [DRW](https://drw.com) - Hiring via Greenhouse (drweng).
+- [Wonderschool](https://wonderschool.com) - Hiring via Greenhouse (wonderschool).
+- [Samsung Research America Internship](https://samsungresearchamericainternship.com) - Hiring via Greenhouse (samsungresearchamericainternship).
+- [NewsBreak](https://newsbreak.com) - Hiring via Greenhouse (newsbreak).
+- [Jumio](https://jumio.com) - Hiring via Greenhouse (jumio).
+- [Eulerity](https://eulerity.com) - Hiring via Greenhouse (eulerity).
+- [Commvault](https://commvault.com) - Hiring via Greenhouse (commvault).
+- [Rackner](https://rackner.com) - Hiring via Greenhouse (rackner).
+- [Speechify](https://speechify.com) - Hiring via Greenhouse (speechify).
+- [DriveWealth](https://drivewealth.com) - Hiring via Greenhouse (drivewealth).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

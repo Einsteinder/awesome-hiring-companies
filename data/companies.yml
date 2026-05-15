@@ -20369,3 +20369,123 @@
   - open
   sources:
   - https://boards.greenhouse.io/applytotruebuilt
+
+- name: DRW
+  slug: drw
+  domain: drw.com
+  careers_url: https://boards.greenhouse.io/drweng
+  category: open-source-and-platform
+  ats:
+    greenhouse: drweng
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/drweng
+
+- name: Wonderschool
+  slug: wonderschool
+  domain: wonderschool.com
+  careers_url: https://boards.greenhouse.io/wonderschool
+  category: open-source-and-platform
+  ats:
+    greenhouse: wonderschool
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/wonderschool
+
+- name: Samsung Research America Internship
+  slug: samsung-research-america-internship
+  domain: samsungresearchamericainternship.com
+  careers_url: https://boards.greenhouse.io/samsungresearchamericainternship
+  category: open-source-and-platform
+  ats:
+    greenhouse: samsungresearchamericainternship
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/samsungresearchamericainternship
+
+- name: NewsBreak
+  slug: newsbreak
+  domain: newsbreak.com
+  careers_url: https://boards.greenhouse.io/newsbreak
+  category: open-source-and-platform
+  ats:
+    greenhouse: newsbreak
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/newsbreak
+
+- name: Jumio
+  slug: jumio
+  domain: jumio.com
+  careers_url: https://boards.greenhouse.io/jumio
+  category: open-source-and-platform
+  ats:
+    greenhouse: jumio
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/jumio
+
+- name: Eulerity
+  slug: eulerity
+  domain: eulerity.com
+  careers_url: https://boards.greenhouse.io/eulerity
+  category: open-source-and-platform
+  ats:
+    greenhouse: eulerity
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/eulerity
+
+- name: Commvault
+  slug: commvault
+  domain: commvault.com
+  careers_url: https://boards.greenhouse.io/commvault
+  category: open-source-and-platform
+  ats:
+    greenhouse: commvault
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/commvault
+
+- name: Rackner
+  slug: rackner
+  domain: rackner.com
+  careers_url: https://boards.greenhouse.io/rackner
+  category: open-source-and-platform
+  ats:
+    greenhouse: rackner
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/rackner
+
+- name: Speechify
+  slug: speechify
+  domain: speechify.com
+  careers_url: https://boards.greenhouse.io/speechify
+  category: open-source-and-platform
+  ats:
+    greenhouse: speechify
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/speechify
+
+- name: DriveWealth
+  slug: drivewealth
+  domain: drivewealth.com
+  careers_url: https://boards.greenhouse.io/drivewealth
+  category: open-source-and-platform
+  ats:
+    greenhouse: drivewealth
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/drivewealth
