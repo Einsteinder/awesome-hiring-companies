@@ -12929,3 +12929,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/console
+
+- name: Counsel
+  slug: counsel
+  domain: counsel.com
+  careers_url: https://jobs.ashbyhq.com/counsel
+  category: open-source-and-platform
+  ats:
+    ashby: counsel
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/counsel
+
+- name: Elicit
+  slug: elicit
+  domain: elicit.com
+  careers_url: https://jobs.ashbyhq.com/elicit
+  category: open-source-and-platform
+  ats:
+    ashby: elicit
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/elicit
+
+- name: Architect
+  slug: architect
+  domain: architect.com
+  careers_url: https://jobs.ashbyhq.com/architect
+  category: open-source-and-platform
+  ats:
+    ashby: architect
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/architect
+
+- name: Articulate
+  slug: articulate
+  domain: articulate.com
+  careers_url: https://jobs.lever.co/articulate
+  category: open-source-and-platform
+  ats:
+    lever: articulate
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/articulate
+
+- name: Collective
+  slug: collective
+  domain: collective.com
+  careers_url: https://jobs.ashbyhq.com/collective
+  category: open-source-and-platform
+  ats:
+    ashby: collective
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/collective
+
+- name: Column
+  slug: column
+  domain: column.com
+  careers_url: https://jobs.ashbyhq.com/column
+  category: open-source-and-platform
+  ats:
+    ashby: column
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/column
+
+- name: Comply
+  slug: comply
+  domain: comply.com
+  careers_url: https://jobs.lever.co/comply
+  category: open-source-and-platform
+  ats:
+    lever: comply
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/comply
+
+- name: Allocate
+  slug: allocate
+  domain: allocate.com
+  careers_url: https://jobs.ashbyhq.com/allocate
+  category: open-source-and-platform
+  ats:
+    ashby: allocate
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/allocate
+
+- name: Anagram
+  slug: anagram
+  domain: anagram.com
+  careers_url: https://jobs.ashbyhq.com/anagram
+  category: open-source-and-platform
+  ats:
+    ashby: anagram
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/anagram
+
+- name: Conversion
+  slug: conversion
+  domain: conversion.com
+  careers_url: https://jobs.ashbyhq.com/conversion
+  category: open-source-and-platform
+  ats:
+    ashby: conversion
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/conversion

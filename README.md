@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **910 companies**.
+Currently tracking **920 companies**.
 
 This repository is designed for two uses:
 
@@ -966,6 +966,16 @@ Open source video player (video.js)
 - [Bureau](https://bureau.com) - Hiring via Ashby (bureau).
 - [Capable](https://capable.com) - Hiring via Ashby (capable).
 - [Console](https://console.com) - Hiring via Ashby (console).
+- [Counsel](https://counsel.com) - Hiring via Ashby (counsel).
+- [Elicit](https://elicit.com) - Hiring via Ashby (elicit).
+- [Architect](https://architect.com) - Hiring via Ashby (architect).
+- [Articulate](https://articulate.com) - Hiring via Lever (articulate).
+- [Collective](https://collective.com) - Hiring via Ashby (collective).
+- [Column](https://column.com) - Hiring via Ashby (column).
+- [Comply](https://comply.com) - Hiring via Lever (comply).
+- [Allocate](https://allocate.com) - Hiring via Ashby (allocate).
+- [Anagram](https://anagram.com) - Hiring via Ashby (anagram).
+- [Conversion](https://conversion.com) - Hiring via Ashby (conversion).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
