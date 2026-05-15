@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1760 companies**.
+Currently tracking **1770 companies**.
 
 This repository is designed for two uses:
 
@@ -1816,6 +1816,16 @@ Open source video player (video.js)
 - [MasterClass](https://masterclass.com) - Hiring via Greenhouse (masterclass).
 - [Khan Academy](https://khanacademy.com) - Hiring via Greenhouse (khanacademy).
 - [Team Rubicon](https://teamrubicon.com) - Hiring via Greenhouse (teamrubicon).
+- [Coalition, Inc.](https://coalitioninc.com) - Hiring via Greenhouse (coalition).
+- [Peloton](https://peloton.com) - Hiring via Greenhouse (peloton).
+- [Civis Analytics](https://civisanalytics.com) - Hiring via Greenhouse (civisanalytics).
+- [Fay](https://fay.com) - Hiring via Greenhouse (fay).
+- [ComplyAdvantage](https://complyadvantage.com) - Hiring via Greenhouse (complyadvantage).
+- [Accenture Federal Services](https://accenturefederalservices.com) - Hiring via Greenhouse (accenturefederalservices).
+- [Pilot.com](https://pilotcom.com) - Hiring via Greenhouse (pilothq).
+- [Udemy](https://udemy.com) - Hiring via Greenhouse (udemy).
+- [DeepMind](https://deepmind.com) - Hiring via Greenhouse (deepmind).
+- [Nubank](https://nubank.com) - Hiring via Greenhouse (nubank).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

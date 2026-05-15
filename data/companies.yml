@@ -23129,3 +23129,123 @@
   - open
   sources:
   - https://boards.greenhouse.io/teamrubicon
+
+- name: Coalition, Inc.
+  slug: coalition-inc
+  domain: coalitioninc.com
+  careers_url: https://boards.greenhouse.io/coalition
+  category: open-source-and-platform
+  ats:
+    greenhouse: coalition
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/coalition
+
+- name: Peloton
+  slug: peloton
+  domain: peloton.com
+  careers_url: https://boards.greenhouse.io/peloton
+  category: open-source-and-platform
+  ats:
+    greenhouse: peloton
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/peloton
+
+- name: Civis Analytics
+  slug: civis-analytics
+  domain: civisanalytics.com
+  careers_url: https://boards.greenhouse.io/civisanalytics
+  category: open-source-and-platform
+  ats:
+    greenhouse: civisanalytics
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/civisanalytics
+
+- name: Fay
+  slug: fay
+  domain: fay.com
+  careers_url: https://boards.greenhouse.io/fay
+  category: open-source-and-platform
+  ats:
+    greenhouse: fay
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/fay
+
+- name: ComplyAdvantage
+  slug: complyadvantage
+  domain: complyadvantage.com
+  careers_url: https://boards.greenhouse.io/complyadvantage
+  category: open-source-and-platform
+  ats:
+    greenhouse: complyadvantage
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/complyadvantage
+
+- name: Accenture Federal Services
+  slug: accenture-federal-services
+  domain: accenturefederalservices.com
+  careers_url: https://boards.greenhouse.io/accenturefederalservices
+  category: open-source-and-platform
+  ats:
+    greenhouse: accenturefederalservices
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/accenturefederalservices
+
+- name: Pilot.com
+  slug: pilot-com
+  domain: pilotcom.com
+  careers_url: https://boards.greenhouse.io/pilothq
+  category: open-source-and-platform
+  ats:
+    greenhouse: pilothq
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/pilothq
+
+- name: Udemy
+  slug: udemy
+  domain: udemy.com
+  careers_url: https://boards.greenhouse.io/udemy
+  category: open-source-and-platform
+  ats:
+    greenhouse: udemy
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/udemy
+
+- name: DeepMind
+  slug: deepmind
+  domain: deepmind.com
+  careers_url: https://boards.greenhouse.io/deepmind
+  category: open-source-and-platform
+  ats:
+    greenhouse: deepmind
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/deepmind
+
+- name: Nubank
+  slug: nubank
+  domain: nubank.com
+  careers_url: https://boards.greenhouse.io/nubank
+  category: open-source-and-platform
+  ats:
+    greenhouse: nubank
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/nubank
