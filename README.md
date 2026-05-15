@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1288 companies**.
+Currently tracking **1298 companies**.
 
 This repository is designed for two uses:
 
@@ -1344,6 +1344,16 @@ Open source video player (video.js)
 - [Modulate](https://modulate.com) - Hiring via Lever (modulate).
 - [Monaco](https://monaco.com) - Hiring via Ashby (monaco).
 - [Objection](https://objection.com) - Hiring via Ashby (objection).
+- [Oceanus](https://oceanus.com) - Hiring via Ashby (oceanus).
+- [Pendulum](https://pendulum.com) - Hiring via Lever (pendulum).
+- [Primary](https://primary.com) - Hiring via Ashby (primary).
+- [Quorum](https://quorum.com) - Hiring via Ashby (quorum).
+- [Sandstone](https://sandstone.com) - Hiring via Ashby (sandstone).
+- [Summation](https://summation.com) - Hiring via Ashby (summation).
+- [Swan](https://swan.com) - Hiring via Ashby (swan).
+- [Tacit](https://tacit.com) - Hiring via Ashby (tacit).
+- [Tailwind](https://tailwind.com) - Hiring via Ashby (tailwind).
+- [Kinship](https://kinship.com) - Hiring via Ashby (kinship).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

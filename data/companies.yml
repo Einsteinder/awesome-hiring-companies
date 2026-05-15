@@ -17465,3 +17465,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/objection
+
+- name: Oceanus
+  slug: oceanus
+  domain: oceanus.com
+  careers_url: https://jobs.ashbyhq.com/oceanus
+  category: open-source-and-platform
+  ats:
+    ashby: oceanus
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/oceanus
+
+- name: Pendulum
+  slug: pendulum
+  domain: pendulum.com
+  careers_url: https://jobs.lever.co/pendulum
+  category: open-source-and-platform
+  ats:
+    lever: pendulum
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/pendulum
+
+- name: Primary
+  slug: primary
+  domain: primary.com
+  careers_url: https://jobs.ashbyhq.com/primary
+  category: open-source-and-platform
+  ats:
+    ashby: primary
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/primary
+
+- name: Quorum
+  slug: quorum
+  domain: quorum.com
+  careers_url: https://jobs.ashbyhq.com/quorum
+  category: open-source-and-platform
+  ats:
+    ashby: quorum
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/quorum
+
+- name: Sandstone
+  slug: sandstone
+  domain: sandstone.com
+  careers_url: https://jobs.ashbyhq.com/sandstone
+  category: open-source-and-platform
+  ats:
+    ashby: sandstone
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/sandstone
+
+- name: Summation
+  slug: summation
+  domain: summation.com
+  careers_url: https://jobs.ashbyhq.com/summation
+  category: open-source-and-platform
+  ats:
+    ashby: summation
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/summation
+
+- name: Swan
+  slug: swan
+  domain: swan.com
+  careers_url: https://jobs.ashbyhq.com/swan
+  category: open-source-and-platform
+  ats:
+    ashby: swan
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/swan
+
+- name: Tacit
+  slug: tacit
+  domain: tacit.com
+  careers_url: https://jobs.ashbyhq.com/tacit
+  category: open-source-and-platform
+  ats:
+    ashby: tacit
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/tacit
+
+- name: Tailwind
+  slug: tailwind
+  domain: tailwind.com
+  careers_url: https://jobs.ashbyhq.com/tailwind
+  category: open-source-and-platform
+  ats:
+    ashby: tailwind
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/tailwind
+
+- name: Kinship
+  slug: kinship
+  domain: kinship.com
+  careers_url: https://jobs.ashbyhq.com/kinship
+  category: open-source-and-platform
+  ats:
+    ashby: kinship
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/kinship
