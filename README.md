@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1108 companies**.
+Currently tracking **1118 companies**.
 
 This repository is designed for two uses:
 
@@ -1164,6 +1164,16 @@ Open source video player (video.js)
 - [Gravity](https://gravity.com) - Hiring via Ashby (gravity).
 - [Heard](https://heard.com) - Hiring via Lever (heard).
 - [Hint](https://hint.com) - Hiring via Lever (hint).
+- [Snowflake](https://snowflake.com) - Hiring via Ashby (snowflake).
+- [Whoop](https://whoop.com) - Hiring via Lever (whoop).
+- [Perk](https://perk.com) - Hiring via Ashby (perk).
+- [Hopper](https://hopper.com) - Hiring via Ashby (hopper).
+- [Voodoo](https://voodoo.com) - Hiring via Ashby (voodoo).
+- [Pattern](https://pattern.com) - Hiring via Lever (pattern).
+- [Redis](https://redis.com) - Hiring via Ashby (redis).
+- [Spear](https://spear.com) - Hiring via Lever (spear).
+- [Kong](https://kong.com) - Hiring via Ashby (kong).
+- [Lovable](https://lovable.com) - Hiring via Ashby (lovable).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

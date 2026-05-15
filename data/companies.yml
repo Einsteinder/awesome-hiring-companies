@@ -15305,3 +15305,123 @@
   - open
   sources:
   - https://jobs.lever.co/hint
+
+- name: Snowflake
+  slug: snowflake
+  domain: snowflake.com
+  careers_url: https://jobs.ashbyhq.com/snowflake
+  category: open-source-and-platform
+  ats:
+    ashby: snowflake
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/snowflake
+
+- name: Whoop
+  slug: whoop
+  domain: whoop.com
+  careers_url: https://jobs.lever.co/whoop
+  category: open-source-and-platform
+  ats:
+    lever: whoop
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/whoop
+
+- name: Perk
+  slug: perk
+  domain: perk.com
+  careers_url: https://jobs.ashbyhq.com/perk
+  category: open-source-and-platform
+  ats:
+    ashby: perk
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/perk
+
+- name: Hopper
+  slug: hopper
+  domain: hopper.com
+  careers_url: https://jobs.ashbyhq.com/hopper
+  category: open-source-and-platform
+  ats:
+    ashby: hopper
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/hopper
+
+- name: Voodoo
+  slug: voodoo
+  domain: voodoo.com
+  careers_url: https://jobs.ashbyhq.com/voodoo
+  category: open-source-and-platform
+  ats:
+    ashby: voodoo
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/voodoo
+
+- name: Pattern
+  slug: pattern
+  domain: pattern.com
+  careers_url: https://jobs.lever.co/pattern
+  category: open-source-and-platform
+  ats:
+    lever: pattern
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/pattern
+
+- name: Redis
+  slug: redis
+  domain: redis.com
+  careers_url: https://jobs.ashbyhq.com/redis
+  category: open-source-and-platform
+  ats:
+    ashby: redis
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/redis
+
+- name: Spear
+  slug: spear
+  domain: spear.com
+  careers_url: https://jobs.lever.co/spear
+  category: open-source-and-platform
+  ats:
+    lever: spear
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/spear
+
+- name: Kong
+  slug: kong
+  domain: kong.com
+  careers_url: https://jobs.ashbyhq.com/kong
+  category: open-source-and-platform
+  ats:
+    ashby: kong
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/kong
+
+- name: Lovable
+  slug: lovable
+  domain: lovable.com
+  careers_url: https://jobs.ashbyhq.com/lovable
+  category: open-source-and-platform
+  ats:
+    ashby: lovable
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/lovable
