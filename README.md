@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **730 companies**.
+Currently tracking **740 companies**.
 
 This repository is designed for two uses:
 
@@ -786,6 +786,16 @@ Open source video player (video.js)
 - [Pronto](https://tuprontomx.com) - Ride-sharing for second-tier cities in Latin America.
 - [OutRival, Inc.](https://outrival.com) - Outbound AI Agents for Education, Insurance, and Travel
 - [Prometheus](https://prometheusfuels.com) - We use solar and wind power to make zero net carbon electrofuels
+- [Vorticity](https://vorticity.xyz) - The Fastest Scientific Computing Platform on the Planet
+- [PostEra](https://postera.ai) - Medicinal Chemistry powered by Machine Learning
+- [Upflow](https://upflow.io) - Cash collection tech for B2B businesses
+- [Angle Health](https://anglehealth.com) - Health Insurance for Startups
+- [Living Carbon](https://livingcarbon.com) - maximizing biomass on low quality land
+- [PowerUs](https://powerus.de) - LinkedIn for skilled blue-collar workers
+- [Hotplate](https://hotplate.com) - Online ordering platform for independent chefs and bakers.
+- [Atrato](https://atratopago.com) - Enabling consumers split the cost of purchases without a credit card
+- [Smartcuts](https://trysmartcuts.com) - Chrome extension to turn clicks & keystrokes into no-code automations
+- [Fathom](https://fathom.ai) - The most flexible AI meeting notetaker ever built.
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

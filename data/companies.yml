@@ -10537,3 +10537,148 @@
   - climate
   sources:
   - https://jobs.ashbyhq.com/prometheus
+
+- name: Vorticity
+  slug: vorticity
+  domain: vorticity.xyz
+  careers_url: https://jobs.ashbyhq.com/vorticity
+  category: developer-infrastructure
+  ats:
+    ashby: vorticity
+  tags:
+  - industrials
+  - industrials-manufacturing-and-robotics
+  - cloud-computing
+  sources:
+  - https://jobs.ashbyhq.com/vorticity
+
+- name: PostEra
+  slug: postera
+  domain: postera.ai
+  careers_url: https://jobs.lever.co/postera
+  category: consumer-and-marketplace
+  ats:
+    lever: postera
+  tags:
+  - healthcare
+  - healthcare-drug-discovery-and-delivery
+  - ai-powered-drug-discovery
+  - machine-learning
+  sources:
+  - https://jobs.lever.co/postera
+
+- name: Upflow
+  slug: upflow
+  domain: upflow.io
+  careers_url: https://jobs.ashbyhq.com/upflow
+  category: fintech
+  ats:
+    ashby: upflow
+  tags:
+  - fintech
+  - fintech-payments
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/upflow
+
+- name: Angle Health
+  slug: angle-health
+  domain: anglehealth.com
+  careers_url: https://jobs.ashbyhq.com/anglehealth
+  category: fintech
+  ats:
+    ashby: anglehealth
+  tags:
+  - fintech
+  - fintech-insurance
+  - health-insurance
+  sources:
+  - https://jobs.ashbyhq.com/anglehealth
+
+- name: Living Carbon
+  slug: living-carbon
+  domain: livingcarbon.com
+  careers_url: https://jobs.lever.co/livingcarbon
+  category: open-source-and-platform
+  ats:
+    lever: livingcarbon
+  tags:
+  - industrials
+  - industrials-climate
+  - synthetic-biology
+  - biotech
+  sources:
+  - https://jobs.lever.co/livingcarbon
+
+- name: PowerUs
+  slug: powerus
+  domain: powerus.de
+  careers_url: https://jobs.ashbyhq.com/powerus
+  category: consumer-and-marketplace
+  ats:
+    ashby: powerus
+  tags:
+  - consumer
+  - consumer-job-and-career-services
+  - b2b
+  - recruiting
+  sources:
+  - https://jobs.ashbyhq.com/powerus
+
+- name: Hotplate
+  slug: hotplate
+  domain: hotplate.com
+  careers_url: https://jobs.ashbyhq.com/hotplate
+  category: consumer-and-marketplace
+  ats:
+    ashby: hotplate
+  tags:
+  - consumer
+  - consumer-food-and-beverage
+  sources:
+  - https://jobs.ashbyhq.com/hotplate
+
+- name: Atrato
+  slug: atrato
+  domain: atratopago.com
+  careers_url: https://jobs.ashbyhq.com/atrato
+  category: fintech
+  ats:
+    ashby: atrato
+  tags:
+  - fintech
+  - fintech-payments
+  - payments
+  - consumer-finance
+  sources:
+  - https://jobs.ashbyhq.com/atrato
+
+- name: Smartcuts
+  slug: smartcuts
+  domain: trysmartcuts.com
+  careers_url: https://jobs.lever.co/smartcuts
+  category: open-source-and-platform
+  ats:
+    lever: smartcuts
+  tags:
+  - b2b
+  - b2b-productivity
+  - no-code
+  - automation
+  sources:
+  - https://jobs.lever.co/smartcuts
+
+- name: Fathom
+  slug: fathom
+  domain: fathom.ai
+  careers_url: https://jobs.ashbyhq.com/fathom
+  category: ai-and-data
+  ats:
+    ashby: fathom
+  tags:
+  - b2b
+  - b2b-productivity
+  - saas
+  - productivity
+  sources:
+  - https://jobs.ashbyhq.com/fathom
