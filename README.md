@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **2144 companies**.
+Currently tracking **2174 companies**.
 
 This repository is designed for two uses:
 
@@ -38,13 +38,13 @@ Each category lives in its own file under [`docs/categories/`](docs/categories/)
 
 | Category | Companies |
 | --- | ---: |
-| [AI and Data](docs/categories/ai-and-data.md) | 186 |
-| [Developer Infrastructure](docs/categories/developer-infrastructure.md) | 177 |
-| [Fintech](docs/categories/fintech.md) | 199 |
-| [Consumer and Marketplace](docs/categories/consumer-and-marketplace.md) | 124 |
+| [AI and Data](docs/categories/ai-and-data.md) | 188 |
+| [Developer Infrastructure](docs/categories/developer-infrastructure.md) | 183 |
+| [Fintech](docs/categories/fintech.md) | 200 |
+| [Consumer and Marketplace](docs/categories/consumer-and-marketplace.md) | 135 |
 | [Healthcare and Biotech](docs/categories/healthcare-and-biotech.md) | 133 |
-| [Industrials and Climate](docs/categories/industrials-and-climate.md) | 189 |
-| [B2B Enterprise](docs/categories/b2b-enterprise.md) | 68 |
+| [Industrials and Climate](docs/categories/industrials-and-climate.md) | 191 |
+| [B2B Enterprise](docs/categories/b2b-enterprise.md) | 76 |
 | [Open Source and Platform](docs/categories/open-source-and-platform.md) | 1068 |
 
 ## Data Format

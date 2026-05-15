@@ -28,11 +28,13 @@ Consumer products, communities, marketplaces, media, travel, commerce, education
 - [Cocoon](https://cocoon.com) - Bring your most important groups closer together
 - [Comcast](https://comcast.com) - Cable, broadband, and media (NBCUniversal).
 - [Copia](https://gocopia.com) - Copia's a for-profit technology company that solves food waste &…
+- [Costco](https://costco.com) - Membership-based wholesale retailer.
 - [Deductive](https://deductive.com) - Hiring via Ashby (deductive).
 - [Dex](https://getdex.com) - Dex is a personal CRM that reminds you to keep in touch with the…
 - [Discord](https://discord.com) - Communications platform for communities, gaming, and social products.
 - [Disney](https://thewaltdisneycompany.com) - Media, parks, and entertainment conglomerate.
 - [Duolingo](https://duolingo.com) - Consumer learning platform with product, growth, ML, and mobile engineering roles.
+- [eBay](https://ebay.com) - Consumer e-commerce marketplace.
 - [Educative](https://educative.com) - Hiring via Lever (educative).
 - [Electronic Arts](https://ea.com) - Video game publisher and developer.
 - [Ello](https://ello.com) - Building the world's first 1:1 AI teacher.
@@ -58,6 +60,7 @@ Consumer products, communities, marketplaces, media, travel, commerce, education
 - [LinkedIn](https://linkedin.com) - Professional networking and recruiting platform.
 - [Lyft](https://lyft.com) - Ride-hailing and transportation platform.
 - [MarcoPolo](https://marcopolo.com) - Alibaba for Latin America
+- [McDonald's](https://mcdonalds.com) - Global quick-service restaurant chain.
 - [Meadow](https://getmeadow.com) - Point of Sale and Compliance SaaS for Cannabis Dispensaries
 - [Meesho](https://meesho.com) - Democratizing internet commerce for everyone in India
 - [Meta](https://meta.com) - Facebook, Instagram, WhatsApp, and Reality Labs.
@@ -65,8 +68,10 @@ Consumer products, communities, marketplaces, media, travel, commerce, education
 - [Misfits Market](https://misfitsmarket.com) - Hiring via Greenhouse (misfitsmarket).
 - [Mosaic](https://mosaic.so) - Agentic video editing
 - [Multiverse](https://playmultiverse.com) - Multiverse is a web-based game creation system inspired by Dungeons &…
+- [NBCUniversal](https://nbcuni.com) - Media and entertainment (NBC, Peacock, Universal).
 - [Nectar Social](https://nectarsocial.com) - Hiring via Ashby (nectar-social).
 - [Netflix](https://netflix.com) - Streaming entertainment platform.
+- [Nextdoor](https://nextdoor.com) - Neighborhood-focused social network.
 - [Niantic](https://nianticlabs.com) - Pokémon GO and AR location games.
 - [Odin](https://savewithodin.com) - Save, organize and showcase your mental dump
 - [Opennote](https://opennote.com) - The notebook that thinks with you.
@@ -93,6 +98,7 @@ Consumer products, communities, marketplaces, media, travel, commerce, education
 - [Shopmonkey](https://shopmonkey.com) - Hiring via Greenhouse (shopmonkey).
 - [Sightline Media Group](https://sightlinemediagroup.com) - Hiring via Greenhouse (sightlinemediagroup).
 - [SkyLink](https://tryskylink.com) - Travel Management Meets AI
+- [Skyscanner](https://skyscanner.net) - Travel-fare aggregator and flights marketplace.
 - [Snackpass](https://snackpass.co) - Order ahead at restaurants and get rewards with friends.
 - [Snap](https://snap.com) - Snapchat camera platform and AR product company.
 - [Snappr](https://snappr.com) - Snappr is the one-stop-shop for visual content creation
@@ -106,17 +112,22 @@ Consumer products, communities, marketplaces, media, travel, commerce, education
 - [T-Mobile](https://t-mobile.com) - Mobile network carrier.
 - [Tajir](https://tajir.app) - The one-stop shop for mom-and-pop stores in Pakistan to buy inventory.
 - [Take-Two Interactive](https://take2games.com) - Gaming publisher — Rockstar, 2K.
+- [Target](https://target.com) - Mass-market retailer with strong digital and supply-chain tech.
 - [The Athletic](https://theathletic.com) - Subscription sports media.
+- [The Home Depot](https://homedepot.com) - Home improvement retailer with sizable e-commerce and supply-chain tech.
 - [TikTok](https://tiktok.com) - Short-video social platform (ByteDance).
 - [Tovala](https://tovala.com) - A smart-oven-paired subscription meal service.
 - [TransMarket Group](https://transmarketgroup.com) - Hiring via Greenhouse (transmarketgroup).
 - [Twitch](https://twitch.com) - A global community creating the future of live entertainment.
 - [Uber](https://uber.com) - Ride-hailing, delivery, and freight marketplace.
+- [Ubisoft](https://ubisoft.com) - Video-game publisher (Assassin's Creed, Far Cry).
 - [Unlearn](https://unlearn.com) - Hiring via Ashby (unlearn).
 - [Verizon](https://verizon.com) - Telecommunications and wireless carrier.
 - [Vori](https://vori.com) - Vori is a modern operating system for supermarkets
 - [Vox Media, LLC](https://voxmediallc.com) - Hiring via Greenhouse (voxmedia).
+- [Walmart](https://walmart.com) - Global retailer with large tech and supply-chain orgs.
 - [Warner Bros. Discovery](https://wbd.com) - Media conglomerate (HBO Max, CNN, Warner Bros.).
+- [Weebly](https://weebly.com) - DIY website and online-store builder (Square / Block).
 - [Weride](https://weride.com) - Hiring via Lever (weride).
 - [Whatnot](https://whatnot.com) - Whatnot is the largest livestream shopping platform in the U.S.
 - [Wikimedia Foundation](https://wikimediafoundation.com) - Hiring via Greenhouse (wikimedia).

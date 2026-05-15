@@ -11,6 +11,7 @@ Developer tools, cloud, infrastructure, security, observability, and B2B technic
 - [Anysphere](https://anysphere.inc) - AI developer-tooling company behind Cursor.
 - [Aperia Technologies, Inc](https://aperiatechnologiesinc.com) - Hiring via Greenhouse (aperiatechnologies).
 - [Apex Technology Inc](https://apextechnologyinc.com) - Hiring via Ashby (apex-technology-inc).
+- [Appsmith](https://appsmith.com) - Open-source internal-tool builder.
 - [Aqua Security](https://aquasec.com) - Container and cloud-native application security.
 - [Arketa](https://arketa.com) - Everything for your fitness or wellness business.
 - [Armory](https://armory.io) - Continuous Deployment at any scale, for all developers.
@@ -57,6 +58,7 @@ Developer tools, cloud, infrastructure, security, observability, and B2B technic
 - [Elastic](https://elastic.co) - Search, observability, and security platform company.
 - [Embrace](https://embrace.io) - Modern mobile observability built on OpenTelemetry
 - [Empirical Security](https://empiricalsecurity.com) - Hiring via Ashby (empirical-security).
+- [Equinix](https://equinix.com) - Global data-center and interconnection platform.
 - [Escape](https://escape.tech) - Offensive security for the teams that are 100x outnumbered
 - [Exa](https://exa.ai) - Web search rebuilt for LLMs
 - [Extend](https://extend.ai) - Production-ready document processing
@@ -72,6 +74,7 @@ Developer tools, cloud, infrastructure, security, observability, and B2B technic
 - [Freedom Technology Solutions Group](https://freedomtechnologysolutionsgroup.com) - Hiring via Greenhouse (freedomconsulting).
 - [Freshpaint](https://freshpaint.io) - Customer data collection, safeguarding, & activation for healthcare
 - [Galaxy](https://galaxysdk.com) - Social SDK for games
+- [GitKraken](https://gitkraken.com) - Git GUI and developer-collaboration tools.
 - [GitLab](https://gitlab.com) - DevSecOps platform with a remote-first company model.
 - [Go Cloudforce](https://gocloudforce.com) - Hiring via Lever (go-cloudforce).
 - [GoLinks](https://golinks.io) - Intuitive, easy-to-remember short links - powered by AI.
@@ -98,6 +101,7 @@ Developer tools, cloud, infrastructure, security, observability, and B2B technic
 - [Logos](https://logos.com) - Hiring via Greenhouse (logos).
 - [Luminai](https://luminai.com) - Luminai helps automate repetitive manual work away from your mission…
 - [Mantis](https://mantisbiotech.com) - Digital Twins of humans
+- [MariaDB](https://mariadb.com) - Open-source relational database and managed cloud.
 - [Maven](https://trymaven.com) - Payments Infrastructure for Voice Agents
 - [Mesh](https://mesh.ai) - Performance management platform that fits the way you work
 - [Microsoft](https://microsoft.com) - Cloud (Azure), productivity (Office), Windows, and developer tools.
@@ -114,6 +118,7 @@ Developer tools, cloud, infrastructure, security, observability, and B2B technic
 - [Neon](https://neon.tech) - Serverless Postgres platform for developers.
 - [New Era Technology](https://neweratechnology.com) - Hiring via Greenhouse (neweratech).
 - [Northslope Technologies](https://northslopetechnologies.com) - Hiring via Ashby (northslope-technologies).
+- [Nutanix](https://nutanix.com) - Hybrid multicloud and hyperconverged infrastructure.
 - [Observe.AI](https://observe.ai) - Contact center AI platform.
 - [Onebrief](https://onebrief.com) - Onebrief makes military headquarters run seamlessly
 - [OpenAI](https://openai.com) - AI research and product company with roles across research, engineering, infrastructure, policy, and go-to-market.
@@ -124,6 +129,7 @@ Developer tools, cloud, infrastructure, security, observability, and B2B technic
 - [PointOne](https://pointone.com) - AI Time Platform for Law Firms
 - [Porter](https://porter.run) - Easiest way to deploy on AWS/GCP/Azure
 - [Prompt](https://getprompt.app) - Helping busy professionals understand and maintain their relationships
+- [Pure Storage](https://purestorage.com) - All-flash enterprise storage.
 - [Pylon](https://pylonump.com) - Infrastructure management software for water & electricity companies
 - [Quicknode](https://quicknode.com) - Tools & infra to build and scale high-quality blockchain applications.
 - [Rally UXR](https://rallyuxr.com) - User Research CRM

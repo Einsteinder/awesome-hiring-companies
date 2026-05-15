@@ -30,6 +30,7 @@ Hardware, manufacturing, robotics, climate, energy, aviation, space, supply chai
 - [Boeing](https://boeing.com) - Aerospace and defense manufacturer.
 - [Bolster](https://bolsterbuilt.com) - The platform for buying, selling and managing residential construction
 - [Boom](https://boomsupersonic.com) - Economically and environmentally sustainable supersonic travel
+- [Bosch](https://bosch.com) - Industrial engineering, mobility, and consumer goods conglomerate.
 - [Broadcom](https://broadcom.com) - Semiconductor and infrastructure software (post-VMware).
 - [burnt](https://getburnt.ai) - Agentic Operating System for Food Supply Chain
 - [Cambio](https://cambio.ai) - AI-native commercial real estate operations
@@ -75,6 +76,7 @@ Hardware, manufacturing, robotics, climate, energy, aviation, space, supply chai
 - [Foundation](https://buildwithfoundation.com) - Shopify for Homebuilders
 - [Framenergy](https://framenergy.com) - Hiring via Ashby (framenergy).
 - [Gecko Robotics](https://geckorobotics.com) - AI + Robotics for the Built World
+- [General Dynamics](https://gd.com) - Defense, aerospace, and information-systems contractor.
 - [General Motors](https://gm.com) - Automotive manufacturer.
 - [Gridware](https://gridware.io) - Protecting the grid today, preparing the grid for tomorrow
 - [Grin](https://ongrin.com) - Mobility and payments platform for Latin America

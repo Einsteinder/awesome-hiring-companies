@@ -48,6 +48,7 @@ AI, machine learning, analytics, databases, and data infrastructure.
 - [Deepgram](https://deepgram.com) - Building foundational AI for speech transcription and understanding.
 - [Deepnote](https://deepnote.com) - A better data science notebook.
 - [DiligenceSquared](https://diligencesquared.com) - AI-powered market due diligence for investment decisions
+- [Docsumo](https://docsumo.com) - Document AI for intelligent data extraction.
 - [Doe](https://doe.so) - The boring stuff, handled. Everything else, supercharged.
 - [Domu Technology Inc.](https://domu.ai) - AI Agents for collections
 - [Echo](https://echothat.ai) - Founder-led sales co-pilot for B2B startups.
@@ -98,6 +99,7 @@ AI, machine learning, analytics, databases, and data infrastructure.
 - [Mem0](https://mem0.ai) - The Memory layer for your AI apps
 - [Mercator](https://mercator.tech) - AI-assisted data analytics
 - [Midjourney](https://midjourney.com) - Generative image AI.
+- [Mindee](https://mindee.com) - Document parsing and OCR APIs.
 - [Miso](https://miso.kr) - We make booking services as easy as buying products online.
 - [Mixpanel](https://mixpanel.com) - Mixpanel is event analytics for builders that need answers.
 - [Modus](https://himodus.com) - Unlock revenue per employee with AI-powered headcount management

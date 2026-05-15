@@ -9,6 +9,7 @@ B2B SaaS that does not fit `developer-infrastructure` — HR, sales, marketing, 
 - [Apollo.io](https://apollo.io) - Apollo is the foundation of your entire go-to-market strategy.
 - [Aragorn AI](https://aragorn.ai) - Operating system for HR in the AI era
 - [AthenaHQ](https://athenahq.ai) - Be the Answer in AI Search - AI SEO across SEO, GEO & AEO
+- [Atlassian](https://atlassian.com) - Team collaboration software (Jira, Confluence, Trello).
 - [Avoca](https://avoca.ai) - AI-powered Sales Agent for Service-Based Industries
 - [BootLoop](https://bootloop.ai) - Firmware in minutes, not months - rigorously tested on real hardware
 - [Bubble Lab](https://bubblelab.ai) - Prompt once, automate forever.
@@ -17,6 +18,7 @@ B2B SaaS that does not fit `developer-infrastructure` — HR, sales, marketing, 
 - [Circleback](https://circleback.ai) - AI-powered meeting notes and automations
 - [Clara Labs](https://claralabs.com) - Clara is a human-in-the-loop assistant that helps automate repetitive…
 - [Clerky](https://clerky.com) - Makes legal paperwork easy for startups and their attorneys.
+- [Codility](https://codility.com) - Technical-assessment and engineering-hiring platform.
 - [Datacurve](https://datacurve.ai) - Frontier coding data for training and evaluating LLMs
 - [David AI](https://withdavid.ai) - Data for audio AI
 - [Dropbox](https://dropbox.com) - Productivity and storage platform company.
@@ -26,21 +28,27 @@ B2B SaaS that does not fit `developer-infrastructure` — HR, sales, marketing, 
 - [General Legal](https://general.legal) - The AI native law firm for growth stage companies
 - [Gumloop](https://gumloop.com) - A no-code platform for creating agents and automating workflows with…
 - [Hightouch](https://hightouch.com) - The leading Composable CDP and AI Decisioning platform
+- [Hitachi Vantara](https://hitachivantara.com) - Enterprise data infrastructure and digital services.
+- [Hootsuite](https://hootsuite.com) - Social-media management for businesses.
 - [Humanly](https://humanly.io) - We empower the world’s hiring teams to grow engaged, high-performing…
 - [IBM](https://ibm.com) - Enterprise IT, hybrid cloud, and AI services.
 - [Idler](https://idler.ai) - Reinforcement learning environments.
 - [ion design](https://ion.design) - AI that creates & tests 100s of landing pages for your product
+- [Jobvite](https://jobvite.com) - Talent-acquisition and applicant-tracking suite.
 - [Kastle](https://kastle.ai) - AI agents for mortgage servicing
 - [Kodex](https://kodexglobal.com) - Easiest way for companies to process data requests from governments
 - [Kombo](https://kombo.dev) - Unified API for HR, payroll and recruiting software
 - [Lance](https://lance.live) - AI Agents That Run Hotel Operations.
 - [Lio (formerly askLio)](https://lio.ai) - The World's First Multi-Agent System for Procurement
 - [Lob](https://lob.com) - Lob is the only automation platform that transforms direct mail into…
+- [Loom](https://loom.com) - Async video messaging (Atlassian).
 - [Magic Patterns](https://magicpatterns.com) - Go from idea to production with AI.
 - [Mattermost](https://mattermost.com) - Secure Collaboration for Technical Teams
 - [Mercura](https://mercura.ai) - AI Quote and Order Automation for Distributors & Manufacturers
+- [Mews](https://mews.com) - Cloud property-management system for hotels.
 - [Minimal AI](https://gominimal.ai) - AI Agents for E-commerce Customer Support
 - [Newton](https://joinnewton.com) - AI-powered phone platform for dentists
+- [NielsenIQ](https://nielseniq.com) - Consumer measurement and retail-insights data company.
 - [OpenWork](https://openworklabs.com) - The open source alternative to Claude Cowork
 - [Paradigm](https://paradigmai.com) - A reimagined workspace with AI at its core
 - [Peppr AI](https://usepeppr.ai) - In-call AI teleprompter that helps reps close enterprise deals

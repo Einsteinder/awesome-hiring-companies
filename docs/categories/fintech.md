@@ -186,6 +186,7 @@ Payments, banking, investing, crypto, expense, payroll, and financial infrastruc
 - [TRM Labs](https://trmlabs.com) - TRM is building a safer financial system for billions of people.
 - [True Link](https://truelinkfinancial.com) - Financial Services for Financial Caregivers.
 - [Truebill](https://truebill.com) - Live your best financial life
+- [TrueLayer](https://truelayer.com) - Open-banking payments and data APIs.
 - [Two Dots](https://twodots.net) - AI fraud prevention and underwriting agent
 - [Upflow](https://upflow.io) - Cash collection tech for B2B businesses
 - [Veriff](https://veriff.com) - AI-powered identity verification solution for fraud prevention.
