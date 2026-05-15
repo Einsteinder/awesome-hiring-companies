@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **690 companies**.
+Currently tracking **700 companies**.
 
 This repository is designed for two uses:
 
@@ -746,6 +746,16 @@ Open source video player (video.js)
 - [Cambio](https://cambio.ai) - AI-native commercial real estate operations
 - [Cosine](https://cosine.sh) - Fully Agentic SWE
 - [Pirros](https://pirros.com) - Github for Construction
+- [Loula](https://joinloula.com) - Enabling birth & postpartum doulas to easily accept insurance.
+- [Conduit](https://helloconduit.com) - The operating system for shipping and receiving.
+- [Continue](https://continue.dev) - Quality control for your software factory
+- [Pure](https://collectpure.com) - Marketplace for Rare Coins & Precious Metals
+- [Greptile](https://greptile.com) - AI code review agent with complete context of your codebase
+- [Newton](https://joinnewton.com) - AI-powered phone platform for dentists
+- [Arini](https://arini.ai) - AI receptionist for dentists
+- [Brainbase Labs](https://brainbaselabs.com) - The AI Labor Company
+- [Atum Works](https://atum.works) - Gigascale Nanomanufacturing
+- [Quetzal](https://getquetzal.com) - Simple, LLM-first translation and internationalization for software
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

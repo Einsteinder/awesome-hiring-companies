@@ -9962,3 +9962,148 @@
   - b2b-engineering-product-and-design
   sources:
   - https://jobs.ashbyhq.com/pirros
+
+- name: Loula
+  slug: loula
+  domain: joinloula.com
+  careers_url: https://jobs.ashbyhq.com/loula
+  category: consumer-and-marketplace
+  ats:
+    ashby: loula
+  tags:
+  - healthcare
+  - healthcare-healthcare-services
+  - health-tech
+  - digital-health
+  sources:
+  - https://jobs.ashbyhq.com/loula
+
+- name: Conduit
+  slug: conduit
+  domain: helloconduit.com
+  careers_url: https://jobs.ashbyhq.com/conduit
+  category: ai-and-data
+  ats:
+    ashby: conduit
+  tags:
+  - b2b
+  - b2b-supply-chain-and-logistics
+  - artificial-intelligence
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/conduit
+
+- name: Continue
+  slug: continue
+  domain: continue.dev
+  careers_url: https://jobs.ashbyhq.com/continue
+  category: ai-and-data
+  ats:
+    ashby: continue
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - artificial-intelligence
+  - developer-tools
+  sources:
+  - https://jobs.ashbyhq.com/continue
+
+- name: Pure
+  slug: pure
+  domain: collectpure.com
+  careers_url: https://jobs.ashbyhq.com/pure
+  category: consumer-and-marketplace
+  ats:
+    ashby: pure
+  tags:
+  - consumer
+  - marketplace
+  sources:
+  - https://jobs.ashbyhq.com/pure
+
+- name: Greptile
+  slug: greptile
+  domain: greptile.com
+  careers_url: https://jobs.ashbyhq.com/greptile
+  category: ai-and-data
+  ats:
+    ashby: greptile
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - artificial-intelligence
+  - developer-tools
+  sources:
+  - https://jobs.ashbyhq.com/greptile
+
+- name: Newton
+  slug: newton
+  domain: joinnewton.com
+  careers_url: https://jobs.lever.co/newton
+  category: ai-and-data
+  ats:
+    lever: newton
+  tags:
+  - b2b
+  sources:
+  - https://jobs.lever.co/newton
+
+- name: Arini
+  slug: arini
+  domain: arini.ai
+  careers_url: https://jobs.ashbyhq.com/arini
+  category: ai-and-data
+  ats:
+    ashby: arini
+  tags:
+  - healthcare
+  - healthcare-healthcare-it
+  - artificial-intelligence
+  - health-tech
+  sources:
+  - https://jobs.ashbyhq.com/arini
+
+- name: Brainbase Labs
+  slug: brainbase-labs
+  domain: brainbaselabs.com
+  careers_url: https://jobs.ashbyhq.com/brainbaselabs
+  category: ai-and-data
+  ats:
+    ashby: brainbaselabs
+  tags:
+  - b2b
+  - artificial-intelligence
+  - generative-ai
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/brainbaselabs
+
+- name: Atum Works
+  slug: atum-works
+  domain: atum.works
+  careers_url: https://jobs.ashbyhq.com/atumworks
+  category: open-source-and-platform
+  ats:
+    ashby: atumworks
+  tags:
+  - industrials
+  - industrials-manufacturing-and-robotics
+  - hard-tech
+  - 3d-printing
+  sources:
+  - https://jobs.ashbyhq.com/atumworks
+
+- name: Quetzal
+  slug: quetzal
+  domain: getquetzal.com
+  careers_url: https://boards.greenhouse.io/quetzal
+  category: ai-and-data
+  ats:
+    greenhouse: quetzal
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - artificial-intelligence
+  - saas
+  sources:
+  - https://boards.greenhouse.io/quetzal
