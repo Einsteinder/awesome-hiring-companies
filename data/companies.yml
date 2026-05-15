@@ -24233,3 +24233,123 @@
   - open
   sources:
   - https://jobs.lever.co/bhg-inc
+
+- name: Sona
+  slug: sona
+  domain: sona.com
+  careers_url: https://jobs.ashbyhq.com/sona
+  category: open-source-and-platform
+  ats:
+    ashby: sona
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/sona
+
+- name: Atomicsemi
+  slug: atomicsemi
+  domain: atomicsemi.com
+  careers_url: https://jobs.ashbyhq.com/atomicsemi
+  category: open-source-and-platform
+  ats:
+    ashby: atomicsemi
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/atomicsemi
+
+- name: Vertical Aerospace
+  slug: vertical-aerospace
+  domain: verticalaerospace.com
+  careers_url: https://jobs.ashbyhq.com/vertical-aerospace
+  category: open-source-and-platform
+  ats:
+    ashby: vertical-aerospace
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/vertical-aerospace
+
+- name: Airops
+  slug: airops
+  domain: airops.com
+  careers_url: https://jobs.ashbyhq.com/airops
+  category: open-source-and-platform
+  ats:
+    ashby: airops
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/airops
+
+- name: Evidentid
+  slug: evidentid
+  domain: evidentid.com
+  careers_url: https://jobs.lever.co/evidentid
+  category: open-source-and-platform
+  ats:
+    lever: evidentid
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/evidentid
+
+- name: Twelve Labs
+  slug: twelve-labs
+  domain: twelvelabs.com
+  careers_url: https://jobs.ashbyhq.com/twelve-labs
+  category: open-source-and-platform
+  ats:
+    ashby: twelve-labs
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/twelve-labs
+
+- name: Lpadesignstudios
+  slug: lpadesignstudios
+  domain: lpadesignstudios.com
+  careers_url: https://jobs.ashbyhq.com/lpadesignstudios
+  category: open-source-and-platform
+  ats:
+    ashby: lpadesignstudios
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/lpadesignstudios
+
+- name: Composio
+  slug: composio
+  domain: composio.com
+  careers_url: https://jobs.ashbyhq.com/composio
+  category: open-source-and-platform
+  ats:
+    ashby: composio
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/composio
+
+- name: Pylon Labs
+  slug: pylon-labs
+  domain: pylonlabs.com
+  careers_url: https://jobs.ashbyhq.com/pylon-labs
+  category: open-source-and-platform
+  ats:
+    ashby: pylon-labs
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/pylon-labs
+
+- name: Loadsmart
+  slug: loadsmart
+  domain: loadsmart.com
+  careers_url: https://jobs.lever.co/loadsmart
+  category: open-source-and-platform
+  ats:
+    lever: loadsmart
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/loadsmart

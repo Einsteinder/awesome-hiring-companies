@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1852 companies**.
+Currently tracking **1862 companies**.
 
 This repository is designed for two uses:
 
@@ -1908,6 +1908,16 @@ Open source video player (video.js)
 - [Prior Labs](https://priorlabs.com) - Hiring via Ashby (prior-labs).
 - [Isee](https://isee.com) - Hiring via Lever (isee).
 - [Bhg Inc](https://bhginc.com) - Hiring via Lever (bhg-inc).
+- [Sona](https://sona.com) - Hiring via Ashby (sona).
+- [Atomicsemi](https://atomicsemi.com) - Hiring via Ashby (atomicsemi).
+- [Vertical Aerospace](https://verticalaerospace.com) - Hiring via Ashby (vertical-aerospace).
+- [Airops](https://airops.com) - Hiring via Ashby (airops).
+- [Evidentid](https://evidentid.com) - Hiring via Lever (evidentid).
+- [Twelve Labs](https://twelvelabs.com) - Hiring via Ashby (twelve-labs).
+- [Lpadesignstudios](https://lpadesignstudios.com) - Hiring via Ashby (lpadesignstudios).
+- [Composio](https://composio.com) - Hiring via Ashby (composio).
+- [Pylon Labs](https://pylonlabs.com) - Hiring via Ashby (pylon-labs).
+- [Loadsmart](https://loadsmart.com) - Hiring via Lever (loadsmart).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
