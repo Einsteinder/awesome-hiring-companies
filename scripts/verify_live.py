@@ -59,7 +59,22 @@ ATS_ENDPOINTS: dict[str, list[str]] = {
     "workable": [
         "https://apply.workable.com/{slug}/",
     ],
+    "smartrecruiters": [
+        "https://api.smartrecruiters.com/v1/companies/{slug}/postings",
+        "https://careers.smartrecruiters.com/{slug}",
+    ],
 }
+
+# Providers whose public board lives on a per-tenant domain (Workday, SAP
+# SuccessFactors) or has no canonical public probe endpoint
+# (Recruiterbox / `custom`). For these, the `careers_url` check is the real
+# signal — skip the ATS probe instead of failing the entry.
+NO_PROBE_PROVIDERS: frozenset[str] = frozenset({
+    "workday",
+    "successfactors",
+    "recruiterbox",
+    "custom",
+})
 
 
 @dataclass
@@ -187,6 +202,11 @@ def ats_slug_values(provider_value: str | list[str]) -> list[str]:
 async def probe_ats(
     client: httpx.AsyncClient, provider: str, slug: str, retries: int
 ) -> Probe:
+    if provider in NO_PROBE_PROVIDERS:
+        return Probe(
+            f"ats:{provider}:{slug}", True,
+            "no public probe endpoint; relying on careers_url",
+        )
     candidates = ATS_ENDPOINTS.get(provider)
     if not candidates:
         return Probe(f"ats:{provider}", False, "unknown ATS provider; no endpoint configured")

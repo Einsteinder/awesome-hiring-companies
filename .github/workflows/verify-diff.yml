@@ -53,7 +53,7 @@ jobs:
               data = yaml.safe_load(blob) or []
               return {c["slug"]: c for c in data if isinstance(c, dict) and "slug" in c}
 
-          base = load("${{ github.base_ref }}")
+          base = load("origin/${{ github.base_ref }}")
           head = load("HEAD")
           changed = []
           # Added

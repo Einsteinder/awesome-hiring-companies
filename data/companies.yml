@@ -27619,7 +27619,7 @@
 - name: Toyota
   slug: toyota
   domain: toyota.com
-  careers_url: https://www.toyota.com/usa/careers/
+  careers_url: https://www.toyota.com/careers
   category: industrials-and-climate
   ats:
     custom: toyota
@@ -27627,12 +27627,12 @@
   - automotive
   - manufacturing
   sources:
-  - https://www.toyota.com/usa/careers/
+  - https://www.toyota.com/careers
 
 - name: BMW
   slug: bmw
   domain: bmwgroup.com
-  careers_url: https://www.bmwgroup.jobs/
+  careers_url: https://jobs.bmwgroup.com
   category: industrials-and-climate
   ats:
     custom: bmw
@@ -27640,12 +27640,12 @@
   - automotive
   - luxury
   sources:
-  - https://www.bmwgroup.jobs/
+  - https://jobs.bmwgroup.com
 
 - name: Mercedes-Benz
   slug: mercedes-benz
   domain: mercedes-benz.com
-  careers_url: https://group.mercedes-benz.com/careers/
+  careers_url: https://jobs.mercedes-benz.com
   category: industrials-and-climate
   ats:
     custom: mercedes
@@ -27653,7 +27653,7 @@
   - automotive
   - luxury
   sources:
-  - https://group.mercedes-benz.com/careers/
+  - https://jobs.mercedes-benz.com
 
 - name: Volvo
   slug: volvo
@@ -28308,7 +28308,7 @@
 - name: Costco
   slug: costco
   domain: costco.com
-  careers_url: https://www.costco.com/jobs.html
+  careers_url: https://www.costco.com/careers
   category: consumer-and-marketplace
   ats:
     workday: costco
@@ -28317,7 +28317,7 @@
   - consumer
   - wholesale
   sources:
-  - https://www.costco.com/jobs.html
+  - https://www.costco.com/careers
 
 - name: The Home Depot
   slug: the-home-depot
@@ -28364,7 +28364,7 @@
 - name: Nutanix
   slug: nutanix
   domain: nutanix.com
-  careers_url: https://www.nutanix.com/company/careers
+  careers_url: https://jobs.nutanix.com
   category: developer-infrastructure
   ats:
     workday: nutanix
@@ -28373,7 +28373,7 @@
   - hyperconverged
   - enterprise
   sources:
-  - https://www.nutanix.com/company/careers
+  - https://jobs.nutanix.com
 
 - name: Pure Storage
   slug: pure-storage
