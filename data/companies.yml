@@ -10973,3 +10973,141 @@
   - climatetech
   sources:
   - https://jobs.ashbyhq.com/reviserobotics
+
+- name: SalesPatriot
+  slug: salespatriot
+  domain: salespatriot.com
+  careers_url: https://jobs.ashbyhq.com/salespatriot
+  category: ai-and-data
+  ats:
+    ashby: salespatriot
+  tags:
+  - b2b
+  - b2b-operations
+  - saas
+  - sales
+  sources:
+  - https://jobs.ashbyhq.com/salespatriot
+
+- name: Infinite
+  slug: infinite
+  domain: infinite.dev
+  careers_url: https://jobs.ashbyhq.com/infinite
+  category: fintech
+  ats:
+    ashby: infinite
+  tags:
+  - fintech
+  - fintech-payments
+  - developer-tools
+  - payments
+  sources:
+  - https://jobs.ashbyhq.com/infinite
+
+- name: Avallon AI
+  slug: avallon-ai
+  domain: avallon.ai
+  careers_url: https://jobs.ashbyhq.com/avallon
+  category: fintech
+  ats:
+    ashby: avallon
+  tags:
+  - fintech
+  - fintech-insurance
+  sources:
+  - https://jobs.ashbyhq.com/avallon
+
+- name: Pingo AI
+  slug: pingo-ai
+  domain: pingo.ai
+  careers_url: https://jobs.ashbyhq.com/pingo
+  category: ai-and-data
+  ats:
+    ashby: pingo
+  tags:
+  - consumer
+  sources:
+  - https://jobs.ashbyhq.com/pingo
+
+- name: AgentMail
+  slug: agentmail
+  domain: agentmail.to
+  careers_url: https://jobs.ashbyhq.com/agentmail
+  category: developer-infrastructure
+  ats:
+    ashby: agentmail
+  tags:
+  - b2b
+  - b2b-infrastructure
+  - developer-tools
+  - api
+  sources:
+  - https://jobs.ashbyhq.com/agentmail
+
+- name: Comena
+  slug: comena
+  domain: comena.ai
+  careers_url: https://jobs.ashbyhq.com/comena
+  category: ai-and-data
+  ats:
+    ashby: comena
+  tags:
+  - b2b
+  - b2b-supply-chain-and-logistics
+  sources:
+  - https://jobs.ashbyhq.com/comena
+
+- name: Fernstone
+  slug: fernstone
+  domain: fernstone.com
+  careers_url: https://jobs.ashbyhq.com/fernstone
+  category: fintech
+  ats:
+    ashby: fernstone
+  tags:
+  - fintech
+  - fintech-insurance
+  sources:
+  - https://jobs.ashbyhq.com/fernstone
+
+- name: Opennote
+  slug: opennote
+  domain: opennote.com
+  careers_url: https://jobs.ashbyhq.com/opennote
+  category: consumer-and-marketplace
+  ats:
+    ashby: opennote
+  tags:
+  - consumer
+  - ai-enhanced-learning
+  - education
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/opennote
+
+- name: Fleetline
+  slug: fleetline
+  domain: fleetline.ai
+  careers_url: https://jobs.ashbyhq.com/fleetline
+  category: ai-and-data
+  ats:
+    ashby: fleetline
+  tags:
+  - b2b
+  - b2b-supply-chain-and-logistics
+  - artificial-intelligence
+  - logistics
+  sources:
+  - https://jobs.ashbyhq.com/fleetline
+
+- name: Nucleo
+  slug: nucleo
+  domain: nucleoresearch.com
+  careers_url: https://boards.greenhouse.io/nucleo
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: nucleo
+  tags:
+  - healthcare
+  sources:
+  - https://boards.greenhouse.io/nucleo

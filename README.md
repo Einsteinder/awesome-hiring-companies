@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **760 companies**.
+Currently tracking **770 companies**.
 
 This repository is designed for two uses:
 
@@ -816,6 +816,16 @@ Open source video player (video.js)
 - [Archil](https://archil.com) - The high-performance file system that connects AI to data
 - [Capy](https://capy.ai) - The IDE for the parallel age
 - [Revise Robotics](https://reviserobotics.com) - Automating refurbishment of $1T in consumer electronics
+- [SalesPatriot](https://salespatriot.com) - AI powered operating system for distributors and OEMs
+- [Infinite](https://infinite.dev) - Global B2B Stablecoin Processor
+- [Avallon AI](https://avallon.ai) - AI agents for insurance claims operations
+- [Pingo AI](https://pingo.ai) - AI companion that helps you learn languages
+- [AgentMail](https://agentmail.to) - Email Inboxes for AI Agents
+- [Comena](https://comena.ai) - AI agents for distributors and manufacturers to automate order entry.
+- [Fernstone](https://fernstone.com) - AI-native insurance brokerage.
+- [Opennote](https://opennote.com) - The notebook that thinks with you.
+- [Fleetline](https://fleetline.ai) - Optimizing fleet planning with data driven algorithms
+- [Nucleo](https://nucleoresearch.com) - The first Agentic platform for Oncology
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
