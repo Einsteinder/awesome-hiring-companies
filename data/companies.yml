@@ -16745,3 +16745,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/outtake
+
+- name: Raspberry
+  slug: raspberry
+  domain: raspberry.com
+  careers_url: https://jobs.ashbyhq.com/raspberry
+  category: open-source-and-platform
+  ats:
+    ashby: raspberry
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/raspberry
+
+- name: Promenade
+  slug: promenade
+  domain: promenade.com
+  careers_url: https://jobs.lever.co/promenade
+  category: open-source-and-platform
+  ats:
+    lever: promenade
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/promenade
+
+- name: Scarlet
+  slug: scarlet
+  domain: scarlet.com
+  careers_url: https://jobs.ashbyhq.com/scarlet
+  category: open-source-and-platform
+  ats:
+    ashby: scarlet
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/scarlet
+
+- name: Scrunch
+  slug: scrunch
+  domain: scrunch.com
+  careers_url: https://jobs.ashbyhq.com/scrunch
+  category: open-source-and-platform
+  ats:
+    ashby: scrunch
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/scrunch
+
+- name: Solstice
+  slug: solstice
+  domain: solstice.com
+  careers_url: https://jobs.ashbyhq.com/solstice
+  category: open-source-and-platform
+  ats:
+    ashby: solstice
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/solstice
+
+- name: Specter
+  slug: specter
+  domain: specter.com
+  careers_url: https://jobs.ashbyhq.com/specter
+  category: open-source-and-platform
+  ats:
+    ashby: specter
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/specter
+
+- name: Swoop
+  slug: swoop
+  domain: swoop.com
+  careers_url: https://jobs.ashbyhq.com/swoop
+  category: open-source-and-platform
+  ats:
+    ashby: swoop
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/swoop
+
+- name: Unit
+  slug: unit
+  domain: unit.com
+  careers_url: https://jobs.ashbyhq.com/unit
+  category: open-source-and-platform
+  ats:
+    ashby: unit
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/unit
+
+- name: Venn
+  slug: venn
+  domain: venn.com
+  careers_url: https://jobs.ashbyhq.com/venn
+  category: open-source-and-platform
+  ats:
+    ashby: venn
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/venn
+
+- name: Vesta
+  slug: vesta
+  domain: vesta.com
+  careers_url: https://jobs.ashbyhq.com/vesta
+  category: open-source-and-platform
+  ats:
+    ashby: vesta
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/vesta
