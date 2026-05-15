@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **570 companies**.
+Currently tracking **580 companies**.
 
 This repository is designed for two uses:
 
@@ -625,6 +625,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [Invopop](https://invopop.com) - We help global software companies comply with local tax reporting
 - [Vector](https://vector.co) - Advertising for the new internet
 - [LiteLLM](https://litellm.ai) - Call every LLM API like it's OpenAI [100+ LLMs]
+- [Artie](https://artie.com) - Software that streams data from databases to warehouses in real-time
+- [Sola](https://sola-solutions.com) - Copilot for Robotic Process Automation
+- [Onyx](https://onyx.app) - Open Source AI Chat
+- [Understood Care](https://understoodcare.com) - Healthcare personal assistants for Medicare patients.
+- [Ultra](https://ultra.tech) - Practical, general-purpose robots for repetitive industrial tasks
+- [Mem0](https://mem0.ai) - The Memory layer for your AI apps
+- [FINNY AI](https://finny.com) - The organic growth engine for financial advisors
+- [hud](https://hud.ai) - Platform for building RL environments and evals
+- [Sim](https://sim.ai) - Open source platform to build AI agent workflows
+- [Uplift AI](https://upliftai.org) - Foundational Voice Models for regional languages
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).

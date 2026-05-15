@@ -8232,3 +8232,150 @@
   - generative-ai
   sources:
   - https://jobs.ashbyhq.com/litellm
+
+- name: Artie
+  slug: artie
+  domain: artie.com
+  careers_url: https://jobs.ashbyhq.com/artie
+  category: developer-infrastructure
+  ats:
+    ashby: artie
+  tags:
+  - b2b
+  - b2b-infrastructure
+  - developer-tools
+  - saas
+  sources:
+  - https://jobs.ashbyhq.com/artie
+
+- name: Sola
+  slug: sola
+  domain: sola-solutions.com
+  careers_url: https://jobs.ashbyhq.com/sola
+  category: ai-and-data
+  ats:
+    ashby: sola
+  tags:
+  - b2b
+  - artificial-intelligence
+  - robotic-process-automation
+  - workflow-automation
+  sources:
+  - https://jobs.ashbyhq.com/sola
+
+- name: Onyx
+  slug: onyx
+  domain: onyx.app
+  careers_url: https://jobs.ashbyhq.com/onyx
+  category: ai-and-data
+  ats:
+    ashby: onyx
+  tags:
+  - b2b
+  - b2b-productivity
+  - open-source
+  - nlp
+  sources:
+  - https://jobs.ashbyhq.com/onyx
+
+- name: Understood Care
+  slug: understood-care
+  domain: understoodcare.com
+  careers_url: https://boards.greenhouse.io/understoodcare
+  category: consumer-and-marketplace
+  ats:
+    greenhouse: understoodcare
+  tags:
+  - healthcare
+  - health-tech
+  - health-insurance
+  - ai
+  sources:
+  - https://boards.greenhouse.io/understoodcare
+
+- name: Ultra
+  slug: ultra
+  domain: ultra.tech
+  careers_url: https://jobs.ashbyhq.com/ultra
+  category: ai-and-data
+  ats:
+    ashby: ultra
+  tags:
+  - industrials
+  - industrials-manufacturing-and-robotics
+  - robotics
+  - logistics
+  sources:
+  - https://jobs.ashbyhq.com/ultra
+
+- name: Mem0
+  slug: mem0
+  domain: mem0.ai
+  careers_url: https://jobs.ashbyhq.com/mem0
+  category: ai-and-data
+  ats:
+    ashby: mem0
+  tags:
+  - b2b
+  - b2b-infrastructure
+  - artificial-intelligence
+  - developer-tools
+  sources:
+  - https://jobs.ashbyhq.com/mem0
+
+- name: FINNY AI
+  slug: finny-ai
+  domain: finny.com
+  careers_url: https://jobs.ashbyhq.com/finny
+  category: fintech
+  ats:
+    ashby: finny
+  tags:
+  - fintech
+  - fintech-asset-management
+  - machine-learning
+  - finance
+  sources:
+  - https://jobs.ashbyhq.com/finny
+
+- name: hud
+  slug: hud
+  domain: hud.ai
+  careers_url: https://jobs.ashbyhq.com/hud
+  category: ai-and-data
+  ats:
+    ashby: hud
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - artificial-intelligence
+  - reinforcement-learning
+  sources:
+  - https://jobs.ashbyhq.com/hud
+
+- name: Sim
+  slug: sim
+  domain: sim.ai
+  careers_url: https://jobs.ashbyhq.com/sim
+  category: ai-and-data
+  ats:
+    ashby: sim
+  tags:
+  - b2b
+  - ai
+  sources:
+  - https://jobs.ashbyhq.com/sim
+
+- name: Uplift AI
+  slug: uplift-ai
+  domain: upliftai.org
+  careers_url: https://boards.greenhouse.io/uplift
+  category: ai-and-data
+  ats:
+    greenhouse: uplift
+  tags:
+  - b2b
+  - speech-recognition
+  - conversational-ai
+  sources:
+  - https://boards.greenhouse.io/uplift
