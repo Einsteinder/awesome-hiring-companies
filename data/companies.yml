@@ -13649,3 +13649,123 @@
   - open
   sources:
   - https://jobs.lever.co/factor
+
+- name: Flawless
+  slug: flawless
+  domain: flawless.com
+  careers_url: https://jobs.ashbyhq.com/flawless
+  category: open-source-and-platform
+  ats:
+    ashby: flawless
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/flawless
+
+- name: Generate
+  slug: generate
+  domain: generate.com
+  careers_url: https://jobs.ashbyhq.com/generate
+  category: open-source-and-platform
+  ats:
+    ashby: generate
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/generate
+
+- name: Guild
+  slug: guild
+  domain: guild.com
+  careers_url: https://jobs.ashbyhq.com/guild
+  category: open-source-and-platform
+  ats:
+    ashby: guild
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/guild
+
+- name: Action
+  slug: action
+  domain: action.com
+  careers_url: https://boards.greenhouse.io/action
+  category: open-source-and-platform
+  ats:
+    greenhouse: action
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/action
+
+- name: Acumen
+  slug: acumen
+  domain: acumen.com
+  careers_url: https://boards.greenhouse.io/acumen
+  category: open-source-and-platform
+  ats:
+    greenhouse: acumen
+  tags:
+  - open
+  sources:
+  - https://boards.greenhouse.io/acumen
+
+- name: Advocate
+  slug: advocate
+  domain: advocate.com
+  careers_url: https://jobs.lever.co/advocate
+  category: open-source-and-platform
+  ats:
+    lever: advocate
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/advocate
+
+- name: Arcturus
+  slug: arcturus
+  domain: arcturus.com
+  careers_url: https://jobs.ashbyhq.com/arcturus
+  category: open-source-and-platform
+  ats:
+    ashby: arcturus
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/arcturus
+
+- name: Augur
+  slug: augur
+  domain: augur.com
+  careers_url: https://jobs.ashbyhq.com/augur
+  category: open-source-and-platform
+  ats:
+    ashby: augur
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/augur
+
+- name: Brunswick
+  slug: brunswick
+  domain: brunswick.com
+  careers_url: https://jobs.ashbyhq.com/brunswick
+  category: open-source-and-platform
+  ats:
+    ashby: brunswick
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/brunswick
+
+- name: Cambium
+  slug: cambium
+  domain: cambium.com
+  careers_url: https://jobs.ashbyhq.com/cambium
+  category: open-source-and-platform
+  ats:
+    ashby: cambium
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/cambium

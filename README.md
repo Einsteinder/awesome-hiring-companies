@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **970 companies**.
+Currently tracking **980 companies**.
 
 This repository is designed for two uses:
 
@@ -1026,6 +1026,16 @@ Open source video player (video.js)
 - [Dave](https://dave.com) - Hiring via Ashby (dave).
 - [Delphi](https://delphi.com) - Hiring via Ashby (delphi).
 - [Factor](https://factor.com) - Hiring via Lever (factor).
+- [Flawless](https://flawless.com) - Hiring via Ashby (flawless).
+- [Generate](https://generate.com) - Hiring via Ashby (generate).
+- [Guild](https://guild.com) - Hiring via Ashby (guild).
+- [Action](https://action.com) - Hiring via Greenhouse (action).
+- [Acumen](https://acumen.com) - Hiring via Greenhouse (acumen).
+- [Advocate](https://advocate.com) - Hiring via Lever (advocate).
+- [Arcturus](https://arcturus.com) - Hiring via Ashby (arcturus).
+- [Augur](https://augur.com) - Hiring via Ashby (augur).
+- [Brunswick](https://brunswick.com) - Hiring via Ashby (brunswick).
+- [Cambium](https://cambium.com) - Hiring via Ashby (cambium).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
