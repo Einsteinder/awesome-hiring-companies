@@ -22169,3 +22169,63 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/decagon
+
+- name: Socure
+  slug: socure
+  domain: socure.com
+  careers_url: https://jobs.ashbyhq.com/socure
+  category: open-source-and-platform
+  ats:
+    ashby: socure
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/socure
+
+- name: Skydio
+  slug: skydio
+  domain: skydio.com
+  careers_url: https://jobs.ashbyhq.com/skydio
+  category: open-source-and-platform
+  ats:
+    ashby: skydio
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/skydio
+
+- name: Wyetechllc
+  slug: wyetechllc
+  domain: wyetechllc.com
+  careers_url: https://jobs.lever.co/wyetechllc
+  category: open-source-and-platform
+  ats:
+    lever: wyetechllc
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/wyetechllc
+
+- name: Pingwind
+  slug: pingwind
+  domain: pingwind.com
+  careers_url: https://jobs.lever.co/pingwind
+  category: open-source-and-platform
+  ats:
+    lever: pingwind
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/pingwind
+
+- name: Veeva
+  slug: veeva
+  domain: veeva.com
+  careers_url: https://jobs.lever.co/veeva
+  category: open-source-and-platform
+  ats:
+    lever: veeva
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/veeva

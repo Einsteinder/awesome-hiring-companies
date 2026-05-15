@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1680 companies**.
+Currently tracking **1685 companies**.
 
 This repository is designed for two uses:
 
@@ -1736,6 +1736,11 @@ Open source video player (video.js)
 - [Deliveroo](https://deliveroo.com) - Hiring via Ashby (deliveroo).
 - [Zoox](https://zoox.com) - Hiring via Lever (zoox).
 - [Decagon](https://decagon.com) - Hiring via Ashby (decagon).
+- [Socure](https://socure.com) - Hiring via Ashby (socure).
+- [Skydio](https://skydio.com) - Hiring via Ashby (skydio).
+- [Wyetechllc](https://wyetechllc.com) - Hiring via Lever (wyetechllc).
+- [Pingwind](https://pingwind.com) - Hiring via Lever (pingwind).
+- [Veeva](https://veeva.com) - Hiring via Lever (veeva).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
