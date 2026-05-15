@@ -19,6 +19,11 @@ there's an open PR with `Closes #<this-issue>` or a branch named after
 the slug (`fix-<slug>` or `add-<slug>`). If so, the other agent or a
 human is already on it; stop and post a comment.
 
+As a safety net, `dedup-pull-requests.yml` auto-closes any new PR that
+references the same `Closes #N` as an older open PR. The lower-numbered
+PR wins. If your PR gets auto-closed for this reason and the older one
+is broken, the comment will tell you how to take over deliberately.
+
 **Always rebase before pushing.** Because `data/companies.yml` is a single
 shared file, two concurrent fix-PRs editing different slugs can still
 collide on adjacent lines or on README per-category counts. Run
