@@ -5767,3 +5767,148 @@
   - consumer-health-services
   sources:
   - https://jobs.ashbyhq.com/anima
+
+- name: Phoenix
+  slug: phoenix
+  domain: phoenix.ca
+  careers_url: https://jobs.ashbyhq.com/phoenix
+  category: consumer-and-marketplace
+  ats:
+    ashby: phoenix
+  tags:
+  - healthcare
+  - healthcare-consumer-health-and-wellness
+  - consumer-health-services
+  - telehealth
+  sources:
+  - https://jobs.ashbyhq.com/phoenix
+
+- name: Fable
+  slug: fable
+  domain: tryfable.com
+  careers_url: https://jobs.ashbyhq.com/fable
+  category: developer-infrastructure
+  ats:
+    ashby: fable
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - saas
+  - productivity
+  sources:
+  - https://jobs.ashbyhq.com/fable
+
+- name: Bloom
+  slug: bloom
+  domain: bloomapp.com
+  careers_url: https://jobs.lever.co/bloom
+  category: fintech
+  ats:
+    lever: bloom
+  tags:
+  - fintech
+  - fintech-consumer-finance
+  - education
+  - edtech
+  sources:
+  - https://jobs.lever.co/bloom
+
+- name: Legion Health
+  slug: legion-health
+  domain: legionhealth.com
+  careers_url: https://jobs.ashbyhq.com/legionhealth
+  category: consumer-and-marketplace
+  ats:
+    ashby: legionhealth
+  tags:
+  - healthcare
+  - healthcare-consumer-health-and-wellness
+  - consumer-health-services
+  - telehealth
+  sources:
+  - https://jobs.ashbyhq.com/legionhealth
+
+- name: LemFi
+  slug: lemfi
+  domain: lemfi.com
+  careers_url: https://jobs.ashbyhq.com/lemfi
+  category: fintech
+  ats:
+    ashby: lemfi
+  tags:
+  - fintech
+  - fintech-banking-and-exchange
+  sources:
+  - https://jobs.ashbyhq.com/lemfi
+
+- name: Adaptyv
+  slug: adaptyv
+  domain: adaptyvbio.com
+  careers_url: https://jobs.ashbyhq.com/adaptyv
+  category: consumer-and-marketplace
+  ats:
+    ashby: adaptyv
+  tags:
+  - healthcare
+  - healthcare-drug-discovery-and-delivery
+  - ai-powered-drug-discovery
+  - synthetic-biology
+  sources:
+  - https://jobs.ashbyhq.com/adaptyv
+
+- name: Happl
+  slug: happl
+  domain: happl.com
+  careers_url: https://jobs.ashbyhq.com/happl
+  category: developer-infrastructure
+  ats:
+    ashby: happl
+  tags:
+  - b2b
+  - b2b-human-resources
+  - saas
+  - hr-tech
+  sources:
+  - https://jobs.ashbyhq.com/happl
+
+- name: Fleetzero
+  slug: fleetzero
+  domain: fleetzero.com
+  careers_url: https://jobs.lever.co/fleetzero
+  category: open-source-and-platform
+  ats:
+    lever: fleetzero
+  tags:
+  - industrials
+  - climate
+  sources:
+  - https://jobs.lever.co/fleetzero
+
+- name: Bitstack
+  slug: bitstack
+  domain: bitstack-app.com
+  careers_url: https://jobs.ashbyhq.com/bitstack
+  category: fintech
+  ats:
+    ashby: bitstack
+  tags:
+  - fintech
+  - crypto-web3
+  - neobank
+  sources:
+  - https://jobs.ashbyhq.com/bitstack
+
+- name: Langfuse
+  slug: langfuse
+  domain: langfuse.com
+  careers_url: https://jobs.ashbyhq.com/langfuse
+  category: ai-and-data
+  ats:
+    ashby: langfuse
+  tags:
+  - b2b
+  - b2b-engineering-product-and-design
+  - artificial-intelligence
+  - developer-tools
+  sources:
+  - https://jobs.ashbyhq.com/langfuse

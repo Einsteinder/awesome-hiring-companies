@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **400 companies**.
+Currently tracking **410 companies**.
 
 This repository is designed for two uses:
 
@@ -455,6 +455,16 @@ Bulk-verified companies with live Greenhouse, Ashby, or Lever boards. Each entry
 - [Albedo](https://albedo.com) - Full-stack VLEO satellite missions
 - [SpruceID](https://spruceid.com) - SpruceID lets users control their data across the web.
 - [Anima](https://animahealth.com) - The next generation care enablement platform
+- [Phoenix](https://phoenix.ca) - Canada's digital health clinic for men
+- [Fable](https://tryfable.com) - The command center for product teams
+- [Bloom](https://bloomapp.com) - Investing app that teaches you how to invest
+- [Legion Health](https://legionhealth.com) - Autonomous medical care
+- [LemFi](https://lemfi.com) - Fair, simple and accessible financial services
+- [Adaptyv](https://adaptyvbio.com) - We're building fully automated labs for protein engineering
+- [Happl](https://happl.com) - Your personalised benefits and engagement platform for global teams
+- [Fleetzero](https://fleetzero.com) - Making all ships robots.
+- [Bitstack](https://bitstack-app.com) - All things money, with better money
+- [Langfuse](https://langfuse.com) - Open source LLM engineering platform
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
