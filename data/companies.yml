@@ -16145,3 +16145,123 @@
   - open
   sources:
   - https://jobs.lever.co/until
+
+- name: Marshmallow
+  slug: marshmallow
+  domain: marshmallow.com
+  careers_url: https://jobs.ashbyhq.com/marshmallow
+  category: open-source-and-platform
+  ats:
+    ashby: marshmallow
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/marshmallow
+
+- name: Motorway
+  slug: motorway
+  domain: motorway.com
+  careers_url: https://jobs.ashbyhq.com/motorway
+  category: open-source-and-platform
+  ats:
+    ashby: motorway
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/motorway
+
+- name: Orbital
+  slug: orbital
+  domain: orbital.com
+  careers_url: https://jobs.ashbyhq.com/orbital
+  category: open-source-and-platform
+  ats:
+    ashby: orbital
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/orbital
+
+- name: Real
+  slug: real
+  domain: real.com
+  careers_url: https://jobs.ashbyhq.com/real
+  category: open-source-and-platform
+  ats:
+    ashby: real
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/real
+
+- name: Render
+  slug: render
+  domain: render.com
+  careers_url: https://jobs.ashbyhq.com/render
+  category: open-source-and-platform
+  ats:
+    ashby: render
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/render
+
+- name: Safe
+  slug: safe
+  domain: safe.com
+  careers_url: https://jobs.ashbyhq.com/safe
+  category: open-source-and-platform
+  ats:
+    ashby: safe
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/safe
+
+- name: Socket
+  slug: socket
+  domain: socket.com
+  careers_url: https://jobs.ashbyhq.com/socket
+  category: open-source-and-platform
+  ats:
+    ashby: socket
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/socket
+
+- name: Kepler
+  slug: kepler
+  domain: kepler.com
+  careers_url: https://jobs.lever.co/kepler
+  category: open-source-and-platform
+  ats:
+    lever: kepler
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/kepler
+
+- name: Perforce
+  slug: perforce
+  domain: perforce.com
+  careers_url: https://jobs.lever.co/perforce
+  category: open-source-and-platform
+  ats:
+    lever: perforce
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/perforce
+
+- name: Wonderful
+  slug: wonderful
+  domain: wonderful.com
+  careers_url: https://jobs.ashbyhq.com/wonderful
+  category: open-source-and-platform
+  ats:
+    ashby: wonderful
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/wonderful
