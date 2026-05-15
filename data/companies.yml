@@ -18425,3 +18425,123 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/material
+
+- name: Mechanize
+  slug: mechanize
+  domain: mechanize.com
+  careers_url: https://jobs.ashbyhq.com/mechanize
+  category: open-source-and-platform
+  ats:
+    ashby: mechanize
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/mechanize
+
+- name: Meow
+  slug: meow
+  domain: meow.com
+  careers_url: https://jobs.ashbyhq.com/meow
+  category: open-source-and-platform
+  ats:
+    ashby: meow
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/meow
+
+- name: Nous
+  slug: nous
+  domain: nous.com
+  careers_url: https://jobs.ashbyhq.com/nous
+  category: open-source-and-platform
+  ats:
+    ashby: nous
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/nous
+
+- name: Odyssey
+  slug: odyssey
+  domain: odyssey.com
+  careers_url: https://jobs.ashbyhq.com/odyssey
+  category: open-source-and-platform
+  ats:
+    ashby: odyssey
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/odyssey
+
+- name: Overtone
+  slug: overtone
+  domain: overtone.com
+  careers_url: https://jobs.ashbyhq.com/overtone
+  category: open-source-and-platform
+  ats:
+    ashby: overtone
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/overtone
+
+- name: Passes
+  slug: passes
+  domain: passes.com
+  careers_url: https://jobs.ashbyhq.com/passes
+  category: open-source-and-platform
+  ats:
+    ashby: passes
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/passes
+
+- name: Pensive
+  slug: pensive
+  domain: pensive.com
+  careers_url: https://jobs.ashbyhq.com/pensive
+  category: open-source-and-platform
+  ats:
+    ashby: pensive
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/pensive
+
+- name: Prefect
+  slug: prefect
+  domain: prefect.com
+  careers_url: https://jobs.ashbyhq.com/prefect
+  category: open-source-and-platform
+  ats:
+    ashby: prefect
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/prefect
+
+- name: Ranger
+  slug: ranger
+  domain: ranger.com
+  careers_url: https://jobs.lever.co/ranger
+  category: open-source-and-platform
+  ats:
+    lever: ranger
+  tags:
+  - open
+  sources:
+  - https://jobs.lever.co/ranger
+
+- name: Share
+  slug: share
+  domain: share.com
+  careers_url: https://jobs.ashbyhq.com/share
+  category: open-source-and-platform
+  ats:
+    ashby: share
+  tags:
+  - open
+  sources:
+  - https://jobs.ashbyhq.com/share

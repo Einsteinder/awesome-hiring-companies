@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **1368 companies**.
+Currently tracking **1378 companies**.
 
 This repository is designed for two uses:
 
@@ -1424,6 +1424,16 @@ Open source video player (video.js)
 - [Inclined](https://inclined.com) - Hiring via Ashby (inclined).
 - [Indent](https://indent.com) - Hiring via Ashby (indent).
 - [Material](https://material.com) - Hiring via Ashby (material).
+- [Mechanize](https://mechanize.com) - Hiring via Ashby (mechanize).
+- [Meow](https://meow.com) - Hiring via Ashby (meow).
+- [Nous](https://nous.com) - Hiring via Ashby (nous).
+- [Odyssey](https://odyssey.com) - Hiring via Ashby (odyssey).
+- [Overtone](https://overtone.com) - Hiring via Ashby (overtone).
+- [Passes](https://passes.com) - Hiring via Ashby (passes).
+- [Pensive](https://pensive.com) - Hiring via Ashby (pensive).
+- [Prefect](https://prefect.com) - Hiring via Ashby (prefect).
+- [Ranger](https://ranger.com) - Hiring via Lever (ranger).
+- [Share](https://share.com) - Hiring via Ashby (share).
 ## Data Format
 
 The machine-readable source is [`data/companies.yml`](data/companies.yml).
