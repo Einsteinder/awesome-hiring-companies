@@ -1,14 +1,23 @@
-import pytest
-from scripts.verify_live import ats_slug_values
+import sys
+import unittest
+from pathlib import Path
 
-def test_ats_slug_values_string():
-    """Test that a single string input is converted to a list of one string."""
-    assert ats_slug_values("greenhouse") == ["greenhouse"]
+ROOT = Path(__file__).resolve().parents[1]
+sys.path.append(str(ROOT / "scripts"))
 
-def test_ats_slug_values_list():
-    """Test that a list input is returned unchanged."""
-    assert ats_slug_values(["greenhouse", "lever"]) == ["greenhouse", "lever"]
+from verify_live import ats_slug_values
 
-def test_ats_slug_values_empty_list():
-    """Test that an empty list input is returned unchanged."""
-    assert ats_slug_values([]) == []
+
+class TestAtsSlugValues(unittest.TestCase):
+    def test_string(self):
+        self.assertEqual(ats_slug_values("greenhouse"), ["greenhouse"])
+
+    def test_list(self):
+        self.assertEqual(ats_slug_values(["greenhouse", "lever"]), ["greenhouse", "lever"])
+
+    def test_empty_list(self):
+        self.assertEqual(ats_slug_values([]), [])
+
+
+if __name__ == "__main__":
+    unittest.main()
