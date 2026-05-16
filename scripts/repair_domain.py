@@ -79,6 +79,11 @@ TLD_VARIANTS = [".ai", ".io", ".co", ".dev", ".xyz", ".gg", ".app", ".tech", ".s
 PREFIX_VARIANTS = ["get", "go", "try", "use", "join", "the"]
 SUFFIX_VARIANTS = ["app", "hq", "ai", "io", "co", "labs"]
 
+URL_RE = re.compile(r"https?://[a-zA-Z0-9./?=_&%#:-]+")
+SLUG_RE = re.compile(r"^\s*slug:\s*([a-z0-9-]+)\s*$")
+DOMAIN_RE = re.compile(r"^\s*domain:\s*")
+INDENT_RE = re.compile(r"^(\s*)")
+
 
 @dataclass
 class Proposal:
@@ -164,7 +169,7 @@ async def collect_atom_hosts(
             if isinstance(v, str):
                 text_chunks.append(v)
     blob = " ".join(text_chunks)
-    urls = re.findall(r"https?://[a-zA-Z0-9./?=_&%#:-]+", blob)
+    urls = URL_RE.findall(blob)
     hosts: list[str] = []
     seen: set[str] = set()
     for u in urls:
@@ -433,11 +438,11 @@ async def main() -> int:
     current_slug: str | None = None
     changes = 0
     for line in text.splitlines(keepends=True):
-        m = re.match(r"^\s*slug:\s*([a-z0-9-]+)\s*$", line)
+        m = SLUG_RE.match(line)
         if m:
             current_slug = m.group(1)
-        elif current_slug in to_apply and re.match(r"^\s*domain:\s*", line):
-            indent = re.match(r"^(\s*)", line).group(1)
+        elif current_slug in to_apply and DOMAIN_RE.match(line):
+            indent = INDENT_RE.match(line).group(1)
             new_line = f"{indent}domain: {to_apply[current_slug]}\n"
             if new_line != line:
                 new_lines.append(new_line)
