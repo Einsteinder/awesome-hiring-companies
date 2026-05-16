@@ -11,41 +11,41 @@ Consumer products, communities, marketplaces, media, travel, commerce, education
 - [Alphabet](https://abc.xyz) - Holding company for Google and other 'other bets'.
 - [Amazon](https://amazon.com) - Global e-commerce, AWS cloud, and consumer hardware.
 - [Anara](https://anara.com) - AI for researchers
-- [Ankorstore](https://ankorstore.com) - Hiring via Ashby (ankorstore).
+- [Ankorstore](https://ankorstore.com) - Ankorstore exists to help independent brands and retailers thrive by making wholesale simpler, faster, and more profitable.
 - [Apple](https://apple.com) - Consumer electronics, services, and software platforms.
 - [Ark](https://ark-invest.com) - Ark organizes the world's social information.
 - [AT&T](https://att.com) - Telecommunications and connectivity carrier.
-- [Avride](https://avride.ai) - Hiring via Greenhouse (avride).
+- [Avride](https://avride.ai) - Avride is a fast-growing leader in the autonomous vehicle and delivery robot industry.
 - [Backpack](https://backpackbang.com) - Marketplace to get stuff from overseas
 - [Beacons](https://beacons.ai) - An AI-powered, all-in-one business platform for content creators
 - [Breaker](https://breakerindustries.com) - A podcast company.
 - [ByteDance](https://bytedance.com) - TikTok parent and global consumer / AI / media company.
 - [Cambly](https://cambly.com) - On-demand access to English tutors over video chat.
 - [Canva](https://canva.com) - Online design and visual communication platform.
-- [Chicago Public Media](https://wbez.org) - Hiring via Greenhouse (cpm).
+- [Chicago Public Media](https://wbez.org) - Chicago Public Media is a 100% community-funded newsroom powered by nearly 97,000 members whose support makes our journalism possible.
 - [ClassDojo](https://classdojo.com) - Communication app for K-8 teachers, kids, and families
 - [Clever](https://clever.com) - The platform that powers technology in the classroom.
 - [Cocoon](https://cocoon.com) - Bring your most important groups closer together
 - [Comcast](https://comcast.com) - Cable, broadband, and media (NBCUniversal).
 - [Copia](https://gocopia.com) - Copia's a for-profit technology company that solves food waste &…
 - [Costco](https://costco.com) - Membership-based wholesale retailer.
-- [Deductive](https://deductive.com) - Hiring via Ashby (deductive).
+- [Deductive](https://deductive.com) - Agents trusted by leading global software companies to troubleshoot and resolve complex production incidents.
 - [Dex](https://getdex.com) - Dex is a personal CRM that reminds you to keep in touch with the…
 - [Discord](https://discord.com) - Communications platform for communities, gaming, and social products.
 - [Disney](https://thewaltdisneycompany.com) - Media, parks, and entertainment conglomerate.
 - [Duolingo](https://duolingo.com) - Consumer learning platform with product, growth, ML, and mobile engineering roles.
 - [eBay](https://ebay.com) - Consumer e-commerce marketplace.
-- [Educative](https://educative.io) - Hiring via Lever (educative).
+- [Educative](https://educative.io) - Educative is a hands-on learning platform for software developers of all levels.
 - [Electronic Arts](https://ea.com) - Video game publisher and developer.
 - [Ello](https://ello.com) - Building the world's first 1:1 AI teacher.
-- [EMARKETER](https://emarketer.com) - Hiring via Greenhouse (emarketer).
-- [Epic Games](https://epicgames.com) - Hiring via Greenhouse (epicgames).
+- [EMARKETER](https://emarketer.com) - EMARKETER is a subsidiary of Axel Springer SE, a family-owned transatlantic media company headquartered in Berlin and New York.
+- [Epic Games](https://epicgames.com) - Epic Games is searching for a Cinematic Animation Director to join our cinematic team working on projects, including Fortnite and other IP.
 - [Eternal](https://eternal.co) - Own the best moments in streaming
 - [Faire](https://faire.com) - The global online platform empowering independent retail.
-- [Fernride](https://fernride.com) - Hiring via Greenhouse (fernride).
+- [Fernride](https://fernride.com) - At FERNRIDE, we believe in a future where robotics unlocks human potential to create a better world.
 - [Fleek](https://joinfleek.com) - A B2B marketplace for wholesale second hand fashion
 - [Flip](https://justflip.com) - Community-driven marketplace for sneakers.
-- [Gametime United](https://gametime.co) - Hiring via Greenhouse (gametimeunited).
+- [Gametime United](https://gametime.co) - What We can Offer Flexible PTO Competitive salary & equity package Monthly Gametime credits for any event Medical, dental, & vision insurance.
 - [Garage](https://shopgarage.com) - Marketplace for America's most essential assets
 - [Glimpse](https://tryglimpse.com) - A social video chat.
 - [GOAT Group](https://goatgroup.com) - Platform for the greatest products from the past, present and future.
@@ -63,12 +63,12 @@ Consumer products, communities, marketplaces, media, travel, commerce, education
 - [Meadow](https://getmeadow.com) - Point of Sale and Compliance SaaS for Cannabis Dispensaries
 - [Meesho](https://meesho.com) - Democratizing internet commerce for everyone in India
 - [Meta](https://meta.com) - Facebook, Instagram, WhatsApp, and Reality Labs.
-- [Midstream](https://midstream.com) - Hiring via Ashby (midstream).
-- [Misfits Market](https://misfitsmarket.com) - Hiring via Greenhouse (misfitsmarket).
+- [Midstream](https://midstream.com) - Midstream is an AI-native financial operating system for health systems,.
+- [Misfits Market](https://misfitsmarket.com) - Please see here for Misfits Market's Job Applicant Privacy Notice .
 - [Mosaic](https://mosaic.so) - Agentic video editing
 - [Multiverse](https://playmultiverse.com) - Multiverse is a web-based game creation system inspired by Dungeons &…
 - [NBCUniversal](https://nbcuni.com) - Media and entertainment (NBC, Peacock, Universal).
-- [Nectar Social](https://nectarsocial.com) - Hiring via Ashby (nectar-social).
+- [Nectar Social](https://nectarsocial.com) - Nectar is your AI-powered social teammate-managing communities, listening in real time, and tracking influencers to turn engagement into measurable growth.
 - [Netflix](https://netflix.com) - Streaming entertainment platform.
 - [Nextdoor](https://nextdoor.com) - Neighborhood-focused social network.
 - [Niantic](https://nianticlabs.com) - Pokémon GO and AR location games.
@@ -90,12 +90,12 @@ Consumer products, communities, marketplaces, media, travel, commerce, education
 - [Reddit](https://reddit.com) - Community platform with consumer, ads, moderation, and infrastructure roles.
 - [Retrofit](https://retrofit.shop) - A vintage marketplace curated by AI
 - [Revel](https://hellorevel.com) - We Deserve More in Midlife
-- [Riot Games](https://riotgames.com) - Hiring via Greenhouse (riotgames).
+- [Riot Games](https://riotgames.com) - Riot Games. Developer of League of Legends, VALORANT, Teamfight Tactics, Legends of Runeterra, and Wild Rift.
 - [Roblox](https://roblox.com) - User-generated gaming platform and metaverse.
 - [Samsung](https://samsung.com) - Consumer electronics and semiconductor giant.
 - [Seer](https://helloseer.com) - Sell beyond the store.
-- [Shopmonkey](https://shopmonkey.com) - Hiring via Greenhouse (shopmonkey).
-- [Sightline Media Group](https://sightlinemediagroup.com) - Hiring via Greenhouse (sightlinemediagroup).
+- [Shopmonkey](https://shopmonkey.com) - Shopmonkey has become an amazing environment where employees feel that they are valued as people, and not just worker bees.
+- [Sightline Media Group](https://sightlinemediagroup.com) - Sightline Media Group is the leading news organization covering military, defense, C4ISR and cyber defense.
 - [SkyLink](https://tryskylink.com) - Travel Management Meets AI
 - [Skyscanner](https://skyscanner.net) - Travel-fare aggregator and flights marketplace.
 - [Snackpass](https://snackpass.co) - Order ahead at restaurants and get rewards with friends.
@@ -116,23 +116,23 @@ Consumer products, communities, marketplaces, media, travel, commerce, education
 - [The Home Depot](https://homedepot.com) - Home improvement retailer with sizable e-commerce and supply-chain tech.
 - [TikTok](https://tiktok.com) - Short-video social platform (ByteDance).
 - [Tovala](https://tovala.com) - A smart-oven-paired subscription meal service.
-- [TransMarket Group](https://transmarketgroup.com) - Hiring via Greenhouse (transmarketgroup).
+- [TransMarket Group](https://transmarketgroup.com) - Founded in 1980 as Aardvark Financial, TransMarket Group is a privately held global markets proprietary trading firm in Chicago.
 - [Twitch](https://twitch.com) - A global community creating the future of live entertainment.
 - [Uber](https://uber.com) - Ride-hailing, delivery, and freight marketplace.
 - [Ubisoft](https://ubisoft.com) - Video-game publisher (Assassin's Creed, Far Cry).
-- [Unlearn](https://unlearn.com) - Hiring via Ashby (unlearn).
+- [Unlearn](https://unlearn.com) - Unlearn exists to transform clinical development by making every trial smarter.
 - [Verizon](https://verizon.com) - Telecommunications and wireless carrier.
 - [Vori](https://vori.com) - Vori is a modern operating system for supermarkets
-- [Vox Media, LLC](https://voxmedia.com) - Hiring via Greenhouse (voxmedia).
+- [Vox Media, LLC](https://voxmedia.com) - Vox Media is where influence sparks action. Vox Media, the leader in modern media, is home to top talent, engaging editorial brands.
 - [Walmart](https://walmart.com) - Global retailer with large tech and supply-chain orgs.
 - [Warner Bros. Discovery](https://wbd.com) - Media conglomerate (HBO Max, CNN, Warner Bros.).
 - [Weebly](https://weebly.com) - DIY website and online-store builder (Square / Block).
-- [Weride](https://weride.ai) - Hiring via Lever (weride).
+- [Weride](https://weride.ai) - WeRide is a leading, commercial-stage global company that develops autonomous driving technologies from Level 2 to Level 4.
 - [Whatnot](https://whatnot.com) - Whatnot is the largest livestream shopping platform in the U.S.
-- [Wikimedia Foundation](https://wikimediafoundation.com) - Hiring via Greenhouse (wikimedia).
-- [Workstream](https://workstream.us) - Hiring via Greenhouse (workstream).
+- [Wikimedia Foundation](https://wikimediafoundation.com) - Wikimedia Foundation is a charitable, not-for-profit organization that relies on donations.
+- [Workstream](https://workstream.us) - Workstream is a mission-driven company building the all-in-one HR, payroll, and hiring platform for managing the hourly workforce.
 - [X](https://twitter.com) - Real-time social media platform (formerly Twitter).
-- [XTX Markets](https://xtxmarkets.com) - Hiring via Greenhouse (xtxmarketstechnologies).
+- [XTX Markets](https://xtxmarkets.com) - XTY Labs XTY Labs, a division of XTX Markets established in 2024, stands at the intersection of finance and cutting-edge machine learning.
 - [Zerocater](https://zerocater.com) - Zerocater is revolutionizing how companies feed their employees
 - [Zip](https://ziphq.com) - Deal search service
 - [Zynga](https://zynga.com) - Mobile games (Take-Two).

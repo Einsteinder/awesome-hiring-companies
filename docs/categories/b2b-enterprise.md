@@ -13,7 +13,7 @@ B2B SaaS that does not fit `developer-infrastructure` — HR, sales, marketing, 
 - [Avoca](https://avoca.ai) - AI-powered Sales Agent for Service-Based Industries
 - [BootLoop](https://bootloop.ai) - Firmware in minutes, not months - rigorously tested on real hardware
 - [Bubble Lab](https://bubblelab.ai) - Prompt once, automate forever.
-- [Candid](https://candid.com) - Hiring via Greenhouse (candid).
+- [Candid](https://candid.com) - At Candid, we're reimagining orthodontics by pairing clinical expertise with leading telehealth technology.
 - [Cedar](https://mail.cedarcopilot.com) - Execute the best sales playbook in industry
 - [Circleback](https://circleback.ai) - AI-powered meeting notes and automations
 - [Clara Labs](https://claralabs.com) - Clara is a human-in-the-loop assistant that helps automate repetitive…
@@ -75,6 +75,6 @@ B2B SaaS that does not fit `developer-infrastructure` — HR, sales, marketing, 
 - [Syncro](https://syncrosecure.com) - Intelligence layer for internal communications and culture
 - [telli](https://telli.com) - AI phone agents that convert
 - [UserGems](https://usergems.com) - The AI Command Center for outbound and ABM
-- [Vellum](https://vellum.ai) - Hiring via Ashby (vellum).
+- [Vellum](https://vellum.ai) - Vellum is building the platform where anyone can describe a goal in plain language and generate reliable, working agents in seconds .
 - [Workday](https://workday.com) - Cloud HR and finance enterprise platform.
 - [Zapier](https://zapier.com) - Automation platform connecting apps, workflows, and AI-enabled operations.

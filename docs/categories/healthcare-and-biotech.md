@@ -8,7 +8,7 @@ Healthcare delivery, health-tech, biotech, drug discovery, medical devices, and 
 - [Anima](https://animahealth.com) - The next generation care enablement platform
 - [Ansa Biotechnologies](https://ansabio.com) - Next-generation DNA synthesis using enzymes
 - [Arini](https://arini.ai) - AI receptionist for dentists
-- [Arsenalbio](https://arsenalbio.com) - Hiring via Lever (arsenalbio).
+- [Arsenalbio](https://arsenalbio.com) - What We Will Offer You: ArsenalBio has a generous and comprehensive benefits package that includes but is not limited to medical, dental.
 - [AstraZeneca](https://astrazeneca.com) - Global pharmaceutical company.
 - [Atomwise](https://atomwise.com) - AI for small-molecule drug discovery.
 - [Axle Health](https://axlehealth.com) - Scheduling and workforce management SaaS for home healthcare providers
@@ -16,13 +16,13 @@ Healthcare delivery, health-tech, biotech, drug discovery, medical devices, and 
 - [Benchling](https://benchling.com) - Unlocking the power of biotech with modern software for modern science
 - [BillionToOne](https://billiontoone.com) - The genetic testing platform detecting and measuring disease.
 - [BioNTech](https://biontech.com) - mRNA cancer and infectious-disease therapeutics.
-- [Blink Health](https://blinkhealth.com) - Hiring via Greenhouse (blinkhealth).
+- [Blink Health](https://blinkhealth.com) - Blink Health is the fastest growing healthcare technology company that builds products to make prescriptions accessible and affordable to everybody.
 - [Blueberry Pediatrics](https://blueberrypediatrics.com) - 24/7 pediatric clinic in every family's living room
 - [Bunkerhill Health](https://bunkerhillhealth.com) - Bunkerhill Health is building the system of action for health systems
 - [Camber](https://camber.health) - Admin automation for healthcare
 - [Candid Health](https://joincandidhealth.com) - The revenue cycle automation platform.
-- [Career](https://career.com) - Hiring via Lever (career).
-- [Tide](https://tide.co) - Hiring via Greenhouse (tide).
+- [Career](https://career.com) - Find your next job on career.com - Search jobs and research careers by title, company, skills, salaries, industry, and career path.
+- [Tide](https://tide.co) - Tide is transforming the small business banking market with over 1.8 million members globally across the UK, India, Germany and France.
 - [CareMessage](https://caremessage.org) - Patient engagement for low-income populations
 - [Carrot Fertility](https://get-carrot.com) - Customized fertility benefits for modern companies.
 - [Claim Health](https://claimhealth.com) - AI Revenue Platform for Post-Acute Care
@@ -31,26 +31,26 @@ Healthcare delivery, health-tech, biotech, drug discovery, medical devices, and 
 - [Codes Health](https://getcodeshealth.com) - Medical Record Retrieval with Zero Human Error
 - [Daybreak Health](https://daybreakhealth.com) - The first digital mental health system for youth
 - [Decoda Health](https://decodahealth.com) - The all-in-one EMR built for med spas and elective care
-- [eClinical Solutions](https://eclinicalsolutions.com) - Hiring via Greenhouse (eclinicalsolutions).
+- [eClinical Solutions](https://eclinicalsolutions.com) - eClinical Solutions helps life sciences organizations around the world accelerate clinical development initiatives with expert data services and the elluminate Clinical Data.
 - [Eight Sleep](https://eightsleep.com) - The sleep fitness company.
 - [Eli Lilly](https://lilly.com) - Global pharmaceutical company.
 - [Empirical Health](https://empirical.health) - Don't die of heart disease. Empirical is the first AI-native heart…
-- [Endpointclinical](https://endpointclinical.com) - Hiring via Lever (endpointclinical).
+- [Endpointclinical](https://endpointclinical.com) - Elevate your clinical trials with Endpoint Clinical. Our seamless, customizable randomization & trial supply management solutions are trusted across 90,000+ sites.
 - [Evry Health](https://evryhealth.com) - Better health insurance for mid-size companies
 - [Finni Health](https://finnihealth.com) - Empowering Autism Care Providers to Go Independent
-- [Five Rings](https://fiverings.com) - Hiring via Greenhouse (fiveringsllc).
+- [Five Rings](https://fiverings.com) - Rings is a proprietary trading firm founded with a vision of combining strategy, innovation and technology to succeed in today's global markets.
 - [Flex](https://withflex.com) - Stripe for HSA/FSA payments
 - [Flint](https://withflint.com) - Securing Nurses for Your Future
 - [Fortuna Health](https://fortunahealth.com) - TurboTax for Medicaid
 - [Genentech](https://gene.com) - Biotech (Roche).
 - [General Proximity](https://generalproximity.bio) - The next generation of induced-proximity medicines.
 - [Ginkgo Bioworks](https://ginkgobioworks.com) - Our mission is to make biology easier to engineer.
-- [Healthcare](https://healthcare.com) - Hiring via Lever (healthcare).
+- [Healthcare](https://healthcare.com) - Healthcare.com is a leader in the health insurance technology space.
 - [HealthSherpa](https://healthsherpa.com) - Private sector Healthcare.gov.
 - [Healthtech 1](https://healthtech1.uk) - Automating repetitive processes in healthcare
 - [Hippocratic AI](https://hippocraticai.com) - Safety-focused healthcare LLM.
 - [Hive Health](https://ourhivehealth.com) - Simplified digital health insurance for Filipino SMBs
-- [Hone Health](https://honehealth.com) - Hiring via Greenhouse (honehealth).
+- [Hone Health](https://honehealth.com) - Hone Health provides telehealth services that support hormone health and longevity, including testosterone replacement therapy.
 - [Illumina](https://illumina.com) - Genomic sequencing instruments and software.
 - [IMT Care](https://imt.care) - Disrupting Indian Insurance space by empowering distrubutors
 - [Inscripta](https://inscripta.com) - Genome engineering and digital biology tools.
@@ -68,15 +68,15 @@ Healthcare delivery, health-tech, biotech, drug discovery, medical devices, and 
 - [Loula](https://joinloula.com) - Enabling birth & postpartum doulas to easily accept insurance.
 - [Lucis](https://lucis.life) - Function Health for Europe
 - [Luminate](https://luminatemed.com) - We make cancer care at home possible.
-- [Lyrahealth](https://lyrahealth.com) - Hiring via Lever (lyrahealth).
+- [Lyrahealth](https://lyrahealth.com) - Health is the leading provider of mental health solutions for employers supporting more than 20 million people globally.
 - [Mable](https://trymable.com) - First personalized migraine clinic using genetics and telehealth.
-- [Maven Clinic](https://mavenclinic.com) - Hiring via Greenhouse (mavenclinic).
+- [Maven Clinic](https://mavenclinic.com) - Maven helps companies retain talent, improve health outcomes, and reduce maternity and fertility costs.
 - [Medium Biosciences](https://medium.bio) - AI-designed Affinity Reagents
 - [Mednet](https://themednet.org) - Mednet helps doctors answer their toughest clinical questions —…
 - [Merck](https://merck.com) - Global pharmaceutical company.
 - [Meru Health](https://meruhealth.com) - An online provider for greater mental health
 - [Metriport](https://metriport.com) - Open-Source Platform for Healthcare Data Intelligence
-- [Mochi Health](https://joinmochi.com) - Hiring via Greenhouse (mochihealth).
+- [Mochi Health](https://joinmochi.com) - Mochi Health is fixing this. We're building an AI-driven marketplace that makes healthcare discoverable-connecting patients to the right providers, transparent pharmacy pricing.
 - [Modern Health](https://modernhealth.com) - A mental health benefits platform for employers.
 - [Moderna](https://modernatx.com) - mRNA vaccine and therapeutics platform.
 - [Mytos](https://mytos.bio) - Robotic human cell manufacturing
@@ -92,7 +92,7 @@ Healthcare delivery, health-tech, biotech, drug discovery, medical devices, and 
 - [Papa](https://papa.com) - One-stop-shop for flexible family care
 - [Parallel Bio](https://parallel.bio) - Using the immune system to cure disease
 - [Pelago](https://pelagohealth.com) - The world's first digital clinic for substance use management
-- [Perpay](https://perpay.com) - Hiring via Greenhouse (perpay).
+- [Perpay](https://perpay.com) - Perpay is a certified B Corp and Philadelphia's most impactful growth-stage startup.
 - [Pfizer](https://pfizer.com) - Global pharmaceutical company.
 - [Pharos](https://pharos.health) - Helping hospitals identify and prevent avoidable harm using AI
 - [Phoenix](https://phoenix.ca) - Canada's digital health clinic for men
@@ -103,20 +103,20 @@ Healthcare delivery, health-tech, biotech, drug discovery, medical devices, and 
 - [Quartzy](https://quartzy.com) - Marketplace for life science supplies.
 - [Qventus](https://qventus.com) - We automate operations for hospitals and health systems
 - [Regeneron](https://regeneron.com) - Biotech — antibody therapeutics and genetics.
-- [Reklamehealth](https://reklamehealth.com) - Hiring via Ashby (reklamehealth).
-- [Remodel Health](https://remodelhealth.com) - Hiring via Greenhouse (remodelhealth).
-- [RVO Health](https://rvohealth.com) - Hiring via Greenhouse (rvohealth).
+- [Reklamehealth](https://reklamehealth.com) - Reklame control of your life. Connect with a licensed psychiatric provider to begin your journey to health.
+- [Remodel Health](https://remodelhealth.com) - Remodel Health is seeking a proactive, detail-oriented Business Operations Specialist.
+- [RVO Health](https://rvohealth.com) - RVO Health is a new healthcare platform of digital media brands, services and technologies focused on building relationships with people throughout.
 - [Sage Care](https://getsagecare.com) - Get care at home for mom or dad from trusted professionals in their…
 - [Savvy](https://gosavvy.com) - Flexible stipends for employee health insurance
 - [Shasqi](https://shasqi.com) - Targeting Cancer with Click Chemistry
 - [Shift Labs](https://shiftlabs.com) - Makers of simple, affordable medical devices. Our award-winning…
 - [Shiru](https://shiru.com) - Shiru leverages ML to create proteins to feed the world sustainably.
-- [Sidecar Health](https://sidecarhealth.com) - Hiring via Greenhouse (sidecarhealth).
+- [Sidecar Health](https://sidecarhealth.com) - Sidecar Health is redefining health insurance. Our mission is to make excellent healthcare affordable and accessible for everyone.
 - [Silver](https://silver.dev) - Low cost consumer device for toxin detection.
 - [SIRUM](https://sirum.org) - SIRUM is a “match.com” for unused medicine. We connect institutional…
 - [Sixfold Bioscience](https://sixfold.bio) - Delivering RNA therapies.
 - [Stepful](https://stepful.com) - Online Training for Healthcare Jobs
-- [Symbiotic](https://symbiotic.com) - Hiring via Ashby (symbiotic).
+- [Symbiotic](https://symbiotic.com) - At symbiotic we are pioneers in the integration of artificial intelligence in our media solutions payment.
 - [Synapticure](https://synapticure.com) - We deliver personalized medicine for neurodegenerative  patients
 - [Tamarind Bio](https://tamarind.bio) - AI Inference Platform for Drug Discovery
 - [Tempo](https://tempo.fit) - Live home fitness training powered by computer vision.
@@ -128,8 +128,8 @@ Healthcare delivery, health-tech, biotech, drug discovery, medical devices, and 
 - [Verifiable](https://verifiable.com) - API for healthcare compliance
 - [Verse Medical](https://versemedical.com) - Software platform for in-home healthcare
 - [Vetcove](https://vetcove.com) - Powering the animal health supply chain.
-- [Virtahealth](https://virtahealth.com) - Hiring via Ashby (virtahealth).
+- [Virtahealth](https://virtahealth.com) - Virta Health is the leader in diabetes reversal and sustainable weight loss with a nutrition-first approach.
 - [Vitable Health](https://vitablehealth.com) - Affordable care via ICHRA and primary care with visits, meds, labs…
 - [Vitalize](https://vitalize.care) - Transforming how health systems optimize labor
 - [Volta Labs, Inc.](https://voltalabs.com) - Unlocking the utility of genomics for the world.
-- [Zushealth](https://zushealth.com) - Hiring via Lever (zushealth).
+- [Zushealth](https://zushealth.com) - Zus is a shared health data platform designed to accelerate healthcare data interoperability by providing easy-to-use patient data via API, embedded components.

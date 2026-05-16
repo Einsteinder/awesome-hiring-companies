@@ -3,14 +3,14 @@
 Developer tools, cloud, infrastructure, security, observability, and B2B technical platforms.
 
 - [Accord](https://inaccord.com) - The Revenue Excellence Platform
-- [Aeratechnology](https://aeratechnology.com) - Hiring via Lever (aeratechnology).
+- [Aeratechnology](https://aeratechnology.com) - Aera Technology is the Decision Intelligence company that makes business agility happen.
 - [Agency](https://getagency.com) - Agency replaces traditional security and compliance headcount with AI.
 - [AgentMail](https://agentmail.to) - Email Inboxes for AI Agents
 - [Akamai](https://akamai.com) - Content delivery and edge security.
 - [Algolia](https://algolia.com) - A developer-friendly and enterprise-grade search API.
 - [Anysphere](https://anysphere.inc) - AI developer-tooling company behind Cursor.
-- [Aperia Technologies, Inc](https://aperiatech.com) - Hiring via Greenhouse (aperiatechnologies).
-- [Apex Space](https://apexspace.com) - Hiring via Ashby (apex-technology-inc).
+- [Aperia Technologies, Inc](https://aperiatech.com) - Aperia's Halo suite is the only platform built to optimize every wheel position across your fleet, leading the industry with automated pressure.
+- [Apex Space](https://apexspace.com) - Spacecraft represent the most pressing unmet need across the entire aerospace industry.
 - [Appsmith](https://appsmith.com) - Open-source internal-tool builder.
 - [Aqua Security](https://aquasec.com) - Container and cloud-native application security.
 - [Arketa](https://arketa.com) - Everything for your fitness or wellness business.
@@ -32,7 +32,7 @@ Developer tools, cloud, infrastructure, security, observability, and B2B technic
 - [Browserbase](https://browserbase.com) - Browser automation infrastructure for AI agents and web automation.
 - [Butter](https://butter.dev) - Embedded Sandboxes for Agents
 - [Canary Technologies](https://canarytechnologies.com) - Modernizing the hospitality tech stack.
-- [Catalog](https://getcatalog.ai) - Hiring via Ashby (catalog).
+- [Catalog](https://getcatalog.ai) - Catalog is building the commerce layer for AI - the missing infrastructure that lets agents not just search the web, but understand.
 - [Cisco](https://cisco.com) - Networking hardware and enterprise security.
 - [Clerk](https://clerk.com) - Authentication and user management platform for developers.
 - [Close](https://close.com) - CRM and sales automation tools for startups and SMBs
@@ -57,7 +57,7 @@ Developer tools, cloud, infrastructure, security, observability, and B2B technic
 - [Duffel](https://duffel.com) - The complete toolkit to sell travel.
 - [Elastic](https://elastic.co) - Search, observability, and security platform company.
 - [Embrace](https://embrace.io) - Modern mobile observability built on OpenTelemetry
-- [Empirical Security](https://empiricalsecurity.com) - Hiring via Ashby (empirical-security).
+- [Empirical Security](https://empiricalsecurity.com) - Empirical Security is dedicated to building an inclusive, diverse, equitable, and accessible workplace that fosters a sense of belonging - so if.
 - [Equinix](https://equinix.com) - Global data-center and interconnection platform.
 - [Escape](https://escape.tech) - Offensive security for the teams that are 100x outnumbered
 - [Exa](https://exa.ai) - Web search rebuilt for LLMs
@@ -69,12 +69,12 @@ Developer tools, cloud, infrastructure, security, observability, and B2B technic
 - [Firstbase.io](https://firstbase.io) - The all-in-one startup operating system
 - [Flowtel](https://flowtel.ai) - The AI Voice agents for hotels
 - [Formal](https://joinformal.com) - Take control of your data in real-time.
-- [Freedom Technology Solutions Group](https://goftsg.com) - Hiring via Greenhouse (freedomconsulting).
+- [Freedom Technology Solutions Group](https://goftsg.com) - Freedom Technology Solutions Group is seeking a 508 tester.
 - [Freshpaint](https://freshpaint.io) - Customer data collection, safeguarding, & activation for healthcare
 - [Galaxy](https://galaxysdk.com) - Social SDK for games
 - [GitKraken](https://gitkraken.com) - Git GUI and developer-collaboration tools.
 - [GitLab](https://gitlab.com) - DevSecOps platform with a remote-first company model.
-- [Go Cloudforce](https://gocloudforce.com) - Hiring via Lever (go-cloudforce).
+- [Go Cloudforce](https://gocloudforce.com) - After 15 years building deep expertise as a professional services and consulting organization, Cloudforce is transitioning to a product-led company anchored.
 - [GoLinks](https://golinks.io) - Intuitive, easy-to-remember short links - powered by AI.
 - [Grafana Labs](https://grafana.com) - Observability platform company behind Grafana, Loki, Tempo, Mimir, and related infrastructure tools.
 - [HackerRank](https://hackerrank.com) - Change the world to value skills over pedigree
@@ -96,7 +96,7 @@ Developer tools, cloud, infrastructure, security, observability, and B2B technic
 - [Lattice](https://lattice.com) - People management platform for performance, engagement, and HR workflows.
 - [Linear](https://linear.app) - Product development and issue tracking platform known for high-quality engineering and design.
 - [Linode](https://linode.com) - Cloud hosting (Akamai).
-- [Logos](https://logos.com) - Hiring via Greenhouse (logos).
+- [Logos](https://logos.com) - Logos is a movement to rebuild civil society using decentralised technologies.
 - [Luminai](https://luminai.com) - Luminai helps automate repetitive manual work away from your mission…
 - [Mantis](https://mantisbiotech.com) - Digital Twins of humans
 - [MariaDB](https://mariadb.com) - Open-source relational database and managed cloud.
@@ -114,8 +114,8 @@ Developer tools, cloud, infrastructure, security, observability, and B2B technic
 - [Nango](https://nango.dev) - A single API for all your integrations
 - [NanoNets](https://nanonets.com) - Automatic Data Extraction
 - [Neon](https://neon.tech) - Serverless Postgres platform for developers.
-- [New Era Technology](https://neweratech.com) - Hiring via Greenhouse (neweratech).
-- [Northslope Technologies](https://northslopetechnologies.com) - Hiring via Ashby (northslope-technologies).
+- [New Era Technology](https://neweratech.com) - New Era is a Technology Solution Provider, that delivers tech solutions to securely connect people, places, & information around the globe.
+- [Northslope Technologies](https://northslopetechnologies.com) - The generational companies of the next century will run on mission-specific AI software that compounds their competitive advantage, not commoditized SaaS.
 - [Nutanix](https://nutanix.com) - Hybrid multicloud and hyperconverged infrastructure.
 - [Observe.AI](https://observe.ai) - Contact center AI platform.
 - [Onebrief](https://onebrief.com) - Onebrief makes military headquarters run seamlessly
@@ -148,7 +148,7 @@ Developer tools, cloud, infrastructure, security, observability, and B2B technic
 - [SigNoz](https://signoz.io) - Open source alternative to DataDog
 - [SingleStore](https://singlestore.com) - The cloud-native, operational database built for speed and scale.
 - [Sourcegraph](https://sourcegraph.com) - Code intelligence and AI coding platform for large engineering organizations.
-- [Sphere Secure Workspace](https://sphere.works) - Hiring via Ashby (sphere).
+- [Sphere Secure Workspace](https://sphere.works) - SPHERE Every breakthrough in trade infrastructure has followed the same pattern: reduce a transaction cost, expand the market.
 - [Splunk](https://splunk.com) - Operational intelligence and SIEM platform (Cisco).
 - [Stacker](https://stackerhq.com) - Turns spreadsheets into internal apps and customer portals
 - [Stage](https://stagereview.app) - A better code review platform
@@ -166,14 +166,14 @@ Developer tools, cloud, infrastructure, security, observability, and B2B technic
 - [Together AI](https://together.ai) - AI cloud and model platform company for training, fine-tuning, and inference.
 - [Topline Pro](https://toplinepro.com) - Generative AI powered Shopify for home service professionals
 - [Trellis AI](https://runtrellis.com) - AI for streamlining healthcare paperwork
-- [Truffle Security](https://trufflesecurity.com) - Hiring via Greenhouse (trufflesecurity).
+- [Truffle Security](https://trufflesecurity.com) - Truffle Security is a cybersecurity company on a mission to make secrets easier to detect, verify, and remediate across modern software environments.
 - [Twenty](https://twenty.com) - Open Source CRM
 - [Twilio](https://twilio.com) - Customer engagement platform with communications APIs for voice, messaging, email, and identity.
 - [Unity](https://unity.com) - Real-time 3D engine for games and beyond.
 - [UpKeep](https://upkeep.com) - Mobile-first software for maintenance teams.
 - [Vanta](https://vanta.com) - Vanta—the proven leader in automated compliance helping startups…
 - [Vercel](https://vercel.com) - Frontend cloud platform for web application deployment and developer workflows.
-- [Verygoodsecurity](https://verygoodsecurity.com) - Hiring via Lever (verygoodsecurity).
+- [Verygoodsecurity](https://verygoodsecurity.com) - Integrate VGS into your technology stack to streamline payment tokenization, with our comprehensive card management platform, network token solutions, account updater.
 - [Vibe](https://vibe.codes) - Making everyone a software engineer
 - [VMware](https://vmware.com) - Virtualization and cloud infrastructure (Broadcom).
 - [Vultr](https://vultr.com) - Cloud compute and bare-metal hosting.
@@ -182,4 +182,4 @@ Developer tools, cloud, infrastructure, security, observability, and B2B technic
 - [Windmill](https://windmill.dev) - Open-source platform to turn scripts into internal apps & workflows
 - [Wiz](https://wiz.io) - Cloud security platform for risk assessment, posture management, and runtime protection.
 - [Zencoder](https://zencoder.com) - Video Encoding API,
-- [Zone 5 Technologies](https://zone5tech.com) - Hiring via Greenhouse (zone5technologies).
+- [Zone 5 Technologies](https://zone5tech.com) - At Zone 5 Technologies, we're redefining what's possible in unmanned aircraft systems.

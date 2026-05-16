@@ -11,7 +11,7 @@ Payments, banking, investing, crypto, expense, payroll, and financial infrastruc
 - [Alpaca](https://alpaca.markets) - API-first stock and crypto brokerage platform
 - [American Express](https://americanexpress.com) - Card issuer and payments network.
 - [Angle Health](https://anglehealth.com) - Health Insurance for Startups
-- [Aquatic Capital Management](https://aquatic.com) - Hiring via Greenhouse (aquaticcapitalmanagement).
+- [Aquatic Capital Management](https://aquatic.com) - Aquatic was founded with a shared passion for tackling some of the most complex challenges in one of the world's most competitive.
 - [Arc](https://joinarc.com) - Banking & Funding for Startups
 - [Archer](https://archermoney.com) - Reward. Anything.
 - [ARQ](https://arqfinance.com) - The global financial platform for affluent consumers in the Americas.
@@ -36,12 +36,12 @@ Payments, banking, investing, crypto, expense, payroll, and financial infrastruc
 - [Bree](https://trybree.com) - Chime for Canada, starting with cash advances
 - [Bretton AI](https://bretton.com) - AI agents for financial compliance (AML, KYC and Sanctions)
 - [Brex](https://brex.com) - Spend management and corporate card platform for companies.
-- [Calendly](https://calendly.com) - Hiring via Greenhouse (calendly).
+- [Calendly](https://calendly.com) - Calendly is growing rapidly and is scaling its security team to ensure the security of its users.
 - [Camp](https://nouns.camp) - A Nouns DAO governance client
 - [Campfire](https://campfire.ai) - The AI Native ERP for the fastest growing companies.
 - [Capi Money](https://capimoney.com) - Helping businesses in emerging markets make pay their international…
-- [Capital](https://capital.com) - Hiring via Lever (capital).
-- [Capital on Tap](https://capitalontap.com) - Hiring via Greenhouse (capitalontap).
+- [Capital](https://capital.com) - This is the first role of its kind at Capital.com, and it is designed for someone who thrives in ambiguity, builds.
+- [Capital on Tap](https://capitalontap.com) - With the Capital on Tap business credit card, get up to 250k to grow your business.
 - [Capital One](https://capitalone.com) - Consumer credit card and digital banking.
 - [CaptivateIQ](https://captivateiq.com) - Agile commission software to design, deploy & adapt commission plans.
 - [Carbon-12 Labs](https://carbon.money) - A Global Payouts API for Startups
@@ -54,7 +54,7 @@ Payments, banking, investing, crypto, expense, payroll, and financial infrastruc
 - [ClaimSorted](https://claimsorted.com) - Making it easy for insurance companies to process claims
 - [Clear](https://clear.in) - Fintech SaaS platform for invoices, taxes, wealth management & credit.
 - [Coinbase](https://coinbase.com) - Crypto exchange and blockchain infrastructure company.
-- [Coins](https://coins.com) - Hiring via Lever (coins).
+- [Coins](https://coins.com) - Coins is the most established crypto brand in The Philippines and has gained the trust of more than 18 million users.
 - [Compound](https://withcompound.com) - Compound is a wealth manager for people who work at tech companies.
 - [Concourse](https://concourse.co) - AI Agents for corporate finance teams
 - [Confido](https://confidotech.com) - AI-enabled financial automation and intelligence for CPG Brands
@@ -78,13 +78,13 @@ Payments, banking, investing, crypto, expense, payroll, and financial infrastruc
 - [Float](https://float.xyz) - Supply chain finance for consumer brands
 - [Flux](https://paywithflux.com) - Flux is building the payment network for alternative payments in…
 - [Formance](https://formance.com) - Open Source Infrastructure for the Financial Internet
-- [Fundamental](https://fundamental.com) - Hiring via Ashby (fundamental).
+- [Fundamental](https://fundamental.com) - AI company pioneering the future of enterprise decision-making..
 - [FurtherAI](https://furtherai.com) - AI Workforce for the Insurance Industry
 - [Fuse](https://www.f.energy) - Unified API for financial data aggregators.
-- [Garda Capital Partners](https://gardacp.com) - Hiring via Greenhouse (gardacp).
+- [Garda Capital Partners](https://gardacp.com) - Garda Capital Partners is a multi-billion dollar alternative investment firm with over 22 years of experience deploying relative value strategies across fixed.
 - [GiveCampus](https://go.givecampus.com) - The fundraising platform for schools.
 - [GoCardless](https://gocardless.com) - We’re building the world’s bank payment network.
-- [GoFundMe](https://gofundme.com) - Hiring via Greenhouse (gofundme).
+- [GoFundMe](https://gofundme.com) - GoFundMe is the world's most powerful community for good, dedicated to helping people help each other.
 - [Goldman Sachs](https://goldmansachs.com) - Investment bank and asset manager.
 - [Greenboard](https://greenboard.com) - Modern OS for the financial back office.
 - [Groww](https://groww.in) - Making financial services simple, transparent and delightful.
@@ -115,14 +115,14 @@ Payments, banking, investing, crypto, expense, payroll, and financial infrastruc
 - [Modern Treasury](https://moderntreasury.com) - Payment operations tools for money movement.
 - [Momence](https://momence.com) - Scheduling and payments for experiences
 - [Morgan Stanley](https://morganstanley.com) - Investment bank and wealth management.
-- [Nerdwallet](https://nerdwallet.com) - Hiring via Ashby (nerdwallet).
+- [Nerdwallet](https://nerdwallet.com) - NerdWallet makes it easy to find the right financial product for you.
 - [Newfront](https://newfront.com) - Modern insurance brokerage.
 - [Noble](https://noble.xyz) - Risk decisioning platform
 - [Notabene](https://notabene.id) - The Notabene platform is the trust layer for global money movement.
 - [Nova Credit](https://novacredit.com) - Bridging a world of consumer-permissioned credit data
 - [Novel](https://novel.shop) - Novel is your international business bank account
 - [Novig](https://novig.com) - America's #1 Sports Trading App
-- [Nubank](https://nubank.com) - Hiring via Greenhouse (nubank).
+- [Nubank](https://nubank.com) - Nubank is today one of the largest digital banking platforms and technology-leading companies in the world.
 - [Numeral](https://numeral.com) - The AI-native sales tax solution.
 - [OffDeal](https://offdeal.io) - AI-native investment bank for small businesses
 - [Onshore](https://onshore.com) - AI for corporate tax
@@ -130,9 +130,9 @@ Payments, banking, investing, crypto, expense, payroll, and financial infrastruc
 - [Orca](https://orca.fyi) - Banking for Gen Z, on steroids.
 - [Parker](https://getparker.com) - Parker is a digital bank.
 - [PayPal](https://paypal.com) - Digital payments and consumer wallet.
-- [PayPay India](https://paypayindia.com) - Hiring via Greenhouse (pay2dc).
+- [PayPay India](https://paypayindia.com) - PayPay, a fintech company providing a service enjoyed by 70 million users merely 7 years since its launch in 2018 in Japan.
 - [Paystack](https://paystack.com) - Modern payments infrastructure for Africa
-- [Paytm](https://paytm.com) - Hiring via Lever (paytm).
+- [Paytm](https://paytm.com) - Paytm is India's largest payment company by Users, Merchants, Payment Transactions and Revenue.
 - [Pivot](https://pivotapp.ai) - Your AI FP&A Analyst
 - [Plaid](https://plaid.com) - Financial data network and banking API platform.
 - [Plane](https://plane.com) - #1 easiest-to-use payroll for startups
@@ -145,11 +145,11 @@ Payments, banking, investing, crypto, expense, payroll, and financial infrastruc
 - [Prospa](https://getprospa.com) - Banking for businesses
 - [Pulley](https://pulley.com) - Pulley helps founders and finance teams manage their equity and cap…
 - [Ramp](https://ramp.com) - Finance automation platform for corporate cards, expense management, and procurement.
-- [Razorpay Software Private Limited](https://razorpay.com) - Hiring via Greenhouse (razorpaysoftwareprivatelimited).
+- [Razorpay Software Private Limited](https://razorpay.com) - Online Payments India: Start Accepting Payments Instantly with Razorpay's Payment Suite, which Supports Netbanking, Credit Card & Debit Cards, UPI etc.
 - [Ready](https://ready.net) - Collaborative platform for optimizing regulated utilities such as…
 - [Revolut](https://revolut.com) - Global neobank and financial super-app for consumers and businesses.
 - [Robinhood](https://robinhood.com) - Consumer finance and investing platform.
-- [RTW Investments](https://rtwfunds.com) - Hiring via Greenhouse (rtwinvestments).
+- [RTW Investments](https://rtwfunds.com) - RTW Investments is seeking a highly organized Corporate Access Assistant to support the day-to-day execution of our corporate access function.
 - [Rutter](https://rutter.com) - The Unified API for Business Financial Data
 - [SafetyKit](https://safetykit.com) - AI agents for risk, compliance, and safety
 - [Salient](https://trysalient.com) - AI Servicing for Auto Lenders
