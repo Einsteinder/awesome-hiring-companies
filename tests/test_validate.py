@@ -98,4 +98,33 @@ class TestAssertValidUrls(unittest.TestCase):
         self.assertIn("Invalid Corp has invalid URL: http://", str(context.exception))
 
 if __name__ == '__main__':
+import tempfile
+
+from scripts.validate import load_yaml
+
+class TestValidate(unittest.TestCase):
+    def test_load_yaml_valid(self):
+        with tempfile.NamedTemporaryFile(mode="w", suffix=".yml", delete=False) as f:
+            f.write("- name: test\n")
+            temp_path = Path(f.name)
+
+        try:
+            data = load_yaml(temp_path)
+            self.assertIsInstance(data, list)
+            self.assertEqual(len(data), 1)
+        finally:
+            temp_path.unlink()
+
+    def test_load_yaml_invalid(self):
+        with tempfile.NamedTemporaryFile(mode="w", suffix=".yml", delete=False) as f:
+            f.write("name: test\n")
+            temp_path = Path(f.name)
+
+        try:
+            with self.assertRaisesRegex(ValueError, "must contain a top-level list"):
+                load_yaml(temp_path)
+        finally:
+            temp_path.unlink()
+
+if __name__ == "__main__":
     unittest.main()
