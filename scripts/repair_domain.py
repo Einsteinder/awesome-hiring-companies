@@ -362,6 +362,29 @@ async def repair_one(
         return Proposal(slug, name, current, None, "none", evidence)
 
 
+def apply_proposals(to_apply: dict[str, str], file_path: Path) -> int:
+    """Rewrite the YAML file in place to update domains."""
+    text = file_path.read_text()
+    new_lines: list[str] = []
+    current_slug: str | None = None
+    changes = 0
+    for line in text.splitlines(keepends=True):
+        m = re.match(r"^\s*slug:\s*([a-z0-9-]+)\s*$", line)
+        if m:
+            current_slug = m.group(1)
+        elif current_slug in to_apply and re.match(r"^\s*domain:\s*", line):
+            indent = re.match(r"^(\s*)", line).group(1)
+            new_line = f"{indent}domain: {to_apply[current_slug]}\n"
+            if new_line != line:
+                new_lines.append(new_line)
+                changes += 1
+                current_slug = None
+                continue
+        new_lines.append(line)
+    file_path.write_text("".join(new_lines))
+    return changes
+
+
 async def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--apply", action="store_true", help="Rewrite the YAML in place for high-confidence proposals.")
@@ -417,24 +440,7 @@ async def main() -> int:
         print("No proposals to apply.", file=sys.stderr)
         return 0
 
-    text = DATA_PATH.read_text()
-    new_lines: list[str] = []
-    current_slug: str | None = None
-    changes = 0
-    for line in text.splitlines(keepends=True):
-        m = re.match(r"^\s*slug:\s*([a-z0-9-]+)\s*$", line)
-        if m:
-            current_slug = m.group(1)
-        elif current_slug in to_apply and re.match(r"^\s*domain:\s*", line):
-            indent = re.match(r"^(\s*)", line).group(1)
-            new_line = f"{indent}domain: {to_apply[current_slug]}\n"
-            if new_line != line:
-                new_lines.append(new_line)
-                changes += 1
-                current_slug = None
-                continue
-        new_lines.append(line)
-    DATA_PATH.write_text("".join(new_lines))
+    changes = apply_proposals(to_apply, DATA_PATH)
     print(f"Applied {changes} domain updates.", file=sys.stderr)
     return 0
 
