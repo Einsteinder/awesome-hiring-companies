@@ -51,7 +51,6 @@ AI, machine learning, analytics, databases, and data infrastructure.
 - [Docsumo](https://docsumo.com) - Document AI for intelligent data extraction.
 - [Doe](https://doe.so) - The boring stuff, handled. Everything else, supercharged.
 - [Domu Technology Inc.](https://domu.ai) - AI Agents for collections
-- [Echo](https://echothat.ai) - Founder-led sales co-pilot for B2B startups.
 - [ElevenLabs](https://elevenlabs.io) - Voice AI company building speech generation, dubbing, audio, and creator tools.
 - [Elyos AI](https://elyos.ai) - AI Customer Service Agents for trades and field services
 - [Encord](https://encord.com) - The data layer for physical AI
