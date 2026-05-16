@@ -1361,20 +1361,7 @@
   - retail
   sources:
   - https://jobs.lever.co/meesho
-- name: Fetch
-  slug: fetch
-  domain: fetchtruck.com
-  careers_url: https://boards.greenhouse.io/fetch
-  category: industrials-and-climate
-  ats:
-    greenhouse: fetch
-  tags:
-  - consumer
-  - consumer-transportation-services
-  - marketplace
-  - logistics
-  sources:
-  - https://boards.greenhouse.io/fetch
+
 - name: Instawork
   slug: instawork
   domain: instawork.com
