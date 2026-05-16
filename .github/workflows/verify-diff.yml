@@ -95,11 +95,13 @@ jobs:
         if: steps.diff.outputs.count != '0'
         id: verify
         shell: bash {0}
+        env:
+          SLUGS: ${{ steps.diff.outputs.slugs }}
         run: |
           set +e
           # shellcheck disable=SC2086
           python scripts/verify_live.py \
-            --only ${{ steps.diff.outputs.slugs }} \
+            --only $SLUGS \
             --format text > /tmp/report.txt
           code=$?
           cat /tmp/report.txt
