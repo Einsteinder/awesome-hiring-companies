@@ -4536,19 +4536,6 @@
   - consumer-apparel-and-cosmetics
   sources:
   - https://jobs.lever.co/hush
-- name: Skip
-  slug: skip
-  domain: rideskip.com
-  careers_url: https://jobs.ashbyhq.com/skip
-  category: industrials-and-climate
-  ats:
-    ashby: skip
-  tags:
-  - consumer
-  - consumer-transportation-services
-  - transportation
-  sources:
-  - https://jobs.ashbyhq.com/skip
 - name: Titan
   slug: titan
   domain: titan.com
