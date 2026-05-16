@@ -13,7 +13,7 @@ Consumer products, communities, marketplaces, media, travel, commerce, education
 - [Anara](https://anara.com) - AI for researchers
 - [Ankorstore](https://ankorstore.com) - Hiring via Ashby (ankorstore).
 - [Apple](https://apple.com) - Consumer electronics, services, and software platforms.
-- [Ark](https://ark.com) - Ark organizes the world's social information.
+- [Ark](https://ark-invest.com) - Ark organizes the world's social information.
 - [AT&T](https://att.com) - Telecommunications and connectivity carrier.
 - [Avride](https://avride.com) - Hiring via Greenhouse (avride).
 - [Backpack](https://backpackbang.com) - Marketplace to get stuff from overseas
