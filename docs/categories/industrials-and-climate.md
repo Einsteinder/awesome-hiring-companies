@@ -20,7 +20,6 @@ Hardware, manufacturing, robotics, climate, energy, aviation, space, supply chai
 - [Attain](https://joinattain.com) - One-Stop Shop for Convenience Store Inventory
 - [Atum Works](https://atum.works) - Gigascale Nanomanufacturing
 - [Bild AI](https://bild.ai) - AI that understands construction blueprints
-- [Blink](https://blinklastmile.com) - Same-day delivery for e-commerce companies in Europe.
 - [Blissway](https://blissway.com) - The tolling industry’s prime tech infrastructure
 - [Bloom Energy](https://bloomenergy.com) - Solid-oxide fuel cells for distributed energy.
 - [Blue](https://heyblue.com) - Your phone finally has someone to run it. Plug in Blue, just ask.
