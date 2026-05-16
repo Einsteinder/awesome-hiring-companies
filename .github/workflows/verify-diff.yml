@@ -33,14 +33,17 @@ jobs:
       - name: Detect added or modified entries
         id: diff
         shell: bash
+        env:
+          BASE_REF: ${{ github.base_ref }}
         run: |
           set -euo pipefail
-          base="origin/${{ github.base_ref }}"
-          git fetch origin "${{ github.base_ref }}" --depth=1 || true
+          base="origin/${BASE_REF}"
+          git fetch origin "${BASE_REF}" --depth=1 || true
 
           python - <<'PY' > /tmp/diff_slugs.txt
           import json, subprocess, sys
           import yaml
+          import os
 
           def load(ref):
               try:
@@ -53,7 +56,7 @@ jobs:
               data = yaml.safe_load(blob) or []
               return {c["slug"]: c for c in data if isinstance(c, dict) and "slug" in c}
 
-          base = load("origin/${{ github.base_ref }}")
+          base = load(f"origin/{os.environ['BASE_REF']}")
           head = load("HEAD")
           changed = []
           # Added
