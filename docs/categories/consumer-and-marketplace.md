@@ -3,7 +3,7 @@
 Consumer products, communities, marketplaces, media, travel, commerce, education, and gaming.
 
 - [A Thinking Ape](https://athinkingape.com) - We build communities through massively multiplayer mobile games
-- [Able](https://ablejobs.co) - India's Largest Placement Platform for Early Professionals
+- [Able](https://able.co) - India's Largest Placement Platform for Early Professionals
 - [Activision Blizzard](https://activisionblizzard.com) - Gaming publisher (Microsoft) — Call of Duty, Warcraft.
 - [Adobe](https://adobe.com) - Creative tools, document services, and digital experience.
 - [Airbnb](https://airbnb.com) - Travel marketplace with large-scale consumer, marketplace, trust, and payments systems.
@@ -18,7 +18,7 @@ Consumer products, communities, marketplaces, media, travel, commerce, education
 - [Avride](https://avride.ai) - Hiring via Greenhouse (avride).
 - [Backpack](https://backpackbang.com) - Marketplace to get stuff from overseas
 - [Beacons](https://beacons.ai) - An AI-powered, all-in-one business platform for content creators
-- [Breaker](https://breaker.audio) - A podcast company.
+- [Breaker](https://breakerindustries.com) - A podcast company.
 - [ByteDance](https://bytedance.com) - TikTok parent and global consumer / AI / media company.
 - [Cambly](https://cambly.com) - On-demand access to English tutors over video chat.
 - [Canva](https://canva.com) - Online design and visual communication platform.
@@ -72,7 +72,7 @@ Consumer products, communities, marketplaces, media, travel, commerce, education
 - [Netflix](https://netflix.com) - Streaming entertainment platform.
 - [Nextdoor](https://nextdoor.com) - Neighborhood-focused social network.
 - [Niantic](https://nianticlabs.com) - Pokémon GO and AR location games.
-- [Odin](https://savewithodin.com) - Save, organize and showcase your mental dump
+- [Odin](https://joinodin.com) - Save, organize and showcase your mental dump
 - [Opennote](https://opennote.com) - The notebook that thinks with you.
 - [Padlet](https://padlet.com) - Papyrus → Parchment → Paper → Padlet
 - [Panasonic](https://panasonic.com) - Consumer electronics and battery (Tesla EV cells).
@@ -81,7 +81,7 @@ Consumer products, communities, marketplaces, media, travel, commerce, education
 - [Pax Historia](https://paxhistoria.co) - The first AI-powered grand strategy platform
 - [Pingo AI](https://pingo.ai) - AI companion that helps you learn languages
 - [Pinterest](https://pinterest.com) - Visual discovery platform with search, recommendations, ads, and creator products.
-- [Plexus](https://plexus.im) - High-performance gloves for VR and AR
+- [Plexus](https://plexus.co) - High-performance gloves for VR and AR
 - [Postscript](https://postscript.io) - The SMS revenue platform for e-commerce merchants
 - [PowerUs](https://powerus.de) - LinkedIn for skilled blue-collar workers
 - [Prolific](https://prolific.com) - Making diverse, high-quality data easily available to anyone, anywhere
@@ -134,5 +134,5 @@ Consumer products, communities, marketplaces, media, travel, commerce, education
 - [X](https://twitter.com) - Real-time social media platform (formerly Twitter).
 - [XTX Markets](https://xtxmarkets.com) - Hiring via Greenhouse (xtxmarketstechnologies).
 - [Zerocater](https://zerocater.com) - Zerocater is revolutionizing how companies feed their employees
-- [Zipio](https://dealupa.com) - Deal search service
+- [Zip](https://ziphq.com) - Deal search service
 - [Zynga](https://zynga.com) - Mobile games (Take-Two).

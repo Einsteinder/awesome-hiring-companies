@@ -11,7 +11,6 @@ Payments, banking, investing, crypto, expense, payroll, and financial infrastruc
 - [Alpaca](https://alpaca.markets) - API-first stock and crypto brokerage platform
 - [American Express](https://americanexpress.com) - Card issuer and payments network.
 - [Angle Health](https://anglehealth.com) - Health Insurance for Startups
-- [Ansatzcapital](https://ansatzcapital.com) - Hiring via Lever (ansatzcapital).
 - [Aquatic Capital Management](https://aquatic.com) - Hiring via Greenhouse (aquaticcapitalmanagement).
 - [Arc](https://joinarc.com) - Banking & Funding for Startups
 - [Archer](https://archermoney.com) - Reward. Anything.
@@ -29,7 +28,7 @@ Payments, banking, investing, crypto, expense, payroll, and financial infrastruc
 - [Belvo](https://belvo.com) - Open Finance API platform for Latam.
 - [Ben](https://thanksben.com) - The easiest way to learn about, buy, and store cryptocurrency.
 - [Benepass](https://getbenepass.com) - Fintech for corporate compensation
-- [Bifrost](https://hapi.finance) - Wills and Estate Management for Crypto
+- [Bifrost](https://bifrost.ai) - Wills and Estate Management for Crypto
 - [Bitstack](https://bitstack-app.com) - All things money, with better money
 - [Blee](https://blee.com) - Smart, fast, and collaborative compliance reviews
 - [Block](https://block.xyz) - Square, Cash App, Tidal, Bitkey (formerly Square Inc.).
@@ -106,7 +105,7 @@ Payments, banking, investing, crypto, expense, payroll, and financial infrastruc
 - [Lago](https://getlago.com) - The AI Native Billing Platform
 - [Legalist](https://legalist.com) - Legal investment firm
 - [LemFi](https://lemfi.com) - Fair, simple and accessible financial services
-- [Level](https://trylevel.app) - Fast and simple fintech financing
+- [Level](https://level.me) - Fast and simple fintech financing
 - [LiveFlow](https://liveflow.com) - The Unified AI-ERP & FP&A Platform
 - [Long Term Stock Exchange](https://ltse.com) - LTSE is an ecosystem for visionary business.
 - [Malga](https://malga.io) - Malga is an API to accept payments with multiple payment providers
@@ -150,7 +149,7 @@ Payments, banking, investing, crypto, expense, payroll, and financial infrastruc
 - [Ready](https://ready.net) - Collaborative platform for optimizing regulated utilities such as…
 - [Revolut](https://revolut.com) - Global neobank and financial super-app for consumers and businesses.
 - [Robinhood](https://robinhood.com) - Consumer finance and investing platform.
-- [RTW Investments](https://rtwinvestments.com) - Hiring via Greenhouse (rtwinvestments).
+- [RTW Investments](https://rtwfunds.com) - Hiring via Greenhouse (rtwinvestments).
 - [Rutter](https://rutter.com) - The Unified API for Business Financial Data
 - [SafetyKit](https://safetykit.com) - AI agents for risk, compliance, and safety
 - [Salient](https://trysalient.com) - AI Servicing for Auto Lenders
