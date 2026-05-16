@@ -3,17 +3,17 @@
 AI, machine learning, analytics, databases, and data infrastructure.
 
 - [Abundant](https://abundant.ai) - Agent simulation and RL for researchers
-- [Acceldata](https://acceldata.com) - Hiring via Lever (acceldata).
+- [Acceldata](https://acceldata.com) - Acceldata is the market leader in Enterprise Data Observability.
 - [Adept](https://adept.ai) - AI agents for software actions.
 - [AfterQuery](https://afterquery.com) - Applied research lab curating data solutions for foundation model…
 - [AI21 Labs](https://ai21.com) - Enterprise LLMs and reading comprehension.
-- [Aida](https://aida.com) - Hiring via Ashby (aida).
+- [Aida](https://aida.com) - Aida is a B2B enterprise AI company. Currently operating in stealth mode, Aida is developing deep AI assistants tailored for every role.
 - [Airbyte](https://airbyte.com) - Context layer for production-grade AI agents
-- [Aircapture](https://aircapture.com) - Hiring via Greenhouse (aircapture).
-- [Airgarage](https://airgarage.com) - Hiring via Ashby (airgarage).
-- [Airops](https://airops.com) - Hiring via Ashby (airops).
-- [Airwallex](https://airwallex.com) - Hiring via Ashby (airwallex).
-- [Aisle](https://aisle.com) - Hiring via Ashby (aisle).
+- [Aircapture](https://aircapture.com) - We supply commercial and industrial customers with clean CO2 captured from our atmosphere to radically improve the environment, the economy.
+- [Airgarage](https://airgarage.com) - AirGarage is a remote-first company, but we also value in-person collaboration to strengthen trust and teamwork.
+- [Airops](https://airops.com) - AirOps is the first end-to-end content engineering platform built for the AI era.
+- [Airwallex](https://airwallex.com) - Airwallex is the only unified payments and financial platform for global businesses.
+- [Aisle](https://aisle.com) - Aisle is redefining how enterprises secure their software with an AI agent for autonomous vulnerability remediation.
 - [Amplitude](https://amplitude.com) - Digital analytics and product intelligence platform.
 - [Anthropic](https://anthropic.com) - AI safety and frontier model company with research, product, infrastructure, and go-to-market roles.
 - [Aqua Voice](https://aquavoice.com) - Frontier Voice Input - write 4x faster than typing.
@@ -34,7 +34,7 @@ AI, machine learning, analytics, databases, and data infrastructure.
 - [Cerebras](https://cerebras.net) - Wafer-scale AI accelerator hardware and inference platform.
 - [Character AI](https://character.ai) - Consumer AI characters and chat.
 - [Checkr](https://checkr.com) - People infrastructure for the future of work
-- [Civis Analytics](https://civisanalytics.com) - Hiring via Greenhouse (civisanalytics).
+- [Civis Analytics](https://civisanalytics.com) - Our products, services, and culture benefit from and thrive on the unique perspectives brought by each person in our Civis community.
 - [ClickHouse](https://clickhouse.com) - Real-time analytics database company built around open-source ClickHouse.
 - [Cohere](https://cohere.com) - Enterprise AI company building foundation models and retrieval systems for business use cases.
 - [Constellation Space](https://constellation.space) - AI operating system for mega-scale satellite networks.
@@ -43,7 +43,7 @@ AI, machine learning, analytics, databases, and data infrastructure.
 - [Craze](https://crazehq.com) - Get anything done with all the right AI models, apps & agents for you
 - [Credal.ai](https://credal.ai) - The Control Plane for Enterprise Agents
 - [CTGT](https://ctgt.ai) - The deterministic layer for frontier intelligence
-- [Databento](https://databento.com) - Hiring via Greenhouse (databento).
+- [Databento](https://databento.com) - Databento is the next generation market data provider - with the radical idea that you should only pay for the data that.
 - [Dedalus Labs](https://dedaluslabs.ai) - Compute substrate for AI agents
 - [Deepgram](https://deepgram.com) - Building foundational AI for speech transcription and understanding.
 - [Deepnote](https://deepnote.com) - A better data science notebook.
@@ -56,7 +56,7 @@ AI, machine learning, analytics, databases, and data infrastructure.
 - [Encord](https://encord.com) - The data layer for physical AI
 - [Eventual](https://daft.ai) - Building the AI data engine for any modality and scale
 - [Fieldguide](https://fieldguide.io) - Vertical AI for Audit & Advisory Firms
-- [Fireworks AI](https://fireworksai.com) - Hiring via Greenhouse (fireworksai).
+- [Fireworks AI](https://fireworksai.com) - Us: At Fireworks, we're building the future of generative AI infrastructure.
 - [Fivetran](https://fivetran.com) - The leader in automated data movement
 - [Focal Systems](https://focal.systems) - Building the Operating System for B&M Retail using Deep Learning
 - [Foresight](https://foresight.tt) - On-demand consumer insights
@@ -102,11 +102,11 @@ AI, machine learning, analytics, databases, and data infrastructure.
 - [Miso](https://miso.kr) - We make booking services as easy as buying products online.
 - [Mixpanel](https://mixpanel.com) - Mixpanel is event analytics for builders that need answers.
 - [Modus](https://himodus.com) - Unlock revenue per employee with AI-powered headcount management
-- [Montecarlodata](https://montecarlodata.com) - Hiring via Ashby (montecarlodata).
-- [Moonshot Ai](https://moonshotai.com) - Hiring via Ashby (moonshot-ai).
+- [Montecarlodata](https://montecarlodata.com) - Carlo is the agent trust platform that unifies data and agent observability to monitor, troubleshoot, and improve production AI systems.
+- [Moonshot Ai](https://moonshotai.com) - At Moonshot, culture isn't fluff - it's how we win Curiosity & Growth We challenge assumptions, ask big questions, and push.
 - [Mutiny](https://mutinyhq.com) - Your AI agent for creating anything customer-facing, in minutes.
 - [Netomi](https://netomi.com) - Self-Driving Customer Care
-- [Neuralink](https://neuralink.com) - Hiring via Greenhouse (neuralink).
+- [Neuralink](https://neuralink.com) - Creating a generalized brain interface to restore autonomy to those with unmet medical needs today and unlock human potential tomorrow.
 - [Nexus](https://agent.nexus) - We help non-technical teams build AI agents without engineers
 - [Notion](https://notion.com) - Workspace, docs, and productivity platform with collaboration and AI product work.
 - [NVIDIA](https://nvidia.com) - GPU hardware and AI computing platform.
@@ -130,7 +130,7 @@ AI, machine learning, analytics, databases, and data infrastructure.
 - [Post.fm](https://post.fm) - New email inbox.
 - [PostHog](https://posthog.com) - Open-source product analytics and developer tooling company.
 - [Primer](https://startprimer.com) - AI Product Demos
-- [Prosper Ai](https://prosperai.com) - Hiring via Ashby (prosper-ai).
+- [Prosper Ai](https://prosperai.com) - AI: At Prosper AI, we're pioneering the most advanced conversational AI agents tailored for the healthcare industry.
 - [Prox](https://useprox.com) - AI technical support for complex physical products
 - [Quetzal](https://getquetzal.com) - Simple, LLM-first translation and internationalization for software
 - [RADAR](https://goradar.com) - RADAR is building technology to completely transform the in-store…
@@ -143,12 +143,12 @@ AI, machine learning, analytics, databases, and data infrastructure.
 - [Replo](https://replo.app) - Sell anything
 - [Retell AI](https://retellai.com) - Supercharge Your Contact Center Operations with AI Phone Agents
 - [Roboflow](https://roboflow.com) - 🖼️ Give your software the sense of sight.
-- [Robust AI](https://robust.ai) - Hiring via Lever (robust-ai).
+- [Robust AI](https://robust.ai) - Robust AI is a fast-growing, early-stage startup founded in 2019 by an unsurpassed team of veterans in robotics, AI, and business.
 - [Rollstack](https://rollstack.com) - Automate data-driven slide decks and documents with AI
 - [Rosebud AI](https://rosebud.ai) - Vibe code games.
 - [Sapling.ai](https://sapling.ai) - Language models for enterprise applications.
 - [Scale AI](https://scale.com) - Data and evaluation infrastructure company serving AI labs, enterprises, and public-sector customers.
-- [Scout AI](https://scoutai.com) - Hiring via Greenhouse (scoutai).
+- [Scout AI](https://scoutai.com) - Scout AI provides comprehensive, top-tier benefits to full-time employees.
 - [Scribe](https://tryscribe.com) - Scribe is an AI based Sales Development Representative that you can…
 - [Sendbird](https://sendbird.com) - The AI agent that doesn’t just support, it delights.
 - [Short Story](https://shortstorybox.com) - Modern ecommerce for petite women

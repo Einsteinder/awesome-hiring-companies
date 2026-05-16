@@ -40,7 +40,7 @@ Hardware, manufacturing, robotics, climate, energy, aviation, space, supply chai
 - [Chestnut](https://chestnutmortgage.com) - The first AI mortgage lender
 - [Cinder](https://cindercooks.com) - The World’s First Countertop Precision Grill –  using two ceramic…
 - [CircuitHub](https://circuithub.com) - On-Demand Electronics Manufacturing
-- [ClimateAi](https://climateai.com) - Hiring via Greenhouse (climateai).
+- [ClimateAi](https://climateai.com) - At ClimateAi, we choose to act. We believe resilience is just as urgent as mitigation.
 - [CoLab](https://colabsoftware.com) - Human and AI design review for hardware
 - [Comena](https://comena.ai) - AI agents for distributors and manufacturers to automate order entry.
 - [Commonwealth Fusion Systems](https://cfs.energy) - Tokamak fusion energy company (MIT spinout).
@@ -55,8 +55,8 @@ Hardware, manufacturing, robotics, climate, energy, aviation, space, supply chai
 - [DoorDash](https://doordash.com) - Local commerce and logistics marketplace with consumer, merchant, ads, and delivery systems.
 - [Ekho](https://ekho.com) - Shopify for vehicles
 - [Electric Air](https://electricair.io) - Tech-enabled heat pump contractor that cuts costs by 60%
-- [EnergyHub](https://energyhub.com) - Hiring via Greenhouse (energyhub).
-- [Energyrecovery](https://energyrecovery.com) - Hiring via Lever (energyrecovery).
+- [EnergyHub](https://energyhub.com) - In connection with your application, we collect information that identifies, reasonably relates to or describes you .
+- [Energyrecovery](https://energyrecovery.com) - Energy Recovery is a trusted global leader in energy efficiency technology because of our reliable, high-performance solutions.
 - [Enode](https://enode.com) - An API for electric vehicles and other energy hardware (DERs)
 - [Enveritas](https://enveritas.org) - We verify global supply chains for issues like child slavery and…
 - [Epsilon3](https://epsilon3.io) - AI-Powered ERP, MES, and Test Software for Complex Operations
@@ -72,7 +72,7 @@ Hardware, manufacturing, robotics, climate, energy, aviation, space, supply chai
 - [Forerunner AI](https://tryforerunner.com) - AI that gets aircraft flying faster
 - [Forge](https://forgehq.com) - Getting companies refunds on tariffs & duties
 - [Foundation](https://buildwithfoundation.com) - Shopify for Homebuilders
-- [Framenergy](https://framenergy.com) - Hiring via Ashby (framenergy).
+- [Framenergy](https://framenergy.com) - Fram Energy https://www.framenergy.com/ solves one of the most stubborn problems in clean energy with specialized billing software for multi tenant solar.
 - [Gecko Robotics](https://geckorobotics.com) - AI + Robotics for the Built World
 - [General Dynamics](https://gd.com) - Defense, aerospace, and information-systems contractor.
 - [General Motors](https://gm.com) - Automotive manufacturer.
@@ -80,7 +80,7 @@ Hardware, manufacturing, robotics, climate, energy, aviation, space, supply chai
 - [Grin](https://grin.co) - Mobility and payments platform for Latin America
 - [H3X Technologies](https://h3x.tech) - The lightest electric aircraft motors in the world.
 - [Handoff](https://handoff.ai) - AI estimator & agent for remodelers.
-- [Headspace](https://headspace.com) - Hiring via Greenhouse (hs).
+- [Headspace](https://headspace.com) - French/English at Headspace: As a Bilingual Mental Health Coach with Headspace, you play an instrumental role in making our mission a reality!
 - [Heart Aerospace](https://heartaerospace.com) - Heart makes electric airplanes with an all-electric range of 250 miles
 - [Helion Energy](https://helionenergy.com) - Commercial fusion energy.
 - [Hexa](https://hexaagents.com) - The OS for Manufacturers and Distributors
@@ -91,7 +91,7 @@ Hardware, manufacturing, robotics, climate, energy, aviation, space, supply chai
 - [Human Archive](https://humanarchive.ai) - Multimodal data provider for robotics and world modeling
 - [Hyundai](https://hyundai.com) - Automotive manufacturer.
 - [Icarus](https://icarus.one) - Stratospheric birds for defense
-- [Industrial Electric Manufacturing](https://iemfg.com) - Hiring via Greenhouse (industrialelectricmanufacturing).
+- [Industrial Electric Manufacturing](https://iemfg.com) - At IEM, we're not just building innovative electrical distribution systems, we're shaping the future.
 - [Innate](https://innate.bot) - Personal AI Robots
 - [Instacart](https://instacart.com) - Grocery delivery marketplace with logistics, retail, and ads systems.
 - [Intel](https://intel.com) - Semiconductor manufacturer.
@@ -102,10 +102,10 @@ Hardware, manufacturing, robotics, climate, energy, aviation, space, supply chai
 - [Ladder](https://meetladder.com) - Labor Marketplace for Construction
 - [Lenovo](https://lenovo.com) - PC and data-center hardware.
 - [Lockheed Martin](https://lockheedmartin.com) - Defense and aerospace prime contractor.
-- [Locus Robotics](https://locusrobotics.com) - Hiring via Greenhouse (locusrobotics).
+- [Locus Robotics](https://locusrobotics.com) - Locus Robotics is transforming how the world's leading brands run their warehouses, using AI and advanced robotics to move faster, smarter.
 - [Lucid Bots](https://lucidbots.com) - We build robots for dull, dirty, and dangerous jobs.
 - [Lucid Motors](https://lucidmotors.com) - Luxury electric vehicles.
-- [Lunar Energy](https://lunarenergy.com) - Hiring via Greenhouse (lunarenergy).
+- [Lunar Energy](https://lunarenergy.com) - Lunar was founded to power homes around the world with endless clean energy.
 - [MaverickX](https://maverickx.com) - Engineering the future of chemistry for natural resource extraction
 - [May Mobility](https://maymobility.com) - Transforming cities and rural areas through AV transit and technology
 - [Mercedes-Benz](https://mercedes-benz.com) - Premium automotive manufacturer.
@@ -119,9 +119,9 @@ Hardware, manufacturing, robotics, climate, energy, aviation, space, supply chai
 - [Nimbus](https://nimbus.green) - Tesla for city dwellers
 - [Nira Energy](https://niraenergy.com) - Software to find the best sites for renewables on the electrical grid
 - [Northrop Grumman](https://northropgrumman.com) - Defense and space systems.
-- [Northwoodspace](https://northwoodspace.io) - Hiring via Ashby (northwoodspace).
+- [Northwoodspace](https://northwoodspace.io) - Space: Northwood is on a mission to build a data highway between earth and space and bring the benefits of space.
 - [Nox Metals](https://noxmetals.co) - Supplying America's Industrial Base
-- [Octoenergy](https://octoenergy.com) - Hiring via Lever (octoenergy).
+- [Octoenergy](https://octoenergy.com) - Ayudanos a hacer que el mundo sea mas verde.
 - [Odeko](https://odeko.com) - Our operations software makes it easier to run--and grow--your cafe
 - [Odys Aviation](https://odysaviation.com) - Vertical takeoff and landing aircraft for major airlines
 - [Oklo](https://oklo.com) - Emission free, always on power from advanced fission power plants.
@@ -149,8 +149,8 @@ Hardware, manufacturing, robotics, climate, energy, aviation, space, supply chai
 - [Rigetti Computing](https://rigetti.com) - Quantum coherent supercomputing.
 - [Rivian](https://rivian.com) - Electric trucks, SUVs, and delivery vans.
 - [Rocket Lab](https://rocketlabusa.com) - Small-launch and space systems.
-- [Rocket Lab Corporation](https://rocketlabcorporation.com) - Hiring via Greenhouse (rocketlab).
-- [Rocket Lawyer](https://rocketlawyer.com) - Hiring via Greenhouse (rocketlawyer).
+- [Rocket Lab Corporation](https://rocketlabcorporation.com) - ROCKET LAB Rocket Lab is an end-to-end space company delivering responsive launch services, complete spacecraft design and manufacturing, payloads, satellite components.
+- [Rocket Lawyer](https://rocketlawyer.com) - Rocket Lawyer is the largest and most widely used online legal service platform in the world.
 - [Roofr](https://roofr.com) - Sales software for roofers. Aerial measurements + proposals in seconds
 - [Saronic](https://saronic.com) - Autonomous surface vessels for naval defense and maritime operations.
 - [SEND](https://send.ng) - Flexport for Africa - Digital Freight forwarder and Customs Broker.
@@ -162,10 +162,10 @@ Hardware, manufacturing, robotics, climate, energy, aviation, space, supply chai
 - [Skyways](https://skyways.com) - Creating a new form of air transportation to advance our civilization
 - [Snapdocs](https://snapdocs.com) - digital mortgage closing
 - [Spaceium Inc](https://spaceium.com) - In-Space Refueling
-- [SpaceX](https://spacex.com) - Hiring via Greenhouse (spacex).
+- [SpaceX](https://spacex.com) - SpaceX designs, manufactures and launches advanced rockets and spacecraft.
 - [Spherecast](https://spherecast.ai) - AI Supply Chain Manager for CPG
 - [Spotlight Realty](https://spotlight.realty) - AI powered brokerage reducing residential rental commissions in NYC…
-- [Squarespace](https://squarespace.com) - Hiring via Greenhouse (squarespace).
+- [Squarespace](https://squarespace.com) - Squarespace is a design-driven platform helping entrepreneurs build brands and businesses online.
 - [Starcloud](https://starcloud.com) - Data centers in space
 - [Switchboard](https://onswitchboard.com) - Technology for Trucking
 - [Sygaldry Technologies](https://sygaldry.com) - quantum-accelerated AI servers
@@ -174,7 +174,7 @@ Hardware, manufacturing, robotics, climate, energy, aviation, space, supply chai
 - [Terminal](https://withterminal.com) - Plaid for Telematics Data in Commercial Trucking
 - [Tesseract](https://tesseract.space) - Tesseract builds better thrusters for modern satellites
 - [The Boring Company](https://boringcompany.com) - Tunnel-boring and underground transportation infrastructure company.
-- [Torc Robotics](https://torcrobotics.com) - Hiring via Greenhouse (torcrobotics).
+- [Torc Robotics](https://torcrobotics.com) - At Torc, we have always believed that autonomous vehicle technology will transform how we travel, move freight, and do business.
 - [Toyota](https://toyota.com) - Global automotive manufacturer.
 - [Tractian](https://tractian.com) - Physical AI for asset-heavy industries
 - [Traverse Technologies](https://traverse.ai) - AI driven professional engineering firm
@@ -183,9 +183,9 @@ Hardware, manufacturing, robotics, climate, energy, aviation, space, supply chai
 - [Ultra](https://ultra.tech) - Practical, general-purpose robots for repetitive industrial tasks
 - [UpCodes](https://up.codes) - AI platform for unifying codes, assemblies, products, and specs
 - [Varda](https://varda.com) - In-space manufacturing and reentry capsules.
-- [Varda Space Industries](https://varda.com) - Hiring via Greenhouse (vardaspace).
+- [Varda Space Industries](https://varda.com) - Engineer, you will design, manufacture, test, and represent electrical components used to fly and manufacture products in space.
 - [VergeSense](https://vergesense.com) - AI-Powered Building Management
-- [Vertical Aerospace](https://vertical-aerospace.com) - Hiring via Ashby (vertical-aerospace).
+- [Vertical Aerospace](https://vertical-aerospace.com) - At Vertical Aerospace, we are pioneering the way for electric aviation.
 - [Volvo](https://volvogroup.com) - Trucks, buses, and construction equipment.
 - [Vooma](https://vooma.ai) - Automation platform for logistics
 - [Vorticity](https://vorticity.xyz) - The Fastest Scientific Computing Platform on the Planet
