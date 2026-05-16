@@ -1,87 +1,93 @@
-import argparse
+import io
 import subprocess
 import sys
+import unittest
+from contextlib import redirect_stdout
+from pathlib import Path
 from unittest.mock import patch, mock_open
 
-import pytest
-import yaml
+ROOT = Path(__file__).resolve().parents[1]
+sys.path.append(str(ROOT))
 
-# Adjust path so we can import from scripts
-sys.path.append('.')
 from scripts.diff_slugs import entries_by_slug, load_from_ref, main, DATA_PATH
 
-def test_entries_by_slug():
-    entries = [
-        {"slug": "apple", "name": "Apple"},
-        {"slug": "banana", "name": "Banana"},
-        {"name": "No Slug Company"} # Should be ignored
-    ]
-    expected = {
-        "apple": {"slug": "apple", "name": "Apple"},
-        "banana": {"slug": "banana", "name": "Banana"}
-    }
-    assert entries_by_slug(entries) == expected
 
-def test_entries_by_slug_empty():
-    assert entries_by_slug([]) == {}
+class TestEntriesBySlug(unittest.TestCase):
+    def test_filters_missing_slug(self):
+        entries = [
+            {"slug": "apple", "name": "Apple"},
+            {"slug": "banana", "name": "Banana"},
+            {"name": "No Slug Company"},
+        ]
+        expected = {
+            "apple": {"slug": "apple", "name": "Apple"},
+            "banana": {"slug": "banana", "name": "Banana"},
+        }
+        self.assertEqual(entries_by_slug(entries), expected)
 
-@patch("builtins.open", new_callable=mock_open, read_data="- slug: apple\n  name: Apple\n")
-def test_load_from_ref_none(mock_file):
-    result = load_from_ref(None)
-    mock_file.assert_called_once_with(DATA_PATH, "r", encoding="utf-8")
-    assert result == [{"slug": "apple", "name": "Apple"}]
+    def test_empty(self):
+        self.assertEqual(entries_by_slug([]), {})
 
-@patch("builtins.open", new_callable=mock_open, read_data="")
-def test_load_from_ref_none_empty(mock_file):
-    result = load_from_ref(None)
-    assert result == []
 
-@patch("subprocess.check_output")
-def test_load_from_ref_with_ref(mock_check_output):
-    mock_check_output.return_value = b"- slug: banana\n  name: Banana\n"
-    result = load_from_ref("origin/main")
-    mock_check_output.assert_called_once_with(
-        ["git", "show", f"origin/main:{DATA_PATH}"], stderr=subprocess.DEVNULL
-    )
-    assert result == [{"slug": "banana", "name": "Banana"}]
+class TestLoadFromRef(unittest.TestCase):
+    @patch("builtins.open", new_callable=mock_open, read_data="- slug: apple\n  name: Apple\n")
+    def test_none_reads_local_file(self, mock_file):
+        result = load_from_ref(None)
+        mock_file.assert_called_once_with(DATA_PATH, "r", encoding="utf-8")
+        self.assertEqual(result, [{"slug": "apple", "name": "Apple"}])
 
-@patch("subprocess.check_output")
-def test_load_from_ref_with_ref_empty(mock_check_output):
-    mock_check_output.return_value = b""
-    result = load_from_ref("origin/main")
-    assert result == []
+    @patch("builtins.open", new_callable=mock_open, read_data="")
+    def test_none_empty(self, mock_file):
+        self.assertEqual(load_from_ref(None), [])
 
-@patch("subprocess.check_output")
-def test_load_from_ref_with_ref_error(mock_check_output):
-    mock_check_output.side_effect = subprocess.CalledProcessError(1, "git")
-    result = load_from_ref("origin/main")
-    assert result == []
+    @patch("subprocess.check_output")
+    def test_with_ref(self, mock_check_output):
+        mock_check_output.return_value = b"- slug: banana\n  name: Banana\n"
+        result = load_from_ref("origin/main")
+        mock_check_output.assert_called_once_with(
+            ["git", "show", f"origin/main:{DATA_PATH}"], stderr=subprocess.DEVNULL
+        )
+        self.assertEqual(result, [{"slug": "banana", "name": "Banana"}])
 
-@patch("sys.argv", ["diff_slugs.py", "--base", "origin/main"])
-@patch("scripts.diff_slugs.load_from_ref")
-def test_main(mock_load_from_ref, capsys):
-    # Setup mock to return different data based on ref
-    def load_side_effect(ref):
-        if ref == "origin/main":
-            return [
-                {"slug": "apple", "name": "Apple"},
-                {"slug": "banana", "name": "Banana"},
-                {"slug": "cherry", "name": "Cherry"}
-            ]
-        elif ref is None:
-            return [
-                {"slug": "apple", "name": "Apple"}, # Unchanged
-                {"slug": "banana", "name": "Banana V2"}, # Changed
-                {"slug": "date", "name": "Date"} # Added
-                # Cherry is removed, but the diff logic only cares about head
-            ]
-        return []
+    @patch("subprocess.check_output")
+    def test_with_ref_empty(self, mock_check_output):
+        mock_check_output.return_value = b""
+        self.assertEqual(load_from_ref("origin/main"), [])
 
-    mock_load_from_ref.side_effect = load_side_effect
+    @patch("subprocess.check_output")
+    def test_with_ref_error_returns_empty(self, mock_check_output):
+        mock_check_output.side_effect = subprocess.CalledProcessError(1, "git")
+        self.assertEqual(load_from_ref("origin/main"), [])
 
-    exit_code = main()
 
-    assert exit_code == 0
-    captured = capsys.readouterr()
-    # Output should be changed and added slugs from head
-    assert captured.out == "banana\ndate\n"
+class TestMain(unittest.TestCase):
+    @patch("sys.argv", ["diff_slugs.py", "--base", "origin/main"])
+    @patch("scripts.diff_slugs.load_from_ref")
+    def test_emits_changed_and_added(self, mock_load_from_ref):
+        def load_side_effect(ref):
+            if ref == "origin/main":
+                return [
+                    {"slug": "apple", "name": "Apple"},
+                    {"slug": "banana", "name": "Banana"},
+                    {"slug": "cherry", "name": "Cherry"},
+                ]
+            if ref is None:
+                return [
+                    {"slug": "apple", "name": "Apple"},
+                    {"slug": "banana", "name": "Banana V2"},
+                    {"slug": "date", "name": "Date"},
+                ]
+            return []
+
+        mock_load_from_ref.side_effect = load_side_effect
+
+        buf = io.StringIO()
+        with redirect_stdout(buf):
+            exit_code = main()
+
+        self.assertEqual(exit_code, 0)
+        self.assertEqual(buf.getvalue(), "banana\ndate\n")
+
+
+if __name__ == "__main__":
+    unittest.main()
