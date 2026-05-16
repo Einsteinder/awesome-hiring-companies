@@ -4859,20 +4859,6 @@
   - e-commerce
   sources:
   - https://jobs.ashbyhq.com/fleek
-- name: Alma
-  slug: alma
-  domain: myalmafi.com
-  careers_url: https://boards.greenhouse.io/alma
-  category: fintech
-  ats:
-    greenhouse: alma
-  tags:
-  - fintech
-  - fintech-consumer-finance
-  - payments
-  - gaming
-  sources:
-  - https://boards.greenhouse.io/alma
 - name: Blee
   slug: blee
   domain: blee.com

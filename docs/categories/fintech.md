@@ -8,7 +8,6 @@ Payments, banking, investing, crypto, expense, payroll, and financial infrastruc
 - [Affirm](https://affirm.com) - Consumer finance platform for pay-over-time products and merchant financial services.
 - [AiPrise](https://aiprise.com) - AI-powered Global Compliance Platform
 - [Aleph](https://getaleph.com) - One source of truth for financial data.
-- [Alma](https://myalmafi.com) - Gamified mobile banking app where people can win $1M every Wednesday
 - [Alpaca](https://alpaca.markets) - API-first stock and crypto brokerage platform
 - [American Express](https://americanexpress.com) - Card issuer and payments network.
 - [Angle Health](https://anglehealth.com) - Health Insurance for Startups
