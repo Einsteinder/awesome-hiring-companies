@@ -6217,20 +6217,7 @@
   - emerging-markets
   sources:
   - https://jobs.ashbyhq.com/popl
-- name: Blink
-  slug: blink
-  domain: blinklastmile.com
-  careers_url: https://jobs.ashbyhq.com/blink
-  category: industrials-and-climate
-  ats:
-    ashby: blink
-  tags:
-  - industrials
-  - industrials-automotive
-  - e-commerce
-  - logistics
-  sources:
-  - https://jobs.ashbyhq.com/blink
+
 - name: Replo
   slug: replo
   domain: replo.app
