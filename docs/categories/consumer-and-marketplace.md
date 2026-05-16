@@ -47,7 +47,6 @@ Consumer products, communities, marketplaces, media, travel, commerce, education
 - [Flip](https://justflip.com) - Community-driven marketplace for sneakers.
 - [Gametime United](https://gametimeunited.com) - Hiring via Greenhouse (gametimeunited).
 - [Garage](https://shopgarage.com) - Marketplace for America's most essential assets
-- [Gigs Live](https://gigs.live) - Video publishing and monetization platform for creators and artists
 - [Glimpse](https://joinglimpse.com) - A social video chat.
 - [GOAT Group](https://goatgroup.com) - Platform for the greatest products from the past, present and future.
 - [Google](https://google.com) - Search, ads, cloud, and consumer software giant.
