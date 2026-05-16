@@ -139,12 +139,12 @@ class Result:
 
 
 async def fetch(
-    client: httpx.AsyncClient, url: str, *, method: str = "GET", retries: int = DEFAULT_RETRIES
+    client: httpx.AsyncClient, url: str, *, method: str = "GET", retries: int = DEFAULT_RETRIES, **kwargs
 ) -> httpx.Response | Exception:
     last_exc: Exception | None = None
     for attempt in range(retries + 1):
         try:
-            return await client.request(method, url, follow_redirects=True)
+            return await client.request(method, url, follow_redirects=True, **kwargs)
         except (httpx.HTTPError, httpx.InvalidURL, OSError) as exc:
             last_exc = exc
             if attempt < retries:
@@ -300,43 +300,34 @@ async def probe_ats_workday(
     tenant = host.split(".", 1)[0]
     url = f"https://{host}/wday/cxs/{tenant}/{site}/jobs"
 
-    last_exc: Exception | None = None
-    for attempt in range(retries + 1):
-        try:
-            r = await client.request(
-                "POST", url, json=WORKDAY_PROBE_BODY, follow_redirects=True,
-            )
-        except (httpx.HTTPError, httpx.InvalidURL) as exc:
-            last_exc = exc
-            if attempt < retries:
-                await asyncio.sleep(0.5 * (attempt + 1))
-            continue
-        if r.status_code == 200:
-            try:
-                data = r.json()
-            except ValueError:
-                return Probe(rule, False, f"HTTP 200 from {url} but body wasn't JSON")
-            # Accept any 200 with a jobPostings key, even when empty —
-            # an active tenant with zero open roles right now is still
-            # a valid entry.
-            if "jobPostings" in (data or {}):
-                return Probe(rule, True, f"HTTP 200 from {url}")
-            return Probe(rule, False, f"HTTP 200 from {url} but no jobPostings field")
-        if r.status_code == 422:
-            return Probe(
-                rule, False,
-                f"HTTP 422 from {url} — host exists on this pod but the site "
-                "segment is wrong; check the careers-page URL.",
-            )
-        if r.status_code == 404:
-            return Probe(
-                rule, False,
-                f"HTTP 404 from {url} — wrong pod, wrong tenant, or moved off Workday",
-            )
-        return Probe(rule, False, f"HTTP {r.status_code} from {url}")
+    r = await fetch(client, url, method="POST", retries=retries, json=WORKDAY_PROBE_BODY)
 
-    assert last_exc is not None
-    return Probe(rule, False, f"{type(last_exc).__name__}: {last_exc}")
+    if isinstance(r, Exception):
+        return Probe(rule, False, f"{type(r).__name__}: {r}")
+
+    if r.status_code == 200:
+        try:
+            data = r.json()
+        except ValueError:
+            return Probe(rule, False, f"HTTP 200 from {url} but body wasn't JSON")
+        # Accept any 200 with a jobPostings key, even when empty —
+        # an active tenant with zero open roles right now is still
+        # a valid entry.
+        if "jobPostings" in (data or {}):
+            return Probe(rule, True, f"HTTP 200 from {url}")
+        return Probe(rule, False, f"HTTP 200 from {url} but no jobPostings field")
+    if r.status_code == 422:
+        return Probe(
+            rule, False,
+            f"HTTP 422 from {url} — host exists on this pod but the site "
+            "segment is wrong; check the careers-page URL.",
+        )
+    if r.status_code == 404:
+        return Probe(
+            rule, False,
+            f"HTTP 404 from {url} — wrong pod, wrong tenant, or moved off Workday",
+        )
+    return Probe(rule, False, f"HTTP {r.status_code} from {url}")
 
 
 async def probe_ats(
