@@ -7,6 +7,8 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.append(str(ROOT / "scripts"))
 
 from validate import assert_valid_urls
+from scripts.validate import normalize
+
 
 class TestAssertValidUrls(unittest.TestCase):
 
@@ -126,5 +128,34 @@ class TestValidate(unittest.TestCase):
         finally:
             temp_path.unlink()
 
+
+def test_normalize_standard_strings():
+    assert normalize("Hello World") == "hello-world"
+    assert normalize("Acme Inc.") == "acme-inc"
+    assert normalize("1Password") == "1password"
+
+def test_normalize_consecutive_special_characters():
+    assert normalize("  Foo   Bar  ") == "foo-bar"
+
+def test_normalize_empty_string():
+    assert normalize("") == ""
+
+def test_normalize_only_special_characters():
+    assert normalize(" !@#$% ") == ""
+
+def test_normalize_leading_trailing_special_characters():
+    assert normalize("-hello-") == "hello"
+    assert normalize("__hello__") == "hello"
+
+def test_normalize_unicode():
+    assert normalize("Café") == "caf"
+
+def test_normalize_domain_specific_punctuation():
+    assert normalize("C++") == "c"
+    assert normalize(".NET") == "net"
+    assert normalize("O'Reilly") == "o-reilly"
+    assert normalize("H&R Block") == "h-r-block"
+
 if __name__ == "__main__":
+    import unittest
     unittest.main()
