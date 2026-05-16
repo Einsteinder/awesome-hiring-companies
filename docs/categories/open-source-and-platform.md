@@ -4,7 +4,7 @@ Open-source companies, broad platforms, productivity, collaboration, and entries
 
 - [1Password](https://1password.com) - Hiring via Ashby (1password).
 - [2K](https://2k.com) - Hiring via Greenhouse (2k).
-- [31st Union](https://31stunion.com) - Hiring via Greenhouse (31stunion).
+- [31st Union](https://thirtyfirstunion.com) - Hiring via Greenhouse (31stunion).
 - [3Pillarglobal](https://3pillarglobal.com) - Hiring via Lever (3pillarglobal).
 - [80,000 Hours](https://80000hours.org) - An online guide that tells talented graduates how to maximise the…
 - [8Vc](https://8vc.com) - Hiring via Ashby (8vc).
@@ -51,7 +51,7 @@ Open-source companies, broad platforms, productivity, collaboration, and entries
 - [Anagram](https://anagram.com) - Hiring via Ashby (anagram).
 - [Anchorage](https://anchorage.com) - Hiring via Lever (anchorage).
 - [Andromeda](https://andromeda.com) - Hiring via Ashby (andromeda).
-- [Anduril Industries](https://andurilindustries.com) - Hiring via Greenhouse (andurilindustries).
+- [Anduril Industries](https://anduril.com) - Hiring via Greenhouse (andurilindustries).
 - [Anomaly](https://anomaly.com) - Hiring via Lever (anomaly).
 - [Anon](https://anon.com) - Hiring via Ashby (anon).
 - [Antares](https://antares.com) - Hiring via Ashby (antares).
@@ -62,7 +62,7 @@ Open-source companies, broad platforms, productivity, collaboration, and entries
 - [Anything](https://anything.com) - Hiring via Ashby (anything).
 - [Aogarciaagency](https://aogarciaagency.com) - Hiring via Lever (aogarciaagency).
 - [Apollo Information Systems](https://apollo-is.com) - Hiring via Ashby (apollo-information-systems).
-- [Appen 2](https://appen.com) - Hiring via Lever (appen-2).
+- [Appen](https://appen.com) - Hiring via Lever (appen-2).
 - [Appian Corporation](https://appian.com) - Hiring via Greenhouse (appian).
 - [Appier](https://appier.com) - Hiring via Greenhouse (appier).
 - [Applied](https://applied.com) - Hiring via Ashby (applied).
@@ -83,7 +83,7 @@ Open-source companies, broad platforms, productivity, collaboration, and entries
 - [Artemis](https://artemis.com) - Hiring via Ashby (artemis).
 - [Arthur](https://arthur.com) - Hiring via Ashby (arthur).
 - [Articulate](https://articulate.com) - Hiring via Lever (articulate).
-- [Artsy](https://artsy.com) - Hiring via Ashby (artsy).
+- [Artsy](https://artsy.net) - Hiring via Ashby (artsy).
 - [Ascertain](https://ascertain.com) - Hiring via Ashby (ascertain).
 - [Assemble](https://assemble.com) - Hiring via Ashby (assemble).
 - [Assured](https://assured.com) - Hiring via Ashby (assured).
@@ -143,13 +143,13 @@ Open-source companies, broad platforms, productivity, collaboration, and entries
 - [BrainStation](https://brainstation.io) - Hiring via Greenhouse (brainstation).
 - [Braze](https://braze.com) - Hiring via Greenhouse (braze).
 - [Bridger](https://bridgergp.com) - Hiring via Ashby (bridger).
-- [Bridgewater Associates](https://bridgewaterassociates.com) - Hiring via Greenhouse (bridgewater89).
+- [Bridgewater Associates](https://bridgewater.com) - Hiring via Greenhouse (bridgewater89).
 - [Brilliant](https://brilliant.com) - Hiring via Lever (brilliant).
 - [Brimstone](https://brimstone.com) - Hiring via Ashby (brimstone).
 - [Brindleyengineering](https://brindleyengineering.com) - Hiring via Lever (brindleyengineering).
 - [Brunswick](https://brunswick.com) - Hiring via Ashby (brunswick).
 - [Buffer](https://buffer.com) - Hiring via Ashby (buffer).
-- [Build](https://build.com) - Hiring via Ashby (build).
+- [Build Technologies](https://build.inc) - Hiring via Ashby (build).
 - [Bunch](https://bunch.capital) - Hiring via Ashby (bunch).
 - [Bunny](https://bunny.com) - Hiring via Ashby (bunny).
 - [Bureau](https://bureau.com) - Hiring via Ashby (bureau).
@@ -169,7 +169,7 @@ Open-source companies, broad platforms, productivity, collaboration, and entries
 - [Caruso](https://caruso.com) - Hiring via Ashby (caruso).
 - [Catalyze](https://catalyze.com) - Hiring via Lever (catalyze).
 - [Catawiki](https://catawiki.com) - Hiring via Greenhouse (catawiki).
-- [Causal](https://causal.com) - Hiring via Ashby (causal).
+- [Causal Labs](https://causallabs.ai) - Hiring via Ashby (causal).
 - [Causaly](https://causaly.com) - Hiring via Ashby (causaly).
 - [Celonis](https://celonis.com) - Hiring via Greenhouse (celonis).
 - [Centrifuge](https://centrifuge.io) - Hiring via Lever (centrifuge).
@@ -183,7 +183,7 @@ Open-source companies, broad platforms, productivity, collaboration, and entries
 - [Charles River Associates](https://crai.com) - Hiring via Greenhouse (charlesriverassociates).
 - [Checker](https://checker.finance) - Hiring via Lever (checker).
 - [Chief](https://chief.com) - Hiring via Ashby (chief).
-- [Choose](https://choose.com) - Hiring via Lever (choose).
+- [Choose](https://appchoose.io) - Hiring via Lever (choose).
 - [Christ Fellowship](https://christfellowship.com) - Hiring via Greenhouse (christfellowship).
 - [Chromatic](https://chromatic.com) - Hiring via Ashby (chromatic).
 - [Cialfo](https://cialfo.com) - Hiring via Greenhouse (cialfo).
@@ -200,21 +200,21 @@ Open-source companies, broad platforms, productivity, collaboration, and entries
 - [Clubhouse](https://clubhouse.com) - Hiring via Ashby (clubhouse).
 - [CMTelematics](https://cmtelematics.com) - Hiring via Greenhouse (cmt).
 - [Coalition, Inc.](https://coalitioninc.com) - Hiring via Greenhouse (coalition).
-- [Cobalt](https://cobalt.com) - Hiring via Greenhouse (cobaltio).
+- [Cobalt](https://cobalt.io) - Hiring via Greenhouse (cobaltio).
 - [CodePath](https://codepath.com) - Hiring via Greenhouse (codepath).
 - [Codex](https://codex.com) - Hiring via Ashby (codex).
-- [Cognition](https://cognition.com) - Hiring via Ashby (cognition).
-- [Cohort](https://cohort.com) - Hiring via Ashby (cohort).
+- [Cognition](https://cognition.ai) - Hiring via Ashby (cognition).
+- [Cohort AI](https://thecohort.ai) - Hiring via Ashby (cohort).
 - [Collabora](https://collabora.com) - Hiring via Lever (collabora).
 - [Collate](https://collate.com) - Hiring via Lever (collate).
 - [Collective](https://collective.com) - Hiring via Ashby (collective).
-- [Colonist](https://colonist.com) - Hiring via Ashby (colonist).
+- [Colonist](https://colonist.io) - Hiring via Ashby (colonist).
 - [Column](https://column.com) - Hiring via Ashby (column).
 - [Comity](https://comity.com) - Hiring via Ashby (comity).
 - [Commure](https://commure.com) - Hiring via Ashby (commure).
 - [Commvault](https://commvault.com) - Hiring via Greenhouse (commvault).
 - [Compa](https://compa.com) - Hiring via Ashby (compa).
-- [Company](https://company.com) - Hiring via Ashby (company).
+- [Stealth Battery Startup](https://batterystartup.careers) - Hiring via Ashby (company).
 - [Comply](https://comply.com) - Hiring via Lever (comply).
 - [ComplyAdvantage](https://complyadvantage.com) - Hiring via Greenhouse (complyadvantage).
 - [Composio](https://composio.com) - Hiring via Ashby (composio).
@@ -260,7 +260,7 @@ Open-source companies, broad platforms, productivity, collaboration, and entries
 - [D Matrix](https://dmatrix.com) - Hiring via Ashby (d-matrix).
 - [Dakota](https://dakota.com) - Hiring via Ashby (dakota).
 - [Dandelion](https://dandelion.com) - Hiring via Ashby (dandelion).
-- [Dandy](https://dandy.com) - Hiring via Ashby (dandy).
+- [Dandy](https://meetdandy.com) - Hiring via Ashby (dandy).
 - [Dapper](https://dapper.com) - Hiring via Ashby (dapper).
 - [Dark Wolf Solutions](https://darkwolfsolutions.com) - Hiring via Greenhouse (darkwolfsolutions).
 - [Darkroom](https://darkroom.com) - Hiring via Ashby (darkroom).
@@ -268,7 +268,7 @@ Open-source companies, broad platforms, productivity, collaboration, and entries
 - [Datum](https://datum.com) - Hiring via Ashby (datum).
 - [Dave](https://dave.com) - Hiring via Ashby (dave).
 - [Daydream](https://daydream.com) - Hiring via Ashby (daydream).
-- [Decagon](https://decagon.com) - Hiring via Ashby (decagon).
+- [Decagon](https://decagon.ai) - Hiring via Ashby (decagon).
 - [Decimal](https://decimal.com) - Hiring via Ashby (decimal).
 - [Deepl](https://deepl.com) - Hiring via Ashby (deepl).
 - [DeepMind](https://deepmind.com) - Hiring via Greenhouse (deepmind).
@@ -314,12 +314,12 @@ Open-source companies, broad platforms, productivity, collaboration, and entries
 - [Ema](https://ema.com) - Hiring via Ashby (ema).
 - [Emanate](https://emanate.com) - Hiring via Ashby (emanate).
 - [Emergence](https://emsoft.com) - Hiring via Ashby (emergence).
-- [Employ](https://employ.com) - Hiring via Lever (employ).
+- [Employ](https://employinc.com) - Hiring via Lever (employ).
 - [Employment Opportunities at BuzzFeed, Inc.](https://buzzfeed.com) - Hiring via Greenhouse (buzzfeed).
 - [Enable](https://enable.com) - Hiring via Lever (enable).
 - [Engine](https://engine.com) - Hiring via Lever (engine).
 - [Envoy](https://envoy.com) - Hiring via Ashby (envoy).
-- [Equip](https://equip.com) - Hiring via Ashby (equip).
+- [Equip Health](https://equip.health) - Hiring via Ashby (equip).
 - [Ernest](https://joinernest.com) - Hiring via Ashby (ernest).
 - [Espresso](https://espresso.com) - Hiring via Ashby (espresso).
 - [Etched](https://etched.com) - Hiring via Ashby (etched).
@@ -337,13 +337,13 @@ Open-source companies, broad platforms, productivity, collaboration, and entries
 - [Faculty](https://faculty.com) - Hiring via Ashby (faculty).
 - [Fairmarkit](https://fairmarkit.com) - Hiring via Greenhouse (fairmarkit).
 - [Falconer](https://falconer.com) - Hiring via Ashby (falconer).
-- [Fantasy](https://fantasy.com) - Hiring via Lever (fantasy).
+- [Fantasy](https://fantasy.co) - Hiring via Lever (fantasy).
 - [Farsight](https://farsight.com) - Hiring via Ashby (farsight).
 - [Fastly](https://fastly.com) - Hiring via Greenhouse (fastly).
 - [Fay](https://fay.com) - Hiring via Greenhouse (fay).
 - [Feathery](https://feathery.com) - Hiring via Ashby (feathery).
-- [Felicity](https://felicity.com) - Hiring via Ashby (felicity).
-- [Felix](https://felix.com) - Hiring via Ashby (felix).
+- [Felicity](https://askfelicity.ai) - Hiring via Ashby (felicity).
+- [Felix](https://felixforyou.ca) - Hiring via Ashby (felix).
 - [Fieldnation](https://fieldnation.com) - Hiring via Lever (fieldnation).
 - [Figma](https://figma.com) - Collaborative design and product development platform.
 - [Fin](https://fin.com) - Hiring via Greenhouse (intercom).
@@ -352,10 +352,10 @@ Open-source companies, broad platforms, productivity, collaboration, and entries
 - [Firemon](https://firemon.com) - Hiring via Lever (firemon).
 - [Fizz](https://fizz.social) - Hiring via Ashby (fizz).
 - [Flagship Pioneering Co-Op Program](https://flagshippioneering.com) - Hiring via Greenhouse (fspco-op012325).
-- [Flagstone](https://flagstone.com) - Hiring via Ashby (flagstone).
+- [Flagstone](https://flagstoneim.com) - Hiring via Ashby (flagstone).
 - [Flawless](https://flawless.com) - Hiring via Ashby (flawless).
 - [Flent](https://flent.in) - Hiring via Ashby (flentasticjobs).
-- [Flipper](https://flipper.com) - Hiring via Ashby (flipper).
+- [Flipper](https://flipper.net) - Hiring via Ashby (flipper).
 - [Flock](https://flock.com) - Hiring via Ashby (flock).
 - [Flora](https://flora.com) - Hiring via Ashby (flora).
 - [FlowFuse](https://flowfuse.com) - Hiring via Greenhouse (flowfuse).
@@ -370,7 +370,7 @@ Open-source companies, broad platforms, productivity, collaboration, and entries
 - [Formula](https://formula.com) - Hiring via Ashby (formula).
 - [Found](https://found.com) - Hiring via Ashby (found).
 - [Founders Green Animal Hospital](https://foundersgreen.com) - Hiring via Greenhouse (founders).
-- [Fourier](https://fourier.com) - Hiring via Ashby (fourier).
+- [Fourier](https://fourier.earth) - Hiring via Ashby (fourier).
 - [Foursquare](https://foursquare.com) - Hiring via Ashby (foursquare).
 - [Foxglove](https://foxglove.com) - Hiring via Ashby (foxglove).
 - [Freed](https://freed.com) - Hiring via Ashby (freed).
@@ -426,13 +426,13 @@ Open-source companies, broad platforms, productivity, collaboration, and entries
 - [Handspring](https://handspringhealth.com) - Hiring via Ashby (handspring).
 - [Hang](https://hang.com) - Hiring via Ashby (hang).
 - [Harmonic](https://harmonic.com) - Hiring via Ashby (harmonic).
-- [Harmony](https://harmony.com) - Hiring via Lever (harmony).
+- [Harmony](https://harmony.one) - Hiring via Lever (harmony).
 - [Hawk](https://hawk.ai) - Hiring via Ashby (hawk).
 - [Headway](https://headway.com) - Hiring via Ashby (headway).
 - [Heard](https://joinheard.com) - Hiring via Lever (heard).
 - [Hercules](https://hercules.com) - Hiring via Ashby (hercules).
 - [Heron Power](https://heronpower.com) - Hiring via Ashby (heron-power).
-- [Higgsfieldai](https://higgsfieldai.com) - Hiring via Ashby (higgsfieldai).
+- [Higgsfield](https://higgsfield.ai) - Hiring via Ashby (higgsfieldai).
 - [Higharc](https://higharc.com) - Hiring via Ashby (higharc).
 - [Hint](https://hint.com) - Hiring via Lever (hint).
 - [Hobbes](https://hobbes.com) - Hiring via Ashby (hobbes).
@@ -446,7 +446,7 @@ Open-source companies, broad platforms, productivity, collaboration, and entries
 - [Hudl](https://hudl.com) - Hiring via Greenhouse (hudl).
 - [Hudson River Trading](https://hudsonrivertrading.com) - Hiring via Greenhouse (wehrtyou).
 - [Human](https://human.com) - Hiring via Ashby (human).
-- [Humanist](https://humanist.com) - Hiring via Ashby (humanist).
+- [Protagonist](https://getprotagonist.com) - Hiring via Ashby (humanist).
 - [Huntress](https://huntress.com) - Hiring via Greenhouse (huntress).
 - [Hyde](https://hyde.com) - Hiring via Ashby (hyde).
 - [Hyperbolic](https://hyperbolic.com) - Hiring via Ashby (hyperbolic).
@@ -492,7 +492,7 @@ Open-source companies, broad platforms, productivity, collaboration, and entries
 - [Jane Street](https://janestreet.com) - Hiring via Greenhouse (janestreet).
 - [January](https://january.com) - Hiring via Ashby (january).
 - [Jellyfish](https://jellyfish.com) - Hiring via Ashby (jellyfish).
-- [Jigsaw](https://jigsaw.com) - Hiring via Ashby (jigsaw).
+- [Jigsaw](https://jigsawcreate.com) - Hiring via Ashby (jigsaw).
 - [JITX](https://jitx.com) - Hiring via Lever (jitxinc).
 - [Jmawireless](https://jmawireless.com) - Hiring via Lever (jmawireless).
 - [Job Board](https://jobboard.com) - Hiring via Greenhouse (corelight).
@@ -553,7 +553,7 @@ Open-source companies, broad platforms, productivity, collaboration, and entries
 - [Lightfield](https://lightfield.com) - Hiring via Ashby (lightfield).
 - [Lightmatter](https://lightmatter.com) - Hiring via Greenhouse (lightmatter).
 - [Lightning](https://lightning.com) - Hiring via Ashby (lightning).
-- [Linda](https://linda.com) - Hiring via Ashby (linda).
+- [Linda AI](https://meetlinda.ai) - Hiring via Ashby (linda).
 - [Lindy](https://lindy.com) - Hiring via Ashby (lindy).
 - [Linkup](https://linkup.com) - Hiring via Ashby (linkup).
 - [Liquid](https://liquid.com) - Hiring via Ashby (liquid).
@@ -569,11 +569,11 @@ Open-source companies, broad platforms, productivity, collaboration, and entries
 - [Lovable](https://lovable.com) - Hiring via Ashby (lovable).
 - [Lovelace](https://lovelace.com) - Hiring via Ashby (lovelace).
 - [Lpadesignstudios](https://lpadesignstudios.com) - Hiring via Ashby (lpadesignstudios).
-- [Lucid Software](https://lucidsoftware.com) - Hiring via Greenhouse (lucidsoftware).
+- [Lucid Software](https://lucid.co) - Hiring via Greenhouse (lucidsoftware).
 - [Luminary](https://luminary.com) - Hiring via Ashby (luminary).
-- [Lunar](https://lunar.com) - Hiring via Ashby (lunar).
-- [Luxor](https://luxor.com) - Hiring via Ashby (luxor).
-- [Lynk](https://lynk.com) - Hiring via Ashby (lynk).
+- [Lunar](https://golunar.com) - Hiring via Ashby (lunar).
+- [Luxor](https://luxor.tech) - Hiring via Ashby (luxor).
+- [Lynk](https://lynk.world) - Hiring via Ashby (lynk).
 - [Lyric](https://lyric.com) - Hiring via Ashby (lyric).
 - [Mach](https://mach.com) - Hiring via Ashby (mach).
 - [Magical](https://magical.com) - Hiring via Ashby (magical).
@@ -595,7 +595,7 @@ Open-source companies, broad platforms, productivity, collaboration, and entries
 - [Matterworks](https://matterworks.com) - Hiring via Ashby (matterworks).
 - [Maxima](https://maxima.com) - Hiring via Ashby (maxima).
 - [Mcgovern](https://mcgovern.org) - Hiring via Lever (mcgovern).
-- [Mechanize](https://mechanize.com) - Hiring via Ashby (mechanize).
+- [Mechanize](https://mechanize.work) - Hiring via Ashby (mechanize).
 - [Medal](https://medal.com) - Hiring via Ashby (medal).
 - [Medecins Sans Frontieres (Doctors Without Borders) - United States](https://doctorswithoutborders.org) - Hiring via Greenhouse (msfcareers).
 - [Meili](https://meili.com) - Hiring via Lever (meili).
@@ -653,7 +653,7 @@ Open-source companies, broad platforms, productivity, collaboration, and entries
 - [Nomad](https://nomadlease.com) - Hiring via Ashby (nomad).
 - [Noodle](https://noodle.com) - Hiring via Lever (noodle).
 - [Nooks](https://nooks.com) - Hiring via Ashby (nooks).
-- [North America](https://northamerica.com) - Hiring via Greenhouse (xebiausa).
+- [Xebia](https://xebia.com) - Hiring via Greenhouse (xebiausa).
 - [Northspyre](https://northspyre.com) - Hiring via Greenhouse (northspyre).
 - [Nous](https://nous.co) - Hiring via Ashby (nous).
 - [NPR](https://npr.com) - Hiring via Greenhouse (nationalpublicradioinc).
@@ -663,11 +663,11 @@ Open-source companies, broad platforms, productivity, collaboration, and entries
 - [Objection](https://objection.com) - Hiring via Ashby (objection).
 - [Objective](https://objective.com) - Hiring via Lever (objective).
 - [Obvious](https://obvious.com) - Hiring via Ashby (obvious).
-- [Oceanus](https://oceanus.com) - Hiring via Ashby (oceanus).
+- [Oceanus Marine Technologies](https://oceanustechnologies.com) - Hiring via Ashby (oceanus).
 - [OKX](https://okx.com) - Hiring via Greenhouse (okx).
 - [Omnea](https://omnea.com) - Hiring via Ashby (omnea).
 - [Omniscient](https://omniscient.com) - Hiring via Ashby (omniscient).
-- [Oneapp](https://oneapp.com) - Hiring via Ashby (oneapp).
+- [OnePay](https://onepay.com) - Hiring via Ashby (oneapp).
 - [Ooma](https://ooma.com) - Hiring via Greenhouse (ooma).
 - [Opal](https://opal.com) - Hiring via Ashby (opal).
 - [Opendoor](https://opendoor.com) - Hiring via Greenhouse (opendoor).
@@ -680,7 +680,7 @@ Open-source companies, broad platforms, productivity, collaboration, and entries
 - [Orchard](https://orchard.com) - Hiring via Ashby (orchard).
 - [Osaro](https://osaro.com) - Hiring via Lever (osaro).
 - [Outlast](https://outlast.com) - Hiring via Lever (outlast).
-- [Outpost](https://outpost.com) - Hiring via Ashby (outpost).
+- [Outpost](https://outpost.us) - Hiring via Ashby (outpost).
 - [Output](https://output.com) - Hiring via Ashby (output).
 - [Outreach](https://outreach.com) - Hiring via Lever (outreach).
 - [Outsmart](https://joinoutsmart.com) - Hiring via Ashby (outsmart).
@@ -717,7 +717,7 @@ Open-source companies, broad platforms, productivity, collaboration, and entries
 - [Pibenchmark](https://pibenchmark.com) - Hiring via Lever (pibenchmark).
 - [Pigment](https://pigment.com) - Hiring via Lever (pigment).
 - [Pilgrim](https://pilgrim.com) - Hiring via Ashby (pilgrim).
-- [Pilot.com](https://pilotcom.com) - Hiring via Greenhouse (pilothq).
+- [Pilot.com](https://pilot.com) - Hiring via Greenhouse (pilothq).
 - [Pingwind](https://pingwind.com) - Hiring via Lever (pingwind).
 - [Pivotal](https://pivotal.com) - Hiring via Lever (pivotal).
 - [Plain](https://plain.com) - Hiring via Ashby (plain).
@@ -739,10 +739,10 @@ Open-source companies, broad platforms, productivity, collaboration, and entries
 - [Practising Law Institute](https://pli.edu) - Hiring via Greenhouse (practisinglawinstitute).
 - [Precede](https://precede.com) - Hiring via Lever (precede).
 - [Preemptive](https://preemptive.com) - Hiring via Ashby (preemptive).
-- [Prefect](https://prefect.com) - Hiring via Ashby (prefect).
+- [Prefect](https://prefect.io) - Hiring via Ashby (prefect).
 - [Prelude](https://prelude.so) - Hiring via Ashby (prelude).
 - [Primary](https://primary.com) - Hiring via Ashby (primary).
-- [Prime](https://prime.com) - Hiring via Ashby (prime).
+- [Prime](https://primeft.com) - Hiring via Ashby (prime).
 - [Prior Labs](https://priorlabs.com) - Hiring via Ashby (prior-labs).
 - [Prismatic](https://prismatic.com) - Hiring via Greenhouse (prismatic).
 - [Procreate](https://procreate.com) - Hiring via Lever (procreate).
@@ -760,7 +760,7 @@ Open-source companies, broad platforms, productivity, collaboration, and entries
 - [Quanta](https://quanta.com) - Hiring via Ashby (quanta).
 - [Quantcast](https://quantcast.com) - Hiring via Lever (quantcast).
 - [Quantum](https://quantum.com) - Hiring via Ashby (quantum).
-- [Quartermaster](https://quartermaster.com) - Hiring via Ashby (quartermaster).
+- [Quartermaster](https://quartermaster.us) - Hiring via Ashby (quartermaster).
 - [QuEra Computing, Inc.](https://quera.com) - Hiring via Greenhouse (queracomputinginc).
 - [Quilter](https://quilter.com) - Hiring via Ashby (quilter).
 - [Quora](https://quora.com) - Hiring via Ashby (quora).
@@ -810,7 +810,7 @@ Open-source companies, broad platforms, productivity, collaboration, and entries
 - [Runpod, Inc.](https://runpod.io) - Hiring via Greenhouse (runpod).
 - [Safe](https://safe.com) - Hiring via Ashby (safe).
 - [Safety](https://safety.com) - Hiring via Ashby (safety).
-- [Sahara](https://sahara.com) - Hiring via Ashby (sahara).
+- [Sahara](https://saharaai.com) - Hiring via Ashby (sahara).
 - [Samsara](https://samsara.com) - Hiring via Greenhouse (samsara).
 - [Samsung Research America Internship](https://sra.samsung.com) - Hiring via Greenhouse (samsungresearchamericainternship).
 - [Sanctuary](https://sanctuary.com) - Hiring via Ashby (sanctuary).
@@ -820,7 +820,7 @@ Open-source companies, broad platforms, productivity, collaboration, and entries
 - [Sardine](https://sardine.com) - Hiring via Ashby (sardine).
 - [Saviynt](https://saviynt.com) - Hiring via Lever (saviynt).
 - [Scarlet](https://scarlet.com) - Hiring via Ashby (scarlet).
-- [Scholarly](https://scholarly.com) - Hiring via Ashby (scholarly).
+- [Scholarly](https://scholarlysoftware.com) - Hiring via Ashby (scholarly).
 - [Schonfeld](https://schonfeld.com) - Hiring via Greenhouse (schonfeld).
 - [Schrödinger](https://schrodinger.com) - Hiring via Greenhouse (schrdinger).
 - [Scout24](https://scout24.com) - Hiring via Greenhouse (scout24).
@@ -870,7 +870,7 @@ Open-source companies, broad platforms, productivity, collaboration, and entries
 - [Solstice](https://solstice.com) - Hiring via Ashby (solstice).
 - [Somethings](https://somethings.com) - Hiring via Ashby (somethings).
 - [Sona](https://sona.com) - Hiring via Ashby (sona).
-- [Source](https://source.com) - Hiring via Lever (source).
+- [Source](https://source.paris) - Hiring via Lever (source).
 - [Sourgum](https://sourgum.com) - Hiring via Ashby (sourgum).
 - [Spacial](https://spacial.com) - Hiring via Ashby (spacial).
 - [Span](https://span.com) - Hiring via Ashby (span).
@@ -883,7 +883,7 @@ Open-source companies, broad platforms, productivity, collaboration, and entries
 - [Specter](https://specter.co) - Hiring via Ashby (specter).
 - [SpecterOps](https://specterops.com) - Hiring via Greenhouse (specterops).
 - [Speechify](https://speechify.com) - Hiring via Greenhouse (speechify).
-- [Spiral](https://spiral.com) - Hiring via Ashby (spiral).
+- [Spiral](https://spiraldb.com) - Hiring via Ashby (spiral).
 - [Sprig](https://sprig.com) - Hiring via Ashby (sprig).
 - [Spyglass](https://spyglass.com) - Hiring via Lever (spyglass).
 - [Squads](https://squads.com) - Hiring via Ashby (squads).
@@ -895,7 +895,6 @@ Open-source companies, broad platforms, productivity, collaboration, and entries
 - [Steel](https://steel.com) - Hiring via Ashby (steel).
 - [Stickermule](https://stickermule.com) - Hiring via Ashby (stickermule).
 - [Stitch Fix](https://stitchfix.com) - Hiring via Greenhouse (stitchfix).
-- [Stockpile](https://stockpile.com) - Hiring via Lever (stockpile).
 - [StockX](https://stockx.com) - Hiring via Greenhouse (stockx).
 - [Stork](https://stork.network) - Hiring via Ashby (stork).
 - [Stronghold](https://stronghold.co) - Hiring via Ashby (stronghold).
@@ -924,7 +923,7 @@ Open-source companies, broad platforms, productivity, collaboration, and entries
 - [Tact](https://tact.care) - Hiring via Lever (tact).
 - [Tailwind](https://tailwind.com) - Hiring via Ashby (tailwind).
 - [Talos Trading](https://talostrading.com) - Hiring via Ashby (talos-trading).
-- [Tango](https://tango.com) - Hiring via Ashby (tango).
+- [Tango](https://tango.ai) - Hiring via Ashby (tango).
 - [Tavily](https://tavily.com) - Hiring via Ashby (tavily).
 - [Team Rubicon](https://teamrubicon.com) - Hiring via Greenhouse (teamrubicon).
 - [Teller](https://teller.io) - Hiring via Lever (teller).
@@ -967,7 +966,7 @@ Open-source companies, broad platforms, productivity, collaboration, and entries
 - [Tripadvisor](https://tripadvisor.com) - Hiring via Greenhouse (tripadvisor).
 - [Triumph Arcade](https://triumpharcade.com) - Hiring via Ashby (triumph-arcade).
 - [True Anomaly](https://trueanomaly.com) - Hiring via Greenhouse (trueanomalyinc).
-- [TrueBuilt](https://truebuilt.com) - Hiring via Greenhouse (applytotruebuilt).
+- [TrueBuilt](https://truebuiltsoftware.com) - Hiring via Greenhouse (applytotruebuilt).
 - [Trumid](https://trumid.com) - Hiring via Greenhouse (trumid).
 - [Truveta](https://truveta.com) - Hiring via Greenhouse (truveta).
 - [Turnkey](https://turnkey.com) - Hiring via Ashby (turnkey).
@@ -978,7 +977,7 @@ Open-source companies, broad platforms, productivity, collaboration, and entries
 - [Uare.ai](https://uare.ai) - Hiring via Greenhouse (uareai).
 - [Udemy](https://udemy.com) - Hiring via Greenhouse (udemy).
 - [Uncountable](https://uncountable.com) - Hiring via Ashby (uncountable).
-- [Underdog](https://underdog.com) - Hiring via Greenhouse (underdogfantasy).
+- [Underdog](https://underdogsports.com) - Hiring via Greenhouse (underdogfantasy).
 - [Union](https://union.ai) - Hiring via Ashby (union).
 - [Unit](https://unit.com) - Hiring via Ashby (unit).
 - [Unlikely](https://unlikely.ai) - Hiring via Lever (unlikely).
@@ -987,7 +986,7 @@ Open-source companies, broad platforms, productivity, collaboration, and entries
 - [Unwrap](https://unwrap.ai) - Hiring via Ashby (unwrap).
 - [Upside](https://upside.com) - Hiring via Ashby (upside).
 - [United Tech](https://unitedtech.ai) - Hiring via Lever (vacancies).
-- [Vanilla](https://vanilla.com) - Hiring via Ashby (vanilla).
+- [Vanilla Technologies](https://justvanilla.com) - Hiring via Ashby (vanilla).
 - [Vannevar](https://vannevarlabs.com) - Hiring via Greenhouse (vannevarlabs).
 - [Vantage](https://vantage.com) - Hiring via Ashby (vantage).
 - [Vast](https://vast.com) - Hiring via Greenhouse (vast).

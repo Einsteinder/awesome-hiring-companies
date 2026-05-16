@@ -26,7 +26,7 @@ AI, machine learning, analytics, databases, and data infrastructure.
 - [Beam](https://beam.cloud) - AI-Native Cloud Platform
 - [Blaxel](https://blaxel.ai) - The perpetual sandbox platform
 - [Brainbase Labs](https://brainbaselabs.com) - The AI Labor Company
-- [Branch AI](https://branch-ai.com) - AI Overview Search, as a Service
+- [Branch](https://branchapp.com) - AI Overview Search, as a Service
 - [Broccoli AI](https://broccoli.com) - AI-native operating system for home service businesses
 - [CAPSULE](https://capsule.video) - Buy anything you find on social media
 - [Capy](https://capy.ai) - The IDE for the parallel age

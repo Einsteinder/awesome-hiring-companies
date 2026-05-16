@@ -32,7 +32,7 @@ Developer tools, cloud, infrastructure, security, observability, and B2B technic
 - [Browserbase](https://browserbase.com) - Browser automation infrastructure for AI agents and web automation.
 - [Butter](https://butter.dev) - Embedded Sandboxes for Agents
 - [Canary Technologies](https://canarytechnologies.com) - Modernizing the hospitality tech stack.
-- [Catalog](https://catalog.com) - Hiring via Ashby (catalog).
+- [Catalog](https://getcatalog.ai) - Hiring via Ashby (catalog).
 - [Cisco](https://cisco.com) - Networking hardware and enterprise security.
 - [Clerk](https://clerk.com) - Authentication and user management platform for developers.
 - [Close](https://close.com) - CRM and sales automation tools for startups and SMBs
@@ -63,10 +63,8 @@ Developer tools, cloud, infrastructure, security, observability, and B2B technic
 - [Exa](https://exa.ai) - Web search rebuilt for LLMs
 - [Extend](https://extend.ai) - Production-ready document processing
 - [Fable](https://tryfable.com) - The command center for product teams
-- [Farel](https://farel.io) - Next-gen airline OS
 - [Fathom](https://fathom.ai) - The most flexible AI meeting notetaker ever built.
 - [Fern](https://buildwithfern.com) - Instantly offer SDKs and API Docs
-- [Fig](https://fig.io) - Fig adds visual apps, shortcuts, and autocomplete to your terminal.
 - [Firecrawl](https://firecrawl.dev) - The web data API for AI
 - [Firstbase.io](https://firstbase.io) - The all-in-one startup operating system
 - [Flowtel](https://flowtel.ai) - The AI Voice agents for hotels

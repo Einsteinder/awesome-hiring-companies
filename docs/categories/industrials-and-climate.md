@@ -77,7 +77,7 @@ Hardware, manufacturing, robotics, climate, energy, aviation, space, supply chai
 - [General Dynamics](https://gd.com) - Defense, aerospace, and information-systems contractor.
 - [General Motors](https://gm.com) - Automotive manufacturer.
 - [Gridware](https://gridware.io) - Protecting the grid today, preparing the grid for tomorrow
-- [Grin](https://ongrin.com) - Mobility and payments platform for Latin America
+- [Grin](https://grin.co) - Mobility and payments platform for Latin America
 - [H3X Technologies](https://h3x.tech) - The lightest electric aircraft motors in the world.
 - [Handoff](https://handoff.ai) - AI estimator & agent for remodelers.
 - [Headspace](https://headspace.com) - Hiring via Greenhouse (hs).
@@ -126,7 +126,7 @@ Hardware, manufacturing, robotics, climate, energy, aviation, space, supply chai
 - [Odys Aviation](https://odysaviation.com) - Vertical takeoff and landing aircraft for major airlines
 - [Oklo](https://oklo.com) - Emission free, always on power from advanced fission power plants.
 - [Overview](https://overview.ai) - Reshaping industrial quality with AI, hardware, and software
-- [Pearl](https://getpearlcoffee.com) - The future of office coffee.  Keurig convenience meets cafe quality.
+- [Pearl](https://hellopearl.com) - The future of office coffee.  Keurig convenience meets cafe quality.
 - [PermitFlow](https://permitflow.com) - Construction's AI Platform
 - [Phase Biolabs](https://phasebiolabs.com) - We make carbon negative chemicals from CO2 using fermentation
 - [PickTrace](https://picktrace.com) - Workforce Management for Large Farms
@@ -183,7 +183,7 @@ Hardware, manufacturing, robotics, climate, energy, aviation, space, supply chai
 - [Ultra](https://ultra.tech) - Practical, general-purpose robots for repetitive industrial tasks
 - [UpCodes](https://up.codes) - AI platform for unifying codes, assemblies, products, and specs
 - [Varda](https://varda.com) - In-space manufacturing and reentry capsules.
-- [Varda Space Industries](https://vardaspaceindustries.com) - Hiring via Greenhouse (vardaspace).
+- [Varda Space Industries](https://varda.com) - Hiring via Greenhouse (vardaspace).
 - [VergeSense](https://vergesense.com) - AI-Powered Building Management
 - [Vertical Aerospace](https://vertical-aerospace.com) - Hiring via Ashby (vertical-aerospace).
 - [Volvo](https://volvogroup.com) - Trucks, buses, and construction equipment.
