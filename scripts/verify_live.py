@@ -368,15 +368,19 @@ async def verify_company(
 ) -> Result:
     async with sem:
         result = Result(name=company["name"], slug=company["slug"])
-        result.probes.append(await probe_domain(client, company.get("domain", ""), retries))
-        result.probes.append(
-            await probe_careers_url(
-                client, company["careers_url"], company.get("domain", ""), retries
-            )
-        )
+
+        tasks = [
+            probe_domain(client, company.get("domain", ""), retries),
+            probe_careers_url(client, company["careers_url"], company.get("domain", ""), retries)
+        ]
+
         for provider, value in company.get("ats", {}).items():
             for slug in ats_slug_values(value):
-                result.probes.append(await probe_ats(client, provider, slug, retries))
+                tasks.append(probe_ats(client, provider, slug, retries))
+
+        probes = await asyncio.gather(*tasks)
+        result.probes.extend(probes)
+
         return result
 
 
