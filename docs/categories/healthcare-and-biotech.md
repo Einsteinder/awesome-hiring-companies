@@ -101,7 +101,6 @@ Healthcare delivery, health-tech, biotech, drug discovery, medical devices, and 
 - [PostEra](https://postera.ai) - Medicinal Chemistry powered by Machine Learning
 - [Probably Genetic](https://probablygenetic.com) - Patient Intelligence Platform for Genetic Disease
 - [Prosper](https://getprosper.ai) - AI Phone Agents for Healthcare Operations
-- [Pulse](https://getpulse.care) - Electronic Medical Records for India
 - [Quartzy](https://quartzy.com) - Marketplace for life science supplies.
 - [Qventus](https://qventus.com) - We automate operations for hospitals and health systems
 - [Regeneron](https://regeneron.com) - Biotech — antibody therapeutics and genetics.
