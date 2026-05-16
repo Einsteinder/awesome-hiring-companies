@@ -146,7 +146,6 @@ Hardware, manufacturing, robotics, climate, energy, aviation, space, supply chai
 - [Relativity Space](https://relativityspace.com) - 3D-printed rockets.
 - [Remora](https://remoracarbon.com) - Carbon capture for vehicles
 - [Revise Robotics](https://reviserobotics.com) - Automating refurbishment of $1T in consumer electronics
-- [REZI](https://rentrezi.com) - Rent Better
 - [Rigetti Computing](https://rigetti.com) - Quantum coherent supercomputing.
 - [Rivian](https://rivian.com) - Electric trucks, SUVs, and delivery vans.
 - [Rocket Lab](https://rocketlabusa.com) - Small-launch and space systems.

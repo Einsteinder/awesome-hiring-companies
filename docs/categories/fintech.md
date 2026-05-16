@@ -155,7 +155,6 @@ Payments, banking, investing, crypto, expense, payroll, and financial infrastruc
 - [SafetyKit](https://safetykit.com) - AI agents for risk, compliance, and safety
 - [Salient](https://trysalient.com) - AI Servicing for Auto Lenders
 - [Saturn](https://saturnos.com) - Compliance and back office workflows for Wealth Managers.
-
 - [Sift](https://sift.com) - The Leader in Digital Trust & Safety
 - [Skio](https://skio.com) - Subscriptions for Shopify
 - [Slope](https://slopepay.com) - The B2B Payments Platform
