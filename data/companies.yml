@@ -21600,7 +21600,7 @@
 
 - name: Brainco
   slug: brainco
-  domain: brainco.com
+  domain: brain.co
   careers_url: https://jobs.ashbyhq.com/brainco
   category: open-source-and-platform
   ats:
@@ -22791,7 +22791,7 @@
 
 - name: BrainStation
   slug: brainstation
-  domain: brainstation.com
+  domain: brainstation.io
   careers_url: https://boards.greenhouse.io/brainstation
   category: open-source-and-platform
   ats:
