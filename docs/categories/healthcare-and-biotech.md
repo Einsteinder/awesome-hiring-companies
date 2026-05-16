@@ -83,7 +83,6 @@ Healthcare delivery, health-tech, biotech, drug discovery, medical devices, and 
 - [Nabla Bio](https://nabla.bio) - We use AI to design antibodies for intractable diseases
 - [NimbleRx](https://nimblerx.com) - On-demand prescription delivery.
 - [Nomic Bio](https://nomic.bio) - Nomic is doing for proteins what Illumina has done for DNA
-- [Notable Labs](https://notablelabs.com) - Personalized drug discovery for blood cancer.
 - [Novartis](https://novartis.com) - Swiss pharmaceutical multinational.
 - [Nucleo](https://nucleoresearch.com) - The first Agentic platform for Oncology
 - [OpenEvidence](https://openevidence.com) - Clinical AI platform delivering medical evidence at the point of care.

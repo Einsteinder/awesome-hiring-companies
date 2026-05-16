@@ -157,6 +157,7 @@ AI, machine learning, analytics, databases, and data infrastructure.
 - [Sim](https://sim.ai) - Open source platform to build AI agent workflows
 - [Simple AI](https://usesimple.ai) - AI voice that sells
 - [Simplify](https://simplify.jobs) - Helping a billion people build their dream career
+- [Snowflake](https://snowflake.com) - AI Data Cloud platform.
 - [Sola](https://sola-solutions.com) - Copilot for Robotic Process Automation
 - [Solari AI](https://usesolari.ai) - Gives non-technical team members agents that work right out of the box
 - [Speak](https://speak.com) - A superhuman, AI-powered language tutor in your pocket

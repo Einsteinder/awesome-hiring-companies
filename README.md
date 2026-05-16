@@ -40,12 +40,12 @@ Each category lives in its own file under [`docs/categories/`](docs/categories/)
 | --- | ---: |
 | [AI and Data](docs/categories/ai-and-data.md) | 188 |
 | [Developer Infrastructure](docs/categories/developer-infrastructure.md) | 183 |
-| [Fintech](docs/categories/fintech.md) | 200 |
-| [Consumer and Marketplace](docs/categories/consumer-and-marketplace.md) | 135 |
-| [Healthcare and Biotech](docs/categories/healthcare-and-biotech.md) | 133 |
-| [Industrials and Climate](docs/categories/industrials-and-climate.md) | 191 |
+| [Fintech](docs/categories/fintech.md) | 196 |
+| [Consumer and Marketplace](docs/categories/consumer-and-marketplace.md) | 134 |
+| [Healthcare and Biotech](docs/categories/healthcare-and-biotech.md) | 131 |
+| [Industrials and Climate](docs/categories/industrials-and-climate.md) | 187 |
 | [B2B Enterprise](docs/categories/b2b-enterprise.md) | 76 |
-| [Open Source and Platform](docs/categories/open-source-and-platform.md) | 1063 |
+| [Open Source and Platform](docs/categories/open-source-and-platform.md) | 1047 |
 
 ## Data Format
 

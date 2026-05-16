@@ -9501,11 +9501,11 @@
   - b2b-marketing
   - gaming
   sources:
-  - https://boards.greenhouse.io/athinkingape
+  - https://athinkingape.com/careers
 - name: Cheddar
   slug: cheddar
   domain: cheddar.io
-  careers_url: https://boards.greenhouse.io/cheddar
+  careers_url: https://cheddar.io/careers
   category: fintech
   ats:
     greenhouse: cheddar
@@ -9514,7 +9514,7 @@
   - fintech-banking-and-exchange
   - neobank
   sources:
-  - https://boards.greenhouse.io/cheddar
+  - https://cheddar.io/careers
 - name: SIRUM
   slug: sirum
   domain: sirum.org
@@ -13958,7 +13958,7 @@
   careers_url: https://careers.snowflake.com/
   category: ai-and-data
   ats:
-    workday: snowflake
+    custom: snowflake
   tags:
   - open
   sources:
@@ -23893,7 +23893,7 @@
   careers_url: https://jobs.netflix.com/
   category: consumer-and-marketplace
   ats:
-    workday: netflix
+    workday: netflix.wd108.myworkdayjobs.com/Netflix
   tags:
   - streaming
   - consumer
