@@ -17,6 +17,8 @@ Each company should include:
 - A public careers or jobs URL.
 - At least one source URL.
 - At least one ATS slug when known.
+- At least one current opening in North America: the United States, Canada,
+  Mexico, or a remote role not explicitly limited to another region.
 - A short README description explaining why the company is useful to track.
 
 ### Workday format
@@ -45,6 +47,7 @@ entry that's still in bare-slug form.
 Do not add:
 
 - Companies without public jobs or careers pages.
+- Companies without a currently public North America or eligible remote opening.
 - Duplicate companies under alternate spellings.
 - Dead job boards.
 - Private notes, scraped personal data, or non-public information.
@@ -58,13 +61,17 @@ Run this before opening a pull request:
 ```sh
 python -m pip install -r requirements.txt
 python scripts/validate.py
-python scripts/verify_live.py --only <your-slug>
+python scripts/verify_live.py --only <your-slug> --require-north-america-openings
 ```
 
 `validate.py` checks the YAML schema, uniqueness, and README mentions.
 `verify_live.py` hits the live careers page and ATS endpoint — this is the
 authoritative reachability check. The schema does not detect a domain that
-parses correctly but doesn't actually resolve.
+parses correctly but doesn't actually resolve. For newly added companies,
+`--require-north-america-openings` also checks supported ATS payloads for at
+least one current opening in the United States, Canada, Mexico, an explicit
+North America remote region, or a remote role not explicitly limited to another
+region.
 
 ### Optional: install the pre-push hook
 
@@ -110,6 +117,9 @@ Bulk additions (more than ~10 entries in one PR) need extra care:
 - The company is listed in `README.md` under its category section.
 - The company is listed in `data/companies.yml`.
 - The ATS slug is verified against a public jobs page.
+- At least one active opening is in North America or is remote without an
+  explicit non-North-America region restriction.
 - `python scripts/validate.py` passes.
-- `python scripts/verify_live.py --only <slug>` passes (or any `warn` is
-  documented as a legitimate WAF block, with a browser screenshot).
+- `python scripts/verify_live.py --only <slug> --require-north-america-openings`
+  passes for new companies (or any `warn` is documented as a legitimate WAF
+  block, with a browser screenshot).

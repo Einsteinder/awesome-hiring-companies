@@ -12,12 +12,17 @@ Add a company only when it passes every required criterion and none of the exclu
 - The entry has at least one official source URL, preferably the careers page itself.
 - The company is relevant to software, data, AI, product, design, operations, finance, recruiting, sales, marketing, or other technology-adjacent roles.
 - The entry includes a crawlable hiring signal, such as an ATS slug or a stable careers URL.
+- New entries must have at least one currently public opening in North America
+  (the United States, Canada, or Mexico) or a remote opening that is not
+  explicitly limited to another region.
 - The YAML entry follows the schema in `schemas/company.schema.json`.
 - The README entry explains why the company is useful to track.
 
 ## Preferred Signals
 
 - The company has active openings or has shown recent public hiring activity.
+- The company has multiple active North America openings, remote openings, or
+  an explicit North America remote hiring region.
 - The company uses a supported ATS such as Ashby, Greenhouse, or Lever.
 - The company has strong engineering, product, data, AI, platform, or go-to-market hiring relevance.
 - The company has clear public identity signals, such as a well-known domain, public funding, public market status, notable product, or open-source footprint.
@@ -29,6 +34,7 @@ Do not add:
 
 - Job boards, scraping sites, staffing agencies, or recruiting agencies unless the list explicitly adds a separate category for them later.
 - Companies with no official careers or jobs page.
+- Companies with no currently public North America or eligible remote openings.
 - Companies whose only evidence is a third-party job post.
 - Dead, login-only, invite-only, or captcha-only job boards.
 - Duplicate companies under alternate spellings, subsidiaries, aliases, or old names unless the hiring brand is clearly separate.
@@ -118,7 +124,10 @@ Before merging a company:
 
 - Open `careers_url` and confirm it is official.
 - Verify every ATS slug against the public job board.
+- Confirm at least one listed opening is in the United States, Canada, Mexico,
+  an explicit North America remote region, or a remote role not limited to
+  another region.
 - Search `data/companies.yml` for duplicate name, domain, slug, and ATS slug.
 - Add a useful README description, not only a link.
 - Run `python scripts/validate.py`.
-
+- For new entries, run `python scripts/verify_live.py --only <slug> --require-north-america-openings`.

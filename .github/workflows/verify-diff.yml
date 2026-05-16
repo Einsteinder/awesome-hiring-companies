@@ -40,8 +40,9 @@ jobs:
           base="origin/${BASE_REF}"
           git fetch origin "${BASE_REF}" --depth=1 || true
 
-          python - <<'PY' > /tmp/diff_slugs.txt
-          import json, subprocess, sys
+          python - <<'PY'
+          import subprocess
+          from pathlib import Path
           import yaml
           import os
 
@@ -58,10 +59,12 @@ jobs:
 
           base = load(f"origin/{os.environ['BASE_REF']}")
           head = load("HEAD")
+          added = []
           changed = []
           # Added
           for slug in head:
               if slug not in base:
+                  added.append(slug)
                   changed.append(slug)
               else:
                   # Modified entries: compare normalized fields that affect
@@ -71,16 +74,29 @@ jobs:
                       or a.get("ats") != b.get("ats")
                       or a.get("sources") != b.get("sources")):
                       changed.append(slug)
-          for s in sorted(set(changed)):
-              print(s)
+          Path("/tmp/diff_slugs.txt").write_text(
+              "".join(f"{s}\n" for s in sorted(set(changed))),
+              encoding="utf-8",
+          )
+          Path("/tmp/added_slugs.txt").write_text(
+              "".join(f"{s}\n" for s in sorted(set(added))),
+              encoding="utf-8",
+          )
           PY
 
           count=$(wc -l < /tmp/diff_slugs.txt | tr -d ' ')
+          added_count=$(wc -l < /tmp/added_slugs.txt | tr -d ' ')
           echo "count=$count" >> "$GITHUB_OUTPUT"
+          echo "added_count=$added_count" >> "$GITHUB_OUTPUT"
           echo "Diff-affected entries: $count"
+          echo "New entries: $added_count"
           if [[ "$count" -gt 0 ]]; then
             echo "----- Slugs to verify -----"
             cat /tmp/diff_slugs.txt
+          fi
+          if [[ "$added_count" -gt 0 ]]; then
+            echo "----- New slugs requiring North America openings -----"
+            cat /tmp/added_slugs.txt
           fi
 
           # Pass slugs as space-separated for --only
@@ -89,6 +105,12 @@ jobs:
             echo "slugs<<EOF" >> "$GITHUB_OUTPUT"
             echo "$slugs"      >> "$GITHUB_OUTPUT"
             echo "EOF"         >> "$GITHUB_OUTPUT"
+          fi
+          if [[ "$added_count" -gt 0 ]]; then
+            added_slugs=$(tr '\n' ' ' < /tmp/added_slugs.txt | sed 's/ $//')
+            echo "added_slugs<<EOF" >> "$GITHUB_OUTPUT"
+            echo "$added_slugs"      >> "$GITHUB_OUTPUT"
+            echo "EOF"               >> "$GITHUB_OUTPUT"
           fi
 
       - name: Schema + uniqueness validate (always)
@@ -114,8 +136,27 @@ jobs:
           # page works in a browser. Surface warns in the report, don't block.
           exit "$code"
 
+      - name: Verify added entries have North America openings
+        if: steps.diff.outputs.added_count != '0'
+        id: verify_na
+        shell: bash {0}
+        env:
+          ADDED_SLUGS: ${{ steps.diff.outputs.added_slugs }}
+        run: |
+          set +e
+          # shellcheck disable=SC2086
+          python scripts/verify_live.py \
+            --only $ADDED_SLUGS \
+            --require-north-america-openings \
+            --fail-on-warn \
+            --format text > /tmp/north-america-report.txt
+          code=$?
+          cat /tmp/north-america-report.txt
+          echo "code=$code" >> "$GITHUB_OUTPUT"
+          exit "$code"
+
       - name: Comment on PR with report
-        if: always() && steps.verify.outcome != 'skipped'
+        if: always() && (steps.verify.outcome != 'skipped' || steps.verify_na.outcome != 'skipped')
         uses: actions/github-script@v7
         with:
           script: |
@@ -123,22 +164,35 @@ jobs:
             const report = fs.existsSync('/tmp/report.txt')
               ? fs.readFileSync('/tmp/report.txt', 'utf8')
               : '(no report file)';
-            const failed = '${{ steps.verify.outcome }}' === 'failure';
-            const hasWarn = report.includes('[WARN]');
+            const naReport = fs.existsSync('/tmp/north-america-report.txt')
+              ? fs.readFileSync('/tmp/north-america-report.txt', 'utf8')
+              : '';
+            const failed = '${{ steps.verify.outcome }}' === 'failure'
+              || '${{ steps.verify_na.outcome }}' === 'failure';
+            const hasWarn = report.includes('[WARN]') || naReport.includes('[WARN]');
             // Only comment on real failures or when warns are present.
             if (!failed && !hasWarn) return;
             const header = failed
-              ? '`verify-diff` flagged one or more new or modified entries as unreachable.'
+              ? '`verify-diff` flagged one or more new or modified entries.'
               : '`verify-diff` passed, but some entries are bot-blocked (warn). The pages work in a browser; the runner gets WAF-blocked.';
             const body = [
               header,
               '',
-              '> `fail` blocks merge: the ATS slug does not resolve.',
+              '> `fail` blocks merge: the ATS slug does not resolve, the domain is dead, or a new entry has no verified North America opening.',
               '> `warn` does not block merge: careers_url is bot-blocked but the ATS slug verifies.',
+              '> New company entries must also expose at least one North America opening.',
               '',
+              'Live verification:',
               '```',
               report.slice(0, 60000),
               '```',
+              ...(naReport ? [
+                '',
+                'North America opening check:',
+                '```',
+                naReport.slice(0, 60000),
+                '```',
+              ] : []),
             ].join('\n');
             await github.rest.issues.createComment({
               owner: context.repo.owner,

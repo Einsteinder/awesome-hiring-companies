@@ -11,10 +11,12 @@ from __future__ import annotations
 import argparse
 import asyncio
 import json
+import re
 import sys
+import unicodedata
 from dataclasses import dataclass, field
 from pathlib import Path
-from typing import Iterable
+from typing import Any, Iterable
 
 import httpx
 import yaml
@@ -103,6 +105,141 @@ WORKDAY_PROBE_BODY = {
     "searchText": "",
 }
 
+NORTH_AMERICA_WORKDAY_BODY = {
+    "appliedFacets": {},
+    "limit": 20,
+    "offset": 0,
+    "searchText": "",
+}
+
+NORTH_AMERICA_PROVIDER_ENDPOINTS = {
+    "ashby",
+    "greenhouse",
+    "lever",
+    "smartrecruiters",
+    "workable",
+    "workday",
+}
+
+NORTH_AMERICA_TERMS = frozenset({
+    "north america",
+    "americas",
+    "united states",
+    "united states of america",
+    "usa",
+    "u s",
+    "u s a",
+    "us",
+    "canada",
+    "ca",
+    "mexico",
+    "mx",
+})
+
+NORTH_AMERICA_REGION_TERMS = frozenset({
+    "alberta",
+    "british columbia",
+    "manitoba",
+    "new brunswick",
+    "newfoundland",
+    "nova scotia",
+    "ontario",
+    "prince edward island",
+    "quebec",
+    "saskatchewan",
+    "california",
+    "colorado",
+    "florida",
+    "georgia",
+    "illinois",
+    "massachusetts",
+    "new jersey",
+    "new york",
+    "north carolina",
+    "oregon",
+    "pennsylvania",
+    "texas",
+    "utah",
+    "virginia",
+    "washington",
+})
+
+NORTH_AMERICA_CITY_TERMS = frozenset({
+    "atlanta",
+    "austin",
+    "boston",
+    "calgary",
+    "chicago",
+    "dallas",
+    "denver",
+    "guadalajara",
+    "houston",
+    "los angeles",
+    "menlo park",
+    "mexico city",
+    "miami",
+    "montreal",
+    "mountain view",
+    "new york",
+    "ottawa",
+    "palo alto",
+    "redmond",
+    "redwood city",
+    "san diego",
+    "san francisco",
+    "san jose",
+    "santa clara",
+    "seattle",
+    "sunnyvale",
+    "toronto",
+    "vancouver",
+    "washington dc",
+    "waterloo",
+})
+
+REMOTE_TERMS = frozenset({
+    "remote",
+    "distributed",
+    "anywhere",
+    "global",
+    "worldwide",
+})
+
+REMOTE_EXCLUSION_TERMS = frozenset({
+    "apac",
+    "asia",
+    "australia",
+    "brazil",
+    "colombia",
+    "emea",
+    "eu",
+    "europe",
+    "european",
+    "india",
+    "latam",
+    "latin america",
+    "new zealand",
+    "south america",
+    "united kingdom",
+})
+
+LOCATION_KEY_PARTS = (
+    "address",
+    "city",
+    "country",
+    "externalpath",
+    "externalurl",
+    "fulllocation",
+    "hostedurl",
+    "joburl",
+    "location",
+    "postal",
+    "region",
+    "remote",
+    "state",
+    "workplace",
+)
+
 
 @dataclass
 class Probe:
@@ -128,10 +265,13 @@ class Result:
         domain_dead = any(
             not p.ok and p.rule == "domain_reachable" for p in self.probes
         )
+        north_america_failed = any(
+            not p.ok and p.rule == "north_america_opening" for p in self.probes
+        )
         careers_failed = any(
             not p.ok and p.rule.startswith("careers_url") for p in self.probes
         )
-        if ats_failed or domain_dead:
+        if ats_failed or domain_dead or north_america_failed:
             return "fail"
         if careers_failed:
             return "warn"
@@ -275,6 +415,252 @@ def ats_slug_values(provider_value: str | list[str]) -> list[str]:
     return provider_value if isinstance(provider_value, list) else [provider_value]
 
 
+def _location_token_text(value: str) -> str:
+    folded = unicodedata.normalize("NFKD", value)
+    ascii_text = folded.encode("ascii", "ignore").decode("ascii").lower()
+    return " " + re.sub(r"[^a-z0-9]+", " ", ascii_text).strip() + " "
+
+
+def location_mentions_north_america(value: str) -> bool:
+    """Best-effort check for North America or remote openings."""
+    text = _location_token_text(value)
+    if not text.strip():
+        return False
+    has_explicit_north_america = any(
+        f" {term} " in text for term in NORTH_AMERICA_TERMS
+    ) or any(
+        f" {term} " in text
+        for term in NORTH_AMERICA_REGION_TERMS | NORTH_AMERICA_CITY_TERMS
+    )
+    if has_explicit_north_america:
+        return True
+    if any(f" {term} " in text for term in REMOTE_EXCLUSION_TERMS):
+        return False
+    return any(f" {term} " in text for term in REMOTE_TERMS)
+
+
+def _string_values(value: Any) -> list[str]:
+    if value is None or isinstance(value, bool):
+        return []
+    if isinstance(value, (str, int, float)):
+        return [str(value)]
+    if isinstance(value, list):
+        values: list[str] = []
+        for item in value:
+            values.extend(_string_values(item))
+        return values
+    if isinstance(value, dict):
+        values: list[str] = []
+        for item in value.values():
+            values.extend(_string_values(item))
+        return values
+    return []
+
+
+def location_values(job: Any) -> list[str]:
+    if not isinstance(job, dict):
+        return _string_values(job)
+    values: list[str] = []
+    for key, value in job.items():
+        normalized_key = re.sub(r"[^a-z0-9]+", "", str(key).lower())
+        if "remote" in normalized_key and value is True:
+            values.append("remote")
+            continue
+        if any(part in normalized_key for part in LOCATION_KEY_PARTS):
+            values.extend(_string_values(value))
+        elif isinstance(value, dict):
+            values.extend(location_values(value))
+    return values
+
+
+def job_title(job: Any) -> str:
+    if not isinstance(job, dict):
+        return "opening"
+    for key in ("title", "text", "name"):
+        value = job.get(key)
+        if value:
+            return str(value)
+    return "opening"
+
+
+def find_north_america_job(jobs: list[Any]) -> tuple[Any, str] | None:
+    for job in jobs:
+        for value in location_values(job):
+            if location_mentions_north_america(value):
+                return job, value
+    return None
+
+
+def workday_location_facet_jobs(facets: Any) -> list[dict[str, Any]]:
+    jobs: list[dict[str, Any]] = []
+
+    def walk(node: Any, in_location_facet: bool = False) -> None:
+        if isinstance(node, list):
+            for item in node:
+                walk(item, in_location_facet)
+            return
+        if not isinstance(node, dict):
+            return
+        facet_text = " ".join(
+            str(node.get(key, "")) for key in ("facetParameter", "descriptor")
+        ).lower()
+        is_location_facet = in_location_facet or "location" in facet_text
+        descriptor = node.get("descriptor")
+        count = node.get("count", 0)
+        if is_location_facet and descriptor and isinstance(count, int) and count > 0:
+            jobs.append({"title": "Workday location facet", "location": descriptor})
+        for value in node.values():
+            if isinstance(value, (dict, list)):
+                walk(value, is_location_facet)
+
+    walk(facets)
+    return jobs
+
+
+async def fetch_json(
+    client: httpx.AsyncClient,
+    url: str,
+    retries: int,
+    *,
+    method: str = "GET",
+    **kwargs: Any,
+) -> tuple[Any | None, str]:
+    result = await fetch(client, url, method=method, retries=retries, **kwargs)
+    if isinstance(result, Exception):
+        return None, f"{url} -> {type(result).__name__}: {result}"
+    if result.status_code >= 400:
+        return None, f"{url} -> HTTP {result.status_code}"
+    try:
+        return result.json(), f"{url} -> HTTP {result.status_code}"
+    except ValueError:
+        return None, f"{url} -> HTTP {result.status_code} but body was not JSON"
+
+
+async def provider_jobs(
+    client: httpx.AsyncClient, provider: str, slug: str, retries: int
+) -> tuple[list[Any] | None, str]:
+    if provider == "ashby":
+        data, detail = await fetch_json(
+            client,
+            f"https://api.ashbyhq.com/posting-api/job-board/{slug}",
+            retries,
+        )
+        if isinstance(data, dict):
+            return data.get("jobs") or [], detail
+        return None, detail
+    if provider == "greenhouse":
+        data, detail = await fetch_json(
+            client,
+            f"https://boards-api.greenhouse.io/v1/boards/{slug}/jobs",
+            retries,
+        )
+        if isinstance(data, dict):
+            return data.get("jobs") or [], detail
+        return None, detail
+    if provider == "lever":
+        data, detail = await fetch_json(
+            client,
+            f"https://api.lever.co/v0/postings/{slug}?mode=json",
+            retries,
+        )
+        if isinstance(data, list):
+            return data, detail
+        return None, detail
+    if provider == "smartrecruiters":
+        data, detail = await fetch_json(
+            client,
+            f"https://api.smartrecruiters.com/v1/companies/{slug}/postings",
+            retries,
+        )
+        if isinstance(data, dict):
+            return data.get("content") or [], detail
+        return None, detail
+    if provider == "workable":
+        data, detail = await fetch_json(
+            client,
+            f"https://apply.workable.com/api/v3/accounts/{slug}/jobs",
+            retries,
+            method="POST",
+            json={},
+        )
+        filters, filters_detail = await fetch_json(
+            client,
+            f"https://apply.workable.com/api/v3/accounts/{slug}/jobs/filters",
+            retries,
+        )
+        if isinstance(data, dict):
+            jobs = list(data.get("results") or [])
+            if isinstance(filters, dict):
+                jobs.extend(
+                    {
+                        "title": "Workable location filter",
+                        "location": location,
+                    }
+                    for location in filters.get("locations") or []
+                )
+            return jobs, f"{detail}; {filters_detail}"
+        return None, detail
+    if provider == "workday":
+        if "myworkdayjobs.com" not in slug:
+            return (
+                None,
+                "workday value must be '<tenant>.<pod>.myworkdayjobs.com/<site>', "
+                f"got {slug!r}",
+            )
+        try:
+            host, site = slug.split("/", 1)
+        except ValueError:
+            return None, f"workday value missing '/<site>' segment: {slug!r}"
+        tenant = host.split(".", 1)[0]
+        data, detail = await fetch_json(
+            client,
+            f"https://{host}/wday/cxs/{tenant}/{site}/jobs",
+            retries,
+            method="POST",
+            json=NORTH_AMERICA_WORKDAY_BODY,
+        )
+        if isinstance(data, dict):
+            jobs = list(data.get("jobPostings") or [])
+            jobs.extend(workday_location_facet_jobs(data.get("facets") or []))
+            return jobs, detail
+        return None, detail
+    return None, f"ats:{provider}:{slug} has no structured North America opening probe"
+
+
+async def probe_north_america_opening(
+    client: httpx.AsyncClient, company: dict, retries: int
+) -> Probe:
+    attempts: list[str] = []
+    for provider, value in company.get("ats", {}).items():
+        if provider not in NORTH_AMERICA_PROVIDER_ENDPOINTS:
+            attempts.append(
+                f"ats:{provider} is not supported for structured location checks"
+            )
+            continue
+        for slug in ats_slug_values(value):
+            jobs, detail = await provider_jobs(client, provider, slug, retries)
+            if jobs is None:
+                attempts.append(detail)
+                continue
+            match = find_north_america_job(jobs)
+            if match:
+                job, location = match
+                return Probe(
+                    "north_america_opening",
+                    True,
+                    f"{provider}:{slug} has {job_title(job)!r} at {location!r}",
+                )
+            attempts.append(
+                f"{provider}:{slug} returned {len(jobs)} opening"
+                f"{'' if len(jobs) == 1 else 's'} but no North America location"
+            )
+    detail = (
+        "; ".join(attempts)
+        or "no ATS data available for structured location checks"
+    )
+    return Probe("north_america_opening", False, detail)
+
+
 async def probe_ats_workday(
     client: httpx.AsyncClient, slug: str, retries: int
 ) -> Probe:
@@ -365,6 +751,7 @@ async def verify_company(
     company: dict,
     sem: asyncio.Semaphore,
     retries: int,
+    require_north_america_openings: bool,
 ) -> Result:
     async with sem:
         result = Result(name=company["name"], slug=company["slug"])
@@ -377,11 +764,19 @@ async def verify_company(
         for provider, value in company.get("ats", {}).items():
             for slug in ats_slug_values(value):
                 result.probes.append(await probe_ats(client, provider, slug, retries))
+        if require_north_america_openings:
+            result.probes.append(
+                await probe_north_america_opening(client, company, retries)
+            )
         return result
 
 
 async def run(
-    companies: list[dict], concurrency: int, retries: int, timeout: float
+    companies: list[dict],
+    concurrency: int,
+    retries: int,
+    timeout: float,
+    require_north_america_openings: bool = False,
 ) -> list[Result]:
     sem = asyncio.Semaphore(concurrency)
     headers = {
@@ -394,7 +789,12 @@ async def run(
     timeout_obj = httpx.Timeout(timeout, connect=min(timeout, DEFAULT_CONNECT_TIMEOUT))
     async with httpx.AsyncClient(timeout=timeout_obj, headers=headers, http2=False) as client:
         return await asyncio.gather(
-            *(verify_company(client, c, sem, retries) for c in companies)
+            *(
+                verify_company(
+                    client, c, sem, retries, require_north_america_openings
+                )
+                for c in companies
+            )
         )
 
 
@@ -466,6 +866,14 @@ def parse_args() -> argparse.Namespace:
         "--fail-on-warn", action="store_true",
         help="Exit non-zero on warn as well as fail (off by default).",
     )
+    parser.add_argument(
+        "--require-north-america-openings",
+        action="store_true",
+        help=(
+            "Require at least one structured ATS opening in North America "
+            "(United States, Canada, or Mexico). Intended for newly added entries."
+        ),
+    )
     return parser.parse_args()
 
 
@@ -479,7 +887,13 @@ def main() -> int:
         return 0
 
     results = asyncio.run(
-        run(companies, args.concurrency, args.retries, args.timeout)
+        run(
+            companies,
+            args.concurrency,
+            args.retries,
+            args.timeout,
+            args.require_north_america_openings,
+        )
     )
 
     if args.format == "json":

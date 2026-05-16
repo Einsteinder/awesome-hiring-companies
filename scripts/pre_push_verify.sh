@@ -28,8 +28,9 @@ if git diff --quiet "$base"...HEAD -- data/companies.yml; then
   exit 0
 fi
 
-# Collect slugs of added or modified entries.
-slugs=$(python3 - <<'PY'
+# Collect slugs of added or modified entries. Track added entries separately
+# because new companies must also have a current North America opening.
+mapfile -t verify_sets < <(python3 - <<'PY'
 import subprocess, sys
 import yaml
 
@@ -48,8 +49,10 @@ import os
 base = load(os.environ.get("BASE_REF", "origin/main"))
 head = load("HEAD")
 changed = []
+added = []
 for slug, h in head.items():
     if slug not in base:
+        added.append(slug)
         changed.append(slug)
         continue
     b = base[slug]
@@ -57,9 +60,13 @@ for slug, h in head.items():
         or b.get("ats") != h.get("ats")
         or b.get("sources") != h.get("sources")):
         changed.append(slug)
-print(" ".join(sorted(set(changed))))
+print("changed " + " ".join(sorted(set(changed))))
+print("added " + " ".join(sorted(set(added))))
 PY
 )
+
+slugs="${verify_sets[0]#changed }"
+added_slugs="${verify_sets[1]#added }"
 
 if [[ -z "$slugs" ]]; then
   exit 0
@@ -73,5 +80,12 @@ echo "pre-push: verifying $count added or modified entr$([[ $count -eq 1 ]] && e
 python scripts/validate.py
 # shellcheck disable=SC2086
 python scripts/verify_live.py --only $slugs --fail-on-warn
+
+if [[ -n "$added_slugs" ]]; then
+  added_count=$(wc -w <<< "$added_slugs")
+  echo "pre-push: checking North America openings for $added_count new entr$([[ $added_count -eq 1 ]] && echo y || echo ies)…"
+  # shellcheck disable=SC2086
+  python scripts/verify_live.py --only $added_slugs --require-north-america-openings --fail-on-warn
+fi
 
 echo "pre-push: OK"

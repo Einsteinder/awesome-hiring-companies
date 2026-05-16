@@ -50,6 +50,15 @@ body:
       label: ATS slug (optional)
       description: "e.g. greenhouse:anthropic, lever:stripe, workday:<host>/<site>. If unknown, leave blank — the agent will identify it from the careers page source, or fall back to custom:<slug> if no real ATS is identifiable. The schema requires at least one ATS entry."
 
+  - type: input
+    id: north_america_opening
+    attributes:
+      label: North America opening
+      description: Link to, or title/location of, a current opening in the United States, Canada, Mexico, or a remote role not explicitly limited to another region.
+      placeholder: "Software Engineer - Remote"
+    validations:
+      required: true
+
   - type: textarea
     id: sources
     attributes:
