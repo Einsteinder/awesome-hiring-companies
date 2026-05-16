@@ -7967,18 +7967,6 @@
   - productivity
   sources:
   - https://jobs.ashbyhq.com/dex
-- name: Sable
-  slug: sable
-  domain: sablecard.com
-  careers_url: https://jobs.ashbyhq.com/sable
-  category: fintech
-  ats:
-    ashby: sable
-  tags:
-  - fintech
-  - fintech-consumer-finance
-  sources:
-  - https://jobs.ashbyhq.com/sable
 - name: LAIKA
   slug: laika
   domain: laika.com.co
