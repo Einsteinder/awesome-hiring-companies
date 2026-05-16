@@ -160,7 +160,6 @@ Hardware, manufacturing, robotics, climate, energy, aviation, space, supply chai
 - [Sereact](https://sereact.ai) - Embodied AI for autonomous warehouse robotics.
 - [Shepherd](https://shepherdinsurance.com) - Modernizing commercial insurance
 - [Shield AI](https://shield.ai) - AI pilot for defense aircraft and autonomous swarm operations.
-- [Skip](https://rideskip.com) - Electric scooters for reliable last-mile transportation.
 - [SkydropX](https://skydropx.com) - Logistic Management System for E-commerce & Retail in Mexico.
 - [Skyways](https://skyways.com) - Creating a new form of air transportation to advance our civilization
 - [Snapdocs](https://snapdocs.com) - digital mortgage closing
