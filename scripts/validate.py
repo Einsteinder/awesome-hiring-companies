@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 
-import functools
 import json
 import re
 import sys
@@ -11,6 +10,7 @@ from urllib.parse import urlparse
 import yaml
 from jsonschema import Draft202012Validator
 
+
 ROOT = Path(__file__).resolve().parents[1]
 DATA_PATH = ROOT / "data" / "companies.yml"
 SCHEMA_PATH = ROOT / "schemas" / "company.schema.json"
@@ -18,12 +18,9 @@ README_PATH = ROOT / "README.md"
 CATEGORIES_DIR = ROOT / "docs" / "categories"
 ADD_COMPANY_TEMPLATE_PATH = ROOT / ".github" / "ISSUE_TEMPLATE" / "add-company.yml"
 
-NORMALIZE_RE = re.compile(r"[^a-z0-9]+")
 
-
-@functools.cache
 def normalize(value: str) -> str:
-    return NORMALIZE_RE.sub("-", value.lower()).strip("-")
+    return re.sub(r"[^a-z0-9]+", "-", value.lower()).strip("-")
 
 
 def load_yaml(path: Path) -> list[dict]:
@@ -82,9 +79,7 @@ def assert_readme_mentions(companies: list[dict]) -> None:
         for path in sorted(CATEGORIES_DIR.glob("*.md")):
             haystacks.append(path.read_text(encoding="utf-8"))
     corpus = "\n".join(haystacks)
-    missing = [
-        company["name"] for company in companies if company["name"] not in corpus
-    ]
+    missing = [company["name"] for company in companies if company["name"] not in corpus]
     if missing:
         raise ValueError(f"README is missing companies: {', '.join(missing)}")
 

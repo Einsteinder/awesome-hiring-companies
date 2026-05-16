@@ -6,6 +6,7 @@ public job-board endpoint. Reports per-company status (pass/warn/fail) with
 the failing rule, plus a summary. Designed to run nightly out-of-band; not
 suitable as a blocking PR check at the current scale (1600+ entries).
 """
+
 from __future__ import annotations
 
 import argparse
@@ -18,7 +19,6 @@ from typing import Iterable
 
 import httpx
 import yaml
-
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA_PATH = ROOT / "data" / "companies.yml"
@@ -67,19 +67,21 @@ ATS_ENDPOINTS: dict[str, list[str]] = {
 
 # Hosts that mean "this domain is for sale / parked / not the company's site".
 # A redirect into one of these flips the domain probe from `OK` to `parked`.
-PARKING_HOSTS = frozenset({
-    "brandbucket.com",
-    "sedo.com",
-    "afternic.com",
-    "hugedomains.com",
-    "dan.com",
-    "domainmarket.com",
-    "buydomains.com",
-    "uniregistry.com",
-    "namepros.com",
-    "squadhelp.com",
-    "atom.com",
-})
+PARKING_HOSTS = frozenset(
+    {
+        "brandbucket.com",
+        "sedo.com",
+        "afternic.com",
+        "hugedomains.com",
+        "dan.com",
+        "domainmarket.com",
+        "buydomains.com",
+        "uniregistry.com",
+        "namepros.com",
+        "squadhelp.com",
+        "atom.com",
+    }
+)
 
 # Providers whose public board has no canonical public probe endpoint
 # (SAP SuccessFactors, Recruiterbox, `custom`). For these, the
@@ -88,11 +90,13 @@ PARKING_HOSTS = frozenset({
 # probe_ats_workday: its value is now required to be
 # <tenant>.<pod>.myworkdayjobs.com/<site>, and we hit the cxs API
 # directly so the data is actually crawlable.
-NO_PROBE_PROVIDERS: frozenset[str] = frozenset({
-    "successfactors",
-    "recruiterbox",
-    "custom",
-})
+NO_PROBE_PROVIDERS: frozenset[str] = frozenset(
+    {
+        "successfactors",
+        "recruiterbox",
+        "custom",
+    }
+)
 
 # Body sent to the Workday cxs API. Documented minimum that satisfies
 # the endpoint's schema validation; `limit=1` keeps the response cheap.
@@ -139,12 +143,16 @@ class Result:
 
 
 async def fetch(
-    client: httpx.AsyncClient, url: str, *, method: str = "GET", retries: int = DEFAULT_RETRIES, **kwargs
+    client: httpx.AsyncClient,
+    url: str,
+    *,
+    method: str = "GET",
+    retries: int = DEFAULT_RETRIES,
 ) -> httpx.Response | Exception:
     last_exc: Exception | None = None
     for attempt in range(retries + 1):
         try:
-            return await client.request(method, url, follow_redirects=True, **kwargs)
+            return await client.request(method, url, follow_redirects=True)
         except (httpx.HTTPError, httpx.InvalidURL, OSError) as exc:
             last_exc = exc
             if attempt < retries:
@@ -183,7 +191,9 @@ def alternate_careers_urls(domain: str) -> list[str]:
     ]
 
 
-async def _try(client: httpx.AsyncClient, url: str, retries: int) -> tuple[str, int | None]:
+async def _try(
+    client: httpx.AsyncClient, url: str, retries: int
+) -> tuple[str, int | None]:
     r = await fetch(client, url, retries=retries)
     if isinstance(r, Exception):
         return url, None
@@ -194,7 +204,9 @@ def _normalize_host(host: str) -> str:
     return host.lower().removeprefix("www.")
 
 
-async def probe_domain(client: httpx.AsyncClient, domain: str, retries: int) -> Probe:
+async def probe_domain(
+    client: httpx.AsyncClient, domain: str, retries: int, sem: asyncio.Semaphore
+) -> Probe:
     """Confirm the `domain` field points at a real company site.
 
     Catches a class of entries where the ATS slug is valid (so careers_url
@@ -205,70 +217,92 @@ async def probe_domain(client: httpx.AsyncClient, domain: str, retries: int) -> 
     treated as reachable; only DNS/SSL failure or a parking-host redirect
     fails the probe.
     """
-    if not domain:
-        return Probe("domain_reachable", False, "no domain field")
-    last: tuple[str, str] | None = None
-    soft_errors: list[str] = []
-    hard_error_seen = False
-    for variant in (f"https://{domain}/", f"https://www.{domain}/"):
-        result = await fetch(client, variant, retries=retries)
-        if isinstance(result, Exception):
-            detail = f"{variant} -> {type(result).__name__}: {result}"
-            last = ("err", detail)
-            if isinstance(result, httpx.TimeoutException):
-                soft_errors.append(detail)
-            else:
-                hard_error_seen = True
-            continue
-        host = _normalize_host(result.url.host or "")
-        if host in PARKING_HOSTS:
-            return Probe("domain_reachable", False, f"{variant} -> parked at {host}")
-        if result.status_code < 400:
-            return Probe("domain_reachable", True, f"{variant} -> HTTP {result.status_code} ({host})")
-        last = ("http", f"{variant} -> HTTP {result.status_code}")
-    if last and last[0] == "http":
-        return Probe("domain_reachable", True, f"{last[1]} (treating non-DNS error as anti-bot)")
-    if soft_errors and not hard_error_seen:
+    async with sem:
+        if not domain:
+            return Probe("domain_reachable", False, "no domain field")
+        last: tuple[str, str] | None = None
+        soft_errors: list[str] = []
+        hard_error_seen = False
+        for variant in (f"https://{domain}/", f"https://www.{domain}/"):
+            result = await fetch(client, variant, retries=retries)
+            if isinstance(result, Exception):
+                detail = f"{variant} -> {type(result).__name__}: {result}"
+                last = ("err", detail)
+                if isinstance(result, httpx.TimeoutException):
+                    soft_errors.append(detail)
+                else:
+                    hard_error_seen = True
+                continue
+            host = _normalize_host(result.url.host or "")
+            if host in PARKING_HOSTS:
+                return Probe(
+                    "domain_reachable", False, f"{variant} -> parked at {host}"
+                )
+            if result.status_code < 400:
+                return Probe(
+                    "domain_reachable",
+                    True,
+                    f"{variant} -> HTTP {result.status_code} ({host})",
+                )
+            last = ("http", f"{variant} -> HTTP {result.status_code}")
+        if last and last[0] == "http":
+            return Probe(
+                "domain_reachable",
+                True,
+                f"{last[1]} (treating non-DNS error as anti-bot)",
+            )
+        if soft_errors and not hard_error_seen:
+            return Probe(
+                "domain_reachable",
+                True,
+                f"{soft_errors[-1]} (treating timeout as anti-bot)",
+            )
         return Probe(
-            "domain_reachable", True,
-            f"{soft_errors[-1]} (treating timeout as anti-bot)",
+            "domain_reachable", False, last[1] if last else "no probe attempted"
         )
-    return Probe("domain_reachable", False, last[1] if last else "no probe attempted")
 
 
 async def probe_careers_url(
-    client: httpx.AsyncClient, url: str, domain: str, retries: int
+    client: httpx.AsyncClient,
+    url: str,
+    domain: str,
+    retries: int,
+    sem: asyncio.Semaphore,
 ) -> Probe:
-    result = await fetch(client, url, retries=retries)
-    if not isinstance(result, Exception) and 200 <= result.status_code < 400:
-        if looks_like_login(result):
-            return Probe(
-                "careers_url_no_login", False,
-                f"final URL {result.url} looks login-gated",
-            )
-        return Probe("careers_url_reachable", True, f"HTTP {result.status_code}")
+    async with sem:
+        result = await fetch(client, url, retries=retries)
+        if not isinstance(result, Exception) and 200 <= result.status_code < 400:
+            if looks_like_login(result):
+                return Probe(
+                    "careers_url_no_login",
+                    False,
+                    f"final URL {result.url} looks login-gated",
+                )
+            return Probe("careers_url_reachable", True, f"HTTP {result.status_code}")
 
-    # Primary failed. Try alternates derived from the domain. If any succeed,
-    # this still counts as `warn` (not pass) so the report flags the entry as
-    # needing a careers_url fix — and includes the alternate as a suggestion.
-    primary_detail = (
-        f"{type(result).__name__}: {result}" if isinstance(result, Exception)
-        else f"HTTP {result.status_code}"
-    )
-    alts = alternate_careers_urls(domain)
-    found: list[str] = []
-    for alt in alts:
-        if alt == url:
-            continue
-        _, status = await _try(client, alt, retries=0)
-        if status and 200 <= status < 400:
-            found.append(f"{alt} (HTTP {status})")
-    if found:
-        return Probe(
-            "careers_url_reachable", False,
-            f"primary {primary_detail}; SUGGEST: " + ", ".join(found[:3]),
+        # Primary failed. Try alternates derived from the domain. If any succeed,
+        # this still counts as `warn` (not pass) so the report flags the entry as
+        # needing a careers_url fix — and includes the alternate as a suggestion.
+        primary_detail = (
+            f"{type(result).__name__}: {result}"
+            if isinstance(result, Exception)
+            else f"HTTP {result.status_code}"
         )
-    return Probe("careers_url_reachable", False, primary_detail)
+        alts = alternate_careers_urls(domain)
+        found: list[str] = []
+        for alt in alts:
+            if alt == url:
+                continue
+            _, status = await _try(client, alt, retries=0)
+            if status and 200 <= status < 400:
+                found.append(f"{alt} (HTTP {status})")
+        if found:
+            return Probe(
+                "careers_url_reachable",
+                False,
+                f"primary {primary_detail}; SUGGEST: " + ", ".join(found[:3]),
+            )
+        return Probe("careers_url_reachable", False, primary_detail)
 
 
 def ats_slug_values(provider_value: str | list[str]) -> list[str]:
@@ -276,7 +310,7 @@ def ats_slug_values(provider_value: str | list[str]) -> list[str]:
 
 
 async def probe_ats_workday(
-    client: httpx.AsyncClient, slug: str, retries: int
+    client: httpx.AsyncClient, slug: str, retries: int, sem: asyncio.Semaphore
 ) -> Probe:
     """Verify a Workday entry against the cxs API.
 
@@ -289,7 +323,8 @@ async def probe_ats_workday(
     rule = f"ats:workday:{slug}"
     if "myworkdayjobs.com" not in slug:
         return Probe(
-            rule, False,
+            rule,
+            False,
             f"value must be '<tenant>.<pod>.myworkdayjobs.com/<site>', got {slug!r}. "
             "See CONTRIBUTING.md → Workday format.",
         )
@@ -300,64 +335,93 @@ async def probe_ats_workday(
     tenant = host.split(".", 1)[0]
     url = f"https://{host}/wday/cxs/{tenant}/{site}/jobs"
 
-    r = await fetch(client, url, method="POST", retries=retries, json=WORKDAY_PROBE_BODY)
+    async with sem:
+        last_exc: Exception | None = None
+        for attempt in range(retries + 1):
+            try:
+                r = await client.request(
+                    "POST",
+                    url,
+                    json=WORKDAY_PROBE_BODY,
+                    follow_redirects=True,
+                )
+            except (httpx.HTTPError, httpx.InvalidURL) as exc:
+                last_exc = exc
+                if attempt < retries:
+                    await asyncio.sleep(0.5 * (attempt + 1))
+                continue
+            if r.status_code == 200:
+                try:
+                    data = r.json()
+                except ValueError:
+                    return Probe(
+                        rule, False, f"HTTP 200 from {url} but body wasn't JSON"
+                    )
+                # Accept any 200 with a jobPostings key, even when empty —
+                # an active tenant with zero open roles right now is still
+                # a valid entry.
+                if "jobPostings" in (data or {}):
+                    return Probe(rule, True, f"HTTP 200 from {url}")
+                return Probe(
+                    rule, False, f"HTTP 200 from {url} but no jobPostings field"
+                )
+            if r.status_code == 422:
+                return Probe(
+                    rule,
+                    False,
+                    f"HTTP 422 from {url} — host exists on this pod but the site "
+                    "segment is wrong; check the careers-page URL.",
+                )
+            if r.status_code == 404:
+                return Probe(
+                    rule,
+                    False,
+                    f"HTTP 404 from {url} — wrong pod, wrong tenant, or moved off Workday",
+                )
+            return Probe(rule, False, f"HTTP {r.status_code} from {url}")
 
-    if isinstance(r, Exception):
-        return Probe(rule, False, f"{type(r).__name__}: {r}")
-
-    if r.status_code == 200:
-        try:
-            data = r.json()
-        except ValueError:
-            return Probe(rule, False, f"HTTP 200 from {url} but body wasn't JSON")
-        # Accept any 200 with a jobPostings key, even when empty —
-        # an active tenant with zero open roles right now is still
-        # a valid entry.
-        if "jobPostings" in (data or {}):
-            return Probe(rule, True, f"HTTP 200 from {url}")
-        return Probe(rule, False, f"HTTP 200 from {url} but no jobPostings field")
-    if r.status_code == 422:
-        return Probe(
-            rule, False,
-            f"HTTP 422 from {url} — host exists on this pod but the site "
-            "segment is wrong; check the careers-page URL.",
-        )
-    if r.status_code == 404:
-        return Probe(
-            rule, False,
-            f"HTTP 404 from {url} — wrong pod, wrong tenant, or moved off Workday",
-        )
-    return Probe(rule, False, f"HTTP {r.status_code} from {url}")
+        assert last_exc is not None
+        return Probe(rule, False, f"{type(last_exc).__name__}: {last_exc}")
 
 
 async def probe_ats(
-    client: httpx.AsyncClient, provider: str, slug: str, retries: int
+    client: httpx.AsyncClient,
+    provider: str,
+    slug: str,
+    retries: int,
+    sem: asyncio.Semaphore,
 ) -> Probe:
     if provider == "workday":
-        return await probe_ats_workday(client, slug, retries)
+        return await probe_ats_workday(client, slug, retries, sem)
     if provider in NO_PROBE_PROVIDERS:
         return Probe(
-            f"ats:{provider}:{slug}", True,
+            f"ats:{provider}:{slug}",
+            True,
             "no public probe endpoint; relying on careers_url",
         )
     candidates = ATS_ENDPOINTS.get(provider)
     if not candidates:
-        return Probe(f"ats:{provider}", False, "unknown ATS provider; no endpoint configured")
+        return Probe(
+            f"ats:{provider}", False, "unknown ATS provider; no endpoint configured"
+        )
 
-    attempts: list[str] = []
-    for template in candidates:
-        url = template.format(slug=slug)
-        result = await fetch(client, url, retries=retries)
-        if isinstance(result, Exception):
-            attempts.append(f"{url} -> {type(result).__name__}")
-            continue
-        if result.status_code < 400:
-            return Probe(
-                f"ats:{provider}:{slug}", True, f"HTTP {result.status_code} from {url}"
-            )
-        attempts.append(f"{url} -> HTTP {result.status_code}")
+    async with sem:
+        attempts: list[str] = []
+        for template in candidates:
+            url = template.format(slug=slug)
+            result = await fetch(client, url, retries=retries)
+            if isinstance(result, Exception):
+                attempts.append(f"{url} -> {type(result).__name__}")
+                continue
+            if result.status_code < 400:
+                return Probe(
+                    f"ats:{provider}:{slug}",
+                    True,
+                    f"HTTP {result.status_code} from {url}",
+                )
+            attempts.append(f"{url} -> HTTP {result.status_code}")
 
-    return Probe(f"ats:{provider}:{slug}", False, "; ".join(attempts))
+        return Probe(f"ats:{provider}:{slug}", False, "; ".join(attempts))
 
 
 async def verify_company(
@@ -366,22 +430,23 @@ async def verify_company(
     sem: asyncio.Semaphore,
     retries: int,
 ) -> Result:
-    async with sem:
-        result = Result(name=company["name"], slug=company["slug"])
+    result = Result(name=company["name"], slug=company["slug"])
 
-        tasks = [
-            probe_domain(client, company.get("domain", ""), retries),
-            probe_careers_url(client, company["careers_url"], company.get("domain", ""), retries)
-        ]
+    tasks = [
+        probe_domain(client, company.get("domain", ""), retries, sem),
+        probe_careers_url(
+            client, company["careers_url"], company.get("domain", ""), retries, sem
+        ),
+    ]
 
-        for provider, value in company.get("ats", {}).items():
-            for slug in ats_slug_values(value):
-                tasks.append(probe_ats(client, provider, slug, retries))
+    for provider, value in company.get("ats", {}).items():
+        for slug in ats_slug_values(value):
+            tasks.append(probe_ats(client, provider, slug, retries, sem))
 
-        probes = await asyncio.gather(*tasks)
-        result.probes.extend(probes)
+    probes = await asyncio.gather(*tasks)
+    result.probes.extend(probes)
 
-        return result
+    return result
 
 
 async def run(
@@ -396,13 +461,17 @@ async def run(
         "From": FROM_HEADER,
     }
     timeout_obj = httpx.Timeout(timeout, connect=min(timeout, DEFAULT_CONNECT_TIMEOUT))
-    async with httpx.AsyncClient(timeout=timeout_obj, headers=headers, http2=False) as client:
+    async with httpx.AsyncClient(
+        timeout=timeout_obj, headers=headers, http2=False
+    ) as client:
         return await asyncio.gather(
             *(verify_company(client, c, sem, retries) for c in companies)
         )
 
 
-def filter_companies(companies: list[dict], only_slugs: Iterable[str] | None) -> list[dict]:
+def filter_companies(
+    companies: list[dict], only_slugs: Iterable[str] | None
+) -> list[dict]:
     if not only_slugs:
         return companies
     wanted = set(only_slugs)
@@ -452,22 +521,31 @@ def parse_args() -> argparse.Namespace:
         help="Restrict checks to these slugs (used by the diff-scoped PR job).",
     )
     parser.add_argument(
-        "--concurrency", type=int, default=DEFAULT_CONCURRENCY,
+        "--concurrency",
+        type=int,
+        default=DEFAULT_CONCURRENCY,
         help=f"Max concurrent requests (default: {DEFAULT_CONCURRENCY}).",
     )
     parser.add_argument(
-        "--retries", type=int, default=DEFAULT_RETRIES,
+        "--retries",
+        type=int,
+        default=DEFAULT_RETRIES,
         help=f"Retries per request on transient errors (default: {DEFAULT_RETRIES}).",
     )
     parser.add_argument(
-        "--timeout", type=float, default=DEFAULT_TIMEOUT,
+        "--timeout",
+        type=float,
+        default=DEFAULT_TIMEOUT,
         help=f"Per-request timeout in seconds (default: {DEFAULT_TIMEOUT}).",
     )
     parser.add_argument(
-        "--format", choices=("text", "json"), default="text",
+        "--format",
+        choices=("text", "json"),
+        default="text",
     )
     parser.add_argument(
-        "--fail-on-warn", action="store_true",
+        "--fail-on-warn",
+        action="store_true",
         help="Exit non-zero on warn as well as fail (off by default).",
     )
     return parser.parse_args()
@@ -482,9 +560,7 @@ def main() -> int:
         print("No companies matched filter; nothing to do.", file=sys.stderr)
         return 0
 
-    results = asyncio.run(
-        run(companies, args.concurrency, args.retries, args.timeout)
-    )
+    results = asyncio.run(run(companies, args.concurrency, args.retries, args.timeout))
 
     if args.format == "json":
         print(render_json(results))
