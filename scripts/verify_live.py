@@ -410,8 +410,8 @@ async def run(
 def filter_companies(companies: list[dict], only_slugs: Iterable[str] | None) -> list[dict]:
     if not only_slugs:
         return companies
-    wanted = set(only_slugs)
-    return [c for c in companies if c["slug"] in wanted]
+    keep = set(only_slugs)
+    return [c for c in companies if c.get("slug") in keep]
 
 
 def render_text(results: list[Result]) -> str:
