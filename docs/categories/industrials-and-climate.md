@@ -22,7 +22,6 @@ Hardware, manufacturing, robotics, climate, energy, aviation, space, supply chai
 - [Bild AI](https://bild.ai) - AI that understands construction blueprints
 - [Blissway](https://blissway.com) - The tolling industry’s prime tech infrastructure
 - [Bloom Energy](https://bloomenergy.com) - Solid-oxide fuel cells for distributed energy.
-- [Blue](https://heyblue.com) - Your phone finally has someone to run it. Plug in Blue, just ask.
 - [Blue Origin](https://blueorigin.com) - Reusable rockets and lunar systems.
 - [Bluedot](https://thebluedot.co) - Bluedot is a single payment platform for EV drivers and fleets.
 - [BMW](https://bmwgroup.com) - Premium automotive manufacturer.
@@ -33,7 +32,6 @@ Hardware, manufacturing, robotics, climate, energy, aviation, space, supply chai
 - [Broadcom](https://broadcom.com) - Semiconductor and infrastructure software (post-VMware).
 - [burnt](https://getburnt.ai) - Agentic Operating System for Food Supply Chain
 - [Cambio](https://cambio.ai) - AI-native commercial real estate operations
-- [CarbonChain](https://carbonchain.com) - We help companies automate the accounting of their carbon emissions
 - [Castle](https://entercastle.com) - Castle manages rental homes using automation and on-demand labor.
 - [Caterpillar](https://caterpillar.com) - Heavy equipment and construction machinery.
 - [Charge Robotics](https://chargerobotics.com) - Robots that build solar farms
@@ -42,7 +40,6 @@ Hardware, manufacturing, robotics, climate, energy, aviation, space, supply chai
 - [CircuitHub](https://circuithub.com) - On-Demand Electronics Manufacturing
 - [ClimateAi](https://climateai.com) - At ClimateAi, we choose to act. We believe resilience is just as urgent as mitigation.
 - [CoLab](https://colabsoftware.com) - Human and AI design review for hardware
-- [Comena](https://comena.ai) - AI agents for distributors and manufacturers to automate order entry.
 - [Commonwealth Fusion Systems](https://cfs.energy) - Tokamak fusion energy company (MIT spinout).
 - [Conduit](https://helloconduit.com) - The operating system for shipping and receiving.
 - [Coperniq](https://coperniq.io) - Workflow software for solar & energy contractors ☀️😎
@@ -57,7 +54,6 @@ Hardware, manufacturing, robotics, climate, energy, aviation, space, supply chai
 - [Electric Air](https://electricair.io) - Tech-enabled heat pump contractor that cuts costs by 60%
 - [EnergyHub](https://energyhub.com) - In connection with your application, we collect information that identifies, reasonably relates to or describes you .
 - [Energyrecovery](https://energyrecovery.com) - Energy Recovery is a trusted global leader in energy efficiency technology because of our reliable, high-performance solutions.
-- [Enode](https://enode.com) - An API for electric vehicles and other energy hardware (DERs)
 - [Enveritas](https://enveritas.org) - We verify global supply chains for issues like child slavery and…
 - [Epsilon3](https://epsilon3.io) - AI-Powered ERP, MES, and Test Software for Complex Operations
 - [Faction](https://faction.us) - Driverless electric vehicles at a fraction of the cost of a car.
@@ -128,7 +124,6 @@ Hardware, manufacturing, robotics, climate, energy, aviation, space, supply chai
 - [Overview](https://overview.ai) - Reshaping industrial quality with AI, hardware, and software
 - [Pearl](https://hellopearl.com) - The future of office coffee.  Keurig convenience meets cafe quality.
 - [PermitFlow](https://permitflow.com) - Construction's AI Platform
-- [Phase Biolabs](https://phasebiolabs.com) - We make carbon negative chemicals from CO2 using fermentation
 - [PickTrace](https://picktrace.com) - Workforce Management for Large Farms
 - [Pivot Robotics](https://pivotrobotics.com) - AI for Robot Arms in Factories
 - [Plume](https://plumefinder.com) - Renewable infrastructure deployment at scale.
@@ -136,7 +131,6 @@ Hardware, manufacturing, robotics, climate, energy, aviation, space, supply chai
 - [Posh](https://poshenergy.com) - Rapidly deployable energy solutions for modern commercial and…
 - [PowerX](https://powerx.co) - AI powered sensors that save energy, water and emissions
 - [Prometheus](https://prometheusfuels.com) - We use solar and wind power to make zero net carbon electrofuels
-- [Pronto](https://tuprontomx.com) - Ride-sharing for second-tier cities in Latin America.
 - [Pyka](https://flypyka.com) - Autonomous electric airplanes
 - [Qualcomm](https://qualcomm.com) - Mobile chipset and wireless technology.
 - [Quindar](https://quindar.space) - Datadog for Space
@@ -185,7 +179,6 @@ Hardware, manufacturing, robotics, climate, energy, aviation, space, supply chai
 - [Varda](https://varda.com) - In-space manufacturing and reentry capsules.
 - [Varda Space Industries](https://varda.com) - Engineer, you will design, manufacture, test, and represent electrical components used to fly and manufacture products in space.
 - [VergeSense](https://vergesense.com) - AI-Powered Building Management
-- [Vertical Aerospace](https://vertical-aerospace.com) - At Vertical Aerospace, we are pioneering the way for electric aviation.
 - [Volvo](https://volvogroup.com) - Trucks, buses, and construction equipment.
 - [Vooma](https://vooma.ai) - Automation platform for logistics
 - [Vorticity](https://vorticity.xyz) - The Fastest Scientific Computing Platform on the Planet

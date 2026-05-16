@@ -11,7 +11,6 @@ Developer tools, cloud, infrastructure, security, observability, and B2B technic
 - [Anysphere](https://anysphere.inc) - AI developer-tooling company behind Cursor.
 - [Aperia Technologies, Inc](https://aperiatech.com) - Aperia's Halo suite is the only platform built to optimize every wheel position across your fleet, leading the industry with automated pressure.
 - [Apex Space](https://apexspace.com) - Spacecraft represent the most pressing unmet need across the entire aerospace industry.
-- [Appsmith](https://appsmith.com) - Open-source internal-tool builder.
 - [Aqua Security](https://aquasec.com) - Container and cloud-native application security.
 - [Arketa](https://arketa.com) - Everything for your fitness or wellness business.
 - [Armory](https://armory.io) - Continuous Deployment at any scale, for all developers.
@@ -78,7 +77,6 @@ Developer tools, cloud, infrastructure, security, observability, and B2B technic
 - [GoLinks](https://golinks.io) - Intuitive, easy-to-remember short links - powered by AI.
 - [Grafana Labs](https://grafana.com) - Observability platform company behind Grafana, Loki, Tempo, Mimir, and related infrastructure tools.
 - [HackerRank](https://hackerrank.com) - Change the world to value skills over pedigree
-- [Happl](https://happl.com) - Your personalised benefits and engagement platform for global teams
 - [HashiCorp](https://hashicorp.com) - Open-source infrastructure automation (Terraform, Vault, IBM).
 - [Hive](https://hive.co) - Marketing automation for event promoters (email, sms, ads, CRM)
 - [HPE](https://hpe.com) - Hewlett Packard Enterprise — servers, networking, storage.
@@ -90,7 +88,6 @@ Developer tools, cloud, infrastructure, security, observability, and B2B technic
 - [Inkeep](https://inkeep.com) - Build AI Agent teammates and automations in code or no-code
 - [JFrog](https://jfrog.com) - Artifact management and software supply chain.
 - [Keep](https://keephq.dev) - The open-source AIOps platform
-- [KERNEL](https://kernel.sh) - Crazy fast, open source infra for AI agents to use the Internet
 - [Lacework](https://lacework.com) - Cloud-native application security platform.
 - [Lark](https://getlark.ai) - The E2E testing layer for AI-driven development
 - [Lattice](https://lattice.com) - People management platform for performance, engagement, and HR workflows.
@@ -99,7 +96,6 @@ Developer tools, cloud, infrastructure, security, observability, and B2B technic
 - [Logos](https://logos.com) - Logos is a movement to rebuild civil society using decentralised technologies.
 - [Luminai](https://luminai.com) - Luminai helps automate repetitive manual work away from your mission…
 - [Mantis](https://mantisbiotech.com) - Digital Twins of humans
-- [MariaDB](https://mariadb.com) - Open-source relational database and managed cloud.
 - [Maven](https://trymaven.com) - Payments Infrastructure for Voice Agents
 - [Mesh](https://mesh.ai) - Performance management platform that fits the way you work
 - [Microsoft](https://microsoft.com) - Cloud (Azure), productivity (Office), Windows, and developer tools.
@@ -108,7 +104,6 @@ Developer tools, cloud, infrastructure, security, observability, and B2B technic
 - [Modal](https://modal.com) - Cloud platform for AI, data, and compute-intensive workloads.
 - [Momentic](https://momentic.ai) - The AI-native automated testing platform
 - [MongoDB](https://mongodb.com) - Developer data platform and document database company.
-- [Moss](https://moss.dev) - Real-time semantic search for Conversational AI
 - [Mux](https://mux.com) - Video infrastructure for developers
 - [Namespace](https://namespace.so) - AI-accelerated developer infrastructure for builds and tests.
 - [Nango](https://nango.dev) - A single API for all your integrations
@@ -135,7 +130,6 @@ Developer tools, cloud, infrastructure, security, observability, and B2B technic
 - [Realm](https://realm.io) - Better data structures = no DB.
 - [Replit](https://replit.com) - AI-assisted software creation platform and cloud development environment.
 - [RevenueCat](https://revenuecat.com) - A simple API for managing in-app subscriptions
-- [Riot](https://tryriot.com) - Cybersecurity awareness for fast growing companies
 - [Runway](https://runway.team) - Easier and more reliable mobile app releases for teams.
 - [Ryvn](https://ryvn.ai) - Easy and secure customer cloud deployments
 - [SalesPatriot](https://salespatriot.com) - AI powered operating system for distributors and OEMs
@@ -181,5 +175,4 @@ Developer tools, cloud, infrastructure, security, observability, and B2B technic
 - [Webflow](https://webflow.com) - Professional website design and publishing platform.
 - [Windmill](https://windmill.dev) - Open-source platform to turn scripts into internal apps & workflows
 - [Wiz](https://wiz.io) - Cloud security platform for risk assessment, posture management, and runtime protection.
-- [Zencoder](https://zencoder.com) - Video Encoding API,
 - [Zone 5 Technologies](https://zone5tech.com) - At Zone 5 Technologies, we're redefining what's possible in unmanned aircraft systems.

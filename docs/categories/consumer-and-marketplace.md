@@ -11,7 +11,6 @@ Consumer products, communities, marketplaces, media, travel, commerce, education
 - [Alphabet](https://abc.xyz) - Holding company for Google and other 'other bets'.
 - [Amazon](https://amazon.com) - Global e-commerce, AWS cloud, and consumer hardware.
 - [Anara](https://anara.com) - AI for researchers
-- [Ankorstore](https://ankorstore.com) - Ankorstore exists to help independent brands and retailers thrive by making wholesale simpler, faster, and more profitable.
 - [Apple](https://apple.com) - Consumer electronics, services, and software platforms.
 - [Ark](https://ark-invest.com) - Ark organizes the world's social information.
 - [AT&T](https://att.com) - Telecommunications and connectivity carrier.
@@ -20,7 +19,6 @@ Consumer products, communities, marketplaces, media, travel, commerce, education
 - [Beacons](https://beacons.ai) - An AI-powered, all-in-one business platform for content creators
 - [Breaker](https://breakerindustries.com) - A podcast company.
 - [ByteDance](https://bytedance.com) - TikTok parent and global consumer / AI / media company.
-- [Cambly](https://cambly.com) - On-demand access to English tutors over video chat.
 - [Canva](https://canva.com) - Online design and visual communication platform.
 - [Chicago Public Media](https://wbez.org) - Chicago Public Media is a 100% community-funded newsroom powered by nearly 97,000 members whose support makes our journalism possible.
 - [ClassDojo](https://classdojo.com) - Communication app for K-8 teachers, kids, and families
@@ -30,7 +28,6 @@ Consumer products, communities, marketplaces, media, travel, commerce, education
 - [Copia](https://gocopia.com) - Copia's a for-profit technology company that solves food waste &…
 - [Costco](https://costco.com) - Membership-based wholesale retailer.
 - [Deductive](https://deductive.com) - Agents trusted by leading global software companies to troubleshoot and resolve complex production incidents.
-- [Dex](https://getdex.com) - Dex is a personal CRM that reminds you to keep in touch with the…
 - [Discord](https://discord.com) - Communications platform for communities, gaming, and social products.
 - [Disney](https://thewaltdisneycompany.com) - Media, parks, and entertainment conglomerate.
 - [Duolingo](https://duolingo.com) - Consumer learning platform with product, growth, ML, and mobile engineering roles.
@@ -42,8 +39,6 @@ Consumer products, communities, marketplaces, media, travel, commerce, education
 - [Epic Games](https://epicgames.com) - Epic Games is searching for a Cinematic Animation Director to join our cinematic team working on projects, including Fortnite and other IP.
 - [Eternal](https://eternal.co) - Own the best moments in streaming
 - [Faire](https://faire.com) - The global online platform empowering independent retail.
-- [Fernride](https://fernride.com) - At FERNRIDE, we believe in a future where robotics unlocks human potential to create a better world.
-- [Fleek](https://joinfleek.com) - A B2B marketplace for wholesale second hand fashion
 - [Flip](https://justflip.com) - Community-driven marketplace for sneakers.
 - [Gametime United](https://gametime.co) - What We can Offer Flexible PTO Competitive salary & equity package Monthly Gametime credits for any event Medical, dental, & vision insurance.
 - [Garage](https://shopgarage.com) - Marketplace for America's most essential assets
@@ -61,18 +56,15 @@ Consumer products, communities, marketplaces, media, travel, commerce, education
 - [MarcoPolo](https://marcopolo.com) - Alibaba for Latin America
 - [McDonald's](https://mcdonalds.com) - Global quick-service restaurant chain.
 - [Meadow](https://getmeadow.com) - Point of Sale and Compliance SaaS for Cannabis Dispensaries
-- [Meesho](https://meesho.com) - Democratizing internet commerce for everyone in India
 - [Meta](https://meta.com) - Facebook, Instagram, WhatsApp, and Reality Labs.
 - [Midstream](https://midstream.com) - Midstream is an AI-native financial operating system for health systems,.
 - [Misfits Market](https://misfitsmarket.com) - Please see here for Misfits Market's Job Applicant Privacy Notice .
 - [Mosaic](https://mosaic.so) - Agentic video editing
-- [Multiverse](https://playmultiverse.com) - Multiverse is a web-based game creation system inspired by Dungeons &…
 - [NBCUniversal](https://nbcuni.com) - Media and entertainment (NBC, Peacock, Universal).
 - [Nectar Social](https://nectarsocial.com) - Nectar is your AI-powered social teammate-managing communities, listening in real time, and tracking influencers to turn engagement into measurable growth.
 - [Netflix](https://netflix.com) - Streaming entertainment platform.
 - [Nextdoor](https://nextdoor.com) - Neighborhood-focused social network.
 - [Niantic](https://nianticlabs.com) - Pokémon GO and AR location games.
-- [Odin](https://joinodin.com) - Save, organize and showcase your mental dump
 - [Opennote](https://opennote.com) - The notebook that thinks with you.
 - [Padlet](https://padlet.com) - Papyrus → Parchment → Paper → Padlet
 - [Panasonic](https://panasonic.com) - Consumer electronics and battery (Tesla EV cells).
@@ -83,7 +75,6 @@ Consumer products, communities, marketplaces, media, travel, commerce, education
 - [Pinterest](https://pinterest.com) - Visual discovery platform with search, recommendations, ads, and creator products.
 - [Plexus](https://plexus.co) - High-performance gloves for VR and AR
 - [Postscript](https://postscript.io) - The SMS revenue platform for e-commerce merchants
-- [PowerUs](https://powerus.de) - LinkedIn for skilled blue-collar workers
 - [Prolific](https://prolific.com) - Making diverse, high-quality data easily available to anyone, anywhere
 - [Pure](https://collectpure.com) - Marketplace for Rare Coins & Precious Metals
 - [Pursuit](https://revlo.co) - Revlo helps broadcasters on Twitch engage and monetize their fan…
@@ -97,7 +88,6 @@ Consumer products, communities, marketplaces, media, travel, commerce, education
 - [Shopmonkey](https://shopmonkey.com) - Shopmonkey has become an amazing environment where employees feel that they are valued as people, and not just worker bees.
 - [Sightline Media Group](https://sightlinemediagroup.com) - Sightline Media Group is the leading news organization covering military, defense, C4ISR and cyber defense.
 - [SkyLink](https://tryskylink.com) - Travel Management Meets AI
-- [Skyscanner](https://skyscanner.net) - Travel-fare aggregator and flights marketplace.
 - [Snackpass](https://snackpass.co) - Order ahead at restaurants and get rewards with friends.
 - [Snap](https://snap.com) - Snapchat camera platform and AR product company.
 - [Snappr](https://snappr.com) - Snappr is the one-stop-shop for visual content creation
@@ -109,7 +99,6 @@ Consumer products, communities, marketplaces, media, travel, commerce, education
 - [Suger](https://suger.io) - Salesforce for Cloud marketplaces on AWS, Azure, GCP
 - [Super](https://superapp.id) - Super is the first and leading Indonesian social commerce platform
 - [T-Mobile](https://t-mobile.com) - Mobile network carrier.
-- [Tajir](https://tajir.app) - The one-stop shop for mom-and-pop stores in Pakistan to buy inventory.
 - [Take-Two Interactive](https://take2games.com) - Gaming publisher — Rockstar, 2K.
 - [Target](https://target.com) - Mass-market retailer with strong digital and supply-chain tech.
 - [The Athletic](https://theathletic.com) - Subscription sports media.
@@ -126,7 +115,6 @@ Consumer products, communities, marketplaces, media, travel, commerce, education
 - [Vox Media, LLC](https://voxmedia.com) - Vox Media is where influence sparks action. Vox Media, the leader in modern media, is home to top talent, engaging editorial brands.
 - [Walmart](https://walmart.com) - Global retailer with large tech and supply-chain orgs.
 - [Warner Bros. Discovery](https://wbd.com) - Media conglomerate (HBO Max, CNN, Warner Bros.).
-- [Weebly](https://weebly.com) - DIY website and online-store builder (Square / Block).
 - [Weride](https://weride.ai) - WeRide is a leading, commercial-stage global company that develops autonomous driving technologies from Level 2 to Level 4.
 - [Whatnot](https://whatnot.com) - Whatnot is the largest livestream shopping platform in the U.S.
 - [Wikimedia Foundation](https://wikimediafoundation.com) - Wikimedia Foundation is a charitable, not-for-profit organization that relies on donations.
