@@ -98,6 +98,10 @@ jobs:
         if: steps.verify.outputs.exit_code != '0'
         uses: actions/github-script@v7
         with:
+          # Optional: set AGENT_TRIGGER_TOKEN to a PAT/GitHub App token for an
+          # account that OpenHands accepts. Without it, comments are authored by
+          # github-actions[bot], which some external agents may ignore.
+          github-token: ${{ secrets.AGENT_TRIGGER_TOKEN || github.token }}
           script: |
             const fs = require('fs');
             const report = fs.readFileSync('verify_report.txt', 'utf8');
@@ -187,12 +191,22 @@ jobs:
                     `_Routed to ${agentName}._`,
                   ].join('\n');
 
-              await github.rest.issues.create({
+              const created = await github.rest.issues.create({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
                 title,
                 body,
                 labels: [agentLabel, 'fix-entry'],
               });
+
+              if (agentLabel === 'openhands') {
+                await github.rest.issues.createComment({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: created.data.number,
+                  body: '@openhands please address this issue.',
+                });
+              }
+
               core.info(`Opened: ${title} -> ${agentName}`);
             }
