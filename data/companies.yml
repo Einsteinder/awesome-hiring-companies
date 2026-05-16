@@ -12224,7 +12224,7 @@
 
 - name: Confluent
   slug: confluent
-  domain: confluent.com
+  domain: confluent.io
   careers_url: https://jobs.ashbyhq.com/confluent
   category: open-source-and-platform
   ats:
@@ -13049,18 +13049,6 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/conversion
-
-- name: Florence
-  slug: florence
-  domain: florence.com
-  careers_url: https://jobs.lever.co/florence
-  category: open-source-and-platform
-  ats:
-    lever: florence
-  tags:
-  - open
-  sources:
-  - https://jobs.lever.co/florence
 
 - name: Foxglove
   slug: foxglove
@@ -15260,7 +15248,7 @@
 
 - name: Ghost
   slug: ghost
-  domain: ghost.com
+  domain: ghost.org
   careers_url: https://jobs.ashbyhq.com/ghost
   category: open-source-and-platform
   ats:
@@ -18417,18 +18405,6 @@
   sources:
   - https://jobs.ashbyhq.com/indent
 
-- name: Material
-  slug: material
-  domain: material.com
-  careers_url: https://jobs.ashbyhq.com/material
-  category: open-source-and-platform
-  ats:
-    ashby: material
-  tags:
-  - open
-  sources:
-  - https://jobs.ashbyhq.com/material
-
 - name: Mechanize
   slug: mechanize
   domain: mechanize.com
@@ -18884,18 +18860,6 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/recharge
-
-- name: Renegade
-  slug: renegade
-  domain: renegade.com
-  careers_url: https://jobs.lever.co/renegade
-  category: open-source-and-platform
-  ats:
-    lever: renegade
-  tags:
-  - open
-  sources:
-  - https://jobs.lever.co/renegade
 
 - name: Rerun
   slug: rerun
@@ -23809,18 +23773,6 @@
   sources:
   - https://jobs.ashbyhq.com/periodic-labs
 
-- name: Windranger
-  slug: windranger
-  domain: windranger.com
-  careers_url: https://jobs.ashbyhq.com/windranger
-  category: open-source-and-platform
-  ats:
-    ashby: windranger
-  tags:
-  - open
-  sources:
-  - https://jobs.ashbyhq.com/windranger
-
 - name: Causaly
   slug: causaly
   domain: causaly.com
@@ -24495,7 +24447,7 @@
 
 - name: N8N
   slug: n8n
-  domain: n8n.com
+  domain: n8n.io
   careers_url: https://jobs.ashbyhq.com/n8n
   category: open-source-and-platform
   ats:

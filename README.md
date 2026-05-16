@@ -2,7 +2,7 @@
 
 A curated list of technology companies with public job boards, structured ATS slugs, and source links.
 
-Currently tracking **2174 companies**.
+Currently tracking **2170 companies**.
 
 This repository is designed for two uses:
 
@@ -45,7 +45,7 @@ Each category lives in its own file under [`docs/categories/`](docs/categories/)
 | [Healthcare and Biotech](docs/categories/healthcare-and-biotech.md) | 133 |
 | [Industrials and Climate](docs/categories/industrials-and-climate.md) | 191 |
 | [B2B Enterprise](docs/categories/b2b-enterprise.md) | 76 |
-| [Open Source and Platform](docs/categories/open-source-and-platform.md) | 1068 |
+| [Open Source and Platform](docs/categories/open-source-and-platform.md) | 1063 |
 
 ## Data Format
 
