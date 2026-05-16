@@ -271,6 +271,75 @@ async def page_links_to_ats(
     return False
 
 
+async def gather_ats_candidates(
+    client: httpx.AsyncClient, ats: dict
+) -> list[tuple[str, str]]:
+    """Gather domain candidates from ATS posting JSON."""
+    candidates: list[tuple[str, str]] = []
+    for provider, value in ats.items():
+        slugs = value if isinstance(value, list) else [value]
+        for ats_slug in slugs:
+            hosts = await collect_atom_hosts(client, provider, ats_slug)
+            for host in hosts:
+                candidates.append((host, f"{provider}-desc"))
+    return candidates
+
+
+async def evaluate_candidates(
+    client: httpx.AsyncClient,
+    candidates: list[tuple[str, str]],
+    slug: str,
+    name: str,
+    current: str,
+    providers: list[str],
+    evidence: list[str],
+) -> Proposal | None:
+    """Score and verify candidates."""
+    seen_hosts: set[str] = set()
+    medium_fallback: Proposal | None = None
+
+    for host, source in candidates:
+        host_norm = normalize_host(host)
+        if host_norm == current.lower() or host_norm in seen_hosts:
+            continue
+        seen_hosts.add(host_norm)
+
+        ok, why, final_host = await domain_works(client, host_norm)
+        if not ok:
+            continue
+
+        same_brand = final_host is not None and host_is_self(host_norm, final_host)
+        slug_in_host = host_matches_slug(host_norm, slug, name)
+        links_to_ats = await page_links_to_ats(client, final_host or host_norm, slug, providers)
+
+        if same_brand and links_to_ats and slug_in_host:
+            parts = host_norm.split(".")
+            apex = host_norm
+            if len(parts) >= 3:
+                tail2 = ".".join(parts[-2:])
+                if tail2 in SECOND_LEVEL_TLDS:
+                    apex = ".".join(parts[-3:])
+                else:
+                    apex = tail2
+            if apex != host_norm:
+                apex_ok, _, apex_final = await domain_works(client, apex)
+                if apex_ok and apex_final and host_is_self(apex, apex_final):
+                    host_norm = apex
+            evidence.append(f"{host_norm} ({source}): {why}; same-brand + links-to-ats")
+            return Proposal(slug, name, current, host_norm, "high", evidence)
+
+        from_ats = source.endswith("-desc")
+        if from_ats and same_brand:
+            evidence.append(
+                f"{host_norm} ({source}): {why}; "
+                f"same-brand={same_brand}, slug-in-host={slug_in_host}, links-to-ats={links_to_ats}"
+            )
+            if medium_fallback is None:
+                medium_fallback = Proposal(slug, name, current, host_norm, "medium", list(evidence))
+
+    return medium_fallback
+
+
 async def repair_one(
     client: httpx.AsyncClient, company: dict, sem: asyncio.Semaphore
 ) -> Proposal:
@@ -288,77 +357,19 @@ async def repair_one(
 
         # Strategy 1: ATS posting JSON
         ats = company.get("ats", {})
-        candidates: list[tuple[str, str]] = []  # (host, source-tag)
-        for provider, value in ats.items():
-            slugs = value if isinstance(value, list) else [value]
-            for ats_slug in slugs:
-                hosts = await collect_atom_hosts(client, provider, ats_slug)
-                for host in hosts:
-                    candidates.append((host, f"{provider}-desc"))
+        candidates = await gather_ats_candidates(client, ats)
 
         # Strategy 2: TLD/prefix variants
         for cand in candidate_tld_variants(slug):
             candidates.append((cand, "tld-variant"))
 
         providers = list(ats.keys())
-        # Score and verify candidates. High confidence requires the candidate
-        # to (a) be reachable without redirecting to a different brand and
-        # (b) link to this ATS board from somewhere on its site.
-        seen_hosts: set[str] = set()
-        medium_fallback: Proposal | None = None
-        for host, source in candidates:
-            host_norm = normalize_host(host)
-            if host_norm == current.lower() or host_norm in seen_hosts:
-                continue
-            seen_hosts.add(host_norm)
+        proposal = await evaluate_candidates(
+            client, candidates, slug, name, current, providers, evidence
+        )
 
-            ok, why, final_host = await domain_works(client, host_norm)
-            if not ok:
-                continue
-
-            same_brand = final_host is not None and host_is_self(host_norm, final_host)
-            slug_in_host = host_matches_slug(host_norm, slug, name)
-            links_to_ats = await page_links_to_ats(client, final_host or host_norm, slug, providers)
-
-            # High confidence: the candidate's site links to *this* slug's ATS
-            # board AND the host brand-token matches the slug. The slug-match
-            # gate filters cases where the ATS slug uses a separate brand
-            # entirely (e.g. dodmg's Lever board belongs to hrl.com — likely
-            # a real company posting under an obscure code, but a domain swap
-            # would silently change the entry's identity).
-            if same_brand and links_to_ats and slug_in_host:
-                # Prefer the bare apex over a `blog.` / `app.` subdomain, but
-                # respect multi-part TLDs (plinth.org.uk's apex is itself).
-                parts = host_norm.split(".")
-                apex = host_norm
-                if len(parts) >= 3:
-                    tail2 = ".".join(parts[-2:])
-                    if tail2 in SECOND_LEVEL_TLDS:
-                        apex = ".".join(parts[-3:])  # already at apex
-                    else:
-                        apex = tail2
-                if apex != host_norm:
-                    apex_ok, _, apex_final = await domain_works(client, apex)
-                    if apex_ok and apex_final and host_is_self(apex, apex_final):
-                        host_norm = apex
-                evidence.append(f"{host_norm} ({source}): {why}; same-brand + links-to-ats")
-                return Proposal(slug, name, current, host_norm, "high", evidence)
-
-            # Medium requires the candidate to have come from the company's
-            # own ATS job descriptions AND be a same-brand reachable host.
-            # TLD-variant guesses without a cross-reference are too noisy
-            # (florence.io and material.io are unrelated companies).
-            from_ats = source.endswith("-desc")
-            if from_ats and same_brand:
-                evidence.append(
-                    f"{host_norm} ({source}): {why}; "
-                    f"same-brand={same_brand}, slug-in-host={slug_in_host}, links-to-ats={links_to_ats}"
-                )
-                if medium_fallback is None:
-                    medium_fallback = Proposal(slug, name, current, host_norm, "medium", list(evidence))
-
-        if medium_fallback is not None:
-            return medium_fallback
+        if proposal is not None:
+            return proposal
         return Proposal(slug, name, current, None, "none", evidence)
 
 
