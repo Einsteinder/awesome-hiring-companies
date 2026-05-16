@@ -15,14 +15,14 @@ Consumer products, communities, marketplaces, media, travel, commerce, education
 - [Apple](https://apple.com) - Consumer electronics, services, and software platforms.
 - [Ark](https://ark-invest.com) - Ark organizes the world's social information.
 - [AT&T](https://att.com) - Telecommunications and connectivity carrier.
-- [Avride](https://avride.com) - Hiring via Greenhouse (avride).
+- [Avride](https://avride.ai) - Hiring via Greenhouse (avride).
 - [Backpack](https://backpackbang.com) - Marketplace to get stuff from overseas
 - [Beacons](https://beacons.ai) - An AI-powered, all-in-one business platform for content creators
 - [Breaker](https://breaker.audio) - A podcast company.
 - [ByteDance](https://bytedance.com) - TikTok parent and global consumer / AI / media company.
 - [Cambly](https://cambly.com) - On-demand access to English tutors over video chat.
 - [Canva](https://canva.com) - Online design and visual communication platform.
-- [Chicago Public Media](https://chicagopublicmedia.com) - Hiring via Greenhouse (cpm).
+- [Chicago Public Media](https://wbez.org) - Hiring via Greenhouse (cpm).
 - [ClassDojo](https://classdojo.com) - Communication app for K-8 teachers, kids, and families
 - [Clever](https://clever.com) - The platform that powers technology in the classroom.
 - [Cocoon](https://cocoon.com) - Bring your most important groups closer together
@@ -35,19 +35,19 @@ Consumer products, communities, marketplaces, media, travel, commerce, education
 - [Disney](https://thewaltdisneycompany.com) - Media, parks, and entertainment conglomerate.
 - [Duolingo](https://duolingo.com) - Consumer learning platform with product, growth, ML, and mobile engineering roles.
 - [eBay](https://ebay.com) - Consumer e-commerce marketplace.
-- [Educative](https://educative.com) - Hiring via Lever (educative).
+- [Educative](https://educative.io) - Hiring via Lever (educative).
 - [Electronic Arts](https://ea.com) - Video game publisher and developer.
 - [Ello](https://ello.com) - Building the world's first 1:1 AI teacher.
 - [EMARKETER](https://emarketer.com) - Hiring via Greenhouse (emarketer).
 - [Epic Games](https://epicgames.com) - Hiring via Greenhouse (epicgames).
-- [Eternal](https://eternal.gg) - Own the best moments in streaming
+- [Eternal](https://eternal.co) - Own the best moments in streaming
 - [Faire](https://faire.com) - The global online platform empowering independent retail.
 - [Fernride](https://fernride.com) - Hiring via Greenhouse (fernride).
 - [Fleek](https://joinfleek.com) - A B2B marketplace for wholesale second hand fashion
 - [Flip](https://justflip.com) - Community-driven marketplace for sneakers.
-- [Gametime United](https://gametimeunited.com) - Hiring via Greenhouse (gametimeunited).
+- [Gametime United](https://gametime.co) - Hiring via Greenhouse (gametimeunited).
 - [Garage](https://shopgarage.com) - Marketplace for America's most essential assets
-- [Glimpse](https://joinglimpse.com) - A social video chat.
+- [Glimpse](https://tryglimpse.com) - A social video chat.
 - [GOAT Group](https://goatgroup.com) - Platform for the greatest products from the past, present and future.
 - [Google](https://google.com) - Search, ads, cloud, and consumer software giant.
 - [Hotplate](https://hotplate.com) - Online ordering platform for independent chefs and bakers.
@@ -123,14 +123,14 @@ Consumer products, communities, marketplaces, media, travel, commerce, education
 - [Unlearn](https://unlearn.com) - Hiring via Ashby (unlearn).
 - [Verizon](https://verizon.com) - Telecommunications and wireless carrier.
 - [Vori](https://vori.com) - Vori is a modern operating system for supermarkets
-- [Vox Media, LLC](https://voxmediallc.com) - Hiring via Greenhouse (voxmedia).
+- [Vox Media, LLC](https://voxmedia.com) - Hiring via Greenhouse (voxmedia).
 - [Walmart](https://walmart.com) - Global retailer with large tech and supply-chain orgs.
 - [Warner Bros. Discovery](https://wbd.com) - Media conglomerate (HBO Max, CNN, Warner Bros.).
 - [Weebly](https://weebly.com) - DIY website and online-store builder (Square / Block).
-- [Weride](https://weride.com) - Hiring via Lever (weride).
+- [Weride](https://weride.ai) - Hiring via Lever (weride).
 - [Whatnot](https://whatnot.com) - Whatnot is the largest livestream shopping platform in the U.S.
 - [Wikimedia Foundation](https://wikimediafoundation.com) - Hiring via Greenhouse (wikimedia).
-- [Workstream](https://workstream.com) - Hiring via Greenhouse (workstream).
+- [Workstream](https://workstream.us) - Hiring via Greenhouse (workstream).
 - [X](https://twitter.com) - Real-time social media platform (formerly Twitter).
 - [XTX Markets](https://xtxmarkets.com) - Hiring via Greenhouse (xtxmarketstechnologies).
 - [Zerocater](https://zerocater.com) - Zerocater is revolutionizing how companies feed their employees

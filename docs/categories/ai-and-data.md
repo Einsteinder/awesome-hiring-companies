@@ -28,7 +28,7 @@ AI, machine learning, analytics, databases, and data infrastructure.
 - [Brainbase Labs](https://brainbaselabs.com) - The AI Labor Company
 - [Branch AI](https://branch-ai.com) - AI Overview Search, as a Service
 - [Broccoli AI](https://broccoli.com) - AI-native operating system for home service businesses
-- [CAPSULE](https://shopcapsule.ai) - Buy anything you find on social media
+- [CAPSULE](https://capsule.video) - Buy anything you find on social media
 - [Capy](https://capy.ai) - The IDE for the parallel age
 - [Centralize](https://usecentralize.com) - The relationship intelligence platform for enterprise revenue
 - [Cerebras](https://cerebras.net) - Wafer-scale AI accelerator hardware and inference platform.
@@ -143,7 +143,7 @@ AI, machine learning, analytics, databases, and data infrastructure.
 - [Replo](https://replo.app) - Sell anything
 - [Retell AI](https://retellai.com) - Supercharge Your Contact Center Operations with AI Phone Agents
 - [Roboflow](https://roboflow.com) - 🖼️ Give your software the sense of sight.
-- [Robust Ai](https://robustai.com) - Hiring via Lever (robust-ai).
+- [Robust AI](https://robust.ai) - Hiring via Lever (robust-ai).
 - [Rollstack](https://rollstack.com) - Automate data-driven slide decks and documents with AI
 - [Rosebud AI](https://rosebud.ai) - Vibe code games.
 - [Sapling.ai](https://sapling.ai) - Language models for enterprise applications.

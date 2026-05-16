@@ -72,7 +72,7 @@ B2B SaaS that does not fit `developer-infrastructure` — HR, sales, marketing, 
 - [Stilta](https://stilta.com) - Agentic AI for intellectual property
 - [Substrate](https://substrate.cc) - Artificial Intelligence for your medical billing team
 - [Superset](https://superset.sh) - The IDE for the AI Agents Era
-- [Syncro](https://runsyncro.com) - Intelligence layer for internal communications and culture
+- [Syncro](https://syncrosecure.com) - Intelligence layer for internal communications and culture
 - [telli](https://telli.com) - AI phone agents that convert
 - [UserGems](https://usergems.com) - The AI Command Center for outbound and ABM
 - [Vellum](https://vellum.ai) - Hiring via Ashby (vellum).

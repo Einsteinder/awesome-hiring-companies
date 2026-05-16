@@ -91,7 +91,7 @@ Hardware, manufacturing, robotics, climate, energy, aviation, space, supply chai
 - [Human Archive](https://humanarchive.ai) - Multimodal data provider for robotics and world modeling
 - [Hyundai](https://hyundai.com) - Automotive manufacturer.
 - [Icarus](https://icarus.one) - Stratospheric birds for defense
-- [Industrial Electric Manufacturing](https://industrialelectricmanufacturing.com) - Hiring via Greenhouse (industrialelectricmanufacturing).
+- [Industrial Electric Manufacturing](https://iemfg.com) - Hiring via Greenhouse (industrialelectricmanufacturing).
 - [Innate](https://innate.bot) - Personal AI Robots
 - [Instacart](https://instacart.com) - Grocery delivery marketplace with logistics, retail, and ads systems.
 - [Intel](https://intel.com) - Semiconductor manufacturer.
@@ -119,7 +119,7 @@ Hardware, manufacturing, robotics, climate, energy, aviation, space, supply chai
 - [Nimbus](https://nimbus.green) - Tesla for city dwellers
 - [Nira Energy](https://niraenergy.com) - Software to find the best sites for renewables on the electrical grid
 - [Northrop Grumman](https://northropgrumman.com) - Defense and space systems.
-- [Northwoodspace](https://northwoodspace.com) - Hiring via Ashby (northwoodspace).
+- [Northwoodspace](https://northwoodspace.io) - Hiring via Ashby (northwoodspace).
 - [Nox Metals](https://noxmetals.co) - Supplying America's Industrial Base
 - [Octoenergy](https://octoenergy.com) - Hiring via Lever (octoenergy).
 - [Odeko](https://odeko.com) - Our operations software makes it easier to run--and grow--your cafe
@@ -185,7 +185,7 @@ Hardware, manufacturing, robotics, climate, energy, aviation, space, supply chai
 - [Varda](https://varda.com) - In-space manufacturing and reentry capsules.
 - [Varda Space Industries](https://vardaspaceindustries.com) - Hiring via Greenhouse (vardaspace).
 - [VergeSense](https://vergesense.com) - AI-Powered Building Management
-- [Vertical Aerospace](https://verticalaerospace.com) - Hiring via Ashby (vertical-aerospace).
+- [Vertical Aerospace](https://vertical-aerospace.com) - Hiring via Ashby (vertical-aerospace).
 - [Volvo](https://volvogroup.com) - Trucks, buses, and construction equipment.
 - [Vooma](https://vooma.ai) - Automation platform for logistics
 - [Vorticity](https://vorticity.xyz) - The Fastest Scientific Computing Platform on the Planet
