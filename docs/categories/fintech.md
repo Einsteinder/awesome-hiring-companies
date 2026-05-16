@@ -71,7 +71,6 @@ Payments, banking, investing, crypto, expense, payroll, and financial infrastruc
 - [FamPay](https://fampay.in) - India’s first neobank for teenagers
 - [Fernstone](https://fernstone.com) - AI-native insurance brokerage.
 - [Fidelity](https://fidelity.com) - Brokerage, asset management, and retirement.
-- [Finary](https://about.finary.io) - Discord for investing.
 - [Finch](https://tryfinch.com) - Finch is the Employment Data Platform
 - [FINNY AI](https://finny.com) - The organic growth engine for financial advisors
 - [Finto](https://gofinto.com) - AI accounting for enterprise finance teams
