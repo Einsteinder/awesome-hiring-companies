@@ -61,7 +61,6 @@ Hardware, manufacturing, robotics, climate, energy, aviation, space, supply chai
 - [Enveritas](https://enveritas.org) - We verify global supply chains for issues like child slavery and…
 - [Epsilon3](https://epsilon3.io) - AI-Powered ERP, MES, and Test Software for Complex Operations
 - [Faction](https://faction.us) - Driverless electric vehicles at a fraction of the cost of a car.
-- [Fetch](https://fetchtruck.com) - Marketplace for self-service truck rental.
 - [Figure AI](https://figure.ai) - Humanoid robotics company building general-purpose humanoid workers.
 - [Firsthand](https://shopfirsthand.com) - Firsthand makes software-enabled, self-serve retail kiosks that carry…
 - [Flai](https://useflai.com) - We Bring Customers to Your Dealership
