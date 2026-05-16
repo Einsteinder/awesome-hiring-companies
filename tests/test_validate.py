@@ -7,6 +7,9 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.append(str(ROOT / "scripts"))
 
 from validate import assert_valid_urls
+import pytest
+import validate
+
 
 class TestAssertValidUrls(unittest.TestCase):
 
@@ -126,5 +129,50 @@ class TestValidate(unittest.TestCase):
         finally:
             temp_path.unlink()
 
+
+def test_normalize():
+    # Basic cases
+    assert validate.normalize("Hello World") == "hello-world"
+    assert validate.normalize("123 Test") == "123-test"
+
+    # Cases with multiple non-alphanumeric chars
+    assert validate.normalize("Hello!!! World") == "hello-world"
+    assert validate.normalize("  spaced out  ") == "spaced-out"
+
+    # Cases with trailing/leading dashes getting stripped
+    assert validate.normalize("-hello-world-") == "hello-world"
+    assert validate.normalize("!!!test!!!") == "test"
+
+    # Empty string and edge cases
+    assert validate.normalize("") == ""
+    assert validate.normalize("!") == ""
+
+def test_load_yaml_valid_list(tmp_path):
+    # Create a dummy yaml file with a list
+    test_file = tmp_path / "test.yml"
+    test_file.write_text("- name: test\n  value: 123", encoding="utf-8")
+
+    data = validate.load_yaml(test_file)
+    assert isinstance(data, list)
+    assert len(data) == 1
+    assert data[0] == {"name": "test", "value": 123}
+
+def test_load_yaml_invalid_type(tmp_path):
+    # Create a dummy yaml file with a dict instead of list
+    test_file = tmp_path / "test.yml"
+    test_file.write_text("name: test\nvalue: 123", encoding="utf-8")
+
+    with pytest.raises(ValueError, match="must contain a top-level list"):
+        validate.load_yaml(test_file)
+
+def test_load_yaml_empty_file(tmp_path):
+    # Create an empty yaml file
+    test_file = tmp_path / "test.yml"
+    test_file.write_text("", encoding="utf-8")
+
+    with pytest.raises(ValueError, match="must contain a top-level list"):
+        validate.load_yaml(test_file)
+
 if __name__ == "__main__":
+    import unittest
     unittest.main()
