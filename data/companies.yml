@@ -9570,7 +9570,7 @@
 - name: A Thinking Ape
   slug: a-thinking-ape
   domain: athinkingape.com
-  careers_url: https://boards.greenhouse.io/athinkingape
+  careers_url: https://athinkingape.com/careers
   category: consumer-and-marketplace
   ats:
     greenhouse: athinkingape
@@ -14036,7 +14036,7 @@
   careers_url: https://careers.snowflake.com/
   category: ai-and-data
   ats:
-    workday: snowflake
+    custom: phenompeople
   tags:
   - open
   sources:
@@ -23971,7 +23971,7 @@
   careers_url: https://jobs.netflix.com/
   category: consumer-and-marketplace
   ats:
-    workday: netflix
+    workday: netflix.wd108.myworkdayjobs.com/Netflix
   tags:
   - streaming
   - consumer
