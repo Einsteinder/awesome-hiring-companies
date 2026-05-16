@@ -154,7 +154,6 @@ Payments, banking, investing, crypto, expense, payroll, and financial infrastruc
 - [Robinhood](https://robinhood.com) - Consumer finance and investing platform.
 - [RTW Investments](https://rtwinvestments.com) - Hiring via Greenhouse (rtwinvestments).
 - [Rutter](https://rutter.com) - The Unified API for Business Financial Data
-- [Sable](https://sablecard.com) - Mobile bank for credit-worthy, new-to-America internationals offering…
 - [SafetyKit](https://safetykit.com) - AI agents for risk, compliance, and safety
 - [Salient](https://trysalient.com) - AI Servicing for Auto Lenders
 - [Saturn](https://saturnos.com) - Compliance and back office workflows for Wealth Managers.
