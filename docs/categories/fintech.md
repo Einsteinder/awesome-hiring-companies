@@ -12,7 +12,7 @@ Payments, banking, investing, crypto, expense, payroll, and financial infrastruc
 - [American Express](https://americanexpress.com) - Card issuer and payments network.
 - [Angle Health](https://anglehealth.com) - Health Insurance for Startups
 - [Ansatzcapital](https://ansatzcapital.com) - Hiring via Lever (ansatzcapital).
-- [Aquatic Capital Management](https://aquaticcapitalmanagement.com) - Hiring via Greenhouse (aquaticcapitalmanagement).
+- [Aquatic Capital Management](https://aquatic.com) - Hiring via Greenhouse (aquaticcapitalmanagement).
 - [Arc](https://joinarc.com) - Banking & Funding for Startups
 - [Archer](https://archermoney.com) - Reward. Anything.
 - [ARQ](https://arqfinance.com) - The global financial platform for affluent consumers in the Americas.
@@ -27,7 +27,7 @@ Payments, banking, investing, crypto, expense, payroll, and financial infrastruc
 - [Bankjoy](https://bankjoy.com) - An end-to-end digital banking solution for banks and credit unions
 - [Baubap](https://baubap.com) - Smart micro financing for everyone
 - [Belvo](https://belvo.com) - Open Finance API platform for Latam.
-- [Ben](https://ben.co) - The easiest way to learn about, buy, and store cryptocurrency.
+- [Ben](https://thanksben.com) - The easiest way to learn about, buy, and store cryptocurrency.
 - [Benepass](https://getbenepass.com) - Fintech for corporate compensation
 - [Bifrost](https://hapi.finance) - Wills and Estate Management for Crypto
 - [Bitstack](https://bitstack-app.com) - All things money, with better money
@@ -81,8 +81,8 @@ Payments, banking, investing, crypto, expense, payroll, and financial infrastruc
 - [Formance](https://formance.com) - Open Source Infrastructure for the Financial Internet
 - [Fundamental](https://fundamental.com) - Hiring via Ashby (fundamental).
 - [FurtherAI](https://furtherai.com) - AI Workforce for the Insurance Industry
-- [Fuse](https://letsfuse.com) - Unified API for financial data aggregators.
-- [Garda Capital Partners](https://gardacapitalpartners.com) - Hiring via Greenhouse (gardacp).
+- [Fuse](https://www.f.energy) - Unified API for financial data aggregators.
+- [Garda Capital Partners](https://gardacp.com) - Hiring via Greenhouse (gardacp).
 - [GiveCampus](https://go.givecampus.com) - The fundraising platform for schools.
 - [GoCardless](https://gocardless.com) - We’re building the world’s bank payment network.
 - [GoFundMe](https://gofundme.com) - Hiring via Greenhouse (gofundme).
@@ -118,10 +118,10 @@ Payments, banking, investing, crypto, expense, payroll, and financial infrastruc
 - [Morgan Stanley](https://morganstanley.com) - Investment bank and wealth management.
 - [Nerdwallet](https://nerdwallet.com) - Hiring via Ashby (nerdwallet).
 - [Newfront](https://newfront.com) - Modern insurance brokerage.
-- [Noble](https://benoble.io) - Risk decisioning platform
+- [Noble](https://noble.xyz) - Risk decisioning platform
 - [Notabene](https://notabene.id) - The Notabene platform is the trust layer for global money movement.
 - [Nova Credit](https://novacredit.com) - Bridging a world of consumer-permissioned credit data
-- [Novel](https://trynovel.com) - Novel is your international business bank account
+- [Novel](https://novel.shop) - Novel is your international business bank account
 - [Novig](https://novig.com) - America's #1 Sports Trading App
 - [Nubank](https://nubank.com) - Hiring via Greenhouse (nubank).
 - [Numeral](https://numeral.com) - The AI-native sales tax solution.
@@ -134,7 +134,7 @@ Payments, banking, investing, crypto, expense, payroll, and financial infrastruc
 - [PayPay India](https://paypayindia.com) - Hiring via Greenhouse (pay2dc).
 - [Paystack](https://paystack.com) - Modern payments infrastructure for Africa
 - [Paytm](https://paytm.com) - Hiring via Lever (paytm).
-- [Pivot](https://trypivot.xyz) - Your AI FP&A Analyst
+- [Pivot](https://pivotapp.ai) - Your AI FP&A Analyst
 - [Plaid](https://plaid.com) - Financial data network and banking API platform.
 - [Plane](https://plane.com) - #1 easiest-to-use payroll for startups
 - [Polar](https://polarfi.com) - The smarter way to manage USD earnings globally
@@ -146,7 +146,7 @@ Payments, banking, investing, crypto, expense, payroll, and financial infrastruc
 - [Prospa](https://getprospa.com) - Banking for businesses
 - [Pulley](https://pulley.com) - Pulley helps founders and finance teams manage their equity and cap…
 - [Ramp](https://ramp.com) - Finance automation platform for corporate cards, expense management, and procurement.
-- [Razorpay Software Private Limited](https://razorpaysoftwareprivatelimited.com) - Hiring via Greenhouse (razorpaysoftwareprivatelimited).
+- [Razorpay Software Private Limited](https://razorpay.com) - Hiring via Greenhouse (razorpaysoftwareprivatelimited).
 - [Ready](https://ready.net) - Collaborative platform for optimizing regulated utilities such as…
 - [Revolut](https://revolut.com) - Global neobank and financial super-app for consumers and businesses.
 - [Robinhood](https://robinhood.com) - Consumer finance and investing platform.

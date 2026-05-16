@@ -9,8 +9,8 @@ Developer tools, cloud, infrastructure, security, observability, and B2B technic
 - [Akamai](https://akamai.com) - Content delivery and edge security.
 - [Algolia](https://algolia.com) - A developer-friendly and enterprise-grade search API.
 - [Anysphere](https://anysphere.inc) - AI developer-tooling company behind Cursor.
-- [Aperia Technologies, Inc](https://aperiatechnologiesinc.com) - Hiring via Greenhouse (aperiatechnologies).
-- [Apex Technology Inc](https://apextechnologyinc.com) - Hiring via Ashby (apex-technology-inc).
+- [Aperia Technologies, Inc](https://aperiatech.com) - Hiring via Greenhouse (aperiatechnologies).
+- [Apex Space](https://apexspace.com) - Hiring via Ashby (apex-technology-inc).
 - [Appsmith](https://appsmith.com) - Open-source internal-tool builder.
 - [Aqua Security](https://aquasec.com) - Container and cloud-native application security.
 - [Arketa](https://arketa.com) - Everything for your fitness or wellness business.
@@ -71,7 +71,7 @@ Developer tools, cloud, infrastructure, security, observability, and B2B technic
 - [Firstbase.io](https://firstbase.io) - The all-in-one startup operating system
 - [Flowtel](https://flowtel.ai) - The AI Voice agents for hotels
 - [Formal](https://joinformal.com) - Take control of your data in real-time.
-- [Freedom Technology Solutions Group](https://freedomtechnologysolutionsgroup.com) - Hiring via Greenhouse (freedomconsulting).
+- [Freedom Technology Solutions Group](https://goftsg.com) - Hiring via Greenhouse (freedomconsulting).
 - [Freshpaint](https://freshpaint.io) - Customer data collection, safeguarding, & activation for healthcare
 - [Galaxy](https://galaxysdk.com) - Social SDK for games
 - [GitKraken](https://gitkraken.com) - Git GUI and developer-collaboration tools.
@@ -116,7 +116,7 @@ Developer tools, cloud, infrastructure, security, observability, and B2B technic
 - [Nango](https://nango.dev) - A single API for all your integrations
 - [NanoNets](https://nanonets.com) - Automatic Data Extraction
 - [Neon](https://neon.tech) - Serverless Postgres platform for developers.
-- [New Era Technology](https://neweratechnology.com) - Hiring via Greenhouse (neweratech).
+- [New Era Technology](https://neweratech.com) - Hiring via Greenhouse (neweratech).
 - [Northslope Technologies](https://northslopetechnologies.com) - Hiring via Ashby (northslope-technologies).
 - [Nutanix](https://nutanix.com) - Hybrid multicloud and hyperconverged infrastructure.
 - [Observe.AI](https://observe.ai) - Contact center AI platform.
@@ -184,4 +184,4 @@ Developer tools, cloud, infrastructure, security, observability, and B2B technic
 - [Windmill](https://windmill.dev) - Open-source platform to turn scripts into internal apps & workflows
 - [Wiz](https://wiz.io) - Cloud security platform for risk assessment, posture management, and runtime protection.
 - [Zencoder](https://zencoder.com) - Video Encoding API,
-- [Zone 5 Technologies](https://zone5technologies.com) - Hiring via Greenhouse (zone5technologies).
+- [Zone 5 Technologies](https://zone5tech.com) - Hiring via Greenhouse (zone5technologies).

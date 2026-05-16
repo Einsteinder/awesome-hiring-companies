@@ -1361,7 +1361,6 @@
   - retail
   sources:
   - https://jobs.lever.co/meesho
-
 - name: Instawork
   slug: instawork
   domain: instawork.com
@@ -3227,7 +3226,7 @@
   - https://boards.greenhouse.io/nanonets
 - name: Fuse
   slug: fuse
-  domain: letsfuse.com
+  domain: www.f.energy
   careers_url: https://jobs.ashbyhq.com/fuse
   category: fintech
   ats:
@@ -5582,7 +5581,7 @@
   - https://boards.greenhouse.io/roofr
 - name: Ben
   slug: ben
-  domain: ben.co
+  domain: thanksben.com
   careers_url: https://jobs.ashbyhq.com/ben
   category: fintech
   ats:
@@ -6191,7 +6190,6 @@
   - emerging-markets
   sources:
   - https://jobs.ashbyhq.com/popl
-
 - name: Replo
   slug: replo
   domain: replo.app
@@ -6886,7 +6884,7 @@
   - https://jobs.ashbyhq.com/two-dots
 - name: Pivot
   slug: pivot
-  domain: trypivot.xyz
+  domain: pivotapp.ai
   careers_url: https://jobs.ashbyhq.com/pivot
   category: fintech
   ats:
@@ -7301,7 +7299,7 @@
   - https://jobs.ashbyhq.com/lightdash
 - name: Novel
   slug: novel
-  domain: trynovel.com
+  domain: novel.shop
   careers_url: https://jobs.ashbyhq.com/novel
   category: fintech
   ats:
@@ -7425,7 +7423,7 @@
   - https://jobs.ashbyhq.com/mercator
 - name: CAPSULE
   slug: capsule
-  domain: shopcapsule.ai
+  domain: capsule.video
   careers_url: https://jobs.ashbyhq.com/capsule
   category: ai-and-data
   ats:
@@ -10468,7 +10466,7 @@
   - https://jobs.lever.co/kinter
 - name: Syncro
   slug: syncro
-  domain: runsyncro.com
+  domain: syncrosecure.com
   careers_url: https://boards.greenhouse.io/syncro
   category: b2b-enterprise
   ats:
@@ -11204,7 +11202,7 @@
   - https://jobs.ashbyhq.com/gamma
 - name: Barnes
   slug: barnes
-  domain: barnes.com
+  domain: btlaw.com
   careers_url: https://jobs.ashbyhq.com/barnes
   category: open-source-and-platform
   ats:
@@ -11237,15 +11235,15 @@
   - https://jobs.ashbyhq.com/elliptic
 - name: Belong
   slug: belong
-  domain: belong.com
-  careers_url: https://jobs.lever.co/belong
+  domain: belonghome.com
+  careers_url: https://belonghome.com/careers
   category: open-source-and-platform
   ats:
     lever: belong
   tags:
   - open
   sources:
-  - https://jobs.lever.co/belong
+  - https://belonghome.com/careers
 - name: Finn
   slug: finn
   domain: finn.com
@@ -11402,7 +11400,7 @@
   - https://jobs.ashbyhq.com/access
 - name: Amber
   slug: amber
-  domain: amber.com
+  domain: ambersearch.de
   careers_url: https://jobs.ashbyhq.com/amber
   category: open-source-and-platform
   ats:
@@ -11545,7 +11543,7 @@
   - https://jobs.ashbyhq.com/amigo
 - name: Away
   slug: away
-  domain: away.com
+  domain: awaytravel.com
   careers_url: https://jobs.ashbyhq.com/away
   category: open-source-and-platform
   ats:
@@ -11622,7 +11620,7 @@
   - https://jobs.ashbyhq.com/fundamental
 - name: Cube
   slug: cube
-  domain: cube.com
+  domain: cube.global
   careers_url: https://jobs.ashbyhq.com/cube
   category: open-source-and-platform
   ats:
@@ -11699,7 +11697,7 @@
   - https://jobs.ashbyhq.com/company
 - name: Ecosystem
   slug: ecosystem
-  domain: ecosystem.com
+  domain: ecosystem-energy.com
   careers_url: https://jobs.lever.co/ecosystem
   category: open-source-and-platform
   ats:
@@ -11842,7 +11840,7 @@
   - https://jobs.ashbyhq.com/console
 - name: Counsel
   slug: counsel
-  domain: counsel.com
+  domain: counselhealth.com
   careers_url: https://jobs.ashbyhq.com/counsel
   category: open-source-and-platform
   ats:
@@ -11974,7 +11972,7 @@
   - https://jobs.ashbyhq.com/graphite
 - name: Handspring
   slug: handspring
-  domain: handspring.com
+  domain: handspringhealth.com
   careers_url: https://jobs.ashbyhq.com/handspring
   category: open-source-and-platform
   ats:
@@ -12326,7 +12324,7 @@
   - https://jobs.lever.co/fantasy
 - name: Folio
   slug: folio
-  domain: folio.com
+  domain: folio.co
   careers_url: https://jobs.ashbyhq.com/folio
   category: open-source-and-platform
   ats:
@@ -12480,7 +12478,7 @@
   - https://jobs.ashbyhq.com/delphi
 - name: Factor
   slug: factor
-  domain: factor.com
+  domain: factor.law
   careers_url: https://jobs.lever.co/factor
   category: open-source-and-platform
   ats:
@@ -12612,7 +12610,7 @@
   - https://jobs.ashbyhq.com/corridor
 - name: Duet
   slug: duet
-  domain: duet.com
+  domain: joinduet.com
   careers_url: https://jobs.ashbyhq.com/duet
   category: open-source-and-platform
   ats:
@@ -12623,7 +12621,7 @@
   - https://jobs.ashbyhq.com/duet
 - name: Emergence
   slug: emergence
-  domain: emergence.com
+  domain: emsoft.com
   careers_url: https://jobs.ashbyhq.com/emergence
   category: open-source-and-platform
   ats:
@@ -12832,7 +12830,7 @@
   - https://jobs.ashbyhq.com/emanate
 - name: Ernest
   slug: ernest
-  domain: ernest.com
+  domain: joinernest.com
   careers_url: https://jobs.ashbyhq.com/ernest
   category: open-source-and-platform
   ats:
@@ -12920,7 +12918,7 @@
   - https://jobs.ashbyhq.com/apron
 - name: Chalkboard
   slug: chalkboard
-  domain: chalkboard.com
+  domain: chalkboard.io
   careers_url: https://jobs.ashbyhq.com/chalkboard
   category: open-source-and-platform
   ats:
@@ -12931,7 +12929,7 @@
   - https://jobs.ashbyhq.com/chalkboard
 - name: Clarity
   slug: clarity
-  domain: clarity.com
+  domain: onclarity.com
   careers_url: https://jobs.ashbyhq.com/clarity
   category: open-source-and-platform
   ats:
@@ -12942,7 +12940,7 @@
   - https://jobs.ashbyhq.com/clarity
 - name: Cleric
   slug: cleric
-  domain: cleric.com
+  domain: cleric.ai
   careers_url: https://jobs.ashbyhq.com/cleric
   category: open-source-and-platform
   ats:
@@ -12975,7 +12973,7 @@
   - https://jobs.lever.co/concurrency
 - name: Context
   slug: context
-  domain: context.com
+  domain: context.ai
   careers_url: https://jobs.ashbyhq.com/context
   category: open-source-and-platform
   ats:
@@ -13063,7 +13061,7 @@
   - https://jobs.ashbyhq.com/evolve
 - name: Fizz
   slug: fizz
-  domain: fizz.com
+  domain: fizz.social
   careers_url: https://jobs.ashbyhq.com/fizz
   category: open-source-and-platform
   ats:
@@ -13195,7 +13193,7 @@
   - https://jobs.ashbyhq.com/baton
 - name: Billie
   slug: billie
-  domain: billie.com
+  domain: billie.io
   careers_url: https://jobs.ashbyhq.com/billie
   category: open-source-and-platform
   ats:
@@ -13206,7 +13204,7 @@
   - https://jobs.ashbyhq.com/billie
 - name: Bridger
   slug: bridger
-  domain: bridger.com
+  domain: bridgergp.com
   careers_url: https://jobs.ashbyhq.com/bridger
   category: open-source-and-platform
   ats:
@@ -13369,9 +13367,9 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/academia
-- name: Administrative
-  slug: administrative
-  domain: administrative.com
+- name: WellPower - Administrative
+  slug: wellpower-administrative
+  domain: wellpower.org
   careers_url: https://boards.greenhouse.io/administrative
   category: open-source-and-platform
   ats:
@@ -13525,7 +13523,7 @@
   - https://jobs.ashbyhq.com/causal
 - name: Centrifuge
   slug: centrifuge
-  domain: centrifuge.com
+  domain: centrifuge.io
   careers_url: https://jobs.lever.co/centrifuge
   category: open-source-and-platform
   ats:
@@ -13536,7 +13534,7 @@
   - https://jobs.lever.co/centrifuge
 - name: Checker
   slug: checker
-  domain: checker.com
+  domain: checker.finance
   careers_url: https://jobs.lever.co/checker
   category: open-source-and-platform
   ats:
@@ -13547,7 +13545,7 @@
   - https://jobs.lever.co/checker
 - name: Clarify
   slug: clarify
-  domain: clarify.com
+  domain: getclarify.ai
   careers_url: https://jobs.ashbyhq.com/clarify
   category: open-source-and-platform
   ats:
@@ -13591,7 +13589,7 @@
   - https://jobs.ashbyhq.com/constructor
 - name: Contextual
   slug: contextual
-  domain: contextual.com
+  domain: contextual.live
   careers_url: https://jobs.ashbyhq.com/contextual
   category: open-source-and-platform
   ats:
@@ -13668,7 +13666,7 @@
   - https://jobs.lever.co/galatea
 - name: Grapevine
   slug: grapevine
-  domain: grapevine.com
+  domain: go-grapevine.com
   careers_url: https://jobs.ashbyhq.com/grapevine
   category: open-source-and-platform
   ats:
@@ -13822,7 +13820,7 @@
   - https://jobs.ashbyhq.com/composite
 - name: Comprehensive
   slug: comprehensive
-  domain: comprehensive.com
+  domain: comprehensive.io
   careers_url: https://jobs.ashbyhq.com/comprehensive
   category: open-source-and-platform
   ats:
@@ -14020,7 +14018,7 @@
   - https://jobs.ashbyhq.com/redis
 - name: Spear
   slug: spear
-  domain: spear.com
+  domain: spearcenter.com
   careers_url: https://jobs.lever.co/spear
   category: open-source-and-platform
   ats:
@@ -14395,17 +14393,17 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/swap
-- name: Vacancies
-  slug: vacancies
-  domain: vacancies.com
-  careers_url: https://jobs.lever.co/vacancies
+- name: United Tech
+  slug: united-tech
+  domain: unitedtech.ai
+  careers_url: https://unitedtech.ai/vacancies
   category: open-source-and-platform
   ats:
     lever: vacancies
   tags:
   - open
   sources:
-  - https://jobs.lever.co/vacancies
+  - https://unitedtech.ai/vacancies
 - name: Nooks
   slug: nooks
   domain: nooks.com
@@ -14639,7 +14637,7 @@
   - https://jobs.ashbyhq.com/superpower
 - name: Liven
   slug: liven
-  domain: liven.com
+  domain: theliven.com
   careers_url: https://jobs.ashbyhq.com/liven
   category: open-source-and-platform
   ats:
@@ -14826,7 +14824,7 @@
   - https://jobs.ashbyhq.com/junior
 - name: Nevis
   slug: nevis
-  domain: nevis.com
+  domain: neviswealth.com
   careers_url: https://jobs.ashbyhq.com/nevis
   category: open-source-and-platform
   ats:
@@ -15640,7 +15638,7 @@
   - https://jobs.ashbyhq.com/somethings
 - name: Sunrise
   slug: sunrise
-  domain: sunrise.com
+  domain: sunriserobotics.co
   careers_url: https://jobs.ashbyhq.com/sunrise
   category: open-source-and-platform
   ats:
@@ -15651,7 +15649,7 @@
   - https://jobs.ashbyhq.com/sunrise
 - name: Ideogram
   slug: ideogram
-  domain: ideogram.com
+  domain: ideogram.ai
   careers_url: https://jobs.ashbyhq.com/ideogram
   category: open-source-and-platform
   ats:
@@ -15761,7 +15759,7 @@
   - https://jobs.ashbyhq.com/railway
 - name: Trenchant
   slug: trenchant
-  domain: trenchant.com
+  domain: l3harris.com
   careers_url: https://jobs.ashbyhq.com/trenchant
   category: open-source-and-platform
   ats:
@@ -15981,7 +15979,7 @@
   - https://jobs.ashbyhq.com/swan
 - name: Tacit
   slug: tacit
-  domain: tacit.com
+  domain: tacit.ai
   careers_url: https://jobs.ashbyhq.com/tacit
   category: open-source-and-platform
   ats:
@@ -16025,7 +16023,7 @@
   - https://jobs.ashbyhq.com/known
 - name: Mantra
   slug: mantra
-  domain: mantra.com
+  domain: mantra.co.jp
   careers_url: https://jobs.lever.co/mantra
   category: open-source-and-platform
   ats:
@@ -16047,7 +16045,7 @@
   - https://jobs.ashbyhq.com/monogram
 - name: Passport
   slug: passport
-  domain: passport.com
+  domain: passportglobal.com
   careers_url: https://jobs.ashbyhq.com/passport
   category: open-source-and-platform
   ats:
@@ -16212,7 +16210,7 @@
   - https://jobs.ashbyhq.com/lapel
 - name: Lassie
   slug: lassie
-  domain: lassie.com
+  domain: lassie.ai
   careers_url: https://jobs.ashbyhq.com/lassie
   category: open-source-and-platform
   ats:
@@ -16509,7 +16507,7 @@
   - https://jobs.ashbyhq.com/leona
 - name: Light
   slug: light
-  domain: light.com
+  domain: poweredbylight.com
   careers_url: https://jobs.ashbyhq.com/light
   category: open-source-and-platform
   ats:
@@ -16520,7 +16518,7 @@
   - https://jobs.ashbyhq.com/light
 - name: Mcgovern
   slug: mcgovern
-  domain: mcgovern.com
+  domain: mcgovern.org
   careers_url: https://jobs.lever.co/mcgovern
   category: open-source-and-platform
   ats:
@@ -16564,7 +16562,7 @@
   - https://jobs.ashbyhq.com/moonshot
 - name: Nomad
   slug: nomad
-  domain: nomad.com
+  domain: nomadlease.com
   careers_url: https://jobs.ashbyhq.com/nomad
   category: open-source-and-platform
   ats:
@@ -16707,7 +16705,7 @@
   - https://jobs.ashbyhq.com/worldly
 - name: Zambezi
   slug: zambezi
-  domain: zambezi.com
+  domain: zmbz.com
   careers_url: https://jobs.lever.co/zambezi
   category: open-source-and-platform
   ats:
@@ -16784,7 +16782,7 @@
   - https://jobs.ashbyhq.com/meow
 - name: Nous
   slug: nous
-  domain: nous.com
+  domain: nous.co
   careers_url: https://jobs.ashbyhq.com/nous
   category: open-source-and-platform
   ats:
@@ -16828,7 +16826,7 @@
   - https://jobs.ashbyhq.com/prefect
 - name: Ranger
   slug: ranger
-  domain: ranger.com
+  domain: ranger.net
   careers_url: https://jobs.lever.co/ranger
   category: open-source-and-platform
   ats:
@@ -17026,7 +17024,7 @@
   - https://jobs.ashbyhq.com/lovelace
 - name: Magnify
   slug: magnify
-  domain: magnify.com
+  domain: magnify.io
   careers_url: https://jobs.lever.co/magnify
   category: open-source-and-platform
   ats:
@@ -17257,7 +17255,7 @@
   - https://jobs.lever.co/syntax
 - name: Tact
   slug: tact
-  domain: tact.com
+  domain: tact.care
   careers_url: https://jobs.lever.co/tact
   category: open-source-and-platform
   ats:
@@ -17268,7 +17266,7 @@
   - https://jobs.lever.co/tact
 - name: Teller
   slug: teller
-  domain: teller.com
+  domain: teller.io
   careers_url: https://jobs.lever.co/teller
   category: open-source-and-platform
   ats:
@@ -17323,7 +17321,7 @@
   - https://jobs.ashbyhq.com/trig
 - name: Trio
   slug: trio
-  domain: trio.com
+  domain: trioadvisory.com
   careers_url: https://jobs.lever.co/trio
   category: open-source-and-platform
   ats:
@@ -17334,15 +17332,15 @@
   - https://jobs.lever.co/trio
 - name: Unlikely
   slug: unlikely
-  domain: unlikely.com
-  careers_url: https://jobs.lever.co/unlikely
+  domain: unlikely.ai
+  careers_url: https://unlikely.ai/careers
   category: open-source-and-platform
   ats:
     lever: unlikely
   tags:
   - open
   sources:
-  - https://jobs.lever.co/unlikely
+  - https://unlikely.ai/careers
 - name: Humanist
   slug: humanist
   domain: humanist.com
@@ -17389,7 +17387,7 @@
   - https://jobs.ashbyhq.com/kiwi
 - name: Ladders
   slug: ladders
-  domain: ladders.com
+  domain: theladders.com
   careers_url: https://jobs.lever.co/ladders
   category: open-source-and-platform
   ats:
@@ -17464,17 +17462,6 @@
   - open
   sources:
   - https://jobs.lever.co/markham
-- name: Mona
-  slug: mona
-  domain: mona.com
-  careers_url: https://jobs.ashbyhq.com/mona
-  category: open-source-and-platform
-  ats:
-    ashby: mona
-  tags:
-  - open
-  sources:
-  - https://jobs.ashbyhq.com/mona
 - name: Mosey
   slug: mosey
   domain: mosey.com
@@ -17488,7 +17475,7 @@
   - https://jobs.ashbyhq.com/mosey
 - name: Nascent
   slug: nascent
-  domain: nascent.com
+  domain: nascent.xyz
   careers_url: https://jobs.ashbyhq.com/nascent
   category: open-source-and-platform
   ats:
@@ -17763,7 +17750,7 @@
   - https://jobs.lever.co/yardstick
 - name: Hoopla
   slug: hoopla
-  domain: hoopla.com
+  domain: hoopla.net
   careers_url: https://jobs.ashbyhq.com/hoopla
   category: open-source-and-platform
   ats:
@@ -17961,7 +17948,7 @@
   - https://jobs.lever.co/stockpile
 - name: Stork
   slug: stork
-  domain: stork.com
+  domain: stork.network
   careers_url: https://jobs.ashbyhq.com/stork
   category: open-source-and-platform
   ats:
@@ -18039,7 +18026,7 @@
   - https://jobs.ashbyhq.com/tango
 - name: Tern
   slug: tern
-  domain: tern.com
+  domain: tern.travel
   careers_url: https://jobs.ashbyhq.com/tern
   category: open-source-and-platform
   ats:
@@ -18314,7 +18301,7 @@
   - https://boards.greenhouse.io/trumid
 - name: Vera Institute of Justice
   slug: vera-institute-of-justice
-  domain: verainstituteofjustice.com
+  domain: vera.org
   careers_url: https://boards.greenhouse.io/verainstituteofjustice
   category: open-source-and-platform
   ats:
@@ -18402,7 +18389,7 @@
   - https://boards.greenhouse.io/cresta
 - name: Sparksoft Corporation
   slug: sparksoft-corporation
-  domain: sparksoftcorporation.com
+  domain: sparksoftcorp.com
   careers_url: https://boards.greenhouse.io/sparksoftcorporation
   category: open-source-and-platform
   ats:
@@ -18435,7 +18422,7 @@
   - https://boards.greenhouse.io/lunarenergy
 - name: Avride
   slug: avride
-  domain: avride.com
+  domain: avride.ai
   careers_url: https://boards.greenhouse.io/avride
   category: consumer-and-marketplace
   ats:
@@ -18446,7 +18433,7 @@
   - https://boards.greenhouse.io/avride
 - name: Industrial Electric Manufacturing
   slug: industrial-electric-manufacturing
-  domain: industrialelectricmanufacturing.com
+  domain: iemfg.com
   careers_url: https://boards.greenhouse.io/industrialelectricmanufacturing
   category: industrials-and-climate
   ats:
@@ -18501,7 +18488,7 @@
   - https://boards.greenhouse.io/wonderschool
 - name: Samsung Research America Internship
   slug: samsung-research-america-internship
-  domain: samsungresearchamericainternship.com
+  domain: sra.samsung.com
   careers_url: https://boards.greenhouse.io/samsungresearchamericainternship
   category: open-source-and-platform
   ats:
@@ -18633,7 +18620,7 @@
   - https://boards.greenhouse.io/doubleverify
 - name: Flagship Pioneering Co-Op Program
   slug: flagship-pioneering-co-op-program
-  domain: flagshippioneeringcoopprogram.com
+  domain: flagshippioneering.com
   careers_url: https://boards.greenhouse.io/fspco-op012325
   category: open-source-and-platform
   ats:
@@ -18666,7 +18653,7 @@
   - https://boards.greenhouse.io/honehealth
 - name: Visier Solutions Inc
   slug: visier-solutions-inc
-  domain: visiersolutionsinc.com
+  domain: visier.com
   careers_url: https://boards.greenhouse.io/visiersolutionsinc
   category: open-source-and-platform
   ats:
@@ -18688,7 +18675,7 @@
   - https://boards.greenhouse.io/remodelhealth
 - name: QuEra Computing, Inc.
   slug: quera-computing-inc
-  domain: queracomputinginc.com
+  domain: quera.com
   careers_url: https://boards.greenhouse.io/queracomputinginc
   category: open-source-and-platform
   ats:
@@ -18710,7 +18697,7 @@
   - https://boards.greenhouse.io/seesaw
 - name: Charles River Associates
   slug: charles-river-associates
-  domain: charlesriverassociates.com
+  domain: crai.com
   careers_url: https://boards.greenhouse.io/charlesriverassociates
   category: open-source-and-platform
   ats:
@@ -18721,7 +18708,7 @@
   - https://boards.greenhouse.io/charlesriverassociates
 - name: Radix Trading University Job Board
   slug: radix-trading-university-job-board
-  domain: radixtradinguniversityjobboard.com
+  domain: radixtrading.com
   careers_url: https://boards.greenhouse.io/radixuniversity
   category: open-source-and-platform
   ats:
@@ -18752,9 +18739,9 @@
   - open
   sources:
   - https://boards.greenhouse.io/dlhcorporation
-- name: mthree Recruiting Portal
-  slug: mthree-recruiting-portal
-  domain: mthreerecruitingportal.com
+- name: mthree
+  slug: mthree
+  domain: mthree.com
   careers_url: https://boards.greenhouse.io/mthreerecruitingportal
   category: open-source-and-platform
   ats:
@@ -18765,7 +18752,7 @@
   - https://boards.greenhouse.io/mthreerecruitingportal
 - name: Medecins Sans Frontieres (Doctors Without Borders) - United States
   slug: medecins-sans-frontieres-doctors-without-borders-united-states
-  domain: medecinssansfrontieresdoctorswithoutbordersunitedstates.com
+  domain: doctorswithoutborders.org
   careers_url: https://boards.greenhouse.io/msfcareers
   category: open-source-and-platform
   ats:
@@ -18853,7 +18840,7 @@
   - https://boards.greenhouse.io/thetradedesk
 - name: Practising Law Institute
   slug: practising-law-institute
-  domain: practisinglawinstitute.com
+  domain: pli.edu
   careers_url: https://boards.greenhouse.io/practisinglawinstitute
   category: open-source-and-platform
   ats:
@@ -18897,7 +18884,7 @@
   - https://boards.greenhouse.io/underdogfantasy
 - name: Workstream
   slug: workstream
-  domain: workstream.com
+  domain: workstream.us
   careers_url: https://boards.greenhouse.io/workstream
   category: consumer-and-marketplace
   ats:
@@ -18917,17 +18904,6 @@
   - open
   sources:
   - https://boards.greenhouse.io/northspyre
-- name: Tenstorrent University Jobs
-  slug: tenstorrent-university-jobs
-  domain: tenstorrentuniversityjobs.com
-  careers_url: https://boards.greenhouse.io/tenstorrentuniversity
-  category: open-source-and-platform
-  ats:
-    greenhouse: tenstorrentuniversity
-  tags:
-  - open
-  sources:
-  - https://boards.greenhouse.io/tenstorrentuniversity
 - name: AvePoint
   slug: avepoint
   domain: avepoint.com
@@ -19029,7 +19005,7 @@
   - https://boards.greenhouse.io/kikoff
 - name: dv01
   slug: dv01
-  domain: dv01.com
+  domain: dv01.co
   careers_url: https://boards.greenhouse.io/dv01
   category: open-source-and-platform
   ats:
@@ -19038,9 +19014,9 @@
   - open
   sources:
   - https://boards.greenhouse.io/dv01
-- name: Five Rings LLC - Careers
-  slug: five-rings-llc-careers
-  domain: fiveringsllccareers.com
+- name: Five Rings
+  slug: five-rings
+  domain: fiverings.com
   careers_url: https://boards.greenhouse.io/fiveringsllc
   category: healthcare-and-biotech
   ats:
@@ -19051,7 +19027,7 @@
   - https://boards.greenhouse.io/fiveringsllc
 - name: Freedom Technology Solutions Group
   slug: freedom-technology-solutions-group
-  domain: freedomtechnologysolutionsgroup.com
+  domain: goftsg.com
   careers_url: https://boards.greenhouse.io/freedomconsulting
   category: developer-infrastructure
   ats:
@@ -19060,9 +19036,9 @@
   - open
   sources:
   - https://boards.greenhouse.io/freedomconsulting
-- name: Perpay - Career's Page
-  slug: perpay-career-s-page
-  domain: perpaycareerspage.com
+- name: Perpay
+  slug: perpay
+  domain: perpay.com
   careers_url: https://boards.greenhouse.io/perpay
   category: healthcare-and-biotech
   ats:
@@ -19084,7 +19060,7 @@
   - https://boards.greenhouse.io/sharkninjaoperatingllc
 - name: Aquatic Capital Management
   slug: aquatic-capital-management
-  domain: aquaticcapitalmanagement.com
+  domain: aquatic.com
   careers_url: https://boards.greenhouse.io/aquaticcapitalmanagement
   category: fintech
   ats:
@@ -19205,7 +19181,7 @@
   - https://boards.greenhouse.io/capco
 - name: Uare.ai
   slug: uare-ai
-  domain: uareai.com
+  domain: uare.ai
   careers_url: https://boards.greenhouse.io/uareai
   category: open-source-and-platform
   ats:
@@ -19225,20 +19201,9 @@
   - open
   sources:
   - https://boards.greenhouse.io/scout24
-- name: Gelber Group
-  slug: gelber-group
-  domain: gelbergroup.com
-  careers_url: https://boards.greenhouse.io/gelbergroup
-  category: open-source-and-platform
-  ats:
-    greenhouse: gelbergroup
-  tags:
-  - open
-  sources:
-  - https://boards.greenhouse.io/gelbergroup
 - name: Zone 5 Technologies
   slug: zone-5-technologies
-  domain: zone5technologies.com
+  domain: zone5tech.com
   careers_url: https://boards.greenhouse.io/zone5technologies
   category: developer-infrastructure
   ats:
@@ -19621,9 +19586,9 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/batoncorporation
-- name: Robust Ai
+- name: Robust AI
   slug: robust-ai
-  domain: robustai.com
+  domain: robust.ai
   careers_url: https://jobs.lever.co/robust-ai
   category: ai-and-data
   ats:
@@ -19744,7 +19709,7 @@
   - https://jobs.ashbyhq.com/rilla
 - name: Blackbird Labs Inc
   slug: blackbird-labs-inc
-  domain: blackbirdlabsinc.com
+  domain: blackbird.xyz
   careers_url: https://jobs.ashbyhq.com/blackbird-labs-inc
   category: open-source-and-platform
   ats:
@@ -19755,7 +19720,7 @@
   - https://jobs.ashbyhq.com/blackbird-labs-inc
 - name: Galatea Associates
   slug: galatea-associates
-  domain: galateaassociates.com
+  domain: galatea-associates.com
   careers_url: https://jobs.lever.co/galatea-associates
   category: open-source-and-platform
   ats:
@@ -19786,9 +19751,9 @@
   - open
   sources:
   - https://jobs.lever.co/tri
-- name: Dodmg
-  slug: dodmg
-  domain: dodmg.com
+- name: HRL Laboratories
+  slug: hrl-laboratories
+  domain: hrl.com
   careers_url: https://jobs.lever.co/dodmg
   category: open-source-and-platform
   ats:
@@ -19951,9 +19916,9 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/siftstack
-- name: Apex Technology Inc
-  slug: apex-technology-inc
-  domain: apextechnologyinc.com
+- name: Apex Space
+  slug: apex-space
+  domain: apexspace.com
   careers_url: https://jobs.ashbyhq.com/apex-technology-inc
   category: developer-infrastructure
   ats:
@@ -20418,15 +20383,15 @@
   - https://boards.greenhouse.io/canonical
 - name: Founders Green Animal Hospital
   slug: founders-green-animal-hospital
-  domain: foundersgreenanimalhospital.com
-  careers_url: https://boards.greenhouse.io/founders
+  domain: foundersgreen.com
+  careers_url: https://www.foundersgreen.com/careers/
   category: open-source-and-platform
   ats:
     greenhouse: founders
   tags:
   - open
   sources:
-  - https://boards.greenhouse.io/founders
+  - https://www.foundersgreen.com/careers/
 - name: Smartling
   slug: smartling
   domain: smartling.com
@@ -20462,7 +20427,7 @@
   - https://boards.greenhouse.io/postman
 - name: Bosa Properties Inc.
   slug: bosa-properties-inc
-  domain: bosapropertiesinc.com
+  domain: bosaproperties.com
   careers_url: https://boards.greenhouse.io/bosapropertiesinc
   category: open-source-and-platform
   ats:
@@ -20484,7 +20449,7 @@
   - https://boards.greenhouse.io/schonfeld
 - name: Mochi Health
   slug: mochi-health
-  domain: mochihealth.com
+  domain: joinmochi.com
   careers_url: https://boards.greenhouse.io/mochihealth
   category: healthcare-and-biotech
   ats:
@@ -20506,7 +20471,7 @@
   - https://boards.greenhouse.io/huntress
 - name: Garda Capital Partners
   slug: garda-capital-partners
-  domain: gardacapitalpartners.com
+  domain: gardacp.com
   careers_url: https://boards.greenhouse.io/gardacp
   category: fintech
   ats:
@@ -20570,17 +20535,6 @@
   - open
   sources:
   - https://boards.greenhouse.io/sidecarhealth
-- name: Simplify Jobs Integration Sandbox
-  slug: simplify-jobs-integration-sandbox
-  domain: simplifyjobsintegrationsandbox.com
-  careers_url: https://boards.greenhouse.io/simplifyjobsintegrationsandbox
-  category: open-source-and-platform
-  ats:
-    greenhouse: simplifyjobsintegrationsandbox
-  tags:
-  - open
-  sources:
-  - https://boards.greenhouse.io/simplifyjobsintegrationsandbox
 - name: Axios
   slug: axios
   domain: axios.com
@@ -20605,7 +20559,7 @@
   - https://boards.greenhouse.io/coreweave
 - name: Diligent Corporation
   slug: diligent-corporation
-  domain: diligentcorporation.com
+  domain: diligent.com
   careers_url: https://boards.greenhouse.io/diligentcorporation
   category: open-source-and-platform
   ats:
@@ -20858,7 +20812,7 @@
   - https://boards.greenhouse.io/cameo
 - name: Wynd Labs
   slug: wynd-labs
-  domain: wyndlabs.com
+  domain: wyndlabs.ai
   careers_url: https://boards.greenhouse.io/wyndlabs
   category: open-source-and-platform
   ats:
@@ -20957,7 +20911,7 @@
   - https://boards.greenhouse.io/guardsquare
 - name: AlphaGrep Securities
   slug: alphagrep-securities
-  domain: alphagrepsecurities.com
+  domain: alpha-grep.com
   careers_url: https://boards.greenhouse.io/alphagrepsecurities
   category: open-source-and-platform
   ats:
@@ -20968,7 +20922,7 @@
   - https://boards.greenhouse.io/alphagrepsecurities
 - name: The New York Times
   slug: the-new-york-times
-  domain: thenewyorktimes.com
+  domain: nytimes.com
   careers_url: https://boards.greenhouse.io/thenewyorktimes
   category: open-source-and-platform
   ats:
@@ -21067,7 +21021,7 @@
   - https://boards.greenhouse.io/complyadvantage
 - name: Accenture Federal Services
   slug: accenture-federal-services
-  domain: accenturefederalservices.com
+  domain: accenturefederal.com
   careers_url: https://boards.greenhouse.io/accenturefederalservices
   category: open-source-and-platform
   ats:
@@ -21208,17 +21162,6 @@
   - open
   sources:
   - https://boards.greenhouse.io/ispottv
-- name: CoreWeave Europe
-  slug: coreweave-europe
-  domain: coreweaveeurope.com
-  careers_url: https://boards.greenhouse.io/coreweaveu
-  category: open-source-and-platform
-  ats:
-    greenhouse: coreweaveu
-  tags:
-  - open
-  sources:
-  - https://boards.greenhouse.io/coreweaveu
 - name: Textio
   slug: textio
   domain: textio.com
@@ -21243,7 +21186,7 @@
   - https://boards.greenhouse.io/metropolis
 - name: Vannevar
   slug: vannevar
-  domain: vannevar.com
+  domain: vannevarlabs.com
   careers_url: https://boards.greenhouse.io/vannevarlabs
   category: open-source-and-platform
   ats:
@@ -21254,7 +21197,7 @@
   - https://boards.greenhouse.io/vannevarlabs
 - name: Gametime United
   slug: gametime-united
-  domain: gametimeunited.com
+  domain: gametime.co
   careers_url: https://boards.greenhouse.io/gametimeunited
   category: consumer-and-marketplace
   ats:
@@ -21408,7 +21351,7 @@
   - https://boards.greenhouse.io/fairmarkit
 - name: MoveOn.org
   slug: moveon-org
-  domain: moveonorg.com
+  domain: moveon.org
   careers_url: https://boards.greenhouse.io/moveonorg
   category: open-source-and-platform
   ats:
@@ -21485,7 +21428,7 @@
   - https://jobs.ashbyhq.com/airgarage
 - name: Tempo Xyz
   slug: tempo-xyz
-  domain: tempoxyz.com
+  domain: tempo.xyz
   careers_url: https://jobs.ashbyhq.com/tempo-xyz
   category: open-source-and-platform
   ats:
@@ -21505,9 +21448,9 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/moonshot-ai
-- name: Flentasticjobs
-  slug: flentasticjobs
-  domain: flentasticjobs.com
+- name: Flent
+  slug: flent
+  domain: flent.in
   careers_url: https://jobs.ashbyhq.com/flentasticjobs
   category: open-source-and-platform
   ats:
@@ -21771,7 +21714,7 @@
   - https://jobs.ashbyhq.com/loancrate
 - name: Apollo Information Systems
   slug: apollo-information-systems
-  domain: apolloinformationsystems.com
+  domain: apollo-is.com
   careers_url: https://jobs.ashbyhq.com/apollo-information-systems
   category: open-source-and-platform
   ats:
@@ -21837,7 +21780,7 @@
   - https://jobs.ashbyhq.com/doctronic
 - name: Playlab
   slug: playlab
-  domain: playlab.com
+  domain: playlab.ai
   careers_url: https://jobs.ashbyhq.com/playlab
   category: open-source-and-platform
   ats:
@@ -21848,7 +21791,7 @@
   - https://jobs.ashbyhq.com/playlab
 - name: Cryptio
   slug: cryptio
-  domain: cryptio.com
+  domain: cryptio.co
   careers_url: https://jobs.ashbyhq.com/cryptio
   category: open-source-and-platform
   ats:
@@ -21991,7 +21934,7 @@
   - https://jobs.ashbyhq.com/prior-labs
 - name: Isee
   slug: isee
-  domain: isee.com
+  domain: isee.ai
   careers_url: https://jobs.lever.co/isee
   category: open-source-and-platform
   ats:
@@ -22035,7 +21978,7 @@
   - https://jobs.ashbyhq.com/atomicsemi
 - name: Vertical Aerospace
   slug: vertical-aerospace
-  domain: verticalaerospace.com
+  domain: vertical-aerospace.com
   careers_url: https://jobs.ashbyhq.com/vertical-aerospace
   category: industrials-and-climate
   ats:
@@ -22429,9 +22372,9 @@
   - open
   sources:
   - https://jobs.lever.co/appen-2
-- name: Jobscan 2
-  slug: jobscan-2
-  domain: jobscan2.com
+- name: Jobscan
+  slug: jobscan
+  domain: jobscan.co
   careers_url: https://jobs.lever.co/jobscan-2
   category: open-source-and-platform
   ats:
@@ -22539,20 +22482,9 @@
   - open
   sources:
   - https://jobs.lever.co/octoenergy
-- name: Leverdemo 8
-  slug: leverdemo-8
-  domain: leverdemo8.com
-  careers_url: https://jobs.lever.co/leverdemo-8
-  category: open-source-and-platform
-  ats:
-    lever: leverdemo-8
-  tags:
-  - open
-  sources:
-  - https://jobs.lever.co/leverdemo-8
 - name: D Fendsolutions
   slug: d-fendsolutions
-  domain: dfendsolutions.com
+  domain: d-fendsolutions.com
   careers_url: https://jobs.lever.co/d-fendsolutions
   category: open-source-and-platform
   ats:
@@ -22594,9 +22526,9 @@
   - open
   sources:
   - https://jobs.lever.co/boxlunch
-- name: Careers at Tide
-  slug: careers-at-tide
-  domain: careersattide.com
+- name: Tide
+  slug: tide
+  domain: tide.co
   careers_url: https://boards.greenhouse.io/tide
   category: healthcare-and-biotech
   ats:
@@ -22827,7 +22759,7 @@
   - https://boards.greenhouse.io/goodwaygroup
 - name: Aperia Technologies, Inc
   slug: aperia-technologies-inc
-  domain: aperiatechnologiesinc.com
+  domain: aperiatech.com
   careers_url: https://boards.greenhouse.io/aperiatechnologies
   category: developer-infrastructure
   ats:
@@ -22981,7 +22913,7 @@
   - https://boards.greenhouse.io/carta
 - name: New Era Technology
   slug: new-era-technology
-  domain: neweratechnology.com
+  domain: neweratech.com
   careers_url: https://boards.greenhouse.io/neweratech
   category: developer-infrastructure
   ats:
@@ -23190,7 +23122,7 @@
   - https://boards.greenhouse.io/oportun
 - name: Chicago Public Media
   slug: chicago-public-media
-  domain: chicagopublicmedia.com
+  domain: wbez.org
   careers_url: https://boards.greenhouse.io/cpm
   category: consumer-and-marketplace
   ats:
@@ -23551,9 +23483,9 @@
   - open
   sources:
   - https://jobs.ashbyhq.com/camunda
-- name: Jitxinc
-  slug: jitxinc
-  domain: jitxinc.com
+- name: JITX
+  slug: jitx
+  domain: jitx.com
   careers_url: https://jobs.lever.co/jitxinc
   category: open-source-and-platform
   ats:
@@ -23803,7 +23735,7 @@
   careers_url: https://www.boringcompany.com/careers
   category: industrials-and-climate
   ats:
-    gem: boringcompany
+    custom: boringcompany
   tags:
   - infrastructure
   - tunneling
@@ -24043,7 +23975,7 @@
   careers_url: https://careers.paramount.com/
   category: consumer-and-marketplace
   ats:
-    workday: paramount
+    successfactors: paramount
   tags:
   - media
   - entertainment
@@ -24067,7 +23999,7 @@
   careers_url: https://www.sony.com/careers
   category: consumer-and-marketplace
   ats:
-    workday: sony
+    workday: sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers
   tags:
   - consumer
   - hardware
@@ -24130,7 +24062,7 @@
   careers_url: https://careers.amd.com/
   category: industrials-and-climate
   ats:
-    workday: amd
+    custom: amd
   tags:
   - semiconductors
   - gpu
@@ -24155,7 +24087,7 @@
   careers_url: https://www.broadcom.com/company/careers/
   category: industrials-and-climate
   ats:
-    workday: broadcom
+    workday: broadcom.wd1.myworkdayjobs.com/External_Career
   tags:
   - semiconductors
   - networking
@@ -24255,7 +24187,7 @@
   careers_url: https://careers.servicenow.com/
   category: b2b-enterprise
   ats:
-    workday: servicenow
+    custom: servicenow
   tags:
   - enterprise
   - workflow
@@ -24293,7 +24225,7 @@
   careers_url: https://www.oracle.com/corporate/careers/
   category: developer-infrastructure
   ats:
-    workday: oracle
+    custom: oracle
   tags:
   - database
   - cloud
@@ -24316,16 +24248,16 @@
 - name: VMware
   slug: vmware
   domain: vmware.com
-  careers_url: https://careers.vmware.com/
+  careers_url: https://www.vmware.com/careers/
   category: developer-infrastructure
   ats:
-    workday: vmware
+    custom: vmware
   tags:
   - virtualization
   - cloud
   - enterprise
   sources:
-  - https://careers.vmware.com/
+  - https://www.vmware.com/careers/
 - name: Cisco
   slug: cisco
   domain: cisco.com
@@ -24345,7 +24277,7 @@
   careers_url: https://www.ibm.com/careers/
   category: b2b-enterprise
   ats:
-    workday: ibm
+    custom: ibm
   tags:
   - enterprise
   - consulting
@@ -24371,7 +24303,7 @@
   careers_url: https://www.splunk.com/en_us/careers.html
   category: developer-infrastructure
   ats:
-    workday: splunk
+    custom: splunk
   tags:
   - observability
   - security
@@ -24459,7 +24391,7 @@
   careers_url: https://www.akamai.com/careers
   category: developer-infrastructure
   ats:
-    workday: akamai
+    custom: akamai
   tags:
   - cdn
   - security
@@ -24533,7 +24465,7 @@
   careers_url: https://block.xyz/careers
   category: fintech
   ats:
-    workday: square
+    greenhouse: block
   tags:
   - fintech
   - payments
@@ -24573,7 +24505,7 @@
   careers_url: https://www.americanexpress.com/en-us/careers/
   category: fintech
   ats:
-    workday: americanexpress
+    custom: american-express
   tags:
   - fintech
   - payments
@@ -24599,7 +24531,7 @@
   careers_url: https://www.klarna.com/careers/
   category: fintech
   ats:
-    workday: klarna
+    custom: klarna
   tags:
   - fintech
   - payments
@@ -24637,7 +24569,7 @@
   careers_url: https://www.sofi.com/careers/
   category: fintech
   ats:
-    workday: sofi
+    greenhouse: sofi
   tags:
   - fintech
   - consumer-finance
@@ -24661,7 +24593,7 @@
   careers_url: https://careers.jpmorganchase.com/
   category: fintech
   ats:
-    workday: jpmc
+    custom: jpmorgan-chase
   tags:
   - finance
   - banking
@@ -24673,7 +24605,7 @@
   careers_url: https://www.morganstanley.com/people/
   category: fintech
   ats:
-    workday: morganstanley
+    custom: morgan-stanley
   tags:
   - finance
   - investment-banking
@@ -24685,7 +24617,7 @@
   careers_url: https://jobs.citi.com/
   category: fintech
   ats:
-    workday: citi
+    custom: citi
   tags:
   - finance
   - banking
@@ -24697,7 +24629,7 @@
   careers_url: https://careers.bankofamerica.com/
   category: fintech
   ats:
-    workday: bofa
+    workday: ghr.wd1.myworkdayjobs.com/Lateral-US
   tags:
   - finance
   - banking
@@ -24710,7 +24642,7 @@
   careers_url: https://www.capitalonecareers.com/
   category: fintech
   ats:
-    workday: capitalone
+    workday: capitalone.wd12.myworkdayjobs.com/Capital_One
   tags:
   - finance
   - consumer
@@ -24723,7 +24655,7 @@
   careers_url: https://www.aboutschwab.com/careers
   category: fintech
   ats:
-    workday: schwab
+    custom: charles-schwab
   tags:
   - finance
   - brokerage
@@ -24749,7 +24681,7 @@
   careers_url: https://careers.roblox.com/
   category: consumer-and-marketplace
   ats:
-    workday: roblox
+    custom: roblox
   tags:
   - gaming
   - consumer
@@ -24762,7 +24694,7 @@
   careers_url: https://www.ea.com/careers
   category: consumer-and-marketplace
   ats:
-    workday: ea
+    custom: electronic-arts
   tags:
   - gaming
   sources:
@@ -24773,7 +24705,7 @@
   careers_url: https://careers.activisionblizzard.com/
   category: consumer-and-marketplace
   ats:
-    workday: activision
+    custom: activision-blizzard
   tags:
   - gaming
   sources:
@@ -24784,7 +24716,7 @@
   careers_url: https://www.take2games.com/careers
   category: consumer-and-marketplace
   ats:
-    workday: take2
+    custom: take-two
   tags:
   - gaming
   sources:
@@ -24821,7 +24753,7 @@
   careers_url: https://www.zynga.com/careers/
   category: consumer-and-marketplace
   ats:
-    workday: zynga
+    custom: zynga
   tags:
   - gaming
   - mobile
@@ -24845,7 +24777,7 @@
   careers_url: https://www.modernatx.com/careers
   category: healthcare-and-biotech
   ats:
-    workday: moderna
+    workday: modernatx.wd1.myworkdayjobs.com/M_tx
   tags:
   - pharma
   - mrna
@@ -24858,7 +24790,7 @@
   careers_url: https://careers.lilly.com/
   category: healthcare-and-biotech
   ats:
-    workday: lilly
+    custom: eli-lilly
   tags:
   - pharma
   - drug-discovery
@@ -24867,16 +24799,16 @@
 - name: Johnson & Johnson
   slug: johnson-and-johnson
   domain: jnj.com
-  careers_url: https://www.jnj.com/careers
+  careers_url: https://careers.jnj.com/
   category: healthcare-and-biotech
   ats:
-    workday: jnj
+    custom: johnson-and-johnson
   tags:
   - pharma
   - medical-devices
   - consumer-health
   sources:
-  - https://www.jnj.com/careers
+  - https://careers.jnj.com/
 - name: Novartis
   slug: novartis
   domain: novartis.com
@@ -24919,7 +24851,9 @@
   careers_url: https://www.illumina.com/company/careers.html
   category: healthcare-and-biotech
   ats:
-    workday: illumina
+    workday:
+    - illumina.wd1.myworkdayjobs.com/illumina-careers
+    - illumina.wd1.myworkdayjobs.com/illumina-universityrecruiting
   tags:
   - genomics
   - sequencing
@@ -24931,7 +24865,7 @@
   careers_url: https://www.gene.com/careers
   category: healthcare-and-biotech
   ats:
-    workday: roche
+    custom: genentech
   tags:
   - biotech
   - drug-discovery
@@ -24955,7 +24889,7 @@
   careers_url: https://jobs.merck.com/
   category: healthcare-and-biotech
   ats:
-    workday: merck
+    workday: msd.wd5.myworkdayjobs.com/SearchJobs
   tags:
   - pharma
   - drug-discovery
@@ -25028,7 +24962,7 @@
   careers_url: https://careers.rtx.com/
   category: industrials-and-climate
   ats:
-    workday: rtx
+    custom: raytheon
   tags:
   - defense
   - aerospace
@@ -25053,7 +24987,7 @@
   careers_url: https://careers.honeywell.com/
   category: industrials-and-climate
   ats:
-    workday: honeywell
+    custom: honeywell
   tags:
   - industrial
   - aerospace
@@ -25065,7 +24999,7 @@
   careers_url: https://www.caterpillar.com/en/careers.html
   category: industrials-and-climate
   ats:
-    workday: caterpillar
+    custom: caterpillar
   tags:
   - industrial
   - heavy-equipment
@@ -25077,7 +25011,7 @@
   careers_url: https://careers.rivian.com/
   category: industrials-and-climate
   ats:
-    workday: rivian
+    custom: rivian
   tags:
   - ev
   - automotive
@@ -25089,7 +25023,7 @@
   careers_url: https://www.lucidmotors.com/careers
   category: industrials-and-climate
   ats:
-    workday: lucid
+    custom: lucid-motors
   tags:
   - ev
   - automotive
@@ -25101,7 +25035,7 @@
   careers_url: https://corporate.ford.com/careers.html
   category: industrials-and-climate
   ats:
-    workday: ford
+    custom: ford
   tags:
   - automotive
   - manufacturing
@@ -25113,7 +25047,7 @@
   careers_url: https://careers.gm.com/
   category: industrials-and-climate
   ats:
-    workday: gm
+    custom: general-motors
   tags:
   - automotive
   - ev
@@ -25713,7 +25647,7 @@
   careers_url: https://www.atlassian.com/company/careers
   category: b2b-enterprise
   ats:
-    workday: atlassian
+    custom: atlassian
   tags:
   - collaboration
   - developer-tools
@@ -25726,7 +25660,7 @@
   careers_url: https://careers.ebayinc.com/
   category: consumer-and-marketplace
   ats:
-    workday: ebay
+    custom: ebay
   tags:
   - marketplace
   - consumer
@@ -25765,7 +25699,7 @@
   careers_url: https://www.costco.com/careers
   category: consumer-and-marketplace
   ats:
-    workday: costco
+    custom: costco
   tags:
   - retail
   - consumer
@@ -25778,7 +25712,7 @@
   careers_url: https://careers.homedepot.com/
   category: consumer-and-marketplace
   ats:
-    workday: homedepot
+    custom: the-home-depot
   tags:
   - retail
   - consumer
@@ -25791,7 +25725,7 @@
   careers_url: https://www.nbcunicareers.com/
   category: consumer-and-marketplace
   ats:
-    workday: nbcuni
+    smartrecruiters: nbcuniversal3
   tags:
   - media
   - entertainment
@@ -25804,7 +25738,7 @@
   careers_url: https://www.gd.com/careers
   category: industrials-and-climate
   ats:
-    workday: generaldynamics
+    custom: general-dynamics
   tags:
   - defense
   - aerospace
@@ -25817,7 +25751,7 @@
   careers_url: https://jobs.nutanix.com
   category: developer-infrastructure
   ats:
-    workday: nutanix
+    custom: nutanix
   tags:
   - cloud
   - hyperconverged
@@ -25830,7 +25764,7 @@
   careers_url: https://www.purestorage.com/company/careers.html
   category: developer-infrastructure
   ats:
-    workday: pure
+    custom: pure-storage
   tags:
   - storage
   - infrastructure

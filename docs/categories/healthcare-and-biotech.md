@@ -22,7 +22,7 @@ Healthcare delivery, health-tech, biotech, drug discovery, medical devices, and 
 - [Camber](https://camber.health) - Admin automation for healthcare
 - [Candid Health](https://joincandidhealth.com) - The revenue cycle automation platform.
 - [Career](https://career.com) - Hiring via Lever (career).
-- [Careers at Tide](https://careersattide.com) - Hiring via Greenhouse (tide).
+- [Tide](https://tide.co) - Hiring via Greenhouse (tide).
 - [CareMessage](https://caremessage.org) - Patient engagement for low-income populations
 - [Carrot Fertility](https://get-carrot.com) - Customized fertility benefits for modern companies.
 - [Claim Health](https://claimhealth.com) - AI Revenue Platform for Post-Acute Care
@@ -38,7 +38,7 @@ Healthcare delivery, health-tech, biotech, drug discovery, medical devices, and 
 - [Endpointclinical](https://endpointclinical.com) - Hiring via Lever (endpointclinical).
 - [Evry Health](https://evryhealth.com) - Better health insurance for mid-size companies
 - [Finni Health](https://finnihealth.com) - Empowering Autism Care Providers to Go Independent
-- [Five Rings LLC - Careers](https://fiveringsllccareers.com) - Hiring via Greenhouse (fiveringsllc).
+- [Five Rings](https://fiverings.com) - Hiring via Greenhouse (fiveringsllc).
 - [Flex](https://withflex.com) - Stripe for HSA/FSA payments
 - [Flint](https://withflint.com) - Securing Nurses for Your Future
 - [Fortuna Health](https://fortunahealth.com) - TurboTax for Medicaid
@@ -76,7 +76,7 @@ Healthcare delivery, health-tech, biotech, drug discovery, medical devices, and 
 - [Merck](https://merck.com) - Global pharmaceutical company.
 - [Meru Health](https://meruhealth.com) - An online provider for greater mental health
 - [Metriport](https://metriport.com) - Open-Source Platform for Healthcare Data Intelligence
-- [Mochi Health](https://mochihealth.com) - Hiring via Greenhouse (mochihealth).
+- [Mochi Health](https://joinmochi.com) - Hiring via Greenhouse (mochihealth).
 - [Modern Health](https://modernhealth.com) - A mental health benefits platform for employers.
 - [Moderna](https://modernatx.com) - mRNA vaccine and therapeutics platform.
 - [Mytos](https://mytos.bio) - Robotic human cell manufacturing
@@ -92,7 +92,7 @@ Healthcare delivery, health-tech, biotech, drug discovery, medical devices, and 
 - [Papa](https://papa.com) - One-stop-shop for flexible family care
 - [Parallel Bio](https://parallel.bio) - Using the immune system to cure disease
 - [Pelago](https://pelagohealth.com) - The world's first digital clinic for substance use management
-- [Perpay - Career's Page](https://perpaycareerspage.com) - Hiring via Greenhouse (perpay).
+- [Perpay](https://perpay.com) - Hiring via Greenhouse (perpay).
 - [Pfizer](https://pfizer.com) - Global pharmaceutical company.
 - [Pharos](https://pharos.health) - Helping hospitals identify and prevent avoidable harm using AI
 - [Phoenix](https://phoenix.ca) - Canada's digital health clinic for men
@@ -112,7 +112,7 @@ Healthcare delivery, health-tech, biotech, drug discovery, medical devices, and 
 - [Shift Labs](https://shiftlabs.com) - Makers of simple, affordable medical devices. Our award-winning…
 - [Shiru](https://shiru.com) - Shiru leverages ML to create proteins to feed the world sustainably.
 - [Sidecar Health](https://sidecarhealth.com) - Hiring via Greenhouse (sidecarhealth).
-- [Silver](https://scansilver.com) - Low cost consumer device for toxin detection.
+- [Silver](https://silver.dev) - Low cost consumer device for toxin detection.
 - [SIRUM](https://sirum.org) - SIRUM is a “match.com” for unused medicine. We connect institutional…
 - [Sixfold Bioscience](https://sixfold.bio) - Delivering RNA therapies.
 - [Stepful](https://stepful.com) - Online Training for Healthcare Jobs
