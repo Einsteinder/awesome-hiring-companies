@@ -1,4 +1,10 @@
 import pytest
+import sys
+import os
+
+# Add the scripts directory to the python path so we can import from it
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '../scripts')))
+
 from repair_domain import is_parked, PARKING_HOSTS
 
 def test_is_parked_known_hosts():
