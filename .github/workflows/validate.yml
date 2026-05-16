@@ -21,6 +21,9 @@ jobs:
       - name: Install dependencies
         run: python -m pip install -r requirements.txt
 
+      - name: Run tests
+        run: PYTHONPATH=. python -m unittest discover tests
+
       - name: Validate company data
         run: python scripts/validate.py
 
