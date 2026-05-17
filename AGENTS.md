@@ -105,11 +105,17 @@ ats:
 python -m pip install -r requirements.txt
 python scripts/validate.py
 python scripts/verify_live.py --only <slug-you-added-or-changed>
+python scripts/verify_live.py --only <slug-you-added> --require-north-america-openings
 ```
 
 Both must pass. `validate.py` checks schema, uniqueness, and README mentions.
 `verify_live.py` hits the live careers page and ATS endpoint — this is the
 authoritative reachability check, not optional.
+
+For newly added companies, the North America opening check is also required:
+the company must expose at least one current opening in the United States,
+Canada, Mexico, an explicit North America remote region, or a remote role not
+explicitly limited to another region.
 
 If `verify_live.py` returns a `warn` for a legitimate WAF block (Cloudflare,
 PerimeterX), note it in the PR body with a browser screenshot. Do not
@@ -126,6 +132,7 @@ suppress the warning silently.
 ## Quality bar — do not merge entries that
 
 - Lack a public careers or jobs page.
+- Lack a current public opening in North America or an eligible remote opening.
 - Duplicate an existing company under a different spelling.
 - Point at a dead job board or a marketing page with no jobs.
 - Use `custom:<slug>` when the real ATS is identifiable from the page source.

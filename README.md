@@ -23,6 +23,7 @@ A company belongs here when it has:
 
 - A public jobs or careers page.
 - A stable company identity, domain, and source URL.
+- At least one current opening in North America or an eligible remote opening.
 - Hiring relevance for software, data, product, design, operations, or go-to-market roles.
 - Enough public signal to be useful to job seekers or recruiting tools.
 
