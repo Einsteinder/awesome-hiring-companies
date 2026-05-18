@@ -386,7 +386,7 @@ async def probe_careers_url(
                 "careers_url_no_login", False,
                 f"final URL {result.url} looks login-gated",
             )
-        return Probe("careers_url_reachable", True, f"HTTP {result.status_code}")
+        return Probe("careers_url_reachable", True, f"{url} -> HTTP {result.status_code}")
 
     # Primary failed. Try alternates derived from the domain. If any succeed,
     # this still counts as `warn` (not pass) so the report flags the entry as
@@ -406,9 +406,9 @@ async def probe_careers_url(
     if found:
         return Probe(
             "careers_url_reachable", False,
-            f"primary {primary_detail}; SUGGEST: " + ", ".join(found[:3]),
+            f"{url} -> primary {primary_detail}; SUGGEST: " + ", ".join(found[:3]),
         )
-    return Probe("careers_url_reachable", False, primary_detail)
+    return Probe("careers_url_reachable", False, f"{url} -> {primary_detail}")
 
 
 def ats_slug_values(provider_value: str | list[str]) -> list[str]:

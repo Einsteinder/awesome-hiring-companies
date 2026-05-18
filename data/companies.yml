@@ -11890,7 +11890,7 @@
 - name: Activate
   slug: activate
   domain: activate.com
-  careers_url: https://boards.greenhouse.io/activate
+  careers_url: https://activate.com/careers
   category: open-source-and-platform
   ats:
     greenhouse: activate
