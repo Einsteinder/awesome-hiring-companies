@@ -10339,14 +10339,14 @@
 - name: Accordion
   slug: accordion
   domain: accordion.com
-  careers_url: https://boards.greenhouse.io/accordion
+  careers_url: https://accordion.com/careers
   category: open-source-and-platform
   ats:
     greenhouse: accordion
   tags:
   - open
   sources:
-  - https://boards.greenhouse.io/accordion
+  - https://accordion.com/careers
 - name: Cognition
   slug: cognition
   domain: cognition.ai
@@ -10768,14 +10768,14 @@
 - name: Afresh
   slug: afresh
   domain: afresh.com
-  careers_url: https://boards.greenhouse.io/afresh
+  careers_url: https://afresh.com/careers
   category: open-source-and-platform
   ats:
     greenhouse: afresh
   tags:
   - open
   sources:
-  - https://boards.greenhouse.io/afresh
+  - https://afresh.com/careers
 - name: Chalk
   slug: chalk
   domain: chalk.com
@@ -11571,14 +11571,14 @@
 - name: Action
   slug: action
   domain: action.com
-  careers_url: https://boards.greenhouse.io/action
+  careers_url: https://action.com/careers
   category: open-source-and-platform
   ats:
     greenhouse: action
   tags:
   - open
   sources:
-  - https://boards.greenhouse.io/action
+  - https://action.com/careers
 - name: Acumen
   slug: acumen
   domain: acumen.com
@@ -11897,18 +11897,18 @@
   tags:
   - open
   sources:
-  - https://boards.greenhouse.io/activate
+  - https://activate.com/careers
 - name: Adapter
   slug: adapter
   domain: adapter.com
-  careers_url: https://boards.greenhouse.io/adapter
+  careers_url: https://adapter.com/careers
   category: open-source-and-platform
   ats:
     greenhouse: adapter
   tags:
   - open
   sources:
-  - https://boards.greenhouse.io/adapter
+  - https://adapter.com/careers
 - name: Adapt
   slug: adapt
   domain: adapt.com
