@@ -10339,7 +10339,7 @@
 - name: Accordion
   slug: accordion
   domain: accordion.com
-  careers_url: https://boards.greenhouse.io/accordion
+  careers_url: https://accordion.com/careers
   category: open-source-and-platform
   ats:
     greenhouse: accordion
@@ -10768,7 +10768,7 @@
 - name: Afresh
   slug: afresh
   domain: afresh.com
-  careers_url: https://boards.greenhouse.io/afresh
+  careers_url: https://afresh.com/careers
   category: open-source-and-platform
   ats:
     greenhouse: afresh
@@ -11571,7 +11571,7 @@
 - name: Action
   slug: action
   domain: action.com
-  careers_url: https://boards.greenhouse.io/action
+  careers_url: https://action.com/careers
   category: open-source-and-platform
   ats:
     greenhouse: action
@@ -11890,7 +11890,7 @@
 - name: Activate
   slug: activate
   domain: activate.com
-  careers_url: https://boards.greenhouse.io/activate
+  careers_url: https://activate.com/careers
   category: open-source-and-platform
   ats:
     greenhouse: activate
@@ -11901,7 +11901,7 @@
 - name: Adapter
   slug: adapter
   domain: adapter.com
-  careers_url: https://boards.greenhouse.io/adapter
+  careers_url: https://adapter.com/careers
   category: open-source-and-platform
   ats:
     greenhouse: adapter
