@@ -6860,7 +6860,7 @@
 - name: Luminate
   slug: luminate
   domain: luminatemed.com
-  careers_url: https://boards.greenhouse.io/luminate
+  careers_url: https://luminatemed.com/careers
   category: healthcare-and-biotech
   ats:
     greenhouse: luminate
@@ -6870,7 +6870,7 @@
   - hard-tech
   - consumer-health-services
   sources:
-  - https://boards.greenhouse.io/luminate
+  - https://luminatemed.com/careers
 - name: Birdie
   slug: birdie
   domain: getbirdie.io
@@ -8254,7 +8254,7 @@
 - name: Grin
   slug: grin
   domain: grin.co
-  careers_url: https://boards.greenhouse.io/grin
+  careers_url: https://grin.co/careers
   category: industrials-and-climate
   ats:
     greenhouse: grin
@@ -8264,7 +8264,7 @@
   - payments
   - latin-america
   sources:
-  - https://boards.greenhouse.io/grin
+  - https://grin.co/careers
 - name: Probably Genetic
   slug: probably-genetic
   domain: probablygenetic.com
@@ -8858,7 +8858,7 @@
 - name: SIRUM
   slug: sirum
   domain: sirum.org
-  careers_url: https://boards.greenhouse.io/sirum
+  careers_url: https://sirum.org/careers
   category: healthcare-and-biotech
   ats:
     greenhouse: sirum
@@ -8867,7 +8867,7 @@
   - consumer-health-services
   - nonprofit
   sources:
-  - https://boards.greenhouse.io/sirum
+  - https://sirum.org/careers
 - name: PickTrace
   slug: picktrace
   domain: picktrace.com
@@ -8937,7 +8937,7 @@
 - name: Cocoon
   slug: cocoon
   domain: cocoon.com
-  careers_url: https://boards.greenhouse.io/cocoon
+  careers_url: https://cocoon.com/careers
   category: consumer-and-marketplace
   ats:
     greenhouse: cocoon
@@ -8947,7 +8947,7 @@
   - team-collaboration
   - collaboration
   sources:
-  - https://boards.greenhouse.io/cocoon
+  - https://cocoon.com/careers
 - name: OutRival, Inc.
   slug: outrival-inc
   domain: outrival.com
@@ -9100,7 +9100,7 @@
 - name: Noble
   slug: noble
   domain: noble.xyz
-  careers_url: https://boards.greenhouse.io/noble
+  careers_url: https://noble.xyz/careers
   category: fintech
   ats:
     greenhouse: noble
@@ -9110,7 +9110,7 @@
   - fintech
   - saas
   sources:
-  - https://boards.greenhouse.io/noble
+  - https://noble.xyz/careers
 - name: Simplify
   slug: simplify
   domain: simplify.jobs
@@ -9233,7 +9233,7 @@
 - name: Navier AI
   slug: navier-ai
   domain: navier.ai
-  careers_url: https://boards.greenhouse.io/navierai
+  careers_url: https://navier.ai/careers
   category: industrials-and-climate
   ats:
     greenhouse: navierai
@@ -9243,7 +9243,7 @@
   - artificial-intelligence
   - aerospace
   sources:
-  - https://boards.greenhouse.io/navierai
+  - https://navier.ai/careers
 - name: Pivot Robotics
   slug: pivot-robotics
   domain: pivotrobotics.com
@@ -9540,7 +9540,7 @@
 - name: Treasury Prime
   slug: treasury-prime
   domain: treasuryprime.com
-  careers_url: https://boards.greenhouse.io/treasuryprime
+  careers_url: https://treasuryprime.com/careers
   category: fintech
   ats:
     greenhouse: treasuryprime
@@ -9550,11 +9550,11 @@
   - banking-as-a-service
   - b2b
   sources:
-  - https://boards.greenhouse.io/treasuryprime
+  - https://treasuryprime.com/careers
 - name: Snackpass
   slug: snackpass
   domain: snackpass.co
-  careers_url: https://boards.greenhouse.io/snackpass
+  careers_url: https://snackpass.co/careers
   category: consumer-and-marketplace
   ats:
     greenhouse: snackpass
@@ -9564,11 +9564,11 @@
   - marketplace
   - e-commerce
   sources:
-  - https://boards.greenhouse.io/snackpass
+  - https://snackpass.co/careers
 - name: Meru Health
   slug: meru-health
   domain: meruhealth.com
-  careers_url: https://boards.greenhouse.io/meruhealth
+  careers_url: https://meruhealth.com/careers
   category: healthcare-and-biotech
   ats:
     greenhouse: meruhealth
@@ -9578,7 +9578,7 @@
   - mental-health-tech
   - digital-health
   sources:
-  - https://boards.greenhouse.io/meruhealth
+  - https://meruhealth.com/careers
 - name: Papa
   slug: papa
   domain: papa.com
@@ -9702,7 +9702,7 @@
 - name: Syncro
   slug: syncro
   domain: syncrosecure.com
-  careers_url: https://boards.greenhouse.io/syncro
+  careers_url: https://syncrosecure.com/careers
   category: b2b-enterprise
   ats:
     greenhouse: syncro
@@ -9712,7 +9712,7 @@
   - workflow-automation
   - recruiting
   sources:
-  - https://boards.greenhouse.io/syncro
+  - https://syncrosecure.com/careers
 - name: Humanly
   slug: humanly
   domain: humanly.io
@@ -9786,7 +9786,7 @@
 - name: Dots 💸
   slug: dots
   domain: usedots.com
-  careers_url: https://boards.greenhouse.io/dots
+  careers_url: https://usedots.com/careers
   category: fintech
   ats:
     greenhouse: dots
@@ -9796,7 +9796,7 @@
   - payments
   - api
   sources:
-  - https://boards.greenhouse.io/dots
+  - https://usedots.com/careers
 - name: Malga
   slug: malga
   domain: malga.io
@@ -9881,7 +9881,7 @@
 - name: Reflex
   slug: reflex
   domain: reflex.dev
-  careers_url: https://boards.greenhouse.io/reflex
+  careers_url: https://reflex.dev/careers
   category: ai-and-data
   ats:
     greenhouse: reflex
@@ -9891,7 +9891,7 @@
   - artificial-intelligence
   - developer-tools
   sources:
-  - https://boards.greenhouse.io/reflex
+  - https://reflex.dev/careers
 - name: Nango
   slug: nango
   domain: nango.dev
@@ -10013,7 +10013,7 @@
 - name: AthenaHQ
   slug: athenahq
   domain: athenahq.ai
-  careers_url: https://boards.greenhouse.io/athena
+  careers_url: https://athenahq.ai/careers
   category: b2b-enterprise
   ats:
     greenhouse: athena
@@ -10021,7 +10021,7 @@
   - b2b
   - b2b-marketing
   sources:
-  - https://boards.greenhouse.io/athena
+  - https://athenahq.ai/careers
 - name: Ambral
   slug: ambral
   domain: ambral.com
@@ -12297,14 +12297,14 @@
 - name: WellPower - Administrative
   slug: wellpower-administrative
   domain: wellpower.org
-  careers_url: https://boards.greenhouse.io/administrative
+  careers_url: https://wellpower.org/careers
   category: open-source-and-platform
   ats:
     greenhouse: administrative
   tags:
   - open
   sources:
-  - https://boards.greenhouse.io/administrative
+  - https://wellpower.org/careers
 - name: Antioch
   slug: antioch
   domain: antioch.com
@@ -16557,69 +16557,69 @@
 - name: Horace Mann
   slug: horace-mann
   domain: horacemann.com
-  careers_url: https://boards.greenhouse.io/horacemannservicecorporation
+  careers_url: https://horacemann.com/careers
   category: open-source-and-platform
   ats:
     greenhouse: horacemannservicecorporation
   tags:
   - open
   sources:
-  - https://boards.greenhouse.io/horacemannservicecorporation
+  - https://horacemann.com/careers
 - name: General Matter
   slug: general-matter
   domain: generalmatter.com
-  careers_url: https://boards.greenhouse.io/generalmatter
+  careers_url: https://generalmatter.com/careers
   category: open-source-and-platform
   ats:
     greenhouse: generalmatter
   tags:
   - open
   sources:
-  - https://boards.greenhouse.io/generalmatter
+  - https://generalmatter.com/careers
 - name: Glydways
   slug: glydways
   domain: glydways.com
-  careers_url: https://boards.greenhouse.io/glydways
+  careers_url: https://glydways.com/careers
   category: open-source-and-platform
   ats:
     greenhouse: glydways
   tags:
   - open
   sources:
-  - https://boards.greenhouse.io/glydways
+  - https://glydways.com/careers
 - name: XPENG
   slug: xpeng
   domain: xpeng.com
-  careers_url: https://boards.greenhouse.io/xpengmotors
+  careers_url: https://xpeng.com/careers
   category: open-source-and-platform
   ats:
     greenhouse: xpengmotors
   tags:
   - open
   sources:
-  - https://boards.greenhouse.io/xpengmotors
+  - https://xpeng.com/careers
 - name: Alarm.com
   slug: alarm-com
   domain: alarmcom.com
-  careers_url: https://boards.greenhouse.io/alarmcom
+  careers_url: https://alarmcom.com/careers
   category: open-source-and-platform
   ats:
     greenhouse: alarmcom
   tags:
   - open
   sources:
-  - https://boards.greenhouse.io/alarmcom
+  - https://alarmcom.com/careers
 - name: Rocket Lawyer
   slug: rocket-lawyer
   domain: rocketlawyer.com
-  careers_url: https://boards.greenhouse.io/rocketlawyer
+  careers_url: https://rocketlawyer.com/careers
   category: industrials-and-climate
   ats:
     greenhouse: rocketlawyer
   tags:
   - open
   sources:
-  - https://boards.greenhouse.io/rocketlawyer
+  - https://rocketlawyer.com/careers
 - name: Constant Contact
   slug: constant-contact
   domain: constantcontact.com
