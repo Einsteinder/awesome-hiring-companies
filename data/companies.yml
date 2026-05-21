@@ -16744,25 +16744,25 @@
 - name: Instabase
   slug: instabase
   domain: instabase.com
-  careers_url: https://boards.greenhouse.io/instabase
+  careers_url: https://instabase.com/careers
   category: open-source-and-platform
   ats:
     greenhouse: instabase
   tags:
   - open
   sources:
-  - https://boards.greenhouse.io/instabase
+  - https://instabase.com/careers
 - name: Everlaw
   slug: everlaw
   domain: everlaw.com
-  careers_url: https://boards.greenhouse.io/everlaw
+  careers_url: https://everlaw.com/careers
   category: open-source-and-platform
   ats:
     greenhouse: everlaw
   tags:
   - open
   sources:
-  - https://boards.greenhouse.io/everlaw
+  - https://everlaw.com/careers
 - name: CMTelematics
   slug: cmtelematics
   domain: cmtelematics.com
@@ -16777,113 +16777,113 @@
 - name: Acrisure Innovation
   slug: acrisure-innovation
   domain: acrisureinnovation.com
-  careers_url: https://boards.greenhouse.io/acrisureinnovation
+  careers_url: https://acrisureinnovation.com/careers
   category: open-source-and-platform
   ats:
     greenhouse: acrisureinnovation
   tags:
   - open
   sources:
-  - https://boards.greenhouse.io/acrisureinnovation
+  - https://acrisureinnovation.com/careers
 - name: Cresta
   slug: cresta
   domain: cresta.com
-  careers_url: https://boards.greenhouse.io/cresta
+  careers_url: https://cresta.com/careers
   category: open-source-and-platform
   ats:
     greenhouse: cresta
   tags:
   - open
   sources:
-  - https://boards.greenhouse.io/cresta
+  - https://cresta.com/careers
 - name: Sparksoft Corporation
   slug: sparksoft-corporation
   domain: sparksoftcorp.com
-  careers_url: https://boards.greenhouse.io/sparksoftcorporation
+  careers_url: https://sparksoftcorp.com/careers
   category: open-source-and-platform
   ats:
     greenhouse: sparksoftcorporation
   tags:
   - open
   sources:
-  - https://boards.greenhouse.io/sparksoftcorporation
+  - https://sparksoftcorp.com/careers
 - name: G-P
   slug: g-p
   domain: gp.com
-  careers_url: https://boards.greenhouse.io/globalizationpartners
+  careers_url: https://gp.com/careers
   category: open-source-and-platform
   ats:
     greenhouse: globalizationpartners
   tags:
   - open
   sources:
-  - https://boards.greenhouse.io/globalizationpartners
+  - https://gp.com/careers
 - name: Lunar Energy
   slug: lunar-energy
   domain: lunarenergy.com
-  careers_url: https://boards.greenhouse.io/lunarenergy
+  careers_url: https://lunarenergy.com/careers
   category: industrials-and-climate
   ats:
     greenhouse: lunarenergy
   tags:
   - open
   sources:
-  - https://boards.greenhouse.io/lunarenergy
+  - https://lunarenergy.com/careers
 - name: Avride
   slug: avride
   domain: avride.ai
-  careers_url: https://boards.greenhouse.io/avride
+  careers_url: https://avride.ai/careers
   category: consumer-and-marketplace
   ats:
     greenhouse: avride
   tags:
   - open
   sources:
-  - https://boards.greenhouse.io/avride
+  - https://avride.ai/careers
 - name: Industrial Electric Manufacturing
   slug: industrial-electric-manufacturing
   domain: iemfg.com
-  careers_url: https://boards.greenhouse.io/industrialelectricmanufacturing
+  careers_url: https://iemfg.com/careers
   category: industrials-and-climate
   ats:
     greenhouse: industrialelectricmanufacturing
   tags:
   - open
   sources:
-  - https://boards.greenhouse.io/industrialelectricmanufacturing
+  - https://iemfg.com/careers
 - name: TransMarket Group
   slug: transmarket-group
   domain: transmarketgroup.com
-  careers_url: https://boards.greenhouse.io/transmarketgroup
+  careers_url: https://transmarketgroup.com/careers
   category: consumer-and-marketplace
   ats:
     greenhouse: transmarketgroup
   tags:
   - open
   sources:
-  - https://boards.greenhouse.io/transmarketgroup
+  - https://transmarketgroup.com/careers
 - name: TrueBuilt
   slug: truebuilt
   domain: truebuiltsoftware.com
-  careers_url: https://boards.greenhouse.io/applytotruebuilt
+  careers_url: https://truebuiltsoftware.com/careers
   category: open-source-and-platform
   ats:
     greenhouse: applytotruebuilt
   tags:
   - open
   sources:
-  - https://boards.greenhouse.io/applytotruebuilt
+  - https://truebuiltsoftware.com/careers
 - name: DRW
   slug: drw
   domain: drw.com
-  careers_url: https://boards.greenhouse.io/drweng
+  careers_url: https://drw.com/careers
   category: open-source-and-platform
   ats:
     greenhouse: drweng
   tags:
   - open
   sources:
-  - https://boards.greenhouse.io/drweng
+  - https://drw.com/careers
 - name: Wonderschool
   slug: wonderschool
   domain: wonderschool.com
