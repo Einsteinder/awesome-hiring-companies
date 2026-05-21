@@ -10049,14 +10049,14 @@
 - name: Minimal AI
   slug: minimal-ai
   domain: gominimal.ai
-  careers_url: https://boards.greenhouse.io/minimal
+  careers_url: https://gominimal.ai/careers
   category: b2b-enterprise
   ats:
     greenhouse: minimal
   tags:
   - b2b
   sources:
-  - https://boards.greenhouse.io/minimal
+  - https://gominimal.ai/careers
 - name: MangoDesk
   slug: mangodesk
   domain: mangodesk.com
@@ -10339,14 +10339,14 @@
 - name: Accordion
   slug: accordion
   domain: accordion.com
-  careers_url: https://accordion.com/careers
+  careers_url: https://www.accordion.com/careers
   category: open-source-and-platform
   ats:
     greenhouse: accordion
   tags:
   - open
   sources:
-  - https://accordion.com/careers
+  - https://www.accordion.com/careers
 - name: Cognition
   slug: cognition
   domain: cognition.ai
@@ -16634,113 +16634,113 @@
 - name: Loop
   slug: loop
   domain: loop.com
-  careers_url: https://boards.greenhouse.io/loop
+  careers_url: https://loop.com/careers
   category: open-source-and-platform
   ats:
     greenhouse: loop
   tags:
   - open
   sources:
-  - https://boards.greenhouse.io/loop
+  - https://loop.com/careers
 - name: Point72
   slug: point72
   domain: point72.com
-  careers_url: https://boards.greenhouse.io/point72
+  careers_url: https://careers.point72.com
   category: open-source-and-platform
   ats:
     greenhouse: point72
   tags:
   - open
   sources:
-  - https://boards.greenhouse.io/point72
+  - https://careers.point72.com
 - name: Cobalt
   slug: cobalt
   domain: cobalt.io
-  careers_url: https://boards.greenhouse.io/cobaltio
+  careers_url: https://cobalt.io/careers
   category: open-source-and-platform
   ats:
     greenhouse: cobaltio
   tags:
   - open
   sources:
-  - https://boards.greenhouse.io/cobaltio
+  - https://cobalt.io/careers
 - name: Geneva Trading
   slug: geneva-trading
   domain: genevatrading.com
-  careers_url: https://boards.greenhouse.io/genevatrading
+  careers_url: https://genevatrading.com/careers
   category: open-source-and-platform
   ats:
     greenhouse: genevatrading
   tags:
   - open
   sources:
-  - https://boards.greenhouse.io/genevatrading
+  - https://genevatrading.com/careers
 - name: GlossGenius
   slug: glossgenius
   domain: glossgenius.com
-  careers_url: https://boards.greenhouse.io/glossgenius
+  careers_url: https://glossgenius.com/careers
   category: open-source-and-platform
   ats:
     greenhouse: glossgenius
   tags:
   - open
   sources:
-  - https://boards.greenhouse.io/glossgenius
+  - https://glossgenius.com/careers
 - name: Lightmatter
   slug: lightmatter
   domain: lightmatter.com
-  careers_url: https://boards.greenhouse.io/lightmatter
+  careers_url: https://lightmatter.com/careers
   category: open-source-and-platform
   ats:
     greenhouse: lightmatter
   tags:
   - open
   sources:
-  - https://boards.greenhouse.io/lightmatter
+  - https://lightmatter.com/careers
 - name: Trumid
   slug: trumid
   domain: trumid.com
-  careers_url: https://boards.greenhouse.io/trumid
+  careers_url: https://trumid.com/careers
   category: open-source-and-platform
   ats:
     greenhouse: trumid
   tags:
   - open
   sources:
-  - https://boards.greenhouse.io/trumid
+  - https://trumid.com/careers
 - name: Vera Institute of Justice
   slug: vera-institute-of-justice
   domain: vera.org
-  careers_url: https://boards.greenhouse.io/verainstituteofjustice
+  careers_url: https://vera.org/careers
   category: open-source-and-platform
   ats:
     greenhouse: verainstituteofjustice
   tags:
   - open
   sources:
-  - https://boards.greenhouse.io/verainstituteofjustice
+  - https://vera.org/careers
 - name: Intrinsic
   slug: intrinsic
   domain: intrinsic.ai
-  careers_url: https://boards.greenhouse.io/intrinsicrobotics
+  careers_url: https://intrinsic.ai/careers
   category: open-source-and-platform
   ats:
     greenhouse: intrinsicrobotics
   tags:
   - open
   sources:
-  - https://boards.greenhouse.io/intrinsicrobotics
+  - https://intrinsic.ai/careers
 - name: DiDi Labs
   slug: didi-labs
   domain: didilabs.com
-  careers_url: https://boards.greenhouse.io/didi
+  careers_url: https://www.didilabs.com/careers
   category: open-source-and-platform
   ats:
     greenhouse: didi
   tags:
   - open
   sources:
-  - https://boards.greenhouse.io/didi
+  - https://www.didilabs.com/careers
 - name: Instabase
   slug: instabase
   domain: instabase.com
